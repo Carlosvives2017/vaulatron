@@ -75,13 +75,13 @@
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Arenavision[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][COLOR]Arenavision[/COLOR]</title>
 
 <link>$doregex[makelist3]</link>
 <regex>
 <name>makelist3</name>
 <listrepeat><![CDATA[
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR][makelist3.param1]  [COLOR blue]>  [COLOR lightslategray][makelist3.param2][/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR][makelist3.param1]   [COLOR red]--  [COLOR red][makelist3.param2]  canales[/COLOR]</title>
 <link>$doregex[makelist2]</link>
 ]]></listrepeat>
 <expres>categoria":"(.*?)","items":"(.*?)"</expres>
