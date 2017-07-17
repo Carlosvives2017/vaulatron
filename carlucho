@@ -1,5 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<!---
+     ELECDEKA - Enero 6 de 2017</title>
+     IPTV
+     Este es un addon gratis, para que disfruten. Es gratuito. Si queres colaborar Paypal elecdeka2017@gmail.com
+     O6.01.2017
+     Gracias a todos lo que colaboran con Elecdeka, gracias a ustedes este addon existe
+
+--!> 
+
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Online [/COLOR][COLOR]24/7[COLOR blue]  >  [COLOR lightslategray]En Español[/COLOR]</title>
+<title>[B][COLOR deepskyred]****************[COLOR red]ELECDEKA  -  Montevideo Uruguay[COLOR white]  [/COLOR][/B]</title>
+     <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+     <fanart>http://1.bp.blogspot.com/-w_zNj3x_kvM/WVa6cQKPlvI/AAAAAAAABUk/ZnKFuK3UNesl0zcPra-Ir8buyQoqOAaVwCK4BGAYYCw/s1600/paypal%2B2.jpg</fanart>
+     <link>http://ignoreme</link>
+     <externallink>http://pastebin.com</externallink>
+<info></info>
+</item>
+*************************************** 
+
+<channels>
+<channel>
+    <name>[COLOR deepskyred]*******************[COLOR lime]Donacion: paypal.me/Elecdekauy[/COLOR]</name>
+    <link>$doregex[openDialog]</link>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+    <fanart>http://1.bp.blogspot.com/-w_zNj3x_kvM/WVa6cQKPlvI/AAAAAAAABUk/ZnKFuK3UNesl0zcPra-Ir8buyQoqOAaVwCK4BGAYYCw/s1600/paypal%2B2.jpg</fanart>
+    <externallink>http://??</externallink>
+<info></info>
+</item>
+
+***************************************
+<item>
+<title>[B][COLOR deepskyred]*********************[/COLOR][/B][COLOR lightslategray]Actualizado:  07 julio 2017[/COLOR]</title>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+    <fanart>http://4.bp.blogspot.com/-3iBRS8B2j7Q/WVErdJZgMJI/AAAAAAAABH8/Iiub6h77D2YXEfasLpAHynzheaCOIBQ5QCK4BGAYYCw/s1600/fanart2.png</fanart>
+    <link>http://ignoreme</link>
+    <externallink>http://pastebin.com</externallink>
+<info></info>
+</item>
+--------------------------------------------------------------
+
+************
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][COLOR]Canales Internacionales[/COLOR]</title>
+    <link>ignorame</link>
+    <span>
+    <externallink>http://goo.gl/aWUUDD</externallink>
+    </span>
+    <thumbnail>http://1.bp.blogspot.com/-aGoE8A7MVMY/WSBBfOgaLLI/AAAAAAAAA9U/3ozhxP0W6gMfBC8p7Me8GUe6rfP_Y-LNgCK4B/s1600/Canales%2Blatinos.jpg</thumbnail>
+    <fanart>http://4.bp.blogspot.com/-3iBRS8B2j7Q/WVErdJZgMJI/AAAAAAAABH8/Iiub6h77D2YXEfasLpAHynzheaCOIBQ5QCK4BGAYYCw/s1600/fanart2.png</fanart>
+<info></info>
+</item>
+
+
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][COLOR blue]Vaughnlive [/COLOR][COLOR lime]24/7[/COLOR]</title>
 
 <link>$doregex[makelist]</link>
 <regex>
@@ -30,15 +87,16 @@
 
 
 <item>
- <title>[B][COLOR deepskyblue]Multicanal[/COLOR][COLOR lightblue] PSN[/B][/COLOR]  [COLOR lightslategray]- Bein ñ / EspnDeportes / Univision Deportes  [/COLOR] </title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][COLOR]PSN[/COLOR] </title>
 
 <link>$$LSPlayOnlyOne$$</link>
 <link>http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_psn73v/playlist.m3u8$$lsname=Adryanlist-PSN</link>
 <link>http://live-ord.vaughnsoft.net:1935/live/_definst_/live_psn73v/playlist.m3u8$$lsname=Adryanlist-PSN</link>
 <link>http://live-den.vaughnsoft.net:1935/live/_definst_/live_psn73v/playlist.m3u8$$lsname=Adryanlist-PSN</link>
 <link>http://live-ams.vaughnsoft.net:1935/live/_definst_/live_psn73v/playlist.m3u8$$lsname=Adryanlist-PSN</link>
-
 <link>http://live-lax.vaughnsoft.net:1935/live/_definst_/live_psn73v/playlist.m3u8$$lsname=Adryanlist-PSN</link>
- 
-<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail><info>Recuerda hacer tu donacion para seguir mejorando Adryanlist en     http://paypal.me/Adryanlist</info></item>
+<thumbnail>http://2.bp.blogspot.com/-DAEjaRGQ19w/WSBBfCT7J8I/AAAAAAAAA84/RKU1ioWxQM0lsXv0xLszubPMcEWUeenTgCK4B/s1600/Vaughn%2Blive.jpg</thumbnail>
+
+<fanart>http://4.bp.blogspot.com/-3iBRS8B2j7Q/WVErdJZgMJI/AAAAAAAABH8/Iiub6h77D2YXEfasLpAHynzheaCOIBQ5QCK4BGAYYCw/s1600/fanart2.png</fanart>
+</item>
 
