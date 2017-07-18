@@ -46,6 +46,43 @@
 </item>
 
 <item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][COLOR blue]Vaughnlive [/COLOR][COLOR lime]24/7[/COLOR]</title>
+
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist.param2]</title>
+<link>$$LSPlayOnlyOne$$</link>
+<link>http://live-ord.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/playlist.m3u8$$lsname=[makelist.param2]</link>
+<link>http://live-den.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/playlist.m3u8$$lsname=[makelist.param2]</link>
+<link>http://live-ams.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/playlist.m3u8$$lsname=[makelist.param2]</link>
+<link>http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/playlist.m3u8$$lsname=[makelist.param2]</link>
+<link>http://live-lax.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/playlist.m3u8$$lsname=[makelist.param2]</link>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail>
+]]></listrepeat>
+<expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
+<page>https://vaughnlive.tv/browse/espanol</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-DAEjaRGQ19w/WSBBfCT7J8I/AAAAAAAAA84/RKU1ioWxQM0lsXv0xLszubPMcEWUeenTgCK4B/s1600/Vaughn%2Blive.jpg</thumbnail>
+
+<fanart>http://4.bp.blogspot.com/-3iBRS8B2j7Q/WVErdJZgMJI/AAAAAAAABH8/Iiub6h77D2YXEfasLpAHynzheaCOIBQ5QCK4BGAYYCw/s1600/fanart2.png</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR][COLOR]Demo IPTV[/COLOR]</title>
+    <link>ignorame</link>
+    <externallink>https://goo.gl/rTW6vL</externallink>
+    <thumbnail>http://1.bp.blogspot.com/-uHsbj4fS5X0/WVap7PQINII/AAAAAAAABTg/ozw2dqv18Pkzv9twfImqpSCubEnnuJ11ACK4BGAYYCw/s1600/iptv%2Bprem.jpg</thumbnail>	
+    <fanart>http://4.bp.blogspot.com/-3iBRS8B2j7Q/WVErdJZgMJI/AAAAAAAABH8/Iiub6h77D2YXEfasLpAHynzheaCOIBQ5QCK4BGAYYCw/s1600/fanart2.png</fanart>
+</channel>
+</channels>
+
+<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][COLOR][COLOR red]Mo[COLOR yellow]vist[COLOR red]ar[COLOR yellow] [/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/9PlWlE</externallink> 
@@ -59,6 +96,15 @@
     <link>ignorame</link> 
     <externallink>https://goo.gl/mmNnhC</externallink>
     <thumbnail>http://2.bp.blogspot.com/-KIQ9UsL-s6Y/WSBBfIz_-rI/AAAAAAAAA-A/fFJ21CGrRbsLMUk7D5D5nAVLk6jvxuX2wCK4B/s1600/Deportes.jpg</thumbnail>
+    <fanart>http://4.bp.blogspot.com/-3iBRS8B2j7Q/WVErdJZgMJI/AAAAAAAABH8/Iiub6h77D2YXEfasLpAHynzheaCOIBQ5QCK4BGAYYCw/s1600/fanart2.png</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR]Futbol en Vivo[COLOR deepskyred]  >  En construccion[/COLOR]</title>
+    <link>ignorame</link>
+    <externallink>https://goo.gl/Kzbp52</externallink>
+    <thumbnail>http://3.bp.blogspot.com/-N4hAqaCvL1Y/WWZkV_p_OmI/AAAAAAAABV4/l9rqTSV9LTQpQEC1haO3VO9dinsNs_SiwCK4BGAYYCw/s1600/Futbol2.jpg</thumbnail>
     <fanart>http://4.bp.blogspot.com/-3iBRS8B2j7Q/WVErdJZgMJI/AAAAAAAABH8/Iiub6h77D2YXEfasLpAHynzheaCOIBQ5QCK4BGAYYCw/s1600/fanart2.png</fanart>
 <info></info>
 </item>
@@ -113,56 +159,10 @@
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR]Futbol en Vivo[COLOR deepskyred]  >  En construccion[/COLOR]</title>
-    <link>ignorame</link>
-    <externallink>https://goo.gl/Kzbp52</externallink>
-    <thumbnail>http://3.bp.blogspot.com/-N4hAqaCvL1Y/WWZkV_p_OmI/AAAAAAAABV4/l9rqTSV9LTQpQEC1haO3VO9dinsNs_SiwCK4BGAYYCw/s1600/Futbol2.jpg</thumbnail>
-    <fanart>http://4.bp.blogspot.com/-3iBRS8B2j7Q/WVErdJZgMJI/AAAAAAAABH8/Iiub6h77D2YXEfasLpAHynzheaCOIBQ5QCK4BGAYYCw/s1600/fanart2.png</fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][COLOR blue]Vaughnlive [/COLOR][COLOR lime]24/7[/COLOR]</title>
-
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist.param2]</title>
-<link>$$LSPlayOnlyOne$$</link>
-<link>http://live-ord.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/playlist.m3u8$$lsname=[makelist.param2]</link>
-<link>http://live-den.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/playlist.m3u8$$lsname=[makelist.param2]</link>
-<link>http://live-ams.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/playlist.m3u8$$lsname=[makelist.param2]</link>
-<link>http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/playlist.m3u8$$lsname=[makelist.param2]</link>
-<link>http://live-lax.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/playlist.m3u8$$lsname=[makelist.param2]</link>
-<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail>
-]]></listrepeat>
-<expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
-<page>https://vaughnlive.tv/browse/espanol</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://2.bp.blogspot.com/-DAEjaRGQ19w/WSBBfCT7J8I/AAAAAAAAA84/RKU1ioWxQM0lsXv0xLszubPMcEWUeenTgCK4B/s1600/Vaughn%2Blive.jpg</thumbnail>
-
-<fanart>http://4.bp.blogspot.com/-3iBRS8B2j7Q/WVErdJZgMJI/AAAAAAAABH8/Iiub6h77D2YXEfasLpAHynzheaCOIBQ5QCK4BGAYYCw/s1600/fanart2.png</fanart>
-<info></info>
-</item>
-
-<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][COLOR]Musica [/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/zSQDZP</externallink>
     <thumbnail>http://2.bp.blogspot.com/-guzWJjHnm9M/WSBBfDGDsxI/AAAAAAAAA9o/DIQ3R3H6xoQHBzQQ2K38hJMqnjvSjm_dACK4B/s1600/Musica.jpg</thumbnail>
-    <fanart>http://4.bp.blogspot.com/-3iBRS8B2j7Q/WVErdJZgMJI/AAAAAAAABH8/Iiub6h77D2YXEfasLpAHynzheaCOIBQ5QCK4BGAYYCw/s1600/fanart2.png</fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][COLOR]The Best 70's 80's 90's[/COLOR]</title>
-    <link>ignorame</link>
-    <externallink>https://goo.gl/FT2xgQ</externallink>
-    <thumbnail>http://3.bp.blogspot.com/-jQlEHhQXKPA/WUrIU3WzSTI/AAAAAAAABFw/_yPjvk2SUQU9aN_R-_YYfuxLGYUAzif1gCK4BGAYYCw/s1600/The%2Bbest%2B70%2B80%2B90.jpg</thumbnail>
     <fanart>http://4.bp.blogspot.com/-3iBRS8B2j7Q/WVErdJZgMJI/AAAAAAAABH8/Iiub6h77D2YXEfasLpAHynzheaCOIBQ5QCK4BGAYYCw/s1600/fanart2.png</fanart>
 <info></info>
 </item>
@@ -186,15 +186,6 @@
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][COLOR]Cines[/COLOR]</title> 
-    <link>ignorame</link>
-    <externallink>https://goo.gl/6qcMoS</externallink>
-    <thumbnail>http://1.bp.blogspot.com/-MIcOsTGzGuY/WSBBfDPOQXI/AAAAAAAAA9k/NIEvsBVWEzYR5Lsjt_kV_N_jkk4BpDWKwCK4B/s1600/pelis2.jpg</thumbnail>
-    <fanart>http://4.bp.blogspot.com/-3iBRS8B2j7Q/WVErdJZgMJI/AAAAAAAABH8/Iiub6h77D2YXEfasLpAHynzheaCOIBQ5QCK4BGAYYCw/s1600/fanart2.png</fanart>
-<info></info>
-</item>
-
-<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][COLOR]Peliculas[/COLOR][COLOR deepskyred]  >  En construccion[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/bXq7iA</externallink>
@@ -213,28 +204,10 @@
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR][COLOR]Demo IPTV privado[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][COLOR]The Best 70's 80's 90's[/COLOR]</title>
     <link>ignorame</link>
-    <externallink>https://goo.gl/rTW6vL</externallink>
-    <thumbnail>http://1.bp.blogspot.com/-uHsbj4fS5X0/WVap7PQINII/AAAAAAAABTg/ozw2dqv18Pkzv9twfImqpSCubEnnuJ11ACK4BGAYYCw/s1600/iptv%2Bprem.jpg</thumbnail>	
-    <fanart>http://4.bp.blogspot.com/-3iBRS8B2j7Q/WVErdJZgMJI/AAAAAAAABH8/Iiub6h77D2YXEfasLpAHynzheaCOIBQ5QCK4BGAYYCw/s1600/fanart2.png</fanart>
-</channel>
-</channels>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][COLOR]Free iptv[/COLOR]</title>
-    <link>ignorame</link>
-    <externallink>https://goo.gl/MivhKG</externallink>
-    <thumbnail>http://2.bp.blogspot.com/-zMbgFJSvMZ0/WSBbXB13IfI/AAAAAAAABBE/QXZQN6gu_UctmEJMtOGRRhnctdH5xbOnACK4B/s1600/Free%2Biptv.jpg</thumbnail>
-    <fanart>http://4.bp.blogspot.com/-3iBRS8B2j7Q/WVErdJZgMJI/AAAAAAAABH8/Iiub6h77D2YXEfasLpAHynzheaCOIBQ5QCK4BGAYYCw/s1600/fanart2.png</fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][COLOR]Servicio de prueba[/COLOR]</title>
-    <link>http://Ignoreme</name>
-    <thumbnail>http://4.bp.blogspot.com/-L_LLlq9KI2I/WVF9iaFfObI/AAAAAAAABIU/SfO5Q7pH_TcqR-kSzDikNouwpgJHhCYyQCK4BGAYYCw/s1600/pruebas.jpg</thumbnail>
-    <externallink>https://pastebin.com/raw/bJ5MaxSW</externallink>
+    <externallink>https://goo.gl/FT2xgQ</externallink>
+    <thumbnail>http://3.bp.blogspot.com/-jQlEHhQXKPA/WUrIU3WzSTI/AAAAAAAABFw/_yPjvk2SUQU9aN_R-_YYfuxLGYUAzif1gCK4BGAYYCw/s1600/The%2Bbest%2B70%2B80%2B90.jpg</thumbnail>
     <fanart>http://4.bp.blogspot.com/-3iBRS8B2j7Q/WVErdJZgMJI/AAAAAAAABH8/Iiub6h77D2YXEfasLpAHynzheaCOIBQ5QCK4BGAYYCw/s1600/fanart2.png</fanart>
 <info></info>
 </item>
