@@ -55,7 +55,7 @@
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist.param2]</title>
 <link>$$LSPlayOnlyOne$$</link>
 link>http://live-ord.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/playlist.m3u8$$lsname=[makelist.param2]</link>
-<link>http://live-den.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/playlist.m3u8$$lsname=[makelist.param2]</link>
+link>http://live-den.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/playlist.m3u8$$lsname=[makelist.param2]</link>
 <link>http://live-ams.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/playlist.m3u8$$lsname=[makelist.param2]</link>
 <link>http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/playlist.m3u8$$lsname=[makelist.param2]</link>
 <link>http://live-lax.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/playlist.m3u8$$lsname=[makelist.param2]</link>
