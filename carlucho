@@ -10,6 +10,15 @@
 </item>
 
 <item>
+<title>[B][COLOR deepskyred]*******************[COLOR lime]Email: ecemc2017@gmail.com[/COLOR]</title>
+    <link>$doregex[openDialog]</link>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+    <fanart>http://1.bp.blogspot.com/-JGLAnzHtfTE/WXTl7TDtWJI/AAAAAAAABWs/rDg8li_9U9sfpQAp0LEfBGF6o23JEtnvACK4BGAYYCw/s1600/fanart.jpg</fanart> 
+    <externallink>http://??</externallink>
+<info></info>
+</item>
+
+<item>
 <title>[B][COLOR deepskyred]*******************[/COLOR][/B][COLOR lightslategray]Actualizado:  24 julio 2017[/COLOR]</title>
     <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
     <fanart>http://1.bp.blogspot.com/-JGLAnzHtfTE/WXTl7TDtWJI/AAAAAAAABWs/rDg8li_9U9sfpQAp0LEfBGF6o23JEtnvACK4BGAYYCw/s1600/fanart.jpg</fanart> 
@@ -167,12 +176,3 @@ link>http://live-ams.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/p
 <info></info>
 </item>
 
-
-<item>
-<title>[COLOR lime]  Email: elecdeka2017@gmail.com  -  Telegram: @Elecdeka[/COLOR]</title>
-    <link>$doregex[openDialog]</link>
-    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
-    <fanart>http://1.bp.blogspot.com/-JGLAnzHtfTE/WXTl7TDtWJI/AAAAAAAABWs/rDg8li_9U9sfpQAp0LEfBGF6o23JEtnvACK4BGAYYCw/s1600/fanart.jpg</fanart> 
-    <externallink>http://??</externallink>
-<info></info>
-</item>
