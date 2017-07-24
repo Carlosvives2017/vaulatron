@@ -55,7 +55,7 @@
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR blue]Vaughnlive [/COLOR][COLOR lime]24/7[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][COLOR blue]Vaughnlive [/COLOR][COLOR lime]24/7[/COLOR]</title>
 
 <link>$doregex[makelist]</link>
 <regex>
