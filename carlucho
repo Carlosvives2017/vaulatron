@@ -19,7 +19,7 @@
 </item>
 
 <item>
-<title>[B][COLOR deepskyred]******************[/COLOR][/B][COLOR lightslategray][/COLOR]</title>
+<title>[B][COLOR][/COLOR]</title>
     <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
     <fanart>https://s26.postimg.org/c5v7ga3a1/fanart.jpg</fanart>
     <link>http://ignoreme</link>
@@ -48,7 +48,7 @@
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR]Demo IPTV</title>
     <link>ignorame</link>
-    <externallink>https://goo.gl/</externallink>
+    <externallink>https://pastebin.com/raw/508irgGS</externallink>
     <thumbnail>https://s26.postimg.org/7zad0y3o5/Total_play.jpg</thumbnail>	
     <fanart>https://s26.postimg.org/c5v7ga3a1/fanart.jpg</fanart>
 <info></info>
@@ -56,22 +56,12 @@
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][COLOR blue]Vaughnlive [/COLOR][COLOR lime]24/7[/COLOR]</title>
-
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist.param2]</title>
-
 <link>https://hls-ord-1a.vaughnsoft.net/ams/live/live_[makelist.param1]/chunklist.m3u8|User-Agent=iPad</link>
-
-link>$$LSPlayOnlyOne$$</link>
-link>http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/playlist.m3u8$$lsname=[makelist.param2]</link>
-link>http://live-den.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/playlist.m3u8$$lsname=[makelist.param2]</link>
-link>http://live-ord.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/playlist.m3u8$$lsname=[makelist.param2]</link>
-link>http://live-lax.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/playlist.m3u8$$lsname=[makelist.param2]</link>
-link>http://live-ams.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/playlist.m3u8$$lsname=[makelist.param2]</link>
-
 <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail>
 ]]></listrepeat>
 <expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
@@ -81,7 +71,6 @@ link>http://live-ams.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/p
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://s26.postimg.org/x1hhrizh1/Vaughn_live.jpg</thumbnail>
-
 <fanart>https://s26.postimg.org/c5v7ga3a1/fanart.jpg</fanart>
 <info></info>
 </item>
@@ -89,7 +78,7 @@ link>http://live-ams.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/p
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR]Futbol en vivo</title>
     <link>ignorame</link>
-    <externallink>https://goo.gl/</externallink>
+    <externallink></externallink>
     <thumbnail>https://s26.postimg.org/ngt9qwkr9/Futbol2.jpg</thumbnail>
     <fanart>https://s26.postimg.org/c5v7ga3a1/fanart.jpg</fanart>
 <info></info>
@@ -98,7 +87,7 @@ link>http://live-ams.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/p
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR]Musica</title>
     <link>ignorame</link>
-    <externallink>https://goo.gl/</externallink>
+    <externallink>https://pastebin.com/raw/wfDi7aNS</externallink>
     <thumbnail>https://s26.postimg.org/9bngp3bpx/Musica.jpg</thumbnail>
     <fanart>https://s26.postimg.org/c5v7ga3a1/fanart.jpg</fanart> 
 <info></info>
@@ -107,7 +96,7 @@ link>http://live-ams.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/p
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR]Radios Uruguay</title>
     <link>ignorame</link>
-    <externallink>https://goo.gl/</externallink>
+    <externallink>https://pastebin.com/raw/yx5hH15F</externallink>
     <thumbnail>https://s26.postimg.org/80fpgmg45/radio.jpg</thumbnail>
     <fanart>https://s26.postimg.org/c5v7ga3a1/fanart.jpg</fanart>
 <info></info>
@@ -116,9 +105,26 @@ link>http://live-ams.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/p
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR]Peliculas</title>
     <link>ignorame</link>
-    <externallink>https://goo.gl/</externallink>
+    <externallink>https://pastebin.com/raw/89E5xX9p</externallink>
     <thumbnail>https://s26.postimg.org/udng3fh1x/Peliculas.jpg</thumbnail>
     <fanart>https://s26.postimg.org/c5v7ga3a1/fanart.jpg</fanart>
 <info></info>
 </item>
 
+<item>
+<title>[B][COLOR][/COLOR]</title>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+    <fanart>https://s26.postimg.org/c5v7ga3a1/fanart.jpg</fanart>
+    <link>http://ignoreme</link>
+    <externallink>http://pastebin.com</externallink>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime]   Email:  ecemc2017@gmail.com[/COLOR][/B][/COLOR]</title>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+    <fanart>https://s26.postimg.org/c5v7ga3a1/fanart.jpg</fanart>
+    <link>http://ignoreme</link>
+    <externallink>http://pastebin.com</externallink>
+<info></info>
+</item>
