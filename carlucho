@@ -18,39 +18,40 @@
 <info></info>
 </item>
 
-<item>
-<title>[COLOR][/COLOR]</title>
-    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
-    <fanart>https://s26.postimg.org/c5v7ga3a1/fanart.jpg</fanart>
-    <link>http://ignoreme</link>
-    <externallink>http://pastebin.com</externallink>
-<info></info>
-</item>
-
+----------------------------------------------------------------------------
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR]Canales del Mundo</title>
     <link>ignorame</link>
     <externallink>https://pastebin.com/raw/vcBjVUbx</externallink>    
-    <thumbnail>https://s26.postimg.org/egoo6ponp/Canales_latinos.jpg</thumbnail>
-    <fanart>https://s26.postimg.org/c5v7ga3a1/fanart.jpg</fanart>
+    <thumbnail>http://3.bp.blogspot.com/-A6Yi701n04I/WYDBNQ7bTLI/AAAAAAAABYQ/xRhcNrTYpkMRFuDOVngQrqDFkqyQMoE9QCK4BGAYYCw/s1600/Canales%2Blatinos.jpg</thumbnail>
+    <fanart>http://3.bp.blogspot.com/-DVJ3H0S19Ik/WYDDLf1ffbI/AAAAAAAABZQ/xvtRF5tEF8oERA8fcVFBhbAwQ3R6IyLwQCK4BGAYYCw/s1600/fanart.jpg</fanart> 
 <info></info>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][COLOR blue]Vera [COLOR pink]Tv[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][COLOR blue]Vera [COLOR pink]Tv[COLOR][/COLOR]</title>
     <link>ignorame</link>
-    <externallink>https://pastebin.com/raw/a6i4i02J</externallink>
-    <thumbnail>https://s26.postimg.org/6dv394tg5/Vera_Tv.jpg</thumbnail>
-    <fanart>https://s26.postimg.org/c5v7ga3a1/fanart.jpg</fanart>
+    <externallink>https://pastebin.com/raw/Wxnz6NGt</externallink>
+    <thumbnail>http://4.bp.blogspot.com/-v6iWg6btnpg/WYDBMsITBSI/AAAAAAAABXQ/Jo-JnSofEVQng3BlzurOYqm3Ntd5Bzn5wCK4BGAYYCw/s1600/VeraTv.jpg</thumbnail>
+    <fanart>http://3.bp.blogspot.com/-DVJ3H0S19Ik/WYDDLf1ffbI/AAAAAAAABZQ/xvtRF5tEF8oERA8fcVFBhbAwQ3R6IyLwQCK4BGAYYCw/s1600/fanart.jpg</fanart> 
 <info></info>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR]Demo IPTV</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR][COLOR][COLOR blue]S[COLOR lime]ma[COLOR orange]rt[COLOR red] Tv[/COLOR]</title>
     <link>ignorame</link>
-    <externallink>https://pastebin.com/raw/508irgGS</externallink>
-    <thumbnail>https://s26.postimg.org/7zad0y3o5/Total_play.jpg</thumbnail>	
-    <fanart>https://s26.postimg.org/c5v7ga3a1/fanart.jpg</fanart>
+    <externallink>https://pastebin.com/raw/Bdvr9E5L</externallink>
+    <thumbnail>http://4.bp.blogspot.com/-FwHpwBrORc0/WYDBNH9tq5I/AAAAAAAABZI/gHA9TGL_jjI55zV-ishTwZ1gN3cCsXQEQCK4BGAYYCw/s1600/SMART%2BTV%2B2.jpg</thumbnail>	
+    <fanart>http://3.bp.blogspot.com/-DVJ3H0S19Ik/WYDDLf1ffbI/AAAAAAAABZQ/xvtRF5tEF8oERA8fcVFBhbAwQ3R6IyLwQCK4BGAYYCw/s1600/fanart.jpg</fanart> 
+<info></info>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR]Canales latinos y europa</title>
+    <link>ignorame</link>
+    <externallink>https://pastebin.com/raw/wDFzeSbj</externallink>
+    <thumbnail>http://3.bp.blogspot.com/-afAkCx4uFqc/WYDBNGiQAnI/AAAAAAAABXk/j4jiAYImuak0qSo8bNXeLuRHdWEeh89_QCK4BGAYYCw/s1600/Canales%2Bpremier.jpg</thumbnail>	
+    <fanart>http://3.bp.blogspot.com/-DVJ3H0S19Ik/WYDDLf1ffbI/AAAAAAAABZQ/xvtRF5tEF8oERA8fcVFBhbAwQ3R6IyLwQCK4BGAYYCw/s1600/fanart.jpg</fanart> 
 <info></info>
 </item>
 
@@ -61,7 +62,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist.param2]</title>
-<link>https://hls-ord-1a.vaughnsoft.net/ams/live/live_[makelist.param1]/chunklist.m3u8|User-Agent=iPad</link>
+<link>https://hls-ord-1a.vaughnsoft.net/ams/live/live_[makelist.param1]/chunklist.m3u8|User-Agent=Mozilla/5.0</link>
 <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail>
 ]]></listrepeat>
 <expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
@@ -70,17 +71,17 @@
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://s26.postimg.org/x1hhrizh1/Vaughn_live.jpg</thumbnail>
-<fanart>https://s26.postimg.org/c5v7ga3a1/fanart.jpg</fanart>
+<thumbnail>http://1.bp.blogspot.com/-dkLcyAzk0b0/WYDBNS4pbtI/AAAAAAAABYg/RCKmuWT-08ATCXZWv0J4laorTdTGw64CgCK4BGAYYCw/s1600/Vaughn%2Blive.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-DVJ3H0S19Ik/WYDDLf1ffbI/AAAAAAAABZQ/xvtRF5tEF8oERA8fcVFBhbAwQ3R6IyLwQCK4BGAYYCw/s1600/fanart.jpg</fanart> 
 <info></info>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR]Deportes</title>
-    <link>ignorame</link>
-    <externallink>https://pastebin.com/raw/1DfiNZeG</externallink>
-    <thumbnail>https://s26.postimg.org/ngt9qwkr9/Futbol2.jpg</thumbnail>
-    <fanart>https://s26.postimg.org/c5v7ga3a1/fanart.jpg</fanart>
+    <link>ignorame</link> 
+    <externallink>https://pastebin.com/raw/xig0K1tR</externallink>
+    <thumbnail>http://4.bp.blogspot.com/-0O2cZrpnNOw/WYDBNMq181I/AAAAAAAABY4/O2MiaTjM844gX_GnUUrIMpYZJIF6kGPbQCK4BGAYYCw/s1600/Deportes.jpg</thumbnail>
+    <fanart>http://3.bp.blogspot.com/-DVJ3H0S19Ik/WYDDLf1ffbI/AAAAAAAABZQ/xvtRF5tEF8oERA8fcVFBhbAwQ3R6IyLwQCK4BGAYYCw/s1600/fanart.jpg</fanart> 
 <info></info>
 </item>
 
@@ -88,8 +89,17 @@
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR]Musica</title>
     <link>ignorame</link>
     <externallink>https://pastebin.com/raw/wfDi7aNS</externallink>
-    <thumbnail>https://s26.postimg.org/9bngp3bpx/Musica.jpg</thumbnail>
-    <fanart>https://s26.postimg.org/c5v7ga3a1/fanart.jpg</fanart> 
+    <thumbnail>http://3.bp.blogspot.com/-fLBAA_fJALw/WYDBNF0k4mI/AAAAAAAABXw/idBL_yWG5cM5iVnuV9FJBHhInZZBXdOCwCK4BGAYYCw/s1600/Musica.jpg</thumbnail>
+    <fanart>http://3.bp.blogspot.com/-DVJ3H0S19Ik/WYDDLf1ffbI/AAAAAAAABZQ/xvtRF5tEF8oERA8fcVFBhbAwQ3R6IyLwQCK4BGAYYCw/s1600/fanart.jpg</fanart> 
+<info></info>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR]The Best 70's 80's 90's</title>
+    <link>ignorame</link>
+    <externallink>https://pastebin.com/raw/vBmMNJGD</externallink>
+    <thumbnail>http://1.bp.blogspot.com/-ougwHkXMr9c/WYDBNckxJxI/AAAAAAAABYU/4KXPkqM-UicJropB3mifSq75-arpfp9GwCK4BGAYYCw/s1600/The%2Bbest%2B70%2B80%2B90.jpg</thumbnail>
+    <fanart>http://3.bp.blogspot.com/-DVJ3H0S19Ik/WYDDLf1ffbI/AAAAAAAABZQ/xvtRF5tEF8oERA8fcVFBhbAwQ3R6IyLwQCK4BGAYYCw/s1600/fanart.jpg</fanart> 
 <info></info>
 </item>
 
@@ -97,28 +107,21 @@
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR]Radios Uruguay</title>
     <link>ignorame</link>
     <externallink>https://pastebin.com/raw/yx5hH15F</externallink>
-    <thumbnail>https://s26.postimg.org/80fpgmg45/radio.jpg</thumbnail>
-    <fanart>https://s26.postimg.org/c5v7ga3a1/fanart.jpg</fanart>
+    <thumbnail>http://1.bp.blogspot.com/-Euq2J1Xfpv0/WYDBNVOZq-I/AAAAAAAABYk/bgVuP4JXO6oJNYBq05Uh-S2EahJAE3KRQCK4BGAYYCw/s1600/radio.jpg</thumbnail>
+    <fanart>http://3.bp.blogspot.com/-DVJ3H0S19Ik/WYDDLf1ffbI/AAAAAAAABZQ/xvtRF5tEF8oERA8fcVFBhbAwQ3R6IyLwQCK4BGAYYCw/s1600/fanart.jpg</fanart> 
 <info></info>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR]Peliculas</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR]Peliculas y Series</title>
     <link>ignorame</link>
     <externallink>https://pastebin.com/raw/89E5xX9p</externallink>
-    <thumbnail>https://s26.postimg.org/udng3fh1x/Peliculas.jpg</thumbnail>
-    <fanart>https://s26.postimg.org/c5v7ga3a1/fanart.jpg</fanart>
+    <thumbnail>http://3.bp.blogspot.com/-tVVK739GnHA/WYDBNOTo_FI/AAAAAAAABX0/XsftAuiPMD81n7zsBzZnyqAn7Go2qO3WQCK4BGAYYCw/s1600/Peliculas.jpg</thumbnail>
+    <fanart>http://3.bp.blogspot.com/-DVJ3H0S19Ik/WYDDLf1ffbI/AAAAAAAABZQ/xvtRF5tEF8oERA8fcVFBhbAwQ3R6IyLwQCK4BGAYYCw/s1600/fanart.jpg</fanart> 
 <info></info>
 </item>
+-----------------------------------------------------------------------------------
 
-<item>
-<title>[COLOR][/COLOR]</title>
-    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
-    <fanart>https://s26.postimg.org/c5v7ga3a1/fanart.jpg</fanart>
-    <link>http://ignoreme</link>
-    <externallink>http://pastebin.com</externallink>
-<info></info>
-</item>
 
 <item>
 <title>[COLOR lime]   Email:  ecemc2017@gmail.com[/COLOR]</title>
@@ -128,5 +131,3 @@
     <externallink>http://pastebin.com</externallink>
 <info></info>
 </item>
-
-
