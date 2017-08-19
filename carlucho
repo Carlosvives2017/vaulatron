@@ -57,29 +57,10 @@
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][COLOR blue]Vaughnlive [/COLOR][COLOR lime]24/7[/COLOR]</title>
-
-<link>ignorame</link>
-<externallink>https://pastebin.com/raw/1DfiNZeG</externallink>
-
-<---
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist.param2]</title>
-<link>https://hls-ord-1a.vaughnsoft.net/ams/live/live_[makelist.param1]/chunklist.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail>
-]]></listrepeat>
-<expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
-<page>https://vaughnlive.tv/browse/espanol</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
----->
-
-<thumbnail>http://1.bp.blogspot.com/-dkLcyAzk0b0/WYDBNS4pbtI/AAAAAAAABYg/RCKmuWT-08ATCXZWv0J4laorTdTGw64CgCK4BGAYYCw/s1600/Vaughn%2Blive.jpg</thumbnail>
-<fanart>http://3.bp.blogspot.com/-DVJ3H0S19Ik/WYDDLf1ffbI/AAAAAAAABZQ/xvtRF5tEF8oERA8fcVFBhbAwQ3R6IyLwQCK4BGAYYCw/s1600/fanart.jpg</fanart> 
+    <link>ignorame</link>
+    <externallink>https://pastebin.com/raw/1DfiNZeG</externallink>
+    <thumbnail>http://1.bp.blogspot.com/-dkLcyAzk0b0/WYDBNS4pbtI/AAAAAAAABYg/RCKmuWT-08ATCXZWv0J4laorTdTGw64CgCK4BGAYYCw/s1600/Vaughn%2Blive.jpg</thumbnail>
+    <fanart>http://3.bp.blogspot.com/-DVJ3H0S19Ik/WYDDLf1ffbI/AAAAAAAABZQ/xvtRF5tEF8oERA8fcVFBhbAwQ3R6IyLwQCK4BGAYYCw/s1600/fanart.jpg</fanart> 
 <info></info>
 </item>
 
