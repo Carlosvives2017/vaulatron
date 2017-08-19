@@ -61,7 +61,7 @@
 <link>ignorame</link>
 <externallink>https://pastebin.com/raw/1DfiNZeG</externallink>
 
---->
+<---
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -76,7 +76,7 @@
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
-<----
+---->
 
 <thumbnail>http://1.bp.blogspot.com/-dkLcyAzk0b0/WYDBNS4pbtI/AAAAAAAABYg/RCKmuWT-08ATCXZWv0J4laorTdTGw64CgCK4BGAYYCw/s1600/Vaughn%2Blive.jpg</thumbnail>
 <fanart>http://3.bp.blogspot.com/-DVJ3H0S19Ik/WYDDLf1ffbI/AAAAAAAABZQ/xvtRF5tEF8oERA8fcVFBhbAwQ3R6IyLwQCK4BGAYYCw/s1600/fanart.jpg</fanart> 
