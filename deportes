@@ -19,9 +19,6 @@
 </item>
 
 
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Max 01 / 60 - bro.adca.st</title>
-<link>$doregex[makelist]</link>
 
 <item>
 <title>Sudamerica </title>
@@ -35,7 +32,7 @@
    <thumbnail>http://adryanlist.org/adryan/img/deportes.png</thumbnail><info>Recuerda hacer tu donacion para seguir mejorando Adryanlist en     http://paypal.me/Adryanlist</info>
 ]]></listrepeat>
 <expres>vip:"(.*?)" name:"(.*?)"</expres>
-<page>http://adryanlist.org/adryan/servers.txt</page>
+<page>https://pastebin.com/raw/51Br4wcF</page>
 </regex>
 
 
