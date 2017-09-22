@@ -2527,7 +2527,7 @@ Cambios 1
 Cambios 2
 *********************
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Turismo Carretera [COLOR blue]~[COLOR deepskyblue] 22/09/2017 20:00 HD[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Turismo Carretera [COLOR blue]~[COLOR deepskyblue] 24/09/2017 20:00 HD[/COLOR]</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
