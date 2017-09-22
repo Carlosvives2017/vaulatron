@@ -3121,9 +3121,16 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10425/240/default.jpg</thumbnail>
+</item><item><title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Saeta Tv</title><link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-canal10/</link><regex>
+<name>play</name>
+<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
+<page>https://www.cxntv.com/canales/tv-canal10/</page>
+</regex>
+<thumbnail>http://web10.images.production.s3.amazonaws.com/uploads/image/image/66/logo-canal10.jpg</thumbnail>
+<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
 </item><item><title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Teledoce[COLOR blue]    [COLOR lightslategray][/COLOR]</title><link>$doregex[url]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36&amp;Referer=http://livestream.com/accounts/13567583/events/4079490/player?width=560&amp;height=540&amp;autoPlay=true&amp;mute=false&amp;X-Requested-With=ShockwaveFlash/22.0.0.192</link><regex><name>url</name><expres>smil","m3u8_url":"(.*)","secure_m3u8_url</expres>
 <page>http://livestream.com/accounts/13567583/events/6415713/player?width=560&amp;height=540&amp;autoPlay=true&amp;mute=false</page>
-</regex><?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+</regex><thumbnail>http://i.imgur.com/EPL3Jeb.png</thumbnail><fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart></item>
 ____________oo$$$$$$$$$$$$$$$$$$$$$$$$o
 _________oo$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$o
 _______o$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$o
@@ -3193,14 +3200,7 @@ __00_____0000000____00___0_00___00__00__________________
 __00000000_________00___00_0_00_00___0__________________
 ___________________00____000__00000__0__________________
 __________________00__00________00______________________
-_______<item><title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Saeta Tv</title><link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-canal10/</link><regex>
-<name>play</name>
-<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
-<page>https://www.cxntv.com/canales/tv-canal10/</page>
-</regex>
-<thumbnail>http://web10.images.production.s3.amazonaws.com/uploads/image/image/66/logo-canal10.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
-</item>___________00000________000______________________
+__________________00000________000______________________
 ___00000_________000___00__000_00_______________0000____
 __000__00_______00_____00000_000________________000_0___
 _00_____________________00_0000_________________00___0__
@@ -3894,7 +3894,7 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
-HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!<thumbnail>http://i.imgur.com/EPL3Jeb.png</thumbnail></item><item>
+HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]VTV [COLOR blue]~[COLOR deepskyblue] Solo Noticias[/COLOR]</title>IJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
