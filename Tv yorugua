@@ -3180,7 +3180,14 @@ __00_____0000000____00___0_00___00__00__________________
 __00000000_________00___00_0_00_00___0__________________
 ___________________00____000__00000__0__________________
 __________________00__00________00______________________
-__________________00000________000______________________
+_______<item><title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Saeta Tv</title><link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-canal10/</link><regex>
+<name>play</name>
+<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
+<page>https://www.cxntv.com/canales/tv-canal10/</page>
+</regex>
+<thumbnail>http://web10.images.production.s3.amazonaws.com/uploads/image/image/66/logo-canal10.jpg</thumbnail>
+<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+</item>___________00000________000______________________
 ___00000_________000___00__000_00_______________0000____
 __000__00_______00_____00000_000________________000_0___
 _00_____________________00_0000_________________00___0__
