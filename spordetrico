@@ -4788,7 +4788,7 @@ RivoSport
 <fanart>http://www.rotadeportes.com.ar/img/slider/deportes.jpg</fanart>   
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Rivo Sport 01 [COLOR blue]~[COLOR deepskyblue] Bein ñ [COLOR deepblue]~[COLOR deepskyblue] EspnDeportes [COLOR blue]~[COLOR deepskyblue] UniSport [/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Rivo Sport 01 [COLOR blue]~[COLOR deepskyblue] Bein ñ [COLOR blue]~[COLOR deepskyblue] Espn [COLOR blue]~[COLOR deepskyblue] UniSport [/COLOR]</title>
 <link>$doregex[bro.adca.st]</link>
 <regex>
 <name>bro.adca.st</name>
@@ -6435,7 +6435,7 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Rivo Sport 05</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Rivo Sport 05 [COLOR blue]~[COLOR deepskyblue] UFC[/COLOR]</title>
 <link>$doregex[rtmp] playpath=$doregex[eldese]_$doregex[playpath]$doregex[playpath2] swfUrl=http://p.castamp.com/cplayer.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.castamp.com/embed.php?c=$doregex[eldese]&amp;tk=$doregex[it]&amp;vwidth=680&amp;vheight=440</link>
 <regex>
 <name>it</name>	 
