@@ -881,14 +881,8 @@ HIJO PUTA YA TE ALEGRASTE CON L<item>
 <fanart>https://media.elobservador.com.uy/adjuntos/181/imagenes/001/439/0001439728.jpg</fanart></item>item><title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Futbol Elec sd [COLOR blue]~[/COLOR] [COLOR orange]Share [COLOR gray]Cast[/COLOR]</title><link>$doregex[m3u8]</link>
 <regex><name>m3u</name><expres>file: "([^\"].*)"</expres>
 <page>http://sharecast.chanta.php?ch=hijodeputalaconchatumadre-chorro</page><referer>http://sharecast.eu/hijodeputalaconchatumadre-chorro</referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex><thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://media.elobservador.com.uy/adjuntos/181/imagenes/001/439/0001439728.jpg</fanart<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Futbol Elec sd [COLOR blue]~[/COLOR] [COLOR orange]Share [COLOR gray]Cast[/COLOR]</title><link>$doregex[m3u8]</link><regex><name>m3u8</name>
-<expres>file: "([^\"].*)"</expres>
-<page>http://sharecast.eu/embed.php?ch=laderotravatomocha-ttbm0</page>
-<referer>http://sharecast.eu/channel/laderotravatomocha-ttbm0</referer>
-<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex><thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail><fanart>https://media.elobservador.com.uy/adjuntos/181/imagenes/001/439/0001439728.jpg</fanart></item></item>
-<item>       
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Futbol Elec sd [COLOR blue]~[/COLOR] [COLOR orange]Cast Amp[/COLOR]</title>
+<fanart>https://media.elobservador.com.uy/adjuntos/181/imagenes/001/439/0001439728.jpg</fanart
+<item><title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Futbol Elec sd [COLOR blue]~[/COLOR] [COLOR orange]Cast Amp[/COLOR]</title>
 <link>$doregex[rtmp] playpath=$doregex[canal]_$doregex[playpath]$doregex[playpath2] swfUrl=http://p.castamp.com/cplayer.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.castamp.com/embed.php?c=$doregex[canal]&amp;tk=$doregex[it]&amp;vwidth=680&amp;vheight=440</link>
 <regex>
 <name>canal</name>  
@@ -920,7 +914,12 @@ HIJO PUTA YA TE ALEGRASTE CON L<item>
 </regex>
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
 <fanart>https://media.elobservador.com.uy/adjuntos/181/imagenes/001/439/0001439728.jpg</fanart>
-</item>
+</item><item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Futbol Elec sd [COLOR blue]~[/COLOR] [COLOR orange]Share [COLOR gray]Cast[/COLOR]</title><link>$doregex[m3u8]</link><regex><name>m3u8</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://sharecast.eu/embed.php?ch=laderotravatomocha-ttbm0</page>
+<referer>http://sharecast.eu/channel/laderotravatomocha-ttbm0</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex><thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail><fanart>https://media.elobservador.com.uy/adjuntos/181/imagenes/001/439/0001439728.jpg</fanart></item></item>
 item><title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Futbol Elec sd [COLOR blue]~[/COLOR] [COLOR red]bro[COLOR].[COLOR white]adca[COLOR].[COLOR blue]st[/COLOR]</title><link>$doregex[bro.adca.st]</link><regex>
 <name>bro.adca.st</name><expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolfebolacaida.us/stream.php?id=118&p=1&c=0&stretching=uniform&old=0'):
@@ -944,7 +943,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolfebolacaida.us/strea
 <cookieJar></cookieJar></regex>
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail><fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart> 
 </item><item><title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Premier plus [COLOR blue]~[COLOR deepskyblue] VTV HD[/COLOR]</title>
-<link>http://testdelta.cdn.antel.net.uy/out,vxttoken=cGF0aFVSST0lMkZvdXQlMkZ1JTJGYXV0aF8wX3J0YzFteWl2JTJGaGxzJTJGJTJBJmV4cGlyeT0xNTA2MTkzNjcyJnJhbmRvbT1oNHFMbEE0YXlDJmMtaXA9MTg2LjUwLjk4LjYsZjAzMGYxYjcxMTExNTgxODc3YzQ5ZWEzMDE3YjQ4NGIxZWM2MWNkNzA1N2MwOGExM2Y2MjQ3ZmU1NGYyN2U1OA==/u/auth_0_rtc1myiv/hls/playlist_4.m3u8</link><thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail><fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart> </item>
+<link>http://testdelta.cdn.antel.net.uy/out,vxttoken=cGF0aFVSST0lMkZvdXQlMkZ1JTJGYXV0aF8wX3J0YzFteWl2JTJGaGxzJTJGJTJBJmV4cGlyeT0xNTA2MjEwOTk4JnJhbmRvbT1scFBoeEpFQUpTJmMtaXA9MTg2LjUwLjk4LjYsOGFjZmVjOTVhZDIzOGRmYzZiMjU5YjRmZTk1MDZmOWU3ZDc4MzU0YjVjZDVlYjcxMDg1MDBlNWQxMzEyMTc1OQ==/u/auth_0_rtc1myiv/hls/playlist_4.m3u8</link><thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail><fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart> </item>
 *********************
 ------------------------
 ____________oo$$$$$$$$$$$$$$$$$$$$$$$$o
