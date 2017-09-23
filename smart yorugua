@@ -2351,7 +2351,7 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 <link>http://us.watcha.live/ch7/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link> 
 <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11.png</thumbnail>
 <fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
-</item><item><?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+</item>
 ____________oo$$$$$$$$$$$$$$$$$$$$$$$$o
 _________oo$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$o
 _______o$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$o
@@ -3115,9 +3115,14 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
-HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
+HIJO PUTA YA TE ALEGRASTE CON LA PIJA AD<item> CON LA PIJA ADENTRO T
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]El Trece [COLOR blue]**[/COLOR]</title> 
-<link>https://hls-ord-1a.vaughnsoft.net/ams/live/live_juan_13tv/chunklist.m3u8|User-Agent=Mozilla/5.0</link> 
+<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/canal13-bkp/</link>
+<regex>
+<name>play</name>
+<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
+<page>https://www.cxntv.com/canales/canal13-bkp/ </page>
+</regex>
 <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11.png</thumbnail>
 <fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
 </item><item>
