@@ -886,7 +886,42 @@ HIJO PUTA YA TE ALEGRASTE CON L<item>
 <expres>file: "([^\"].*)"</expres>
 <page>http://sharecast.eu/embed.php?ch=laderotravatomocha-ttbm0</page>
 <referer>http://sharecast.eu/channel/laderotravatomocha-ttbm0</referer>
-<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex><thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail><fanart>https://media.elobservador.com.uy/adjuntos/181/imagenes/001/439/0001439728.jpg</fanart></item></item><item><title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Futbol Elec sd [COLOR blue]~[/COLOR] [COLOR red]bro[COLOR].[COLOR white]adca[COLOR].[COLOR blue]st[/COLOR]</title><link>$doregex[bro.adca.st]</link><regex>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex><thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail><fanart>https://media.elobservador.com.uy/adjuntos/181/imagenes/001/439/0001439728.jpg</fanart></item></item>
+<item>       
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Futbol Elec sd [COLOR blue]~[/COLOR] [COLOR orange]Cast Amp[/COLOR]</title>
+<link>$doregex[rtmp] playpath=$doregex[canal]_$doregex[playpath]$doregex[playpath2] swfUrl=http://p.castamp.com/cplayer.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.castamp.com/embed.php?c=$doregex[canal]&amp;tk=$doregex[it]&amp;vwidth=680&amp;vheight=440</link>
+<regex>
+<name>canal</name>  
+<expres>channel="(.*?)";</expres>  
+<page>http://castamp.com/live/demetriushdp</page> 
+</regex>
+<regex>
+<name>it</name>  
+<expres>Agent:"(.*?)";</expres>  
+<page>http://adryanlist.org/adryan/fuckit.php</page>  
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*(?![^"']+50.7.118.3)(?![^"']+50.7.128.2)(rtmp:[^"']+)</expres>
+<page>http://www.castamp.com/embed.php?c=$doregex[canal]&amp;tk=$doregex[it]&amp;vwidth=680&amp;vheight=440</page>
+<referer>http://castamp.com</referer>
+</regex>
+<regex>
+<name>playpath</name>
+<expres>fuifa.*?_(.*?)'</expres>
+<page>http://www.castamp.com/embed.php?c=$doregex[canal]&amp;tk=$doregex[it]&amp;vwidth=680&amp;vheight=440</page>
+<referer>http://castamp.com</referer>
+</regex>
+<regex>
+<name>playpath2</name>
+<expres>fuifa.*?unescape.*?'(.*?)'\W</expres>
+<page>http://www.castamp.com/embed.php?c=$doregex[canal]&amp;tk=$doregex[it]&amp;vwidth=680&amp;vheight=440</page>
+<referer>http://castamp.com</referer>
+</regex>
+<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
+<fanart>https://media.elobservador.com.uy/adjuntos/181/imagenes/001/439/0001439728.jpg</fanart>
+</item>
+item><title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Futbol Elec sd [COLOR blue]~[/COLOR] [COLOR red]bro[COLOR].[COLOR white]adca[COLOR].[COLOR blue]st[/COLOR]</title><link>$doregex[bro.adca.st]</link><regex>
 <name>bro.adca.st</name><expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolfebolacaida.us/stream.php?id=118&p=1&c=0&stretching=uniform&old=0'):
  import requests, re, urllib
