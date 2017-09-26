@@ -94,7 +94,7 @@ taquilla
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   • •   [/B][COLOR red]Peliculas Taquillas   [COLOR red][B][COLOR red]• • [/COLOR][/B]</title>  
 <link>http://about.uy/elecdeka</link>
-<thumbnail>http://1.bp.blogspot.com/-wmQB15O9bNE/WVZpdwHp1QI/AAAAAAAABRY/U4AiBcGIegkvgh9OrNu5emco2nRN7gPqgCK4BGAYYCw/s1600/taquillas2.jpg</thumbnail>
+<thumbnail>http://www.vanguardia.com.mx/sites/default/files/cine_24.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -109,6 +109,8 @@ taquilla
 <listrepeat><![CDATA[
         <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist3.param2]</title>
         <link>$doregex[makelist]</link>
+		<thumbnail>http://1.bp.blogspot.com/-wmQB15O9bNE/WVZpdwHp1QI/AAAAAAAABRY/U4AiBcGIegkvgh9OrNu5emco2nRN7gPqgCK4BGAYYCw/s1600/taquillas2.jpg</thumbnail>
+<fanart>http://www.vanguardia.com.mx/sites/default/files/cine_24.jpg</fanart>
         ]]></listrepeat>
 <expres>peliculas:"(.*?)" name:"(.*?)";</expres>
 <page>http://adryanlist.org/adryan/kozm.txt</page>
@@ -146,16 +148,16 @@ taquilla
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://1.bp.blogspot.com/-wmQB15O9bNE/WVZpdwHp1QI/AAAAAAAABRY/U4AiBcGIegkvgh9OrNu5emco2nRN7gPqgCK4BGAYYCw/s1600/taquillas2.jpg</thumbnail>
-<fanart>http://comoaprenderinglesbien.com/wp-content/uploads/2014/08/películas-para-aprender-ingles.jpg</fanart>
+<fanart></fanart>
 </item>
 
 ********************
 Diskoko
 **************
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   • •   [/B][COLOR red]Canales DisKoko   [COLOR red][B][COLOR red]• • [/COLOR][/B]</title>  
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   • •   [/B][COLOR red]Diskokosmico   [COLOR red][B][COLOR red]• • [/COLOR][/B]</title>  
 <link>http://about.uy/elecdeka</link>
-<thumbnail>http://4.bp.blogspot.com/-o4C_5HBUn6Y/WSBDeRzUSeI/AAAAAAAAA-M/gGuqyYKvIR8mO0fk4SP_VGkPa2X5MqirgCK4B/s1600/Peliculas.jpg</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/YHilwpYe7pJRbDch0wg3VKs9lPyV7WaGglj1fW-yo8Zx9Cg_CeHjx5aRHFkCLIzrag=w300</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -170,7 +172,8 @@ Diskoko
 <listrepeat><![CDATA[
         <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist2.param1]</title>
         <link>$doregex[makelist]</link>
-		<thumbnail></thumbnail>
+		<thumbnail>http://www.usm.cl/assets/img/vida-universitaria-ciclo-de-cine.w700.jpg</thumbnail>
+<fanart>http://www.usm.cl/assets/img/vida-universitaria-ciclo-de-cine.w700.jpg</fanart>
         ]]></listrepeat>
 <expres>Server:"(.*?)" src="(.*?)"</expres>
 <page>http://adryanlist.org/adryan/kozm.txt</page>
@@ -182,6 +185,8 @@ Diskoko
 <listrepeat><![CDATA[
         <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist.param3]</title>
         <link>$doregex[getUrl]</link>
+		<thumbnail>http://www.usm.cl/assets/img/vida-universitaria-ciclo-de-cine.w700.jpg</thumbnail>
+<fanart>http://www.usm.cl/assets/img/vida-universitaria-ciclo-de-cine.w700.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>[makelist2.param2]</page>
@@ -206,7 +211,45 @@ Diskoko
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://4.bp.blogspot.com/-o4C_5HBUn6Y/WSBDeRzUSeI/AAAAAAAAA-M/gGuqyYKvIR8mO0fk4SP_VGkPa2X5MqirgCK4B/s1600/Peliculas.jpg</thumbnail>
+<thumbnail>http://www.usm.cl/assets/img/vida-universitaria-ciclo-de-cine.w700.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Peliculas Accion (Latino)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+        <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.usm.cl/assets/img/vida-universitaria-ciclo-de-cine.w700.jpg</thumbnail>
+<fanart>http://www.usm.cl/assets/img/vida-universitaria-ciclo-de-cine.w700.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/marcos20/peliculas-de-accion-en-espanol-latino-16521/list,1,4</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/marcos20/peliculas-de-accion-en-espanol-latino-16521/list,1,4</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.usm.cl/assets/img/vida-universitaria-ciclo-de-cine.w700.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -218,7 +261,8 @@ Diskoko
 <listrepeat><![CDATA[
         <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist.param3]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail></thumbnail>
+        <thumbnail>http://1.bp.blogspot.com/-ZddoS7OMlZw/WSBSyN0iw9I/AAAAAAAABAA/iSI4HX-MdUg2-H944jxgqZ8zX2yv9ArowCK4B/s1600/peliculas%2Bhd.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-ZddoS7OMlZw/WSBSyN0iw9I/AAAAAAAABAA/iSI4HX-MdUg2-H944jxgqZ8zX2yv9ArowCK4B/s1600/peliculas%2Bhd.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/danonaba89/newcollection-46197/list,1,12</page>
@@ -257,7 +301,8 @@ Diskoko
 <listrepeat><![CDATA[
         <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist.param3]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail></thumbnail>
+        <thumbnail>http://1.bp.blogspot.com/-ZddoS7OMlZw/WSBSyN0iw9I/AAAAAAAABAA/iSI4HX-MdUg2-H944jxgqZ8zX2yv9ArowCK4B/s1600/peliculas%2Bhd.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-ZddoS7OMlZw/WSBSyN0iw9I/AAAAAAAABAA/iSI4HX-MdUg2-H944jxgqZ8zX2yv9ArowCK4B/s1600/peliculas%2Bhd.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/SeriesHD/pelis-2-45486/list,1,5</page>
@@ -289,14 +334,15 @@ Diskoko
 ********************
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Peliculas Full HD (Castellano)[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Peliculas RD (Castellano)[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
         <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist.param3]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail></thumbnail>
+        <thumbnail>http://1.bp.blogspot.com/-ZddoS7OMlZw/WSBSyN0iw9I/AAAAAAAABAA/iSI4HX-MdUg2-H944jxgqZ8zX2yv9ArowCK4B/s1600/peliculas%2Bhd.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-ZddoS7OMlZw/WSBSyN0iw9I/AAAAAAAABAA/iSI4HX-MdUg2-H944jxgqZ8zX2yv9ArowCK4B/s1600/peliculas%2Bhd.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/ermejor/peliculas-hd-varios-idiomas-de-audio-y-subtit-29815/list,1,20</page>
@@ -326,59 +372,14 @@ Diskoko
 </item>
 
 
-***************************
-Accion
-***********************
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   • •   [/B][COLOR red]Accion   [COLOR red][B][COLOR red]• • [/COLOR][/B]</title>  
-<link>http://about.uy/elecdeka</link>
-<thumbnail>http://4.bp.blogspot.com/-o4C_5HBUn6Y/WSBDeRzUSeI/AAAAAAAAA-M/gGuqyYKvIR8mO0fk4SP_VGkPa2X5MqirgCK4B/s1600/Peliculas.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Peliculas Accion (Latino)[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-        <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist.param3]</title>
-        <link>$doregex[getUrl]</link>
-        <thumbnail>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/marcos20/peliculas-de-accion-en-espanol-latino-16521/list,1,4</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/marcos20/peliculas-de-accion-en-espanol-latino-16521/list,1,4</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://4.bp.blogspot.com/-SkMRkGjNCUU/WSBBfQnknHI/AAAAAAAAA9Y/XJie0rgQ_OYOBss4Ed_MughG0xGfTbp-wCK4B/s1600/series%2Ba.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
 *********************************************
+Comedia
+***********
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   • •   [/B][COLOR red]Peliculas Comedia   [COLOR red][B][COLOR red]• •[/COLOR][/B]</title>  
 <link>http://about.uy/elecdeka</link>
-<thumbnail>http://4.bp.blogspot.com/-o4C_5HBUn6Y/WSBDeRzUSeI/AAAAAAAAA-M/gGuqyYKvIR8mO0fk4SP_VGkPa2X5MqirgCK4B/s1600/Peliculas.jpg</thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-6lmKTj_M32c/WVZpcv6sZhI/AAAAAAAABQI/exn6XRaWzX8gxOud6abEpzCPrqVkoY1FwCK4BGAYYCw/s1600/Comedia.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -390,8 +391,8 @@ Accion
 <listrepeat><![CDATA[
         <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist.param3]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</thumbnail>
-		
+        <thumbnail>http://3.bp.blogspot.com/-v-1m-oe--gs/WVZpdm_sayI/AAAAAAAABRA/BAJwAMmyTt88N8i4r53iInMDw5v64H2rgCK4BGAYYCw/s1600/serie%2B2.jpg</thumbnail>
+		<fanart>http://3.bp.blogspot.com/-v-1m-oe--gs/WVZpdm_sayI/AAAAAAAABRA/BAJwAMmyTt88N8i4r53iInMDw5v64H2rgCK4BGAYYCw/s1600/serie%2B2.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/marcos20/peliculas-de-comedia-en-espanol-latino-17449</page>
@@ -495,7 +496,7 @@ Terror
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   • •   [/B][COLOR red]Peliculas de Terror   [COLOR red][B][COLOR red]• •[/COLOR][/B]</title>  
 <link>http://about.uy/elecdeka</link>
-<thumbnail>http://4.bp.blogspot.com/-o4C_5HBUn6Y/WSBDeRzUSeI/AAAAAAAAA-M/gGuqyYKvIR8mO0fk4SP_VGkPa2X5MqirgCK4B/s1600/Peliculas.jpg</thumbnail>
+<thumbnail>http://cinemaparaiso.blogia.com/upload/20141215214312-cine-terror-ninos-jaloguin-1-1432543.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -514,8 +515,8 @@ Terror
 <listrepeat><![CDATA[
         <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist.param3]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</thumbnail>
-		
+        <thumbnail>http://3.bp.blogspot.com/-JiupfBfySAM/WVZpeGXGh_I/AAAAAAAABRg/KwhhiURHnjA4rjZqHsMxJiHyfgslHUUlQCK4BGAYYCw/s1600/terror.jpg</thumbnail>
+		<fanart>http://3.bp.blogspot.com/-JiupfBfySAM/WVZpeGXGh_I/AAAAAAAABRg/KwhhiURHnjA4rjZqHsMxJiHyfgslHUUlQCK4BGAYYCw/s1600/terror.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/marcos20/peliculas-de-terror-en-espanol-latino-16623/list,1,3</page>
@@ -553,7 +554,7 @@ Terror
         <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist.param3]</title>
         <link>$doregex[getUrl]</link>
         <thumbnail>https://i.ytimg.com/vi/u__Kg1aUQVI/maxresdefault.jpg</thumbnail>
-		
+		<fanart>https://i.ytimg.com/vi/u__Kg1aUQVI/maxresdefault.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/movies/l-juego-del-miedo-12345dvdripaudio-latino-1198</page>
@@ -590,8 +591,8 @@ Terror
 <listrepeat><![CDATA[
         <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist.param3]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</thumbnail>
-		
+        <thumbnail>http://gematsu.com/wp-content/uploads/2017/06/White-Day-PS4-Aug-1-Release.jpg</thumbnail>
+		<fanart>http://gematsu.com/wp-content/uploads/2017/06/White-Day-PS4-Aug-1-Release.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/trivianita/peliculas-de-espiritus-hdripel-rockero-30185/list,1,5</page>
@@ -616,7 +617,7 @@ Terror
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</thumbnail>
+<thumbnail>http://gematsu.com/wp-content/uploads/2017/06/White-Day-PS4-Aug-1-Release.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -628,8 +629,8 @@ Terror
 <listrepeat><![CDATA[
         <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist.param3]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</thumbnail>
-		
+        <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStMAE550egJqV9POpp1Oeeyf2rKiK_A_5cdmbRhIg65inWCaonzQ</thumbnail>
+		<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStMAE550egJqV9POpp1Oeeyf2rKiK_A_5cdmbRhIg65inWCaonzQ</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/trivianita/peliculas-de-suspense-hdripel-rockero-30176/list,1,5</page>
@@ -654,7 +655,7 @@ Terror
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</thumbnail>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStMAE550egJqV9POpp1Oeeyf2rKiK_A_5cdmbRhIg65inWCaonzQ</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -719,8 +720,8 @@ Varias
 <listrepeat><![CDATA[
         <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist.param3]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</thumbnail>
-		
+        <thumbnail>http://2.bp.blogspot.com/-ww1sN1FSSbY/WVZpcFPF1zI/AAAAAAAABPo/0n2TK5sS14U1HvSHQtkCINGBcZobS-StwCK4BGAYYCw/s1600/ANIMADOS.jpg</thumbnail>
+		<fanart>http://2.bp.blogspot.com/-ww1sN1FSSbY/WVZpcFPF1zI/AAAAAAAABPo/0n2TK5sS14U1HvSHQtkCINGBcZobS-StwCK4BGAYYCw/s1600/ANIMADOS.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/marcos20/peliculas-de-caricaturas-en-espanol-latino-16449/list,1,5</page>
@@ -745,7 +746,7 @@ Varias
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</thumbnail>
+<thumbnail>http://2.bp.blogspot.com/-ww1sN1FSSbY/WVZpcFPF1zI/AAAAAAAABPo/0n2TK5sS14U1HvSHQtkCINGBcZobS-StwCK4BGAYYCw/s1600/ANIMADOS.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -801,7 +802,7 @@ Varias
         <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist.param3]</title>
         <link>$doregex[getUrl]</link>
         <thumbnail>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</thumbnail>
-		
+		<fanart>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/santy/peliculas-11035/list,1,5</page>
@@ -826,7 +827,7 @@ Varias
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</thumbnail>
+<thumbnail>https://i.blogs.es/57f677/carteles-20de-20algunas-20de-20las-20mejores-20peliculas-20de-202012/650_1200.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -840,8 +841,8 @@ Varias
 <listrepeat><![CDATA[
         <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist.param3]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</thumbnail>
-		
+        <thumbnail>http://4.bp.blogspot.com/-tLx-tZ9hjPg/WVZpb5KgqfI/AAAAAAAABPY/2PKmZsTM7_IzK40GiV3ubzcWQgdo1TjuACK4BGAYYCw/s1600/WEST.jpg</thumbnail>
+		<fanart>http://4.bp.blogspot.com/-tLx-tZ9hjPg/WVZpb5KgqfI/AAAAAAAABPY/2PKmZsTM7_IzK40GiV3ubzcWQgdo1TjuACK4BGAYYCw/s1600/WEST.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/trivianita/peliculas-de-viajes-en-el-tiempoel-rockero-30433</page>
@@ -866,8 +867,8 @@ Varias
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</thumbnail>
-<fanart>http://comoaprenderinglesbien.com/wp-content/uploads/2014/08/películas-para-aprender-ingles.jpg</fanart>
+<thumbnail>http://4.bp.blogspot.com/-tLx-tZ9hjPg/WVZpb5KgqfI/AAAAAAAABPY/2PKmZsTM7_IzK40GiV3ubzcWQgdo1TjuACK4BGAYYCw/s1600/WEST.jpg</thumbnail>
+<fanart></fanart>
 </item>
 
 
@@ -881,8 +882,8 @@ Varias
 <listrepeat><![CDATA[
         <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist.param3]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</thumbnail>
-		
+        <thumbnail>http://4.bp.blogspot.com/-tLx-tZ9hjPg/WVZpb5KgqfI/AAAAAAAABPY/2PKmZsTM7_IzK40GiV3ubzcWQgdo1TjuACK4BGAYYCw/s1600/WEST.jpg</thumbnail>
+		<fanart>http://4.bp.blogspot.com/-tLx-tZ9hjPg/WVZpb5KgqfI/AAAAAAAABPY/2PKmZsTM7_IzK40GiV3ubzcWQgdo1TjuACK4BGAYYCw/s1600/WEST.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/trivianita/peliculas-western-castellano-el-rockero-30878/list,1,2</page>
@@ -907,6 +908,6 @@ Varias
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</thumbnail>
+<thumbnail>http://4.bp.blogspot.com/-tLx-tZ9hjPg/WVZpb5KgqfI/AAAAAAAABPY/2PKmZsTM7_IzK40GiV3ubzcWQgdo1TjuACK4BGAYYCw/s1600/WEST.jpg</thumbnail>
 <fanart></fanart>
 </item>
