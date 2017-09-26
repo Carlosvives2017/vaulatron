@@ -1,27 +1,27 @@
 ************
-Cinecanal
+Estrenos
 *******************
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   • •   [/B][COLOR red]Cines Extrenos (url)   [COLOR red][B][COLOR red]• •[/COLOR][/B]</title>  
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   • •   [/B][COLOR red]Cines Estrenos (url)   [COLOR red][B][COLOR red]• •[/COLOR][/B]</title>  
 <link>http://about.uy/elecdeka</link>
-<thumbnail>http://4.bp.blogspot.com/-o4C_5HBUn6Y/WSBDeRzUSeI/AAAAAAAAA-M/gGuqyYKvIR8mO0fk4SP_VGkPa2X5MqirgCK4B/s1600/Peliculas.jpg</thumbnail>
-<fanart>http://comoaprenderinglesbien.com/wp-content/uploads/2014/08/películas-para-aprender-ingles.jpg</fanart>
+<thumbnail>http://heroessinlimite.com/wp-content/uploads/2016/11/Calendario-2017-01-1-1024x847.jpg</thumbnail>
+<fanart>http://heroessinlimite.com/wp-content/uploads/2016/11/Calendario-2017-01-1-1024x847.jpg</fanart>
 </item>
 ************
 
 ************
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Extrenos 1[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Estrenos 1[/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>http://pastebin.com/raw/yfYwgpxg</externallink>
-<thumbnail>http://4.bp.blogspot.com/-Q0R6z22O14I/WVZpcXWir1I/AAAAAAAABQA/Vh9akZM_ILo-M0uqEAi-pWYbc6572-nRQCK4BGAYYCw/s1600/cine%2Bcalidad.jpg</thumbnail>
+<thumbnail>http://heroessinlimite.com/wp-content/uploads/2016/11/Calendario-2017-01-1-1024x847.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Extrenos 2[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Estrenos 2[/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>https://pastebin.com/raw/jssb7iYm</externallink>
-<thumbnail>http://4.bp.blogspot.com/-Q0R6z22O14I/WVZpcXWir1I/AAAAAAAABQA/Vh9akZM_ILo-M0uqEAi-pWYbc6572-nRQCK4BGAYYCw/s1600/cine%2Bcalidad.jpg</thumbnail>
+<thumbnail>http://heroessinlimite.com/wp-content/uploads/2016/11/Calendario-2017-01-1-1024x847.jpg</thumbnail>
 </item>
 
 
@@ -51,7 +51,7 @@ BUCKYS MOVIES
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   • •   [/B][COLOR red]BUCKYS MOVIES (url) (ING)   [COLOR red][B][COLOR red]• •[/COLOR][/B]</title>  
 <link>http://about.uy/elecdeka</link>
-<thumbnail>https://4.bp.blogspot.com/-HKj5dya2JQk/WVNJZSbQ36I/AAAAAAAAAzc/e5_m9QwUd54gumErzG_Cc50Hc8CtXikSACLcBGAs/s400/fluxuscinemain.png</thumbnail>
+<thumbnail>http://redemption.me.uk/pics/icon.png</thumbnail>
 <fanart>http://comoaprenderinglesbien.com/wp-content/uploads/2014/08/películas-para-aprender-ingles.jpg</fanart>
 </item>
 
@@ -94,7 +94,7 @@ taquilla
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   • •   [/B][COLOR red]Peliculas Taquillas   [COLOR red][B][COLOR red]• • [/COLOR][/B]</title>  
 <link>http://about.uy/elecdeka</link>
-<thumbnail>http://4.bp.blogspot.com/-o4C_5HBUn6Y/WSBDeRzUSeI/AAAAAAAAA-M/gGuqyYKvIR8mO0fk4SP_VGkPa2X5MqirgCK4B/s1600/Peliculas.jpg</thumbnail>
+<thumbnail>http://1.bp.blogspot.com/-wmQB15O9bNE/WVZpdwHp1QI/AAAAAAAABRY/U4AiBcGIegkvgh9OrNu5emco2nRN7gPqgCK4BGAYYCw/s1600/taquillas2.jpg</thumbnail>
 <fanart>http://comoaprenderinglesbien.com/wp-content/uploads/2014/08/películas-para-aprender-ingles.jpg</fanart>
 </item>
 
@@ -117,7 +117,7 @@ taquilla
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-        <title>[COLOR][COLOR blue]•[/COLOR]  [makelist.param3]</title>
+        <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR][makelist.param3]</title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>$doregex[poster]</thumbnail>
 		<info>$doregex[plot]</info>
@@ -720,14 +720,14 @@ Series
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   • •   [/B][COLOR red]Series   [COLOR red][B][COLOR red]• •[/COLOR][/B]</title>  
 <link>http://about.uy/elecdeka</link>
-<thumbnail>http://4.bp.blogspot.com/-yjT-bV8tEMA/WYDBNTgIiNI/AAAAAAAABYE/abR6U6_-0qAjKAVwHWjQtRBtt22W8frrACK4BGAYYCw/s1600/series%2Ba.jpg</thumbnail>
+<thumbnail>http://2.bp.blogspot.com/-_xtjA8FD4gE/WVZpcryPA9I/AAAAAAAABQQ/QTNEMjzwX1IBPh7EKbB0egs8xxAUbfJ9ACK4BGAYYCw/s1600/Fantastico.jpg</thumbnail>
 <fanart>http://comoaprenderinglesbien.com/wp-content/uploads/2014/08/películas-para-aprender-ingles.jpg</fanart>
 </item>
 
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Series, español y castellano[/COLOR]</title>
-<thumbnail>http://1.bp.blogspot.com/-4kIX5G-sjO4/WN6zCfE_AJI/AAAAAAAAAh4/pOgc8Jz55MsZqvZ-j-ncDA3qNvYWsxprACK4B/s1600/series.jpg</thumbnail>
+<thumbnail>http://2.bp.blogspot.com/-_xtjA8FD4gE/WVZpcryPA9I/AAAAAAAABQQ/QTNEMjzwX1IBPh7EKbB0egs8xxAUbfJ9ACK4BGAYYCw/s1600/Fantastico.jpg</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://pastebin.com/raw/caVvkCvH</externallink>
 </item>
@@ -753,7 +753,7 @@ Terror
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Terror descomunal[/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>https://pastebin.com/raw/q40TPkgQ</externallink>
-<thumbnail>http://3.bp.blogspot.com/-JiupfBfySAM/WVZpeGXGh_I/AAAAAAAABRg/KwhhiURHnjA4rjZqHsMxJiHyfgslHUUlQCK4BGAYYCw/s1600/terror.jpg</thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-kzIU2TgN9zk/WVZpc9IP_ZI/AAAAAAAABQg/MrF36Ue5J_koVZ6smb7TUs0U-TPsjaPNgCK4BGAYYCw/s1600/Horror.jpg</thumbnail>
 </item>
 
 
@@ -879,7 +879,7 @@ item>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://3.bp.blogspot.com/-JiupfBfySAM/WVZpeGXGh_I/AAAAAAAABRg/KwhhiURHnjA4rjZqHsMxJiHyfgslHUUlQCK4BGAYYCw/s1600/terror.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/u__Kg1aUQVI/maxresdefault.jpg</thumbnail>
 <fanart>http://comoaprenderinglesbien.com/wp-content/uploads/2014/08/películas-para-aprender-ingles.jpg</fanart>
 </item>
 
@@ -919,7 +919,7 @@ item>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://3.bp.blogspot.com/-JiupfBfySAM/WVZpeGXGh_I/AAAAAAAABRg/KwhhiURHnjA4rjZqHsMxJiHyfgslHUUlQCK4BGAYYCw/s1600/terror.jpg</thumbnail>
+<thumbnail>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</thumbnail>
 <fanart>http://comoaprenderinglesbien.com/wp-content/uploads/2014/08/películas-para-aprender-ingles.jpg</fanart>
 </item>
 
@@ -960,7 +960,7 @@ item>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://3.bp.blogspot.com/-JiupfBfySAM/WVZpeGXGh_I/AAAAAAAABRg/KwhhiURHnjA4rjZqHsMxJiHyfgslHUUlQCK4BGAYYCw/s1600/terror.jpg</thumbnail>
+<thumbnail>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</thumbnail>
 <fanart>http://comoaprenderinglesbien.com/wp-content/uploads/2014/08/películas-para-aprender-ingles.jpg</fanart>
 </item>
 
@@ -979,7 +979,7 @@ Varias
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   • •   [/B][COLOR red]Peliculas Varias   [COLOR red][B][COLOR red]• •[/COLOR][/B]</title>  
 <link>http://about.uy/elecdeka</link>
-<thumbnail>http://4.bp.blogspot.com/-o4C_5HBUn6Y/WSBDeRzUSeI/AAAAAAAAA-M/gGuqyYKvIR8mO0fk4SP_VGkPa2X5MqirgCK4B/s1600/Peliculas.jpg</thumbnail>
+<thumbnail>http://1.bp.blogspot.com/-MIcOsTGzGuY/WSBBfDPOQXI/AAAAAAAAA9k/NIEvsBVWEzYR5Lsjt_kV_N_jkk4BpDWKwCK4B/s1600/pelis2.jpg</thumbnail>
 <fanart>http://comoaprenderinglesbien.com/wp-content/uploads/2014/08/películas-para-aprender-ingles.jpg</fanart>
 </item>
 
@@ -1061,7 +1061,7 @@ item>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://4.bp.blogspot.com/-o4C_5HBUn6Y/WSBDeRzUSeI/AAAAAAAAA-M/gGuqyYKvIR8mO0fk4SP_VGkPa2X5MqirgCK4B/s1600/Peliculas.jpg</thumbnail>
+<thumbnail>http://fabuestereo.emisorasunidas.com/sites/default/files/images/cantinflas.jpg</thumbnail>
 <fanart>http://comoaprenderinglesbien.com/wp-content/uploads/2014/08/películas-para-aprender-ingles.jpg</fanart>
 </item>
 
@@ -1104,7 +1104,7 @@ item>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://4.bp.blogspot.com/-o4C_5HBUn6Y/WSBDeRzUSeI/AAAAAAAAA-M/gGuqyYKvIR8mO0fk4SP_VGkPa2X5MqirgCK4B/s1600/Peliculas.jpg</thumbnail>
+<thumbnail>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</thumbnail>
 <fanart>http://comoaprenderinglesbien.com/wp-content/uploads/2014/08/películas-para-aprender-ingles.jpg</fanart>
 </item>
 
@@ -1144,7 +1144,7 @@ item>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://4.bp.blogspot.com/-o4C_5HBUn6Y/WSBDeRzUSeI/AAAAAAAAA-M/gGuqyYKvIR8mO0fk4SP_VGkPa2X5MqirgCK4B/s1600/Peliculas.jpg</thumbnail>
+<thumbnail>http://www4.pictures.zimbio.com/mp/Y0dohdo_cH1x.jpg</thumbnail>
 <fanart>http://comoaprenderinglesbien.com/wp-content/uploads/2014/08/películas-para-aprender-ingles.jpg</fanart>
 </item>
 
@@ -1185,7 +1185,7 @@ item>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://4.bp.blogspot.com/-o4C_5HBUn6Y/WSBDeRzUSeI/AAAAAAAAA-M/gGuqyYKvIR8mO0fk4SP_VGkPa2X5MqirgCK4B/s1600/Peliculas.jpg</thumbnail>
+<thumbnail>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</thumbnail>
 <fanart>http://comoaprenderinglesbien.com/wp-content/uploads/2014/08/películas-para-aprender-ingles.jpg</fanart>
 </item>
 
@@ -1225,7 +1225,7 @@ item>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://4.bp.blogspot.com/-o4C_5HBUn6Y/WSBDeRzUSeI/AAAAAAAAA-M/gGuqyYKvIR8mO0fk4SP_VGkPa2X5MqirgCK4B/s1600/Peliculas.jpg</thumbnail>
+<thumbnail>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</thumbnail>
 <fanart>http://comoaprenderinglesbien.com/wp-content/uploads/2014/08/películas-para-aprender-ingles.jpg</fanart>
 </item>
 
@@ -1266,6 +1266,6 @@ item>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://4.bp.blogspot.com/-o4C_5HBUn6Y/WSBDeRzUSeI/AAAAAAAAA-M/gGuqyYKvIR8mO0fk4SP_VGkPa2X5MqirgCK4B/s1600/Peliculas.jpg</thumbnail>
+<thumbnail>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</thumbnail>
 <fanart>http://comoaprenderinglesbien.com/wp-content/uploads/2014/08/películas-para-aprender-ingles.jpg</fanart>
 </item>
