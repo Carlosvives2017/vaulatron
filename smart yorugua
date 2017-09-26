@@ -670,23 +670,7 @@ _____o$$$$$$$$$____$$$$$$$$$$$$$____$$$$$$$$$o
 ____o$$$$$$$$$______$$$$$$$$$$$______$$$$$$$$$$o
 ___$$$$$$$$$$$______$$$$$$$$$$$______$$$$$$$$$$$$
 __$$$$$$$$$$$$$____$$$$$$$$$$$$$____$$$$$$$$$$$$$$
-_$<item><title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]CXN TV</title>
-<link>$doregex[makelist]</link><regex><name>makelist</name><listrepeat><![CDATA[<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist.param3]</title><fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
-<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
- <regex>
-<name>play</name>
-<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
- <page>[makelist.param1]</page>
-</regex>
-<thumbnail>[makelist.param2]</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
-]]></listrepeat>
-<expres>items-canales[\W\w\S]{0,18}href="(.*?)"[\W\w\S]{0,35}src="(.*?)"[\W\w\S]{0,40}alt="(.*?)"</expres>
-<page>https://www.cxntv.com/canales/</page>
-</regex>
-<thumbnail>https://lh3.ggpht.com/OxkOuDJ5d8axmB-Zl9sZhhR5L8dJ0-vRvPMFBbx9xxn-HCkytGPaYRmHj_ZbscmIyQ=w300</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
-</item>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+_$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 o$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"_"$$$
