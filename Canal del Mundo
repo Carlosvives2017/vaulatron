@@ -2007,23 +2007,12 @@ http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdnsp.tvpublica.com.ar/wp-content/uploads/2016/04/12204727/encuentro.jpg" group-title="ARGENTINA",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Encuentro
 http://lsdencuentrohls-lh.akamaihd.net/i/encuentrohls_1@96967/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/bEAp2uX.jpg" group-title="ARGENTINA",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]ESPN
-http://tecnotv.xyz/media/espn
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/tV84D2Q.jpg" group-title="ARGENTINA",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]ESPN 2
-http://tecnotv.xyz/media/espn2
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/9uOhMOc.jpg" group-title="ARGENTINA",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]ESPN 3
-http://tecnotv.xyz/media/espn3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/378800000469137087/0d9032e1e3a7e6b29742ea8e3f679af4_400x400.png" group-title="ARGENTINA",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]ESPN Radio 107.9
-http://espnsslarugby-i.akamaihd.net/hls/live/225068/rugbytest/64/64.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://insiderlatam.com/wp-content/uploads/2016/04/Europa-Europa-1.jpg" group-title="ARGENTINA",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Europa Europa
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qXuM4hT.png" group-title="ARGENTINA",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Fox Sports
-http://50.97.142.181:8080/foxsportt.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-Ry0-7pCpsqQ/UoAzsV6M8zI/AAAAAAAAi5M/kq_4zQKwg10/s1600/elgarage-2013.png" group-title="ARGENTINA",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
