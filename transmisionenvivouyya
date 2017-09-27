@@ -2524,7 +2524,7 @@ VeraTv
 Cambios 1
 *********************
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Verdirrojo vs Cordón [COLOR blue]~[COLOR deepskyblue] 22/09/2017 20:00 HD[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Welcome vs Bohemios [COLOR blue]~[COLOR deepskyblue] 28/09/2017 20:00 HD[/COLOR]</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -2535,7 +2535,7 @@ Cambios 1
 <regex>
 <name>get-ifr</name>
 <expres>'src', '(.*extras.*?)'</expres>
-<page>http://tv.vera.com.uy/evento/32447</page>
+<page>http://tv.vera.com.uy/evento/32570</page>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
@@ -2546,7 +2546,7 @@ Cambios 1
 *********************
 Cambios 2
 *********************
-<item>
+item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Turismo Carretera [COLOR blue]~[COLOR deepskyblue] 24/09/2017 20:00 HD[/COLOR]</title>
 <link>$doregex[get-url]</link>
 <regex>
