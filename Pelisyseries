@@ -2289,7 +2289,9 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 <listrepeat><![CDATA[
         <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist.param3]</title>
         <link>$doregex[getUrl]</link>
-		<thumbnail>$doregex[poster]</thumbnail>
+		<thumbnail>http://1.bp.blogspot.com/-wmQB15O9bNE/WVZpdwHp1QI/AAAAAAAABRY/U4AiBcGIegkvgh9OrNu5emco2nRN7gPqgCK4BGAYYCw/s1600/taquillas2.jpg</thumbnail>
+<fanart>http://www.vanguardia.com.mx/sites/default/files/cine_24.jpg</fanart>
+		thumbnail>$doregex[poster]</thumbnail>
 		<info>$doregex[plot]</info>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
