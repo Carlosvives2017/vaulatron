@@ -10468,7 +10468,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 <thumbnail>http://2.bp.blogspot.com/-KIQ9UsL-s6Y/WSBBfIz_-rI/AAAAAAAAA-A/fFJ21CGrRbsLMUk7D5D5nAVLk6jvxuX2wCK4B/s1600/Deportes.jpg</thumbnail>
 <fanart>http://www.rotadeportes.com.ar/img/slider/deportes.jpg</fanart>   
 </item>
-off
 ____________oo$$$$$$$$$$$$$$$$$$$$$$$$o
 _________oo$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$o
 _______o$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$o
@@ -11260,7 +11259,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 <thumbnail>http://2.bp.blogspot.com/-KIQ9UsL-s6Y/WSBBfIz_-rI/AAAAAAAAA-A/fFJ21CGrRbsLMUk7D5D5nAVLk6jvxuX2wCK4B/s1600/Deportes.jpg</thumbnail>
 <fanart>http://www.rotadeportes.com.ar/img/slider/deportes.jpg</fanart>   
 </item>
-off
 ____________oo$$$$$$$$$$$$$$$$$$$$$$$$o
 _________oo$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$o
 _______o$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$o
@@ -12025,11 +12023,7 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
-<channel>
-<name>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Max deportv</name>
-<info>Futbol</info>
-<thumbnail>http://2.bp.blogspot.com/-KIQ9UsL-s6Y/WSBBfIz_-rI/AAAAAAAAA-A/fFJ21CGrRbsLMUk7D5D5nAVLk6jvxuX2wCK4B/s1600/Deportes.jpg</thumbnail>
-<fanart>http://www.rotadeportes.com.ar/img/slider/deportes.jpg</fanart>
+
 
 
 
@@ -12039,7 +12033,7 @@ Max deportv
 *********************************************
 
 <channel>
-<name>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Max deportv A</name>
+<name>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Max deportv</name>
 <info>Futbol</info>
 <thumbnail>http://2.bp.blogspot.com/-KIQ9UsL-s6Y/WSBBfIz_-rI/AAAAAAAAA-A/fFJ21CGrRbsLMUk7D5D5nAVLk6jvxuX2wCK4B/s1600/Deportes.jpg</thumbnail>
 <fanart>http://www.rotadeportes.com.ar/img/slider/deportes.jpg</fanart>
@@ -12048,7 +12042,7 @@ Max deportv
 
 **
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Max deportv 01</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Max deportv A</title>
 <link>$doregex[makelist]</link>
 
 <regex>
