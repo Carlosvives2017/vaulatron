@@ -65,7 +65,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
  <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist.param1]</title>
- <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR blue]Ecemc[/COLOR] [makelist.param1]</link>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR blue]Elecdeka[/COLOR] [makelist.param1]</link>
  <thumbnail>https://goo.gl/yZhfFG</thumbnail>
 <fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
  ]]></listrepeat>
