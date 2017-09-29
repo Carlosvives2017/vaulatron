@@ -180,6 +180,26 @@ Canales Vera Tv
 </item>
 
 <item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tv Ciudad</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/6046</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz0ngPTCvdESfELJlB_jdlwkFGACK4BGAYYCw/s1600/tv%2Bciudad%2Bdiversidad.jpg</thumbnail>
+thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6046/240/default.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]VTV</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
@@ -284,25 +304,6 @@ Canales Vera Tv
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/7609/240/default.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tv Ciudad</title>
-<link>$doregex[get-url]</link>
-<regex>
-<name>get-url</name>
-<expres>file: "(.*?)"</expres>
-<page>$doregex[get-ifr]</page>
-<referer>http://tv.vera.com.uy</referer>
-</regex>
-<regex>
-<name>get-ifr</name>
-<expres>'src', '(.*extras.*?)'</expres>
-<page>http://tv.vera.com.uy/canal/6046</page>
-<referer>http://tv.vera.com.uy</referer>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6046/240/default.jpg</thumbnail>
 </item>
 
 <item>
