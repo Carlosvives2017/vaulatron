@@ -1,5 +1,4 @@
-No robes pelotas de goma !!!!!!
-Ayudame si algun canal no funciona
+
 
 
 
@@ -187,52 +186,82 @@ Ayudame si algun canal no funciona
 </item> 
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Foxsport 1 sd</title>
-
-            <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.pubucaster.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.ucaster.me/membedplayer/foxs097ss/1/620/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.ucaster.me</referer>
-			</regex> 
-			<regex>
-			<name>hls</name>
-			<expres>hlsUrl \+ \(\"(.*?)"</expres>
-			<page>http://www.ucaster.me/membedplayer/foxs097ss/1/620/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.ucaster.me</referer>
-			</regex>
-
-<thumbnail>http://www.thelogodb.com/images/media/logo/uyusws1446157799.png/medium</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Foxsport 2 sd</title>
-
-<link>http://$doregex[ip]$doregex[m3u8]</link>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]FOX SPORTS 1 URU</title>
+<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
 <regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.publish247.xyz:1935/loadbalancer</page>
+<name>play</name>
+<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
+<page>https://www.cxntv.com/canales/tv-foxuy/</page>
 </regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.247bay.tv/membedplayer/sports2caballona/2/600/400</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.247bay.tv</referer>
-
-<thumbnail>http://www.thelogodb.com/images/media/logo/uyusws1446157799.png/medium</thumbnail>
-<fanart></fanart>
+<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/01/tv-foxsports-uru-16-hd.png</thumbnail>
 </item>
+ 
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]FOX SPORTS 1 ARG</title>
+<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
+<regex>
+<name>play</name>
+<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
+<page>https://www.cxntv.com/canales/tv-foxar/</page>
+</regex>
+<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2014/05/tv-foxsports-arg-16-hd.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]FOX SPORTS 2 ARG</title>
+<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
+<regex>
+<name>play</name>
+<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
+<page>https://www.cxntv.com/canales/tv-fox2/</page>
+</regex>
+<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/02/tv-foxsports-2-16-hd.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]FOX SPORTS 3 ARG</title>
+<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
+<regex>
+<name>play</name>
+<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
+<page>https://www.cxntv.com/canales/fox-sports-3/</page>
+</regex>
+<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/07/tv-foxsports-3-16.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]ESPN 1 ARG</title>
+<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
+<regex>
+<name>play</name>
+<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
+<page>https://www.cxntv.com/canales/tv-espn1</page>
+</regex>
+<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/09/tv-espn.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]ESPN 2 ARG</title>
+<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
+<regex>
+<name>play</name>
+<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
+<page>https://www.cxntv.com/canales/tv-espn2/</page>
+</regex>
+<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/09/tv-espn2.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]ESPN 3 ARG</title>
+<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
+<regex>
+<name>play</name>
+<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
+<page>https://www.cxntv.com/canales/espn3/</page>
+</regex>
+<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/09/tv-espn3.png</thumbnail>
+</item>
+<item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Foxsport br</title>
@@ -294,23 +323,6 @@ Ayudame si algun canal no funciona
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSecdTif0K-6lcr36_mJtnwm5ON-DbQORMjOIkTmrtolHB5ALJg</thumbnail>
 <fanart></fanart> 
 </item> 
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Espn</title>
-<sportsdevil>http://www.tarjetarojatv.net/rojadirecta/ver-espn-deportes-en-vivo.html</sportsdevil>
-<referer>http://www.tarjetarojaonline.xyz/reproductor/espndeportes.php?width=620&height=438</referer>
-<thumbnail>http://latino-webtv.com/gallery_gen/b42331787eb3c9aea4e6a39789cec9c8_150x80.png</thumbnail>
-<fanart></fanart>
-</item> 
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Espn 2</title>
-<sportsdevil>http://www.tarjetarojatv.net/rojadirecta/ver-espn-2-por-internet.html</sportsdevil>
-<referer>http://www.tarjetarojaonline.xyz/reproductor/espn2.php?width=620&height=438</referer>
-<thumbnail>http://i59.tinypic.com/242bo6v.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
 
 -------------------------------------------------------------------------------
 <item>
