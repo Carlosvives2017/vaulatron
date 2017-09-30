@@ -83,13 +83,13 @@ http://tecnotv.xyz/id=multi20/peliculas/elmuñecodiabolico.php
 http://tecnotv.xyz/id=multi20/peliculas/elmuñecodiabolico2.php
 #EXTINF:-1 tvg-logo="http://imgur.com/Rfs6zdR.jpg" group-title="Terror",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]It
 http://tecnotv.xyz/id=multi20/peliculas/it.php
-#EXTINF:-1 tvg-logo="http://imgur.com/iEp9Ksw.jpg" group-title="Terror",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Dark Tapes
-http://tecnotv.xyz/id=multi20/peliculas/darktapes.php
 
 
 #EXTINF:-1 tvg-logo="http://heroessinlimite.com/wp-content/uploads/2016/11/Calendario-2017-01-1-1024x847.jpg" group-title="",[COLOR deepskyred]•[/COLOR][B][COLOR red]   • •   [/B][COLOR red]Variados   [COLOR red][B][COLOR red]• •[/COLOR][/B]
 http://tero.com
 
+#EXTINF:-1 tvg-logo="http://imgur.com/iEp9Ksw.jpg" group-title="Terror",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Dark Tapes
+http://tecnotv.xyz/id=multi20/peliculas/darktapes.php
 #EXTINF:-1 tvg-logo="http://bit.ly/PORDARK" group-title="Estreno",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]THE DARK TAPES 
 http://tecnotv.xyz/tv/id2017darktapes
 #EXTINF:-1 tvg-logo="http://bit.ly/PORGHOST" group-title="Estreno",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Ghost In The Shell 
