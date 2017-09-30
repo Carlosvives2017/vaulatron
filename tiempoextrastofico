@@ -9,7 +9,7 @@
 ----------------------------------------------------------
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Futbol livesports [COLOR blue]~[COLOR deepskyblue] VTV[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Livesports [COLOR blue]~[COLOR deepskyblue] VTV[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -22,7 +22,7 @@
 </item>
 -------------------------------
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Futbol Wide 1 [COLOR blue]~[COLOR deepskyblue] Goltv [COLOR blue]~[COLOR deepskyblue] VTV [COLOR blue]~[COLOR deepskyblue] Foxsport[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Futbol Wide 1 [COLOR blue]~[COLOR deepskyblue] Goltv [COLOR blue]~[COLOR deepskyblue] VTV [COLOR blue]~[COLOR deepskyblue] Foxsport [COLOR blue]~[COLOR white] widestream[/COLOR]</title>
 <link>$doregex[get-id]</link>
 <regex>
 <name>get-id</name>
@@ -322,7 +322,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Deportivotve Wide [COLOR blue]~[COLOR deepskyblue] TyC [COLOR blue]~[COLOR deepskyblue] Foxsport [COLOR blue]~[COLOR deepskyblue] DirecTv ar [COLOR blue][/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Deportivotve [COLOR blue]~[COLOR deepskyblue] TyC [COLOR blue]~[COLOR deepskyblue] Foxsport [COLOR blue]~[COLOR deepskyblue] DirecTv ar [COLOR blue]~[COLOR white] widestream[/COLOR]</title>
 <link>$doregex[get-id]</link>
 <regex>
 <name>get-id</name>
