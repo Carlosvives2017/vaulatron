@@ -67,7 +67,17 @@ http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/chunklist_b5960
 <thumbnail>http://www.eds-connection.com/wp-content/uploads/2016/09/telefe-logo-copia.png</thumbnail>
 <fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
 </item> 
-https://hls-ord-1a.vaughnsoft.net/ams/live/live_beto_10/chunklist.m3u8|User-Agent=Mozilla/5.0
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Telefe internacional</title>
+<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-telefe/</link>
+<regex>
+<name>play</name>
+<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
+<page>https://www.cxntv.com/canales/tv-telefe/</page>
+</regex>
+<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2016/03/telefe-17.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TN Noticias</title>
