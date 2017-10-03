@@ -1,0 +1,34 @@
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Free [COLOR blue]IPTV[/COLOR]</title>
+<thumbnail>http://2.bp.blogspot.com/-zMbgFJSvMZ0/WSBbXB13IfI/AAAAAAAABBE/QXZQN6gu_UctmEJMtOGRRhnctdH5xbOnACK4B/s1600/Free%2Biptv.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-zMbgFJSvMZ0/WSBbXB13IfI/AAAAAAAABBE/QXZQN6gu_UctmEJMtOGRRhnctdH5xbOnACK4B/s1600/Free%2Biptv.jpg</fanart>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Servers: [COLOR deepskyblue][makelist2.param2][/COLOR]</title>
+ <link>$doregex[makelist]</link>
+<thumbnail>https://i.ytimg.com/vi/J32pBpYU6AU/hqdefault.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-zMbgFJSvMZ0/WSBbXB13IfI/AAAAAAAABBE/QXZQN6gu_UctmEJMtOGRRhnctdH5xbOnACK4B/s1600/Free%2Biptv.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>Daily m3u playlist (.*?)2017]]></expres>
+<page>http://iptvsatlinks.blogspot.mx/search?max-results=40</page>
+</regex>
+<regex>
+<thumbnail>https://i.ytimg.com/vi/J32pBpYU6AU/hqdefault.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-zMbgFJSvMZ0/WSBbXB13IfI/AAAAAAAABBE/QXZQN6gu_UctmEJMtOGRRhnctdH5xbOnACK4B/s1600/Free%2Biptv.jpg</fanart>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Server:  [COLOR deepskyblue][makelist.param1][/COLOR] [COLOR blue]~[COLOR] USER [COLOR lime][makelist.param2][/COLOR]</title>
+ <link>NA</link>
+ <thumbnail>https://i.ytimg.com/vi/J32pBpYU6AU/hqdefault.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-zMbgFJSvMZ0/WSBbXB13IfI/AAAAAAAABBE/QXZQN6gu_UctmEJMtOGRRhnctdH5xbOnACK4B/s1600/Free%2Biptv.jpg</fanart>
+<externallink>http://[makelist.param1]/get.php?username=[makelist.param2]&amp;password=[makelist.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
+ ]]></listrepeat>
+<expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/J32pBpYU6AU/hqdefault.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-zMbgFJSvMZ0/WSBbXB13IfI/AAAAAAAABBE/QXZQN6gu_UctmEJMtOGRRhnctdH5xbOnACK4B/s1600/Free%2Biptv.jpg</fanart>
+</item>
