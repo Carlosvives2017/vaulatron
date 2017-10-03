@@ -174,7 +174,7 @@ http://200.42.92.149/live/mgzntv/mgzntv/playlist.m3u8|User-Agent=ArtearPlayer/3.
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal De Las Estrellas Internacional</title>
 <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/e/eb/Canal_de_las_Estrellas_2006_logo.PNG</thumbnail>
+<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2017/09/tv-lasestrellas.png</thumbnail>
 <fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
 </item>
 
@@ -300,14 +300,14 @@ http://200.42.92.149/live/mgzntv/mgzntv/playlist.m3u8|User-Agent=ArtearPlayer/3.
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Antena 3</title>
 <link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8</link>
-<thumbnail>http://1.bp.blogspot.com/-vGqXxixtAkU/TSUyW-nxyLI/AAAAAAAAEMs/dY2Lf7PAYe8/s71/antena3.PNG</thumbnail>
+<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2017/09/s-a3int.png</thumbnail>
 <fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
 </item>
  
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La Sexta</title>
 <link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</link>
-<thumbnail>http://1.bp.blogspot.com/-lM6k84yLiJw/VypV3WCKCeI/AAAAAAAAb8c/vFajPL-Lf1kx8_XauvQNjtYO3qE574qFgCCo/s71/la-sexta.PNG</thumbnail>
+<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2017/09/s-lasexta.png</thumbnail>
 <fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
 </item>
  
@@ -315,7 +315,7 @@ http://200.42.92.149/live/mgzntv/mgzntv/playlist.m3u8|User-Agent=ArtearPlayer/3.
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Antena 3 Spain
 </title>
 <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png</thumbnail>
+<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2017/09/s-a3int.png</thumbnail>
 <fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
 </item>
 
