@@ -41,7 +41,7 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][COLOR blue]Listado m3u[/COLOR]    ( [makelist.param1] )  </title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][COLOR]Listado m3u[/COLOR][COLOR deepskyblue] ([makelist.param1])[/COLOR]</title>
 <thumbnail>http://2.bp.blogspot.com/-BDRLCCF13t8/WUh8Ez80JZI/AAAAAAAABFg/typbn3o_gok-ERxVqL162BNw66X5YELiACK4BGAYYCw/s1600/IPTV%2BMUNDIAL.jpg</thumbnail>
 <fanart>http://2.bp.blogspot.com/-zMbgFJSvMZ0/WSBbXB13IfI/AAAAAAAABBE/QXZQN6gu_UctmEJMtOGRRhnctdH5xbOnACK4B/s1600/Free%2Biptv.jpg</fanart>
 <link>NA</link>
