@@ -34,7 +34,7 @@
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Listas Mundial m3u[COLOR blue]  >  [COLOR lightslategray]servers upload[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Listas Mundial m3u</title>
 <thumbnail>http://2.bp.blogspot.com/-BDRLCCF13t8/WUh8Ez80JZI/AAAAAAAABFg/typbn3o_gok-ERxVqL162BNw66X5YELiACK4BGAYYCw/s1600/IPTV%2BMUNDIAL.jpg</thumbnail>
 <fanart>http://2.bp.blogspot.com/-zMbgFJSvMZ0/WSBbXB13IfI/AAAAAAAABBE/QXZQN6gu_UctmEJMtOGRRhnctdH5xbOnACK4B/s1600/Free%2Biptv.jpg</fanart>
 <link>$doregex[makelist]</link>
