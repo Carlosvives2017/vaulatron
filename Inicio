@@ -10,7 +10,7 @@
 </item>
  
 <item>
-<title>[COLOR deepskyred]•[/COLOR][COLOR deepskyred]*****[COLOR lightslategray]Actualizado: 28 sep 2017[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][COLOR deepskyred]*****[COLOR lightslategray]Actualizado: 05 oct 2017[/COLOR]</title>
     <thumbnail>https://goo.gl/EsHfca</thumbnail>
     <fanart>https://s26.postimg.org/c5v7ga3a1/fanart.jpg</fanart>
     <link>http://ignoreme</link>
@@ -57,8 +57,8 @@
 def GetLSProData(page_data,Cookie_Jar,m):
    import xbmcgui
    dialog = xbmcgui.Dialog()
-   ret = dialog.select('[B][COLOR red]• •   [/B][COLOR red]Canales IPTV   [COLOR red][B][COLOR red]• •[/COLOR][/B][/COLOR]', ['[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Demo [COLOR blue]IPTV[/COLOR]', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]ExabyteTv', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][COLOR lime]Android-Latino[/COLOR]', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeka [COLOR red](En construccion)[/COLOR]', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Fluxus Tv'])
-   lists = ['https://goo.gl/yFFsBN', 'http://exabytetv.info/lista.m3u', 'https://pastebin.com/raw/qnXPmZ7k', 'https://pastebin.com/raw/YtEm0hgr', 'https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u']
+   ret = dialog.select('[B][COLOR red]• •   [/B][COLOR red]Canales IPTV   [COLOR red][B][COLOR red]• •[/COLOR][/B][/COLOR]', ['[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Demo [COLOR blue]IPTV[/COLOR]', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]ExabyteTv', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][COLOR lime]Android-Latino[/COLOR]' , '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][COLOR lime]Android-Latino Pelis[/COLOR]' , '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeka [COLOR red](En construccion)[/COLOR]', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Fluxus Tv'])
+   lists = ['https://goo.gl/yFFsBN', 'http://exabytetv.info/lista.m3u', 'https://pastebin.com/raw/qnXPmZ7k', 'https://goo.gl/fP6JjA', 'https://pastebin.com/raw/YtEm0hgr', 'https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u']
    return lists[ret]
 ]]></expres>
 <page></page>
