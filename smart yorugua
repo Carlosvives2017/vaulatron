@@ -282,12 +282,19 @@ http://200.42.92.149/live/mgzntv/mgzntv/playlist.m3u8|User-Agent=ArtearPlayer/3.
 <fanart>http://3.bp.blogspot.com/-TrG9jLecEeE/WZngTmTl3rI/AAAAAAAAww0/RlMAzCpblg4WJIflYbcymypyzrxFcLjsgCK4BGAYYCw/s800/BANNER-WEB-canal-2-01.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Caracol[/COLOR]</title> 
 <link>http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8?&dnt=true&ref=http%3A%2F%2Flive2.caracoltv.com%2FNoticias%2Fpl-ms.html</link> 
 <thumbnail>http://2.bp.blogspot.com/-uY_o9klEniE/WdbKCioX8kI/AAAAAAAABmQ/GxCNzwbiZhUSjcukhicjtF3TEqCC60pDwCK4BGAYYCw/s1600/caracol.jpg</thumbnail>
 <fanart>http://photos.wikimapia.org/p/00/02/12/37/22_big.jpg</fanart>
 </item> 
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Caracol HD[/COLOR]</title> 
+<link>http://vivoplay-i.akamaihd.net/hls/live/253482/canal1/master2500k.m3u8</link> 
+<thumbnail>http://2.bp.blogspot.com/-uY_o9klEniE/WdbKCioX8kI/AAAAAAAABmQ/GxCNzwbiZhUSjcukhicjtF3TEqCC60pDwCK4BGAYYCw/s1600/caracol.jpg</thumbnail>
+<fanart>http://photos.wikimapia.org/p/00/02/12/37/22_big.jpg</fanart>
+</item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]CNN Chile[/COLOR]</title> 
@@ -484,16 +491,6 @@ http://200.42.92.149/live/mgzntv/mgzntv/playlist.m3u8|User-Agent=ArtearPlayer/3.
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZUF8d7HJtaXKg32xFmPUa52RVN663ZWCYBbe0FNIWl_S4wlyz</fanart>
 </item>
 
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]AYM Sports HD[/COLOR]</title> 
-<link>http://vivoplay-i.akamaihd.net/hls/live/255324/canal4/master2500k.m3u8</link> 
-<thumbnail>http://3.bp.blogspot.com/-f7BVuzaZ5yc/Wdfg3OgxqSI/AAAAAAAABtA/d1pFVJt_MdI3ajgtgLGSGxL93J3dKNjSACK4BGAYYCw/s1600/aymsport.jpg</thumbnail>
-<fanart>http://3.bp.blogspot.com/-f7BVuzaZ5yc/Wdfg3OgxqSI/AAAAAAAABtA/d1pFVJt_MdI3ajgtgLGSGxL93J3dKNjSACK4BGAYYCw/s1600/aymsport.jpg</fanart>
-</item>
 
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Caracol HD[/COLOR]</title> 
-<link>http://vivoplay-i.akamaihd.net/hls/live/253482/canal1/master2500k.m3u8</link> 
-<thumbnail>http://2.bp.blogspot.com/-uY_o9klEniE/WdbKCioX8kI/AAAAAAAABmQ/GxCNzwbiZhUSjcukhicjtF3TEqCC60pDwCK4BGAYYCw/s1600/caracol.jpg</thumbnail>
-<fanart>http://photos.wikimapia.org/p/00/02/12/37/22_big.jpg</fanart>
-</item>
+
+
