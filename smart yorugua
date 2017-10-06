@@ -73,7 +73,7 @@ http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/chunklist_b5960
 <fanart>https://i.ytimg.com/vi/s7cPPjLahhM/maxresdefault.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Telefe[/COLOR]</title> 
 <link>http://us.watcha.live/ch6/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link>
 <thumbnail>http://4.bp.blogspot.com/-xHd7rFI0uXI/WdaNiwQoWMI/AAAAAAAABlI/yDYlhn09Fm0o0gnlJ83sotvf5I_5uR2VACK4BGAYYCw/s1600/telefe.jpg</thumbnail>
@@ -81,13 +81,20 @@ http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/chunklist_b5960
 </item> 
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Telefe int</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Telefe</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-telefe/</link>
 <regex>
 <name>play</name>
 <expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
 <page>https://www.cxntv.com/canales/tv-telefe/</page>
 </regex>
+<thumbnail>http://4.bp.blogspot.com/-xHd7rFI0uXI/WdaNiwQoWMI/AAAAAAAABlI/yDYlhn09Fm0o0gnlJ83sotvf5I_5uR2VACK4BGAYYCw/s1600/telefe.jpg</thumbnail>
+<fanart>http://telectronica.com/wp-content/uploads/telefe-3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Telefe HD[/COLOR]</title> 
+<link>http://vivoplay-i.akamaihd.net/hls/live/261555/canal1/master2500k.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-xHd7rFI0uXI/WdaNiwQoWMI/AAAAAAAABlI/yDYlhn09Fm0o0gnlJ83sotvf5I_5uR2VACK4BGAYYCw/s1600/telefe.jpg</thumbnail>
 <fanart>http://telectronica.com/wp-content/uploads/telefe-3.jpg</fanart>
 </item>
