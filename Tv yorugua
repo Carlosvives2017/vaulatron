@@ -129,46 +129,6 @@ item>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal M</title>
-<link>$doregex[get-url]</link>
-<regex>
-<name>get-url</name>
-<expres>file: "(.*?)"</expres>
-<page>$doregex[get-ifr]</page>
-<referer>http://tv.vera.com.uy</referer>
-</regex>
-<regex>
-<name>get-ifr</name>
-<expres>'src', '(.*extras.*?)'</expres>
-<page>http://tv.vera.com.uy/canal/21259</page>
-<referer>http://tv.vera.com.uy</referer>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/21259/240/default.jpg</thumbnail>
-<fanart>http://www.montevideo.com.uy/plantillas/temas17/canal-M-17/images/canalm@3.png<fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]1000 x Hra Tv</title>
-<link>$doregex[get-url]</link>
-<regex>
-<name>get-url</name>
-<expres>file: "(.*?)"</expres>
-<page>$doregex[get-ifr]</page>
-<referer>http://tv.vera.com.uy</referer>
-</regex>
-<regex>
-<name>get-ifr</name>
-<expres>'src', '(.*extras.*?)'</expres>
-<page>http://tv.vera.com.uy/canal/31488</page>
-<referer>http://tv.vera.com.uy</referer>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/31488/240/default.jpg</thumbnail>
-<fanart>https://petitmuseo.files.wordpress.com/2011/09/fiesta7.jpg<fanart>
-</item>
-
-<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal 12 Melo</title>
 <link>$doregex[get-url]</link>
 <regex>
@@ -185,7 +145,7 @@ item>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6074/240/default.jpg</thumbnail>
-<fanart>http://www.lagalenafm.com/images/banner.png<fanart>
+<fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6074/240/default.jpg<fanart>
 </item>
 
 <item>
@@ -206,6 +166,46 @@ item>
 </regex>
 <thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/7609/240/default.jpg</thumbnail>
 <fanart>http://www.prensario.net/Multimedios/imgs/17604_468.jpg<fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal M</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/21259</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/21259/240/default.jpg</thumbnail>
+<fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/21259/240/default.jpg<fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]1000 x Hra Tv</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/31488</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/31488/240/default.jpg</thumbnail>
+<fanart>https://petitmuseo.files.wordpress.com/2011/09/fiesta7.jpg<fanart>
 </item>
 
 <item>
