@@ -29,7 +29,7 @@ title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeka 
 </regex>
 
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32583/240/default.jpg</fanart>
+<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart> 
 </item>
 
 link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-canal10/</link>
