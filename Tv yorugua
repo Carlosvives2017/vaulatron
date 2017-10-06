@@ -15,6 +15,7 @@
 <page>https://www.cxntv.com/canales/tv-montecarlo/</page>
 </regex>
 <thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6040/240/default.jpg</thumbnail>
+<fanart>http://www.panoramaaudiovisual.com/wp-content/uploads/2014/08/Monte-Carlo-Tv-2-web.jpg<fanart>
 </item>
  
 <item>
@@ -34,6 +35,7 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10425/240/default.jpg</thumbnail>
+<fanart>http://www.canal7.com.uy/images/logo.png<fanart>
 </item>
 
 <item>
@@ -45,6 +47,7 @@
 <page>http://livestream.com/accounts/13567583/events/6415713/player?width=560&amp;height=540&amp;autoPlay=true&amp;mute=false</page>
 </regex>
 <thumbnail>http://1.bp.blogspot.com/-oc9NgiKpESk/WdcDHrWVdyI/AAAAAAAABqU/f6Q-RKy2KxwJH6MpiXPB7aogSX4KMi8JACK4BGAYYCw/s1600/teledoce.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/media/CIyDP9TW8AAS1TE.jpg<fanart>
 </item>
 
 <item>
@@ -56,6 +59,7 @@
 <page>https://www.cxntv.com/canales/tv-canal10/</page>
 </regex>
 <thumbnail>http://1.bp.blogspot.com/-aCtRxr6eG3Y/WdcDH87QJRI/AAAAAAAABqg/gROcAtbijBwkTRv8FhsjVm9Yr9fkcpbFwCK4BGAYYCw/s1600/saeta%2Btv.jpg</thumbnail>
+<fanart>http://brecha.com.uy/wp-content/uploads/2017/04/02-Canal-10-Foto-FERNANDO-PENA.jpg<fanart>
 </item>
 
 <item>
@@ -76,6 +80,7 @@
 </regex>
 thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz0ngPTCvdESfELJlB_jdlwkFGACK4BGAYYCw/s1600/tv%2Bciudad%2Bdiversidad.jpg</thumbnail>
 <thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6046/240/default.jpg</thumbnail>
+<fanart>http://www.carve850.com.uy/wp-content/uploads/2016/08/tv-ciudad.jpg<fanart>
 </item>
 
 <item>
@@ -88,6 +93,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://2.bp.blogspot.com/-ETsp5TS-wgo/WdcDH1BtL0I/AAAAAAAABqk/FBQNijAQRF0v5zV0a596YEC8U4F7mc5RwCK4BGAYYCw/s1600/vtv.jpg</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQulKg0WyYEKhOnA_VDsNEUNqL2qSbNu4WXd5Nt1l6QmAnYFFhEVQ<fanart>
 </item>
 
 item>
@@ -119,6 +125,7 @@ item>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6042/240/default.jpg</thumbnail>
+<fanart>https://ugc.kn3.net/i/origin/http://eldiario.com.uy/wp-content/uploads/2011/09/TNU.jpg<fanart>
 </item>
 
 <item>
@@ -138,6 +145,7 @@ item>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/21259/240/default.jpg</thumbnail>
+<fanart>http://www.montevideo.com.uy/plantillas/temas17/canal-M-17/images/canalm@3.png<fanart>
 </item>
 
 <item>
@@ -157,6 +165,7 @@ item>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/31488/240/default.jpg</thumbnail>
+<fanart>https://petitmuseo.files.wordpress.com/2011/09/fiesta7.jpg<fanart>
 </item>
 
 <item>
@@ -176,6 +185,7 @@ item>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6074/240/default.jpg</thumbnail>
+<fanart>http://www.lagalenafm.com/images/banner.png<fanart>
 </item>
 
 <item>
@@ -195,6 +205,7 @@ item>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/7609/240/default.jpg</thumbnail>
+<fanart>http://www.prensario.net/Multimedios/imgs/17604_468.jpg<fanart>
 </item>
 
 <item>
@@ -214,10 +225,11 @@ item>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6001/240/default.jpg</thumbnail>
+<fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6001/320/default.jpg<fanart>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Vera+ bajo retardo</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Vera + </title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -233,6 +245,7 @@ item>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/17765/240/default.jpg</thumbnail>
+<fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/17765/320/default.jpg<fanart>
 </item>
 
 <item>
@@ -252,6 +265,7 @@ item>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6068/240/default.jpg</thumbnail>
+<fanart>http://untv-v3.images.production.s3.amazonaws.com/uploads/image/image/522/UNTV-24-horas-EN-VIVO.png<fanart>
 </item>
 
 <item>
