@@ -160,21 +160,14 @@ http://200.42.92.149/live/mgzntv/mgzntv/playlist.m3u8|User-Agent=ArtearPlayer/3.
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://4.bp.blogspot.com/-lEPz5JOXkDo/WdbKCmHx0oI/AAAAAAAABn8/N7PgzZg8PDQerMmNzyRWPyfS4VQ4kCA8ACK4BGAYYCw/s1600/telesur.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
-</item>
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Telemundo</title>
-<link>https://hls-ord-1a.vaughnsoft.net/ams/live/live_telemundo50/chunklist.m3u8|User-Agent=Mozilla/5.0</link>
-<thumbnail>https://www.prnewschannel.com/wp-content/uploads/2013/05/telemundo.png</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>http://www.marcha.org.ar/wp-content/uploads/2016/03/TELESUR-570x300.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]VE PLUS TV</title>
 <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8</link>
 <thumbnail>http://3.bp.blogspot.com/-pR3hcu5hj2c/WdbKC8Q7qVI/AAAAAAAABmk/w8TSnJhVU4QsRBfcINUMMdHScb7yHTT5wCK4BGAYYCw/s1600/Ve%2Bplus.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>http://veplusgo.com/VePlussplash.jpg</fanart>
 </item>
 
 <item>
@@ -188,209 +181,209 @@ item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal De Las Estrellas</title>
 <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8</link>
 <thumbnail>http://1.bp.blogspot.com/-Y1HLws92QjQ/WdbKCm7-slI/AAAAAAAABoM/2tz9dsqrnBMutApU-kz_u6l8R8HsU0hDACK4BGAYYCw/s1600/las%2Bestrellas.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>https://www.debate.com.mx/__export/1470946596192/sites/debate/img/2016/08/11/estrellas.jpg_594723958.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Azteca 13</title>
 <link>http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8</link>
 <thumbnail>http://1.bp.blogspot.com/-dj-9gNFEUz4/WdbKC1gJXjI/AAAAAAAABnQ/DYlnfFKvDrwEUrFbepHzz4wELq5u1gzBACK4BGAYYCw/s1600/azteca%2B13.jpg</thumbnail> 
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>http://gq8ne3sd6ka12wvdz3ubnadf.wpengine.netdna-cdn.com/wp-content/uploads/cache/2016/10/1018522_NpAdvHover.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TV PERU</title>
 <link>http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8</link>
 <thumbnail>http://3.bp.blogspot.com/-Iz2wsFviC-g/WdbKCm7MUEI/AAAAAAAABnM/3gsuydfjQLko5-Dtis9QadF-ad8YTjengCK4BGAYYCw/s1600/tv%2Bperu.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>http://fb.bolsatrabajo.do/uploads/tvperu.png</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TDC</title>
 <link>http://painel.serveron.com.br:1935/8166/8166/chunklist_w266638799.m3u8</link>
 <thumbnail>http://1.bp.blogspot.com/-Bk1Q01Mutmc/WdbKC7ixEzI/AAAAAAAABmw/E2SiYrbyqvQ8it73gr-vMzgQnfuplpn0QCK4BGAYYCw/s1600/tdv.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2010/10/tdc-logo-side.jpg?resize=350%2C200</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Latin Angels</title>
 <link>http://vivoplay-i.akamaihd.net/hls/live/255330/canal1/master2500k.m3u8</link>
 <thumbnail>http://2.bp.blogspot.com/-bVAusKOUQi8/WdbXY7EadKI/AAAAAAAABo8/fc_ZZWPxpNAk4Bogf1dNcNuUr5eTbOnTgCK4BGAYYCw/s1600/latinanges.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>http://latinangels.tv/wp-content/uploads/2016/12/Latin-Angels-Post-1024x486-SinPlus.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Show Business</title>
 <link>http://vivoplay-i.akamaihd.net/hls/live/255331/canal2/master2500k.m3u8</link>
 <thumbnail>http://3.bp.blogspot.com/-a4eDwm0TZs4/WdbXaMTSQII/AAAAAAAABp4/0L8cBnrR5Rk9-sNP1CW8gHomE0_8UlNIgCK4BGAYYCw/s1600/show%2Bbus.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>http://www.prensario.net/Multimedios/imgs/23738_468.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TV Quisqueya</title>
 <link>http://vivoplay-i.akamaihd.net/hls/live/255341/canal4/master2500k.m3u8</link>
 <thumbnail>http://3.bp.blogspot.com/-kMU43V96n1U/WdbXZ8gPeXI/AAAAAAAABps/852neyB7YrwgsZigXJPpEjDw77GXnMWigCK4BGAYYCw/s1600/quiscaya.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>https://pbs.twimg.com/profile_images/534357575068684288/RIrYT15I_400x400.png</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]HispanTV</title>
 <link>http://178.32.255.199:1935/live/hispantv/chunklist_w1362269254.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-wC-gavrJ1wE/WdbXZiWZ4jI/AAAAAAAABpk/sReuJ8eEqwwrbRuhFa8LdUqQ7VNFV0c3wCK4BGAYYCw/s1600/hispan%2Btv.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>http://www.mediamoves.com/wp-content/uploads/2012/02/HispanTV-set.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La Mega Mundial</title>
 <link>http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8</link>
 <thumbnail>http://1.bp.blogspot.com/-ZZ23JgWDxmU/WdbXZYtHw6I/AAAAAAAABpU/C28KfjSz1lAC_KPuw6XXS6pLlUZiGAmGwCK4BGAYYCw/s1600/la%2Bmega%2Bmundial.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>https://i.ytimg.com/vi/3-aNohOsaTQ/maxresdefault.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Melody Channel</title>
 <link>http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8</link>
 <thumbnail>http://1.bp.blogspot.com/-o65iU89TulA/WdbXZViTZBI/AAAAAAAABpQ/c7FANyx5eHsX6fSvYgaV3oBcJ89g527RACK4BGAYYCw/s1600/melody%2Bchannel.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>http://oklivetv.com/wp-content/uploads/media/cc513122fb8c9bcadb42a9a48eb6ca11.jpeg</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Dominicanyork TV</title>
 <link>http://stream.dominicanyork.tv:1935/dominicanyorktv/DMYTV/live.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-fewDNoO8Q6U/WdbXZhpdncI/AAAAAAAABpc/mqtFE4a-RmgieL02AeVYUFwQ7YnaZ7npQCK4BGAYYCw/s1600/dominican.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>http://2.bp.blogspot.com/-Lz6gwSQfFg0/TsAq7JqvUFI/AAAAAAAAAB0/ONIeOa3YYbE/s1600/nlayout_01.22.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TV Marti</title>
 <link>http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8</link>
 <thumbnail>http://2.bp.blogspot.com/-EUElFBXpPVI/WdbXZKaVEsI/AAAAAAAABpE/GDjovaEpSFEcKdIPefffGtYk8JgXun0jwCK4BGAYYCw/s1600/martin.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>http://www.aljazeera.com/mritems/Images/2015/6/21/27a02e70dc51426ca4d1d4f76d605a39_18.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Digital TV</title>
 <link>http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://2.bp.blogspot.com/-UIPERCnfNiE/WdbXaGRFZJI/AAAAAAAABp8/x_RIxaieDvcDcXBC9MBXRNPkfwuoPsBcgCK4BGAYYCw/s1600/digital%2Btv%2Bperu.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>http://www.perutvradios.com/images/ANOTICIAS2016/internet-digital-tv-peru.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Telpin Canal 2[/COLOR]</title> 
 <link>rtmp://201.219.100.30:1935/telpintv/ttv.stream_360p</link> 
 <thumbnail>http://3.bp.blogspot.com/-FZMSdGXGR3M/WdbXY4U7uUI/AAAAAAAABo4/g1hiuwKDHqEWZCmfnoAg1-EpSBw_Bp1qACK4BGAYYCw/s1600/telepin.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>http://3.bp.blogspot.com/-TrG9jLecEeE/WZngTmTl3rI/AAAAAAAAww0/RlMAzCpblg4WJIflYbcymypyzrxFcLjsgCK4BGAYYCw/s800/BANNER-WEB-canal-2-01.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Caracol[/COLOR]</title> 
 <link>http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8?&dnt=true&ref=http%3A%2F%2Flive2.caracoltv.com%2FNoticias%2Fpl-ms.html</link> 
 <thumbnail>http://2.bp.blogspot.com/-uY_o9klEniE/WdbKCioX8kI/AAAAAAAABmQ/GxCNzwbiZhUSjcukhicjtF3TEqCC60pDwCK4BGAYYCw/s1600/caracol.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>http://photos.wikimapia.org/p/00/02/12/37/22_big.jpg</fanart>
 </item> 
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]CNN CHILE[/COLOR]</title> 
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]CNN Chile[/COLOR]</title> 
 <link>http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8</link> 
 <thumbnail>http://4.bp.blogspot.com/-69HBMLyg50A/WdbKC6DMtsI/AAAAAAAABnA/MM-17Y4PhPY8fwuC_5f7utuzZXEIvePFQCK4BGAYYCw/s1600/cnn%2Bchile.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>https://www.rapidtvnews.com/images/cnn-chile.jpg</fanart>
 </item> 
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Cable Noticias[/COLOR]</title> 
 <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8</link> 
 <thumbnail>http://3.bp.blogspot.com/-tGH1URHn67E/WdbXafkJY5I/AAAAAAAABqE/hLqLo8W06C0V2Uxfnm_MvA2DKZf_wPFEgCK4BGAYYCw/s1600/cable%2Bnoticias.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>http://kokyrincon.com/blog/wp-content/uploads/2012/11/cablenoticias.png</fanart>
 </item> 
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]RT Noticias</title>
 <link>http://us.watcha.live/ch13/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link> 
 <thumbnail>http://2.bp.blogspot.com/-BWKdYlZlzfI/WdbKCYlccSI/AAAAAAAABmE/sw0gjGdn0l8tHeA4qYX10EpWbqTjp9JsQCK4BGAYYCw/s1600/RT.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>http://www.iptvcristiano.com/uploads/channels/146/logo_thumb.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Antena 3</title>
 <link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8</link>
 <thumbnail>http://2.bp.blogspot.com/-nyy_tjAhjtI/WdbKCu0PAmI/AAAAAAAABoc/WDoRjwvWX1cfKsiqDCOWF2LfPODuhnLVwCK4BGAYYCw/s1600/Antena%2B3.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZxVwfjXkV1oRmU07WyCTFrkUItwNwl7hMNInivfre8adE32aAJQ</fanart>
 </item>
  
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Antena 3 Spain</title>
 <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8</link>
 <thumbnail>http://2.bp.blogspot.com/-nyy_tjAhjtI/WdbKCu0PAmI/AAAAAAAABoc/WDoRjwvWX1cfKsiqDCOWF2LfPODuhnLVwCK4BGAYYCw/s1600/Antena%2B3.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>http://fisioterapialasrozas.com/wp-content/uploads/2014/04/antena-3-noticias.jpg</fanart>
 </item> 
  
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La Sexta</title>
 <link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-zTwpycTNEDU/WdbKCql9wLI/AAAAAAAABoY/aK5a-vabYlczkidf4nk2jTC-mQLEqV4igCK4BGAYYCw/s1600/LA%2BSEXTA.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>http://www.lasexta.com/static/images/lasextacom_logotipo.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Sun chanel</title>
 <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-ARFTFswviqQ/WdbKCq6BgBI/AAAAAAAABns/et-ym4aoiZ0c6wSgqlIX1DOQtFjYhr2MQCK4BGAYYCw/s1600/sun%2Bchannel.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>https://mir-s3-cdn-cf.behance.net/project_modules/disp/a096ea33876739.5605e9d69c762.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Encuentros[/COLOR]</title> 
 <link>http://us.watcha.live/ch14/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link> 
 <thumbnail>http://2.bp.blogspot.com/-zHaCKSeLgcQ/WdbKCqbHBQI/AAAAAAAABms/RXOSNxHsjJAVKXxgsSkObvx7TcwmgdP3QCK4BGAYYCw/s1600/encuentro.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>http://cdnsp.tvpublica.com.ar/wp-content/uploads/2016/04/12204727/encuentro.jpg</fanart>
 </item> 
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]CN23[/COLOR]</title> 
 <link>http://us.watcha.live/ch11/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link> 
 <thumbnail>http://3.bp.blogspot.com/-7dMf6sSbf_Y/WdbKChIE2jI/AAAAAAAABnw/bAPm0og3TZYCWXXFQFgLIguJo58JUxJRwCK4BGAYYCw/s1600/cn23.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>http://ute.org.ar/wp-content/uploads/2017/06/logo-CN23-2016.png</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]LN+[/COLOR]</title> 
 <link>http://us.watcha.live/ch9/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link> 
 <thumbnail>http://2.bp.blogspot.com/-cCJpME_UcFo/WdbKChsLj_I/AAAAAAAABok/RIXIcdagFPEflZAvybHE4FcJc17DSUkFgCK4BGAYYCw/s1600/la%2Bnacion.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBfFCi02ggwKljkYoHcD3_5JHJWwMshtk7K3Lv0OuJfbaUZWpA</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Canal de la Ciudad HD[/COLOR]</title> 
 <link>http://prepublish.f.qaotic.net/b06/ngrp:gcba_video3-100042_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net</link> 
 <thumbnail>http://3.bp.blogspot.com/-h3NKF2m57G8/WdbKCpY4J_I/AAAAAAAABoA/X0ipdZZaMpkO1UnGq49b2xhFVOmoDdslgCK4BGAYYCw/s1600/canal%2Bde%2Bla%2Bciudad.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>https://www.foromedios.com/uploads/monthly_2016_06/large.2.png.3add7c63180451259ac5cf13c54926e1.png</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Tec TV HD[/COLOR]</title> 
 <link>http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8</link> 
 <thumbnail>http://4.bp.blogspot.com/-eaUtBdYDmRY/WdbKChnNKgI/AAAAAAAABmg/YKC1QG_uWuYxJnY3pIDuIEgZimIgEnUQgCK4BGAYYCw/s1600/tec%2Btv.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>http://www.mincyt.gob.ar/adjuntos/imagenes/000/053/0000053107.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Canal 4 Jujuy HD[/COLOR]</title> 
 <link>http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8</link> 
 <thumbnail>http://3.bp.blogspot.com/-bGsPTt7Ebuw/WdbKC4sLQGI/AAAAAAAABm8/ffn5y1k6x-8Fj5vNGYbSarV00c-Fm8HqwCK4BGAYYCw/s1600/canal%2B4%2Bjujuy.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>http://www.todojujuy.com/imagenes/930x550/strict/img/ef25853d8f6734d4136eaa13cb43644d.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]CINEAR</title>
 <link>http://ar.watcha.live/ch17/full.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:51.0)+Gecko/20100101+Firefox/51.0&mode=12</link>
 <thumbnail>http://2.bp.blogspot.com/-ojU3p9t-Chc/WdbKCjxbLlI/AAAAAAAABoI/dz6-TyWikFMLTlVRwoT6-6RQmfZVsOxXgCK4BGAYYCw/s1600/cine%2Bar.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>http://www.punto-cine.com/wp-content/uploads/2017/03/CINE.AR-MARCAS-1000x500.png</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]360</title>
 <link>http://ar.watcha.live/ch12/full.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:51.0)+Gecko/20100101+Firefox/51.0&mode=12</link>
 <thumbnail>http://3.bp.blogspot.com/-_LwcOIdr3Ks/WdbKCgScm9I/AAAAAAAABnc/NbOE5pNwxaU4V5UJDQZlNwYrBe27_RUswCK4BGAYYCw/s1600/360.jpg</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<fanart>https://www.victorhugomorales.com.ar/wp-content/uploads/2015/05/360-tv-digital.png</fanart>
 </item>
 
