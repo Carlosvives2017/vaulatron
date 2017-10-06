@@ -508,7 +508,7 @@ item>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6763/240/default.jpg<fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal 7 Punta del este hd</title>
 <link>$doregex[get-url]</link>
 <regex>
