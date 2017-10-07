@@ -11,8 +11,8 @@
 <item>       
 
 title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeka Online [COLOR blue]~[COLOR deepskyblue] Venezuela vs Uruguay [COLOR blue]~[/COLOR] [COLOR deepskyblue]05/10/2017 16:00 SD[/COLOR]</title>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeka Online [COLOR blue]~ [COLOR red]off[/COLOR]</title>
-title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeka Online [COLOR blue]~ [COLOR lime]on[/COLOR]</title>
+title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeka Online [COLOR blue]~ [COLOR red]off[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeka Online[/COLOR]</title>
 
 <link>$doregex[m3u8]</link>
 <regex>
@@ -43,8 +43,8 @@ link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.
 <item>
 
 title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Premium Online [COLOR blue]~[COLOR deepskyblue] Venezuela vs Uruguay [COLOR blue]~[/COLOR] [COLOR deepskyblue]05/10/2017 16:00 HD[/COLOR]</title> 
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Premium Online [COLOR blue]~ [COLOR red]off[/COLOR]</title>
-title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Premium Online [COLOR blue]~ [COLOR lime]on[/COLOR]</title>
+title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Premium Online [COLOR blue]~ [COLOR red]off[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Premium Online[/COLOR]</title>
 
 <link>http://testdelta.cdn.antel.net.uy/out,vxttoken=cGF0aFVSST0lMkZvdXQlMkZ1JTJGYXV0aF8wX3J0YzFteWl2JTJGaGxzJTJGJTJBJmV4cGlyeT0xNTA3NDA5MjY4JnJhbmRvbT12cEVadkZHV3JJJmMtaXA9MTg2LjUwLjIxNS4xMTUsYWZiZWUyMDI0NTcxODk2NzNmMWZkNTM5MjViNzAxNmIwMTQ1YjUyNmFlN2NlOThjYzYzOTk0Zjg0ZTZmZTU2Ng==/u/auth_0_rtc1myiv/hls/playlist_4.m3u8<link> 
 
