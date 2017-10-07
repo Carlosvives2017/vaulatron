@@ -123,10 +123,24 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR][COLOR magenta]Sexy +18[/COLOR]</title>
-    <link>ignorame.me</link>
-    <externallink>https://goo.gl/2K4JRb</externallink>
-    <thumbnail>http://4.bp.blogspot.com/-IfPS57tJ_IM/WYDBNPttSoI/AAAAAAAABYo/xHEpovCqltQTMLeg0KDkO4JrB6QgVN5MQCK4BGAYYCw/s1600/Adultos%2Bxxx.jpg<thumbnail>	
-    <fanart>http://k32.kn3.net/taringa/7/3/6/6/8/2/2/crazy112/147.jpg?2918</fanart> 
+<thumbnail>http://4.bp.blogspot.com/-IfPS57tJ_IM/WYDBNPttSoI/AAAAAAAABYo/xHEpovCqltQTMLeg0KDkO4JrB6QgVN5MQCK4BGAYYCw/s1600/Adultos%2Bxxx.jpg<thumbnail>	
+<fanart>http://k32.kn3.net/taringa/7/3/6/6/8/2/2/crazy112/147.jpg?2918</fanart> 
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('[COLOR magenta]Movies, canales sexy y mucho mas ...[/COLOR]', ['[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Online y videos', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Castin Couch / Anal sites', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Big boobs' , '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Thresome 720', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Babes / DDF', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Killer gramm / Spizo', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Naughty America', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Evil angel', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Movies xxx'])
+   lists = ['https://goo.gl/2K4JRb', 'https://goo.gl/mqv9xc', 'https://goo.gl/LSRk23', 'https://goo.gl/ZTwLCR', 'https://goo.gl/Fm2dgq', 'https://goo.gl/JdMZZU', 'https://goo.gl/dfqaYf', 'https://goo.gl/KdeHzj', 'https://goo.gl/CvpNNb']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>http://4.bp.blogspot.com/-IfPS57tJ_IM/WYDBNPttSoI/AAAAAAAABYo/xHEpovCqltQTMLeg0KDkO4JrB6QgVN5MQCK4BGAYYCw/s1600/Adultos%2Bxxx.jpg<thumbnail>	
+<fanart>http://k32.kn3.net/taringa/7/3/6/6/8/2/2/crazy112/147.jpg?2918</fanart> 
 </item>
 -----------------------------------------------------------------------------------
 
