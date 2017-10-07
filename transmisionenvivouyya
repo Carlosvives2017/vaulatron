@@ -177,8 +177,8 @@ Cambios 2
 *********************
 Cambios 3
 *********************
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Bolivia vs Brasil [COLOR blue]~[/COLOR] [COLOR deepskyblue]05/10/2017 17:00 HD[/COLOR]</title>
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Uruguay vs Bolivia [COLOR blue]~[/COLOR] [COLOR deepskyblue]10/10/2017 18:00 HD[/COLOR]</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -189,19 +189,19 @@ item>
 <regex>
 <name>get-ifr</name>
 <expres>'src', '(.*extras.*?)'</expres>
-<page>http://tv.vera.com.uy/evento/32582</page>
+<page>http://tv.vera.com.uy/evento/32713</page>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32582/240/default.jpg</thumbnail>
-<fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32582/240/default.jpg</fanart>
+<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32713/240/default.jpg</thumbnail>
+<fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32713/240/default.jpg</fanart>
 </item>
 
 *********************
 Cambios 4
 *********************
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Colombia vs Paraguay [COLOR blue]~[/COLOR] [COLOR deepskyblue]05/10/2017 20:00 HD[/COLOR]</title>
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Ecuador vs. Argentina [COLOR blue]~[/COLOR] [COLOR deepskyblue]10/10/2017 20:30 HD[/COLOR]</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -212,12 +212,12 @@ item>
 <regex>
 <name>get-ifr</name>
 <expres>'src', '(.*extras.*?)'</expres>
-<page>http://tv.vera.com.uy/evento/32585</page>
+<page>http://tv.vera.com.uy/evento/32715</page>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32585/240/default.jpg</thumbnail>
-<fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32585/240/default.jpg</fanart>
+<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32715/240/default.jpg</thumbnail>
+<fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32715/240/default.jpg</fanart>
 </item>
 
 *********************
