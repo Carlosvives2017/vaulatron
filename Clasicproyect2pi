@@ -1,13 +1,21 @@
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Classic Project Vol 1 “70s 80s 90s” Reloaded 2008</title> 
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PNn8c1lKa9A</link> 
-<thumbnail>https://i.ytimg.com/vi/PNn8c1lKa9A/hqdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/PNn8c1lKa9A/hqdefault.jpg</fanart>
-</item>
+
 ---------------------------------------
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Nik Kershaw - The Riddle</title> 
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bDygS0a6Tgo</link> 
+<thumbnail>https://i.ytimg.com/vi/bDygS0a6Tgo/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/bDygS0a6Tgo/hqdefault.jpg</fanart>
+</item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Rocky Burnette - Tired of Toein' the Line.</title> 
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Nik Kershaw - I Won't Let The Sun Go Down On Me</title> 
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zqqXMXpyAkE</link> 
+<thumbnail>https://i.ytimg.com/vi/zqqXMXpyAkE/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/zqqXMXpyAkE/hqdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Rocky Burnette - Tired of Toein' the Line</title> 
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EA60raoEx18</link> 
 <thumbnail>https://i.ytimg.com/vi/EA60raoEx18/hqdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/EA60raoEx18/hqdefault.jpg</fanart>
@@ -685,4 +693,13 @@
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cfi9K97ulmE</link> 
 <thumbnail>https://i.ytimg.com/vi/cfi9K97ulmE/hqdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/cfi9K97ulmE/hqdefault.jpg</fanart>
+</item>
+
+*********************************************
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Classic Project Vol 1 “70s 80s 90s” Reloaded 2008</title> 
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PNn8c1lKa9A</link> 
+<thumbnail>https://i.ytimg.com/vi/PNn8c1lKa9A/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PNn8c1lKa9A/hqdefault.jpg</fanart>
 </item>
