@@ -7,12 +7,24 @@
 ---------------------------------------
 
 <item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Pet Shop Boys - Go West</title> 
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LNBjMRvOB5M</link> 
+<thumbnail>https://i.ytimg.com/vi/LNBjMRvOB5M/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/LNBjMRvOB5M/hqdefault.jpg</fanart>
+</item>
 
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Pet Shop Boys - Always On My Mind</title> 
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wDe60CbIagg</link> 
+<thumbnail>https://i.ytimg.com/vi/wDe60CbIagg/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/wDe60CbIagg/hqdefault.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Bee Gees - Secret Love</title> 
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iVseOSFTGAw</link> 
 <thumbnail>https://i.ytimg.com/vi/iVseOSFTGAw/hqdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/iVseOSFTGAw/hqdefault.jpg</fanart>
-
 </item>
 
 <item>
@@ -657,4 +669,13 @@
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IDNbvwlRu6I</link> 
 <thumbnail>https://i.ytimg.com/vi/IDNbvwlRu6I/hqdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/IDNbvwlRu6I/hqdefault.jpg</fanart>
+</item>
+
+**********************************
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Paralamas do Sucesso - Alagados</title> 
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cfi9K97ulmE</link> 
+<thumbnail>https://i.ytimg.com/vi/cfi9K97ulmE/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/cfi9K97ulmE/hqdefault.jpg</fanart>
 </item>
