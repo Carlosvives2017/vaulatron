@@ -116,13 +116,6 @@
 <fanart>http://www.perutvradios.com/images/ANOTICIAS2016/internet-digital-tv-peru.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Telpin Canal 2[/COLOR]</title> 
-<link>rtmp://201.219.100.30:1935/telpintv/ttv.stream_360p</link> 
-<thumbnail>http://3.bp.blogspot.com/-FZMSdGXGR3M/WdbXY4U7uUI/AAAAAAAABo4/g1hiuwKDHqEWZCmfnoAg1-EpSBw_Bp1qACK4BGAYYCw/s1600/telepin.jpg</thumbnail>
-<fanart>http://3.bp.blogspot.com/-TrG9jLecEeE/WZngTmTl3rI/AAAAAAAAww0/RlMAzCpblg4WJIflYbcymypyzrxFcLjsgCK4BGAYYCw/s800/BANNER-WEB-canal-2-01.jpg</fanart>
-</item>
-
 item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Caracol[/COLOR]</title> 
 <link>http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8?&dnt=true&ref=http%3A%2F%2Flive2.caracoltv.com%2FNoticias%2Fpl-ms.html</link> 
@@ -206,74 +199,7 @@ item>
 <fanart>http://www.lasexta.com/static/images/lasextacom_logotipo.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Encuentros[/COLOR]</title> 
-<link>http://us.watcha.live/ch14/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link> 
-<thumbnail>http://2.bp.blogspot.com/-zHaCKSeLgcQ/WdbKCqbHBQI/AAAAAAAABms/RXOSNxHsjJAVKXxgsSkObvx7TcwmgdP3QCK4BGAYYCw/s1600/encuentro.jpg</thumbnail>
-<fanart>http://cdnsp.tvpublica.com.ar/wp-content/uploads/2016/04/12204727/encuentro.jpg</fanart>
-</item> 
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]CN23[/COLOR]</title> 
-<link>http://us.watcha.live/ch11/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link> 
-<thumbnail>http://3.bp.blogspot.com/-7dMf6sSbf_Y/WdbKChIE2jI/AAAAAAAABnw/bAPm0og3TZYCWXXFQFgLIguJo58JUxJRwCK4BGAYYCw/s1600/cn23.jpg</thumbnail>
-<fanart>http://ute.org.ar/wp-content/uploads/2017/06/logo-CN23-2016.png</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]LN+[/COLOR]</title> 
-<link>http://us.watcha.live/ch9/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link> 
-<thumbnail>http://2.bp.blogspot.com/-cCJpME_UcFo/WdbKChsLj_I/AAAAAAAABok/RIXIcdagFPEflZAvybHE4FcJc17DSUkFgCK4BGAYYCw/s1600/la%2Bnacion.jpg</thumbnail>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBfFCi02ggwKljkYoHcD3_5JHJWwMshtk7K3Lv0OuJfbaUZWpA</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Canal de la Ciudad HD[/COLOR]</title> 
-<link>http://prepublish.f.qaotic.net/b06/ngrp:gcba_video3-100042_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net</link> 
-<thumbnail>http://3.bp.blogspot.com/-h3NKF2m57G8/WdbKCpY4J_I/AAAAAAAABoA/X0ipdZZaMpkO1UnGq49b2xhFVOmoDdslgCK4BGAYYCw/s1600/canal%2Bde%2Bla%2Bciudad.jpg</thumbnail>
-<fanart>https://www.foromedios.com/uploads/monthly_2016_06/large.2.png.3add7c63180451259ac5cf13c54926e1.png</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Tec TV HD[/COLOR]</title> 
-<link>http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8</link> 
-<thumbnail>http://4.bp.blogspot.com/-eaUtBdYDmRY/WdbKChnNKgI/AAAAAAAABmg/YKC1QG_uWuYxJnY3pIDuIEgZimIgEnUQgCK4BGAYYCw/s1600/tec%2Btv.jpg</thumbnail>
-<fanart>http://www.mincyt.gob.ar/adjuntos/imagenes/000/053/0000053107.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Canal 4 Jujuy HD[/COLOR]</title> 
-<link>http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8</link> 
-<thumbnail>http://3.bp.blogspot.com/-bGsPTt7Ebuw/WdbKC4sLQGI/AAAAAAAABm8/ffn5y1k6x-8Fj5vNGYbSarV00c-Fm8HqwCK4BGAYYCw/s1600/canal%2B4%2Bjujuy.jpg</thumbnail>
-<fanart>http://www.todojujuy.com/imagenes/930x550/strict/img/ef25853d8f6734d4136eaa13cb43644d.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]CINEAR</title>
-<link>http://ar.watcha.live/ch17/full.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:51.0)+Gecko/20100101+Firefox/51.0&mode=12</link>
-<thumbnail>http://2.bp.blogspot.com/-ojU3p9t-Chc/WdbKCjxbLlI/AAAAAAAABoI/dz6-TyWikFMLTlVRwoT6-6RQmfZVsOxXgCK4BGAYYCw/s1600/cine%2Bar.jpg</thumbnail>
-<fanart>http://www.punto-cine.com/wp-content/uploads/2017/03/CINE.AR-MARCAS-1000x500.png</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]360</title>
-<link>http://ar.watcha.live/ch12/full.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:51.0)+Gecko/20100101+Firefox/51.0&mode=12</link>
-<thumbnail>http://3.bp.blogspot.com/-_LwcOIdr3Ks/WdbKCgScm9I/AAAAAAAABnc/NbOE5pNwxaU4V5UJDQZlNwYrBe27_RUswCK4BGAYYCw/s1600/360.jpg</thumbnail>
-<fanart>https://www.victorhugomorales.com.ar/wp-content/uploads/2015/05/360-tv-digital.png</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]24/7 Noticias</title>
-<link>http://142.4.208.146:1935/cn247/cn247/playlist.m3u8</link>
-<thumbnail>http://2.bp.blogspot.com/-pRiO45u90MU/Wdelpa6vhOI/AAAAAAAABrM/OOhmkQuG7Q02xJav9vYaiI7awZjrfT9AACK4BGAYYCw/s1600/2477.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/Ky1XF5jN7w4/maxresdefault.jpg</fanart>
-</item>
-
-
-
--------------------------------------
-
-
+----------------------------------------------------
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Vivo plus[/COLOR]</title> 
