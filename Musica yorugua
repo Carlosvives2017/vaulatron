@@ -17,8 +17,8 @@ http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/
 http://wow01.105.net/live/virgin1/.m3u8
 #EXTINF:0 tvg-logo="http://www.dslivetv.com/Images/66800_501851266530391_85661672_n.jpg",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]M2OTV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1 tvg-logo="http://www.hittv.es/img/cabeceras/HITtv1.jpg",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]HIT TV
-http://tst.es.flash.glb.ipercast.net:1935/tst.es-live/live/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%20tv%20Series%20y%20Animes%20de%20Tv.png",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="http://cmiarabia.com/assets/clients/8.png",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 ----------------------------------------------------
@@ -98,5 +98,3 @@ http://85.17.80.132:1935/radionorbatv/norbatv_source.stream/live.m3u8
 http://fms.105.net:1935/live/105Test1/playlist.m3u8
 #EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-tmhSjMT6cYg/VmtgpK5j3wI/AAAAAAAAAV8/iqcRk98LW3o/s1600/onetv.png",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]OneTV 
 http://server5.stweb.tv/radioone/live/playlist.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3a67ac9349717.56323aac30ee4.jpg",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Melody channel
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
