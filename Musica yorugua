@@ -7,8 +7,8 @@ http://streaming203.radionomy.com:80/City-Dance-Radio
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.diario26.com/images/musictop_poster.png",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Music Top HD
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcBR0MyKSM55YdZWyF7hYo0mRXjG9sEQcn9fl3eNZYWp073Z5RHg",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Radio Monte Carlo
-http://fms.105.net:1935/live/rmc1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.firstone.tv/images/logos/uk/VIBEE.png" group-title="Latinos",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Vibee TV
+http://46.101.21.42:8081/live/live2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m790072_quiero-musica.png",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Qmusica
 mms://200.42.92.6:1755/qmusica
 #EXTINF:-1 tvg-logo="http://cdn4.thr.com/sites/default/files/imagecache/landscape_928x523/2012/02/music-choice-mc_logo.jpg",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Music Choice Play
@@ -96,3 +96,6 @@ http://85.17.80.132:1935/radionorbatv/norbatv_source.stream/live.m3u8
 http://fms.105.net:1935/live/105Test1/playlist.m3u8
 #EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-tmhSjMT6cYg/VmtgpK5j3wI/AAAAAAAAAV8/iqcRk98LW3o/s1600/onetv.png",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]OneTV 
 http://server5.stweb.tv/radioone/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcBR0MyKSM55YdZWyF7hYo0mRXjG9sEQcn9fl3eNZYWp073Z5RHg",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Radio Monte Carlo
+http://fms.105.net:1935/live/rmc1/playlist.m3u8
