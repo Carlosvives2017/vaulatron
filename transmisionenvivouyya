@@ -22,7 +22,7 @@ title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeka 
 </regex>
 
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart> 
+<fanart>https://t1.kn3.net/taringa/1/6/0/2/4/1/JOANMA_CNDEF/0D2.jpg</fanart> 
 </item>
 
 
@@ -56,7 +56,7 @@ title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Premium O
 <link>http://testdelta.cdn.antel.net.uy/out,vxttoken=cGF0aFVSST0lMkZvdXQlMkZ1JTJGYXV0aF8wX3J0YzFteWl2JTJGaGxzJTJGJTJBJmV4cGlyeT0xNTA3NjY5MjMyJnJhbmRvbT1zOUJXNDRZdkZPJmMtaXA9MTg2LjUyLjE5Ny44NCxlODAyYjVhNTgwMmQ2YTQ4OGRiZDA5MmY5OTQ3NGI1NmI3OTYwYTA0MmQ2Njc0N2RjM2I3YmMyYTQ0NjMzNzdk/u/auth_0_rtc1myiv/hls/playlist_4.m3u8<link> 
 
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart> 
+<fanart>https://t1.kn3.net/taringa/1/6/0/2/4/1/JOANMA_CNDEF/0D2.jpg</fanart> 
 </item>
 
 link>http://$doregex[ip]$doregex[m3u8]</link>
@@ -201,7 +201,7 @@ Cambios 3
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32713/240/default.jpg</thumbnail>
-<fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32713/240/default.jpg</fanart>
+<fanart>https://t1.kn3.net/taringa/1/6/0/2/4/1/JOANMA_CNDEF/0D2.jpg</fanart>
 </item>
 
 *********************
