@@ -50,6 +50,14 @@
 </item>
 
 <item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Calle13</title>
+<sportsdevil>http://livesports.pw/embedn.php?file=calltrees&width=650&height=397&autostart=true</sportsdevil>
+<referer>http://telefivegb.com/canales/pelis/calle13</referer>
+<thumbnail>http://2.bp.blogspot.com/-g-b0fyVodJ4/WdwBBCy7INI/AAAAAAAABz4/5JuhevKnZEM_4XmnQ8SfUBfaB6BxGeBRACK4BGAYYCw/s1600/calle%2B13.jpg</thumbnail>
+<fanart>https://alejandrapons.files.wordpress.com/2012/08/calle-13-tv-channel-all-fools-day-small-38184.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Historia[/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
@@ -265,13 +273,7 @@ item>
 </item>
 ---------------------------
 
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Calle13</title>
-<sportsdevil>http://livesports.pw/embedn.php?file=calltrees&width=650&height=397&autostart=true</sportsdevil>
-<referer>http://telefivegb.com/canales/pelis/calle13</referer>
-<thumbnail>http://vertutele.com/img/calle13.png</thumbnail>
-<fanart></fanart>
-</item>
+
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La 1</title>
