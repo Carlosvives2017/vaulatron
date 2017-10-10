@@ -125,6 +125,7 @@ item>
 <expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
 <page>https://www.cxntv.com/canales/172499/</page>
 </regex>
+<thumbnail>https://i.ytimg.com/vi/9lvKFKUeTTE/maxresdefault_live.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
