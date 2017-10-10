@@ -12,9 +12,21 @@
 
 title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeka Online [COLOR blue]~[COLOR deepskyblue] Venezuela vs Uruguay [COLOR blue]~[/COLOR] [COLOR deepskyblue]05/10/2017 16:00 SD[/COLOR]</title>
 title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeka Online [COLOR blue]~ [COLOR red]off[/COLOR]</title>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeka Online</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeka Online [COLOR blue]~ [COLOR ]Uruguay vs Bolivia [COLOR blue]~[/COLOR] [COLOR deepskyblue]10/10/2017 18:00 SD[/COLOR]</title>
 
-<link>$doregex[m3u8]</link>
+<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-montecarlo/</link>
+<regex>
+<name>play</name>
+<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
+<page>https://www.cxntv.com/canales/tv-montecarlo/</page>
+</regex>
+
+<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
+<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart> 
+</item>
+
+
+link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
 <expres>file: "([^\"].*)"</expres>
@@ -23,11 +35,6 @@ title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeka 
 <agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent>
 </regex>
 
-
-
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart> 
-</item>
 
 link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-canal10/</link>
 <regex>
@@ -44,9 +51,9 @@ link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.
 
 title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Premium Online [COLOR blue]~[COLOR deepskyblue] Venezuela vs Uruguay [COLOR blue]~[/COLOR] [COLOR deepskyblue]05/10/2017 16:00 HD[/COLOR]</title> 
 title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Premium Online [COLOR blue]~ [COLOR red]off[/COLOR]</title>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Premium Online</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Premium Online [COLOR blue]~ [COLOR ]Uruguay vs Bolivia [COLOR blue]~[/COLOR] [COLOR deepskyblue]10/10/2017 18:00 HD[/COLOR]</title>
 
-<link>http://testdelta.cdn.antel.net.uy/out,vxttoken=cGF0aFVSST0lMkZvdXQlMkZ1JTJGYXV0aF8wX3J0YzFteWl2JTJGaGxzJTJGJTJBJmV4cGlyeT0xNTA3NTc3MDUyJnJhbmRvbT1DbTNDQnprd3ltJmMtaXA9MTg2LjUwLjIwOC41OSw4ODc2MDQ0MGUwNDFmNWJmM2JjYjQ5Y2E2Mzc2YmU4ZGZkMzUzNWJkMWE4YzJjZjYyMjRlODk5ZWY0NGQyNzQ5/u/auth_0_rtc1myiv/hls/playlist_1.m3u8<link> 
+<link>http://testdelta.cdn.antel.net.uy/out,vxttoken=cGF0aFVSST0lMkZvdXQlMkZ1JTJGYXV0aF8wX3J0YzFteWl2JTJGaGxzJTJGJTJBJmV4cGlyeT0xNTA3NjY5MjMyJnJhbmRvbT1zOUJXNDRZdkZPJmMtaXA9MTg2LjUyLjE5Ny44NCxlODAyYjVhNTgwMmQ2YTQ4OGRiZDA5MmY5OTQ3NGI1NmI3OTYwYTA0MmQ2Njc0N2RjM2I3YmMyYTQ0NjMzNzdk/u/auth_0_rtc1myiv/hls/playlist_4.m3u8<link> 
 
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
 <fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart> 
@@ -131,7 +138,7 @@ VeraTv
 *********************
 Cambios 1
 *********************
-<item>
+item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Aguada vs Goes [COLOR blue]~[/COLOR] [COLOR deepskyblue]06/10/2017 20:00 HD[/COLOR]</title>
 <link>$doregex[get-url]</link>
 <regex>
@@ -154,7 +161,7 @@ Cambios 1
 *********************
 Cambios 2
 *********************
-<item>
+item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Larre Borges vs. Biguá [COLOR blue]~[/COLOR] [COLOR deepskyblue]09/10/2017 20:00 HD[/COLOR]</title>
 <link>$doregex[get-url]</link>
 <regex>
@@ -223,8 +230,8 @@ Cambios 4
 *********************
 Cambios 5
 *********************
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Argentina vs Perú [COLOR blue]~[/COLOR] [COLOR deepskyblue]05/10/2017 20:30 HD[/COLOR]</title>
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Perú vs Colombia (En diferido) [COLOR blue]~[/COLOR] [COLOR deepskyblue]10/10/2017 23:00 HD[/COLOR]</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -235,11 +242,56 @@ item>
 <regex>
 <name>get-ifr</name>
 <expres>'src', '(.*extras.*?)'</expres>
-<page>http://tv.vera.com.uy/evento/32584</page>
+<page>http://tv.vera.com.uy/evento/32732</page>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32584/240/default.jpg</thumbnail>
-<fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32584/240/default.jpg</fanart>
+<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32732/240/default.jpg</thumbnail>
+<fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32732/240/default.jpg</fanart>
 </item>
 
+*********************
+Cambios 6
+*********************
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Brasil vs Chile (En diferido) [COLOR blue]~[/COLOR] [COLOR deepskyblue]11/10/2017 01:00 HD[/COLOR]</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/evento/32731</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32731/240/default.jpg</thumbnail>
+<fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32731/240/default.jpg</fanart>
+</item>
+
+*********************
+Cambios 7
+*********************
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Brasil vs Chile (En diferido) [COLOR blue]~[/COLOR] [COLOR deepskyblue]11/10/2017 01:00 HD[/COLOR]</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/evento/32731</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32731/240/default.jpg</thumbnail>
+<fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32731/240/default.jpg</fanart>
+</item>
