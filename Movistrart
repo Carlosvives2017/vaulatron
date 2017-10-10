@@ -263,6 +263,27 @@
 </item>
 
 <item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Antena 3</title>
+<link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-nyy_tjAhjtI/WdbKCu0PAmI/AAAAAAAABoc/WDoRjwvWX1cfKsiqDCOWF2LfPODuhnLVwCK4BGAYYCw/s1600/Antena%2B3.jpg</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZxVwfjXkV1oRmU07WyCTFrkUItwNwl7hMNInivfre8adE32aAJQ</fanart>
+</item>
+ 
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Antena 3 Spain</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-nyy_tjAhjtI/WdbKCu0PAmI/AAAAAAAABoc/WDoRjwvWX1cfKsiqDCOWF2LfPODuhnLVwCK4BGAYYCw/s1600/Antena%2B3.jpg</thumbnail>
+<fanart>http://fisioterapialasrozas.com/wp-content/uploads/2014/04/antena-3-noticias.jpg</fanart>
+</item> 
+ 
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]A3Series HD[/COLOR]</title> 
+<link>http://vivoplay-i.akamaihd.net/hls/live/255336/canal8/master2500k.m3u8</link> 
+<thumbnail>http://2.bp.blogspot.com/-rP6nKSGG9GY/Wdfhwnki0yI/AAAAAAAABtM/q59VtzDvFmUYbC81iysZektj9sePZrvuQCK4BGAYYCw/s1600/a3series.jpg</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZUF8d7HJtaXKg32xFmPUa52RVN663ZWCYBbe0FNIWl_S4wlyz</fanart>
+</item>
+
+<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]LA QUATRO[COLOR lime][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/la-cuatro.php</sportsdevil>
 <referer>http://cinestrenostv.tv/</referer>
@@ -276,6 +297,54 @@
 <referer>http://zagaiptv.eklablog.com/</referer>
 <thumbnail>http://3.bp.blogspot.com/-bER--eKOgHA/WdwqajXabPI/AAAAAAAAB24/35IFvxnFpTQd58m657xJ9isB5wXaE3kdQCK4BGAYYCw/s1600/canal%2B5.jpg</thumbnail>
 <fanart>http://www.informativostv.com/informativostv/images/Telecinco/Telecinco/t5012001-03.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La Sexta</title>
+<link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-zTwpycTNEDU/WdbKCql9wLI/AAAAAAAABoY/aK5a-vabYlczkidf4nk2jTC-mQLEqV4igCK4BGAYYCw/s1600/LA%2BSEXTA.jpg</thumbnail>
+<fanart>http://www.lasexta.com/static/images/lasextacom_logotipo.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]24H</title>
+<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-AklBZbjbGW0/Wdz4Y8BYr6I/AAAAAAAAB_g/LF3NtOX9WjkcZSlhp0rhlZYbHzxgczyrACK4BGAYYCw/s1600/24he.jpg</thumbnail>
+<fanart>http://img.rtve.es/v/3341/</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Nova</title>
+<link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-g3VR6rHGyqw/Wdz4YjZXx5I/AAAAAAAAB_Q/CIMyQtvY5gcEChm23kHv2yuZVeLwOWVYACK4BGAYYCw/s1600/nova.jpg</thumbnail>
+<fanart>https://www.adslzone.tv/app/uploads/2013/09/Dibujo6.jpg?x=634&y=309</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]FDF</title>
+<link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live/tve1.php</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/fdf.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/tve-1.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-nq-in0Tgr4M/Wdz4Y7GoPKI/AAAAAAAAB_o/-9D3bhnrt8QavLR_VoyS__68d_73r2FqgCK4BGAYYCw/s1600/fdf.jpg</thumbnail>
+<fanart>http://www.mundoplus.tv/blogs/tvdigital/files/2014/04/vueltafdf.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Energy</title>
+<link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=energy&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://1.bp.blogspot.com/-Gkuc5J5K--8/Wdz4Y_4LjGI/AAAAAAAAB_c/WmwZcDJLh1oZmCSLW5c7d0fi7QDVzychwCK4BGAYYCw/s1600/energy.jpg</thumbnail>
+<fanart>http://www.formulatv.com/images/fgaleria/28800/28803_logo-energy-canal-masculino-mediaset-espana.jpg</fanart>
 </item>
 
 <item>
@@ -307,7 +376,6 @@
 <thumbnail>http://1.bp.blogspot.com/-QiQgBHPbBvk/WdwqZVrhtQI/AAAAAAAAB2A/Ocv_Xw2bChEjQinbjj8HFHQfPiJSUa5NwCK4BGAYYCw/s1600/neox.jpg</thumbnail>
 <fanart>http://www.brandemia.org/wp-content/uploads/2011/07/neox_principal_logo.jpg</fanart>
 </item>
-
 
 
 ------------------
