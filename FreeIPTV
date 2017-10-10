@@ -62,8 +62,42 @@
 <thumbnail>https://goo.gl/yZhfFG</thumbnail>
 <fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
 </item>
+----------------------------------
 
 
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Daily Sports</title>
+ 
+<link>$doregex[leg]</link>
+<regex>
+<name>leg</name>
+<listrepeat><![CDATA[
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][leg.param2]</title>
+<link>$doregex[list]</link>
+<thumbnail>https://goo.gl/yZhfFG</thumbnail>
+<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
+]]></listrepeat>
+<expres><![CDATA[(?s)<h2 class="post-title".+?href="https(.+?)">(.+?)</a>]]></expres>
+<page>https://www.dailyiptvlist.com/sports/</page>
+</regex>
+<regex>
+<name>list</name>
+<listrepeat><![CDATA[
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][list.param2]</title>
+<link>NA</link>
+<thumbnail>https://goo.gl/yZhfFG</thumbnail>
+<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
+<externallink>[list.param1]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres><![CDATA[<a href="(.*?)">Download IpTV(.*?)</a>]]></expres>
+<page>http[leg.param1]</page>
+</regex>
+
+<thumbnail>https://goo.gl/yZhfFG</thumbnail>
+<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
+</item>
+
+----------------------------------
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Listas Mundial m3u</title>
 <thumbnail>http://2.bp.blogspot.com/-BDRLCCF13t8/WUh8Ez80JZI/AAAAAAAABFg/typbn3o_gok-ERxVqL162BNw66X5YELiACK4BGAYYCw/s1600/IPTV%2BMUNDIAL.jpg</thumbnail>
