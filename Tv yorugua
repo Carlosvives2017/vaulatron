@@ -14,7 +14,7 @@
 <expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
 <page>https://www.cxntv.com/canales/tv-montecarlo/</page>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6040/240/default.jpg</thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-nmhH6RYEez4/WdzJUX3HNVI/AAAAAAAAB6g/Lf4ldgMUuNAmIgkxHdmx3GBnQGVYK_OigCK4BGAYYCw/s1600/canal%2B4.jpg</thumbnail>
 <fanart>http://www.infoycom.org.uy/wp-content/uploads/2016/05/motecarlotv.jpg<fanart>
 </item>
  
@@ -34,7 +34,7 @@
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10425/240/default.jpg</thumbnail>
+<thumbnail>http://2.bp.blogspot.com/-3pSRWDygxqY/WdzJUhdVzTI/AAAAAAAAB40/cpv2RinzhW4BquK_KWp5XATAisXq0RgSwCK4BGAYYCw/s1600/canal%2B7.jpg</thumbnail>
 <fanart>http://2.bp.blogspot.com/-LDp5X2y2cf0/WdeKii2yQII/AAAAAAAABq0/u0VojHHQfPMYrfeE2nAD8UkEeCcXBU7TACK4BGAYYCw/s1600/Sin%2Bt%25C3%25ADtulo-1.jpg<fanart>
 </item>
 
@@ -46,7 +46,7 @@
 <expres>smil","m3u8_url":"(.*)","secure_m3u8_url</expres>
 <page>http://livestream.com/accounts/13567583/events/6415713/player?width=560&amp;height=540&amp;autoPlay=true&amp;mute=false</page>
 </regex>
-<thumbnail>http://1.bp.blogspot.com/-oc9NgiKpESk/WdcDHrWVdyI/AAAAAAAABqU/f6Q-RKy2KxwJH6MpiXPB7aogSX4KMi8JACK4BGAYYCw/s1600/teledoce.jpg</thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-P3nIlGjOlD0/WdzKioS-gMI/AAAAAAAAB-U/r_9al-mPdB0yLoWMLw9Anr5Vb5O95wCQwCK4BGAYYCw/s1600/tele.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/media/CIyDP9TW8AAS1TE.jpg<fanart>
 </item>
 
@@ -58,7 +58,7 @@
 <expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
 <page>https://www.cxntv.com/canales/tv-canal10/</page>
 </regex>
-<thumbnail>http://1.bp.blogspot.com/-aCtRxr6eG3Y/WdcDH87QJRI/AAAAAAAABqg/gROcAtbijBwkTRv8FhsjVm9Yr9fkcpbFwCK4BGAYYCw/s1600/saeta%2Btv.jpg</thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-q9q9EjHUo3M/WdzJURAX4bI/AAAAAAAAB5Q/_EWgQ3a1-3oPoDzkGopP-CL8kJPK1AU-gCK4BGAYYCw/s1600/canal%2B10.jpg</thumbnail>
 <fanart>http://brecha.com.uy/wp-content/uploads/2017/04/02-Canal-10-Foto-FERNANDO-PENA.jpg<fanart>
 </item>
 
@@ -79,7 +79,7 @@
 <cookieJar></cookieJar>
 </regex>
 thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz0ngPTCvdESfELJlB_jdlwkFGACK4BGAYYCw/s1600/tv%2Bciudad%2Bdiversidad.jpg</thumbnail>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6046/240/default.jpg</thumbnail>
+<thumbnail>http://1.bp.blogspot.com/-G1olsDY4lgU/WdzJUfp5X8I/AAAAAAAAB8s/Iccig8umGYk90nnT2XKyMcctImiH4xoEACK4BGAYYCw/s1600/tv%2Bciudad.jpg</thumbnail>
 <fanart>http://www.carve850.com.uy/wp-content/uploads/2016/08/tv-ciudad.jpg<fanart>
 </item>
 
@@ -92,7 +92,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 <page>http://livesports.pw/embed.php?file=vtv&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://2.bp.blogspot.com/-ETsp5TS-wgo/WdcDH1BtL0I/AAAAAAAABqk/FBQNijAQRF0v5zV0a596YEC8U4F7mc5RwCK4BGAYYCw/s1600/vtv.jpg</thumbnail>
+<thumbnail>http://4.bp.blogspot.com/-Pd2Aa9BMFo0/WdzJPNDFInI/AAAAAAAAB38/zBBYiNhXfvMD-sBvqTFYn1KWgn_vDPeowCK4BGAYYCw/s1600/vtv.jpg</thumbnail>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQulKg0WyYEKhOnA_VDsNEUNqL2qSbNu4WXd5Nt1l6QmAnYFFhEVQ<fanart>
 </item>
 
@@ -105,7 +105,8 @@ item>
 <page>http://livesports.pw/embed.php?file=vtv&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://2.bp.blogspot.com/-ETsp5TS-wgo/WdcDH1BtL0I/AAAAAAAABqk/FBQNijAQRF0v5zV0a596YEC8U4F7mc5RwCK4BGAYYCw/s1600/vtv.jpg</thumbnail>
+<thumbnail>http://4.bp.blogspot.com/-Pd2Aa9BMFo0/WdzJPNDFInI/AAAAAAAAB38/zBBYiNhXfvMD-sBvqTFYn1KWgn_vDPeowCK4BGAYYCw/s1600/vtv.jpg</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQulKg0WyYEKhOnA_VDsNEUNqL2qSbNu4WXd5Nt1l6QmAnYFFhEVQ<fanart>
 </item>
 
 <item>
@@ -124,7 +125,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6042/240/default.jpg</thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-XdCg6xh03qY/WdzJUQ8fmFI/AAAAAAAAB6M/vPwk7m5pQ8s1RI42KzgprpSvEDIcNbuAwCK4BGAYYCw/s1600/television%2Bnacional.jpg</thumbnail>
 <fanart>https://ugc.kn3.net/i/origin/http://eldiario.com.uy/wp-content/uploads/2011/09/TNU.jpg<fanart>
 </item>
 
@@ -144,7 +145,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6074/240/default.jpg</thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-FDc3-sjoDF8/WdzJUYjrdRI/AAAAAAAAB4k/UwZiXuMjxo4eF6lhaClNMbyvFL5Hi84SwCK4BGAYYCw/s1600/canal%2B12.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6074/240/default.jpg<fanart>
 </item>
 
@@ -164,7 +165,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/7609/240/default.jpg</thumbnail>
+<thumbnail>http://1.bp.blogspot.com/-Ei-uHTPf0ig/WdzJUZxp_LI/AAAAAAAAB84/F7N1nIs6fL8uCbKkYVEpjSuCSXsn9iuZgCK4BGAYYCw/s1600/canal%2Bu.jpg</thumbnail>
 <fanart>http://www.prensario.net/Multimedios/imgs/17604_468.jpg<fanart>
 </item>
 
@@ -204,7 +205,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/31488/240/default.jpg</thumbnail>
+<thumbnail>http://2.bp.blogspot.com/-ryglnDz1dEk/WdzJUS_Sw-I/AAAAAAAAB7s/CNNYl6C6ok8xhrpG-OblPiF5ZKUrmgSegCK4BGAYYCw/s1600/1000xhora.jpg</thumbnail>
 <fanart>https://petitmuseo.files.wordpress.com/2011/09/fiesta7.jpg<fanart>
 </item>
 
@@ -224,7 +225,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6001/240/default.jpg</thumbnail>
+<thumbnail>http://4.bp.blogspot.com/-K9V0_Jr6l38/WdzJO8ASM0I/AAAAAAAAB30/2rgpLCcpRPwgHY6Gr-3ew79Q1QeZTmowgCK4BGAYYCw/s1600/vera%2Btv%2B%252B.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6001/320/default.jpg<fanart>
 </item>
 
@@ -264,12 +265,12 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6068/240/default.jpg</thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-PrbIhZKYlFc/WdzJUET8R6I/AAAAAAAAB9s/YJh6uBZ9vI0FfDEhqrVV4VihCshUwHcFACK4BGAYYCw/s1600/natural.jpg</thumbnail>
 <fanart>http://untv-v3.images.production.s3.amazonaws.com/uploads/image/image/522/UNTV-24-horas-EN-VIVO.png<fanart>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Música Nacional</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]a+V</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -284,7 +285,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6707/240/default.jpg</thumbnail>
+<thumbnail>http://1.bp.blogspot.com/-5b3OAEpJEpA/WdzJUN3yUuI/AAAAAAAAB94/lIwEbmcg5BAN_XIvzMWUEduTKdXUEUTGgCK4BGAYYCw/s1600/a%252Bv.jpg</thumbnail>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE5ZRyyERHAFvYe5xGPuXUv5qhI_1TNC0Rj6m16c0IqTU13LMZ<fanart>
 </item>
 
@@ -304,7 +305,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/8204/240/default.jpg</thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-JT2klEOIGpQ/WdzJUbL7WOI/AAAAAAAAB5s/HypWvp5DnxsIrRXUCpaNpodMsz3cAWlZACK4BGAYYCw/s1600/canal%2B2%2Bsan%2Bcarlos.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/8204/240/default.jpg<fanart>
 </item>
 
@@ -324,7 +325,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6853/240/default.jpg</thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-JT2klEOIGpQ/WdzJUbL7WOI/AAAAAAAAB5s/HypWvp5DnxsIrRXUCpaNpodMsz3cAWlZACK4BGAYYCw/s1600/canal%2B2%2Bsan%2Bcarlos.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6853/240/default.jpg<fanart>
 </item>
 
@@ -344,12 +345,12 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6055/240/default.jpg</thumbnail>
+<thumbnail>http://4.bp.blogspot.com/-WSD0wP5xIMA/WdzJUVWYZQI/AAAAAAAAB9M/da0ta8F08swz79WHZWUVsu166inf08HBACK4BGAYYCw/s1600/canal11otro.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6055/240/default.jpg<fanart>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Soy TacuarembÃ?Â?Ã?Â³</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Soy Tacuarembo</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -364,7 +365,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6880/240/default.jpg</thumbnail>
+<thumbnail>http://1.bp.blogspot.com/-gJj4wpulR4U/WdzJUXu1nBI/AAAAAAAAB68/Xvk8xqdQTUQ5oAgjrMYVkx6v7aSn1tadgCK4BGAYYCw/s1600/si.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6880/240/default.jpg<fanart>
 </item>
 
@@ -384,7 +385,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6085/240/default.jpg</thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-_uXCHgLoUtI/WdzJUVZXf0I/AAAAAAAAB78/sEFQwiMKRN80rfkQNCUqOlUk6JsNasNyQCK4BGAYYCw/s1600/rtv.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6085/240/default.jpg<fanart>
 </item>
 
@@ -404,12 +405,12 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10032/240/default.jpg</thumbnail>
+<thumbnail>http://4.bp.blogspot.com/-Xvbz3B-jU24/WdzJUYKgu-I/AAAAAAAAB7M/TFKfBrMPReY4g9zzSnp4j265BZNPcYwugCK4BGAYYCw/s1600/rioyarugua.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10032/240/default.jpg<fanart>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal 23 tvd</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal 23 TVD</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -444,7 +445,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/9239/240/default.jpg</thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-oAd1i9Aa3j8/WdzJUcjHz8I/AAAAAAAAB5o/VVGTL-3aeHMSzstlu9zUa3Vloh5xKq1vACK4BGAYYCw/s1600/canal%2B4%2Bpaysandu.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/9239/240/default.jpg<fanart>
 </item>
 
@@ -464,7 +465,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6090/240/default.jpg</thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-gMc8i9cPtLM/WdzJUIu0GcI/AAAAAAAAB7I/9i4RFgs7pfkSDkWF8zgWNjo3NNDGNRxfgCK4BGAYYCw/s1600/canal%2B2%2Blascano.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6090/240/default.jpg<fanart>
 </item>
 
@@ -484,7 +485,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6057/240/default.jpg</thumbnail>
+<thumbnail>http://2.bp.blogspot.com/-t62dsH2_rgU/WdzJURuKokI/AAAAAAAAB7o/fIdPAxKLYO8mcCr_igCYilEfRKssJy-OACK4BGAYYCw/s1600/canal%2B4%2Bchuy.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6057/240/default.jpg<fanart>
 </item>
 
@@ -504,28 +505,8 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6763/240/default.jpg</thumbnail>
+<thumbnail>http://2.bp.blogspot.com/-4zoB4F6f1E8/WdzJULsj7bI/AAAAAAAAB-E/3-j77IxPXVoj-PqDGJJm75r0ZF_0BuanwCK4BGAYYCw/s1600/chantas.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6763/240/default.jpg<fanart>
-</item>
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal 7 Punta del este hd</title>
-<link>$doregex[get-url]</link>
-<regex>
-<name>get-url</name>
-<expres>file: "(.*?)"</expres>
-<page>$doregex[get-ifr]</page>
-<referer>http://tv.vera.com.uy</referer>
-</regex>
-<regex>
-<name>get-ifr</name>
-<expres>'src', '(.*extras.*?)'</expres>
-<page>http://tv.vera.com.uy/canal/10425</page>
-<referer>http://tv.vera.com.uy</referer>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10425/240/default.jpg</thumbnail>
-<fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10425/240/default.jpg<fanart>
 </item>
 
 <item>
@@ -544,7 +525,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6071/240/default.jpg</thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-LY9P4MlOkhU/WdzJUn2C-gI/AAAAAAAAB5M/n3w5x5OQfG0s-1YJwSh8DzAzSsslayvogCK4BGAYYCw/s1600/canal%2B8bola.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6071/240/default.jpg</fanart>
 </item>
 
@@ -564,7 +545,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6769/240/default.jpg</thumbnail>
+<thumbnail>http://2.bp.blogspot.com/-1Vi3XtBzejo/WdzJUR3SRDI/AAAAAAAAB54/TfyGcNB-4FkvEC3N_iR7hFV_mizyfrkxgCK4BGAYYCw/s1600/canalero8.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6769/240/default.jpg</fanart>
 </item>
 
@@ -584,7 +565,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/9880/240/default.jpg</thumbnail>
+<thumbnail>http://1.bp.blogspot.com/-OUQdAkoPeeI/WdzJUpscumI/AAAAAAAAB4w/8W_cZWKOG8o-I4eHdiZUq3MSyJ0fWHyqQCK4BGAYYCw/s1600/cv10.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/9880/240/default.jpg</fanart>
 </item>
 
@@ -604,7 +585,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/8081/240/default.jpg</thumbnail>
+<thumbnail>http://1.bp.blogspot.com/-9JLbomqndg4/WdzJUfudKlI/AAAAAAAAB9I/ZgfMtBBHR6oUTRMOQLmgE7DN9C6kmrWDgCK4BGAYYCw/s1600/canal%2B4paro.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/8081/240/default.jpg</fanart>
 </item>
 
@@ -624,7 +605,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6038/240/default.jpg</thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-mdIIQMKQnRs/WdzJUT7zyAI/AAAAAAAAB48/CXbb2c9Ux1wWtKZz26w4_pPcfFj1xJeewCK4BGAYYCw/s1600/charruatv.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6038/240/default.jpg</fanart>
 </item>
 
@@ -644,7 +625,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6764/240/default.jpg</thumbnail>
+<thumbnail>http://4.bp.blogspot.com/-b3QFipxHefc/WdzJUY0oAbI/AAAAAAAAB6Y/20TEVeimT2Ui0vP97eQqu54pGyyb3wJXQCK4BGAYYCw/s1600/televisionlocal.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6764/240/default.jpg</fanart>
 </item>
 
@@ -664,7 +645,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/11264/240/default.jpg</thumbnail>
+<thumbnail>http://4.bp.blogspot.com/-OFj2ywobV_k/WdzJT9oe-yI/AAAAAAAAB4M/2FCjMrf-FlMKLVb_wE63-f3J6BjExBBzgCK4BGAYYCw/s1600/c14young.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/11264/240/default.jpg</fanart>
 </item>
 
@@ -684,7 +665,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6703/240/default.jpg</thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-TP35c6caQhU/WdzJUqH22QI/AAAAAAAAB5A/zgl60oczz6M826cei45YvjatMQ6LV3X6gCK4BGAYYCw/s1600/regiontv.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6703/240/default.jpg</fanart>
 </item>
 
@@ -704,7 +685,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/14410/240/default.jpg</thumbnail>
+<thumbnail>http://2.bp.blogspot.com/-St-g0rDibHI/WdzJUVqWqRI/AAAAAAAAB8M/bLO8rTEGTZwr4YjndRuYiUcgi7OEYSvfwCK4BGAYYCw/s1600/pop.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/14410/240/default.jpg</fanart>
 </item>
 
@@ -724,7 +705,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6061/240/default.jpg</thumbnail>
+<thumbnail>http://2.bp.blogspot.com/-_67eeblh27s/WdzJUCVrBGI/AAAAAAAAB9Y/JFWcxfYAyJ4wENoVEpy_wk4tI5IGlKXBgCK4BGAYYCw/s1600/plaza%2Bcanal%2B4.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6061/240/default.jpg</fanart>
 </item>
 
@@ -744,7 +725,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6157/240/default.jpg</thumbnail>
+<thumbnail>http://2.bp.blogspot.com/-INuPBu-uHpQ/WdzJUSxmxEI/AAAAAAAAB5g/VoMRmTcM528aLyJ02MM2ZFR9N1ZQT1rQACK4BGAYYCw/s1600/canal4nfdkfj.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6157/240/default.jpg</fanart>
 </item>
 
@@ -764,7 +745,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6077/240/default.jpg</thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-YLUuHm3d3Ag/WdzJUTNHLDI/AAAAAAAAB8I/V1qkU5XCLU8OyTJRLMUDiyTtkjYakam1gCK4BGAYYCw/s1600/ocho.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6077/240/default.jpg</fanart>
 </item>
 
@@ -784,7 +765,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6070/240/default.jpg</thumbnail>
+<thumbnail>http://4.bp.blogspot.com/-h5dJLPds6tE/WdzJUU9sZ8I/AAAAAAAAB58/imqbPTcbo4kn46-vDfMgf3lZYyVCYCSRQCK4BGAYYCw/s1600/zebra.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6070/240/default.jpg</fanart>
 </item>
 
@@ -804,7 +785,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/9366/240/default.jpg</thumbnail>
+<thumbnail>http://4.bp.blogspot.com/-fRevgUD6Fk4/WdzJPrzTMmI/AAAAAAAAB4E/fG95VOpXkwcHxXRaemj2E5ARlACFpn3NwCK4BGAYYCw/s1600/8enartigas.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/9366/240/default.jpg</fanart>
 </item>
 
@@ -824,7 +805,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/8071/240/default.jpg</thumbnail>
+<thumbnail>http://4.bp.blogspot.com/-UcXn78UDv4g/WdzJUWqwoyI/AAAAAAAAB8o/gTidTA8kozcbhCk0zWHfF99MH1ytZeAKQCK4BGAYYCw/s1600/c5n.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/8071/240/default.jpg</fanart>
 </item>
 
@@ -864,7 +845,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10034/240/default.jpg</thumbnail>
+<thumbnail>http://4.bp.blogspot.com/-a72QvxYgn8U/WdzJUCdNxhI/AAAAAAAAB9c/gP7V-Fqi0Q4n-9ww7eZJgL7Np40T6kUSgCK4BGAYYCw/s1600/Espectador%2Btv.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10034/240/default.jpg</fanart>
 </item>
 
@@ -884,7 +865,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6067/240/default.jpg</thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-H4zBHvDVTV4/WdzJUb7jh1I/AAAAAAAAB8Y/aUD1-yy4qdw3oCpJTVuT7f-_jtyi2L6TgCK4BGAYYCw/s1600/tele%2Brocha.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6067/240/default.jpg</fanart>
 </item>
 
@@ -904,7 +885,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/9411/240/default.jpg</thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-D4yXO-nKL0o/WdzJUVrL0XI/AAAAAAAAB5c/SI-5axInj2QTLnOgUKnGdZkxPEhVrpsywCK4BGAYYCw/s1600/canal2vision.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/9411/240/default.jpg</fanart>
 </item>
 
@@ -924,7 +905,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/21426/240/default.jpg</thumbnail>
+<thumbnail>http://2.bp.blogspot.com/-AUFBByjcRRQ/WdzJUe4S5UI/AAAAAAAAB7Y/6ZwZoLV-6cs0XkpO_uX9LlF5eX_-LfFzgCK4BGAYYCw/s1600/canal3.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/21426/240/default.jpg</fanart>
 </item>
 
@@ -944,7 +925,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6044/240/default.jpg</thumbnail>
+<thumbnail>http://2.bp.blogspot.com/-SCuji3lQv8k/WdzJUIPD4UI/AAAAAAAAB98/2HgyBLxrvAcvRVzhKoLGoE754M6rLsvSQCK4BGAYYCw/s1600/canal%2B3.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6044/240/default.jpg</fanart>
 </item>
 
@@ -964,7 +945,7 @@ item>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/19153/240/default.jpg</thumbnail>
+<thumbnail>http://4.bp.blogspot.com/-rt7dGi7CTCc/WdzJUXC8zJI/AAAAAAAAB7A/0lzL1yaUl-oL2AHIn3K1D_6XDgU7R3AgACK4BGAYYCw/s1600/miem.jpg</thumbnail>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/19153/240/default.jpg</fanart>
 </item>
 ************************
