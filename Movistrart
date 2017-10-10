@@ -236,45 +236,6 @@
 <fanart>http://3.bp.blogspot.com/-Aw-2prEPuv0/WdwBBMkEcdI/AAAAAAAAB0c/_30_6zY6X4Y0fUXZ4z2k--V66xeN_rmfwCK4BGAYYCw/s1600/series1.jpg</fanart>
 </item>
 
---------------------------------------
-item><title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Hollywood[/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>[",\'](h.*m3u8.*?)[",\']</expres>
-<page>http://tumarcador.xyz/verdirectotv/10</page>
-<referer>http://verdirectotv.com/tv/digitales2/plustoros.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&amp;Referer=http://www.dinozap.info/redirect/embedredi.php</agent>
-</regex>
-<thumbnail>http://2.bp.blogspot.com/-1EjjbZC9ffA/WdwBBJErkWI/AAAAAAAABzE/8W82l72rHOop3okvX_5IjPU51v6yq5HMwCK4BGAYYCw/s1600/holliwoddersss.jpg</thumbnail>
-<fanart>http://www.grupocomunica.com/wp-content/uploads/2016/05/Hollywood.jpg</fanart>
-</item>
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Paramount[/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>[",\'](h.*m3u8.*?)[",\']</expres>
-<page>http://tumarcador.xyz/verdirectotv/5</page>
-<referer>http://verdirectotv.com/tv/digitales2/plustoros.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&amp;Referer=http://www.dinozap.info/redirect/embedredi.php</agent>
-</regex>
-<thumbnail>http://3.bp.blogspot.com/-VbM4KuSczRY/WdwBBOHcVWI/AAAAAAAABzI/tVB_9Jm1s6s5YQOiriEaCwWuM686ZJeMQCK4BGAYYCw/s1600/paramount.jpg</thumbnail> 
-<fanart>https://upload.wikimedia.org/wikipedia/id/thumb/4/4a/Paramount_logo.jpg/1200px-Paramount_logo.jpg</fanart>
-</item>
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TCM</title>
-<sportsdevil>http://livesports.pw/embed.php?file=tcmesp&width=650&height=397&autoplay=true</sportsdevil>
-<referer>http://telefivegb.com/canales/pelis/tcm</referer>
-<thumbnail>http://2.bp.blogspot.com/-WGE9SqbTnN4/WdwBBFMjvAI/AAAAAAAABzo/xIZ71nVEyysdVTL1QbX5tufysxu-tCn3wCK4BGAYYCw/s1600/tcm.jpg</thumbnail>
-<fanart>http://www.chicaoguerrero.com/site/wp-content/uploads/2012/07/FESTA-CANAL-TCM-CONVENÇÃO-NET-3.jpg</fanart>
-</item>
----------------------------
-
-
-
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La 1</title>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
@@ -316,7 +277,14 @@ item>
 <thumbnail>http://3.bp.blogspot.com/-bER--eKOgHA/WdwqajXabPI/AAAAAAAAB24/35IFvxnFpTQd58m657xJ9isB5wXaE3kdQCK4BGAYYCw/s1600/canal%2B5.jpg</thumbnail>
 <fanart>http://www.informativostv.com/informativostv/images/Telecinco/Telecinco/t5012001-03.jpg</fanart>
 </item>
-      
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]MEGA</title>
+<link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-XkityGE7YQs/WdwqaiArsKI/AAAAAAAAB3A/cjNwHa_ecdkwRIyLBxg6Wns0JZDIMEPvgCK4BGAYYCw/s1600/mega.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-z1vm1LX6S5E/VjGyi0RHtOI/AAAAAAAAACA/KO1uCXdj1Ik/s1600/mega-logo.png</fanart>
+</item>      
+
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]BE MAD[COLOR lime][/COLOR]</title>
 <sportsdevil>http://latelete.tv/ver-be-mad-online-en-directo/</sportsdevil>
@@ -326,6 +294,77 @@ item>
 </item>
 
 <item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Divinity[COLOR lime][/COLOR]</title>
+<sportsdevil>http://latelete.tv/divinity-en-directo-gratis-por-internet/</sportsdevil>
+<referer>http://latelete.tv/</referer>
+<thumbnail>http://3.bp.blogspot.com/-mhkuMrrZB8s/WdwqZwT5mpI/AAAAAAAAB2Y/uVWm2Xa6plAa2LTwfitKfV0TSfVm9o4aACK4BGAYYCw/s1600/divitrio.jpg</thumbnail>
+<fanart>http://static01.diariodenavarra.es/uploads/imagenes/bajacalidad/2013/05/17/_divinity_6861b2ab.jpg?780d153cbc708c3bd42ec599e76b15f4</fanart>
+</item>
+ 
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Neox</title>
+<link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-QiQgBHPbBvk/WdwqZVrhtQI/AAAAAAAAB2A/Ocv_Xw2bChEjQinbjj8HFHQfPiJSUa5NwCK4BGAYYCw/s1600/neox.jpg</thumbnail>
+<fanart>http://www.brandemia.org/wp-content/uploads/2011/07/neox_principal_logo.jpg</fanart>
+</item>
+
+
+
+------------------
+--------------------------------------
+
+item><title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Hollywood[/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)[",\']</expres>
+<page>http://tumarcador.xyz/verdirectotv/10</page>
+<referer>http://verdirectotv.com/tv/digitales2/plustoros.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&amp;Referer=http://www.dinozap.info/redirect/embedredi.php</agent>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-1EjjbZC9ffA/WdwBBJErkWI/AAAAAAAABzE/8W82l72rHOop3okvX_5IjPU51v6yq5HMwCK4BGAYYCw/s1600/holliwoddersss.jpg</thumbnail>
+<fanart>http://www.grupocomunica.com/wp-content/uploads/2016/05/Hollywood.jpg</fanart>
+</item>
+
+item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Paramount[/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)[",\']</expres>
+<page>http://tumarcador.xyz/verdirectotv/5</page>
+<referer>http://verdirectotv.com/tv/digitales2/plustoros.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&amp;Referer=http://www.dinozap.info/redirect/embedredi.php</agent>
+</regex>
+<thumbnail>http://3.bp.blogspot.com/-VbM4KuSczRY/WdwBBOHcVWI/AAAAAAAABzI/tVB_9Jm1s6s5YQOiriEaCwWuM686ZJeMQCK4BGAYYCw/s1600/paramount.jpg</thumbnail> 
+<fanart>https://upload.wikimedia.org/wikipedia/id/thumb/4/4a/Paramount_logo.jpg/1200px-Paramount_logo.jpg</fanart>
+</item>
+
+item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TCM</title>
+<sportsdevil>http://livesports.pw/embed.php?file=tcmesp&width=650&height=397&autoplay=true</sportsdevil>
+<referer>http://telefivegb.com/canales/pelis/tcm</referer>
+<thumbnail>http://2.bp.blogspot.com/-WGE9SqbTnN4/WdwBBFMjvAI/AAAAAAAABzo/xIZ71nVEyysdVTL1QbX5tufysxu-tCn3wCK4BGAYYCw/s1600/tcm.jpg</thumbnail>
+<fanart>http://www.chicaoguerrero.com/site/wp-content/uploads/2012/07/FESTA-CANAL-TCM-CONVENÇÃO-NET-3.jpg</fanart>
+</item>
+
+item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]COSMOS[COLOR lime][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/cosmo.php</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail>http://3.bp.blogspot.com/-607_izUGmQc/WdwqaSyPsnI/AAAAAAAAB2w/gKHFRfEhVMESGpnvL1V_LHEgvZsR_OFsQCK4BGAYYCw/s1600/cosmo.jpg</thumbnail>
+<fanart>https://www.cosmopolitantv.es/img/logorrss.png</fanart>
+</item>
+
+item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Odisea[COLOR lime][/COLOR]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/odisea-spain-p1157646</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail>http://1.bp.blogspot.com/-TFrNc9hWil8/WdwqaxdLskI/AAAAAAAAB3I/XitmogVkPlkHBHIlfaaY7HFdo44hf_DvACK4BGAYYCw/s1600/odisea.jpg</thumbnail>
+<fanart>http://www.mundoplus.tv/img/d6ae6723a4c822d97778856d24d4ae39</fanart>
+</item>
+
+item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Comedy Central[/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
@@ -337,43 +376,4 @@ item>
 </regex>
 <thumbnail>http://4.bp.blogspot.com/-2XWy2iU53iw/WdwqZlqHQGI/AAAAAAAAB2I/i2xjPs8Oiv0OUrZkKApq3NzPz0K3N8kFgCK4BGAYYCw/s1600/cine%2Bcentral.jpg</thumbnail>   
 <fanart>https://davidmarin99.files.wordpress.com/2015/11/comedy_central_brand.jpg?w=676</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Divinity[COLOR lime][/COLOR]</title>
-<sportsdevil>http://latelete.tv/divinity-en-directo-gratis-por-internet/</sportsdevil>
-<referer>http://latelete.tv/</referer>
-<thumbnail>http://3.bp.blogspot.com/-mhkuMrrZB8s/WdwqZwT5mpI/AAAAAAAAB2Y/uVWm2Xa6plAa2LTwfitKfV0TSfVm9o4aACK4BGAYYCw/s1600/divitrio.jpg</thumbnail>
-<fanart>http://static01.diariodenavarra.es/uploads/imagenes/bajacalidad/2013/05/17/_divinity_6861b2ab.jpg?780d153cbc708c3bd42ec599e76b15f4</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Odisea[COLOR lime][/COLOR]</title>
-<sportsdevil>http://zagaiptv.eklablog.com/odisea-spain-p1157646</sportsdevil>
-<referer>http://zagaiptv.eklablog.com/</referer>
-<thumbnail>http://1.bp.blogspot.com/-TFrNc9hWil8/WdwqaxdLskI/AAAAAAAAB3I/XitmogVkPlkHBHIlfaaY7HFdo44hf_DvACK4BGAYYCw/s1600/odisea.jpg</thumbnail>
-<fanart>http://www.mundoplus.tv/img/d6ae6723a4c822d97778856d24d4ae39</fanart>
-</item>
- 
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]MEGA</title>
-<link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</link>
-<thumbnail>http://4.bp.blogspot.com/-XkityGE7YQs/WdwqaiArsKI/AAAAAAAAB3A/cjNwHa_ecdkwRIyLBxg6Wns0JZDIMEPvgCK4BGAYYCw/s1600/mega.jpg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-z1vm1LX6S5E/VjGyi0RHtOI/AAAAAAAAACA/KO1uCXdj1Ik/s1600/mega-logo.png</fanart>
-</item>
- 
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Neox</title>
-<link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8</link>
-<thumbnail>http://1.bp.blogspot.com/-QiQgBHPbBvk/WdwqZVrhtQI/AAAAAAAAB2A/Ocv_Xw2bChEjQinbjj8HFHQfPiJSUa5NwCK4BGAYYCw/s1600/neox.jpg</thumbnail>
-<fanart>http://www.brandemia.org/wp-content/uploads/2011/07/neox_principal_logo.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]COSMOS[COLOR lime][/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/cosmo.php</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<thumbnail>http://3.bp.blogspot.com/-607_izUGmQc/WdwqaSyPsnI/AAAAAAAAB2w/gKHFRfEhVMESGpnvL1V_LHEgvZsR_OFsQCK4BGAYYCw/s1600/cosmo.jpg</thumbnail>
-<fanart>https://www.cosmopolitantv.es/img/logorrss.png</fanart>
 </item>
