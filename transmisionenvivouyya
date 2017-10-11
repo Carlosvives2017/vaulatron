@@ -11,22 +11,10 @@
 <item>       
 
 title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeka Online [COLOR blue]~[COLOR deepskyblue] Venezuela vs Uruguay [COLOR blue]~[/COLOR] [COLOR deepskyblue]05/10/2017 16:00 SD[/COLOR]</title>
-title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeka Online [COLOR blue]~ [COLOR red]off[/COLOR]</title>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeka Online [COLOR blue]~ [COLOR ]Uruguay vs Bolivia [COLOR blue]~[/COLOR] [COLOR deepskyblue]10/10/2017 18:00 SD[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeka Online [COLOR blue]~ [COLOR red]off[/COLOR]</title>
+title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeka Online [COLOR blue]~ [COLOR ]Uruguay vs Bolivia [COLOR blue]~[/COLOR] [COLOR deepskyblue]10/10/2017 18:00 SD[/COLOR]</title>
 
-<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-montecarlo/</link>
-<regex>
-<name>play</name>
-<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
-<page>https://www.cxntv.com/canales/tv-montecarlo/</page>
-</regex>
-
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://t1.kn3.net/taringa/1/6/0/2/4/1/JOANMA_CNDEF/0D2.jpg</fanart> 
-</item>
-
-
-link>$doregex[m3u8]</link>
+<link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
 <expres>file: "([^\"].*)"</expres>
@@ -35,13 +23,10 @@ link>$doregex[m3u8]</link>
 <agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent>
 </regex>
 
+<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
+<fanart>https://media.elobservador.com.uy/adjuntos/181/imagenes/001/439/0001439728.jpg</fanart> 
+</item>
 
-link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-canal10/</link>
-<regex>
-<name>play</name>
-<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
-<page>https://www.cxntv.com/canales/tv-canal10/</page>
-</regex>
 
 ******************
 
@@ -50,13 +35,13 @@ link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.
 <item>
 
 title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Premium Online [COLOR blue]~[COLOR deepskyblue] Venezuela vs Uruguay [COLOR blue]~[/COLOR] [COLOR deepskyblue]05/10/2017 16:00 HD[/COLOR]</title> 
-title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Premium Online [COLOR blue]~ [COLOR red]off[/COLOR]</title>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Premium Online [COLOR blue]~ [COLOR ]Uruguay vs Bolivia [COLOR blue]~[/COLOR] [COLOR deepskyblue]10/10/2017 18:00 HD[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Premium Online [COLOR blue]~ [COLOR red]off[/COLOR]</title>
+title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Premium Online [COLOR blue]~ [COLOR ]Uruguay vs Bolivia [COLOR blue]~[/COLOR] [COLOR deepskyblue]10/10/2017 18:00 HD[/COLOR]</title>
 
 <link>http://testdelta.cdn.antel.net.uy/out,vxttoken=cGF0aFVSST0lMkZvdXQlMkZ1JTJGYXV0aF8wX3J0YzFteWl2JTJGaGxzJTJGJTJBJmV4cGlyeT0xNTA3Njk1MjE3JnJhbmRvbT1OMGNPaENlcEo1JmMtaXA9MTg2LjUyLjE5Ny44NCw3ZmUzNGVhOGVkNjBlYzI4YzkzNTgxMTkxMmE5MzYwYjc5NWUyM2U3NTE2YzZkN2ExODAxMWJjZDMzNGU5M2Y0/u/auth_0_rtc1myiv/hls/playlist_4.m3u8<link> 
 
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://t1.kn3.net/taringa/1/6/0/2/4/1/JOANMA_CNDEF/0D2.jpg</fanart> 
+<fanart>https://media.elobservador.com.uy/adjuntos/181/imagenes/001/439/0001439728.jpg</fanart> 
 </item>
 
 link>http://$doregex[ip]$doregex[m3u8]</link>
@@ -181,117 +166,3 @@ item>
 <fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32689/240/default.jpg</fanart>
 </item>
 
-*********************
-Cambios 3
-*********************
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Uruguay vs Bolivia [COLOR blue]~[/COLOR] [COLOR deepskyblue]10/10/2017 18:00 HD[/COLOR]</title>
-<link>$doregex[get-url]</link>
-<regex>
-<name>get-url</name>
-<expres>file: "(.*?)"</expres>
-<page>$doregex[get-ifr]</page>
-<referer>http://tv.vera.com.uy</referer>
-</regex>
-<regex>
-<name>get-ifr</name>
-<expres>'src', '(.*extras.*?)'</expres>
-<page>http://tv.vera.com.uy/evento/32713</page>
-<referer>http://tv.vera.com.uy</referer>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32713/240/default.jpg</thumbnail>
-<fanart>https://t1.kn3.net/taringa/1/6/0/2/4/1/JOANMA_CNDEF/0D2.jpg</fanart>
-</item>
-
-*********************
-Cambios 4
-*********************
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Ecuador vs. Argentina [COLOR blue]~[/COLOR] [COLOR deepskyblue]10/10/2017 20:30 HD[/COLOR]</title>
-<link>$doregex[get-url]</link>
-<regex>
-<name>get-url</name>
-<expres>file: "(.*?)"</expres>
-<page>$doregex[get-ifr]</page>
-<referer>http://tv.vera.com.uy</referer>
-</regex>
-<regex>
-<name>get-ifr</name>
-<expres>'src', '(.*extras.*?)'</expres>
-<page>http://tv.vera.com.uy/evento/32715</page>
-<referer>http://tv.vera.com.uy</referer>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32715/240/default.jpg</thumbnail>
-<fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32715/240/default.jpg</fanart>
-</item>
-
-*********************
-Cambios 5
-*********************
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Perú vs Colombia (En diferido) [COLOR blue]~[/COLOR] [COLOR deepskyblue]10/10/2017 23:00 HD[/COLOR]</title>
-<link>$doregex[get-url]</link>
-<regex>
-<name>get-url</name>
-<expres>file: "(.*?)"</expres>
-<page>$doregex[get-ifr]</page>
-<referer>http://tv.vera.com.uy</referer>
-</regex>
-<regex>
-<name>get-ifr</name>
-<expres>'src', '(.*extras.*?)'</expres>
-<page>http://tv.vera.com.uy/evento/32732</page>
-<referer>http://tv.vera.com.uy</referer>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32732/240/default.jpg</thumbnail>
-<fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32732/240/default.jpg</fanart>
-</item>
-
-*********************
-Cambios 6
-*********************
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Brasil vs Chile (En diferido) [COLOR blue]~[/COLOR] [COLOR deepskyblue]11/10/2017 01:00 HD[/COLOR]</title>
-<link>$doregex[get-url]</link>
-<regex>
-<name>get-url</name>
-<expres>file: "(.*?)"</expres>
-<page>$doregex[get-ifr]</page>
-<referer>http://tv.vera.com.uy</referer>
-</regex>
-<regex>
-<name>get-ifr</name>
-<expres>'src', '(.*extras.*?)'</expres>
-<page>http://tv.vera.com.uy/evento/32731</page>
-<referer>http://tv.vera.com.uy</referer>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32731/240/default.jpg</thumbnail>
-<fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32731/240/default.jpg</fanart>
-</item>
-
-*********************
-Cambios 7
-*********************
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Brasil vs Chile (En diferido) [COLOR blue]~[/COLOR] [COLOR deepskyblue]11/10/2017 01:00 HD[/COLOR]</title>
-<link>$doregex[get-url]</link>
-<regex>
-<name>get-url</name>
-<expres>file: "(.*?)"</expres>
-<page>$doregex[get-ifr]</page>
-<referer>http://tv.vera.com.uy</referer>
-</regex>
-<regex>
-<name>get-ifr</name>
-<expres>'src', '(.*extras.*?)'</expres>
-<page>http://tv.vera.com.uy/evento/32731</page>
-<referer>http://tv.vera.com.uy</referer>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32731/240/default.jpg</thumbnail>
-<fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/32731/240/default.jpg</fanart>
-</item>
