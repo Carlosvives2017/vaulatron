@@ -66,7 +66,7 @@
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR][COLOR]Canales [COLOR blue]IPTV[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR][COLOR][COLOR blue]IPTV[/COLOR]</title>
 <link>NA</link>
 <externallink>$doregex[select]</externallink>
 <regex>
@@ -142,8 +142,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 def GetLSProData(page_data,Cookie_Jar,m):
    import xbmcgui
    dialog = xbmcgui.Dialog()
-   ret = dialog.select('[COLOR magenta]Movies, canales sexy y mucho mas ...[COLOR deepskyred]********************************[/COLOR]', ['[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Online y videos', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Castin Couch / Anal sites', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Big boobs' , '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Thresome 720', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Babes / DDF', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Killer gramm / Spizo', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Naughty America', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Evil angel', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Movies xxx'])
-   lists = ['https://goo.gl/2K4JRb', 'https://goo.gl/mqv9xc', 'https://goo.gl/LSRk23', 'https://goo.gl/ZTwLCR', 'https://goo.gl/Fm2dgq', 'https://goo.gl/JdMZZU', 'https://goo.gl/dfqaYf', 'https://goo.gl/KdeHzj', 'https://goo.gl/CvpNNb']
+   ret = dialog.select('[COLOR magenta]Movies, canales sexy y mucho mas ...[COLOR deepskyred]********************************[/COLOR]', ['[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canales Online', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Videos Party', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Castin Couch / Anal sites', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Big boobs' , '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Thresome 720', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Babes / DDF', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Killer gramm / Spizo', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Naughty America', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Evil angel', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Movies xxx'])
+   lists = ['https://goo.gl/2K4JRb', 'https://goo.gl/engWHa','https://goo.gl/mqv9xc', 'https://goo.gl/LSRk23', 'https://goo.gl/ZTwLCR', 'https://goo.gl/Fm2dgq', 'https://goo.gl/JdMZZU', 'https://goo.gl/dfqaYf', 'https://goo.gl/KdeHzj', 'https://goo.gl/CvpNNb']
    return lists[ret]
 ]]></expres>
 <page></page>
@@ -151,6 +151,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>http://4.bp.blogspot.com/-IfPS57tJ_IM/WYDBNPttSoI/AAAAAAAABYo/xHEpovCqltQTMLeg0KDkO4JrB6QgVN5MQCK4BGAYYCw/s1600/Adultos%2Bxxx.jpg<thumbnail>	
 <fanart>http://k32.kn3.net/taringa/7/3/6/6/8/2/2/crazy112/147.jpg?2918</fanart> 
 </item>
+
 -----------------------------------------------------------------------------------
 
 
