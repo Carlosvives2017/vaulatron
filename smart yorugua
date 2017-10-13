@@ -39,7 +39,7 @@
 <fanart>https://mir-s3-cdn-cf.behance.net/project_modules/disp/a096ea33876739.5605e9d69c762.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Univision</title>
 <link>$doregex[makelist]</link>
 <regex>
