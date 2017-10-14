@@ -8,6 +8,21 @@
 
 **************************
 
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Futbol livesports</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=vtv&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
+<fanart>https://media.elobservador.com.uy/adjuntos/181/imagenes/001/439/0001439728.jpg</fanart> 
+</item>
+
+**************************
+
 <item>       
 
 title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeka Online [COLOR blue]~[COLOR deepskyblue] Venezuela vs Uruguay [COLOR blue]~[/COLOR] [COLOR deepskyblue]05/10/2017 16:00 SD[/COLOR]</title>
@@ -34,11 +49,11 @@ title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeka 
 
 <item>
 
-title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Premium Online [COLOR blue]~[COLOR deepskyblue] Venezuela vs Uruguay [COLOR blue]~[/COLOR] [COLOR deepskyblue]05/10/2017 16:00 HD[/COLOR]</title> 
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Premium Online [COLOR blue]~ [COLOR red]off[/COLOR]</title>
-title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Premium Online [COLOR blue]~ [COLOR ]Uruguay vs Bolivia [COLOR blue]~[/COLOR] [COLOR deepskyblue]10/10/2017 18:00 HD[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Premium Online</title> 
+title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Premium Online [COLOR blue]~ [COLOR red]off[/COLOR]</title>
 
-<link>http://testdelta.cdn.antel.net.uy/out,vxttoken=cGF0aFVSST0lMkZvdXQlMkZ1JTJGYXV0aF8wX3J0YzFteWl2JTJGaGxzJTJGJTJBJmV4cGlyeT0xNTA3Njk1MjE3JnJhbmRvbT1OMGNPaENlcEo1JmMtaXA9MTg2LjUyLjE5Ny44NCw3ZmUzNGVhOGVkNjBlYzI4YzkzNTgxMTkxMmE5MzYwYjc5NWUyM2U3NTE2YzZkN2ExODAxMWJjZDMzNGU5M2Y0/u/auth_0_rtc1myiv/hls/playlist_4.m3u8<link> 
+
+<link>http://testdelta.cdn.antel.net.uy/out,vxttoken=cGF0aFVSST0lMkZvdXQlMkZ1JTJGYXV0aF8wX3J0YzFteWl2JTJGaGxzJTJGJTJBJmV4cGlyeT0xNTA4MDE3OTk4JnJhbmRvbT1KV3JIbzFtS0hwJmMtaXA9MTg2LjUyLjE5NS4xNzIsZTc0YTMzNTg0MzljOWM2ZGZiZmFhYjZhNDdhNWM5NGE1ODVkOTg3NDc0NzFkMzE2ZGMzNTE2OWM2ZWFmNTFkNA==/u/auth_0_rtc1myiv/hls/playlist_4.m3u8<link> 
 
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
 <fanart>https://media.elobservador.com.uy/adjuntos/181/imagenes/001/439/0001439728.jpg</fanart> 
