@@ -55,13 +55,6 @@ http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/chunklist_b5960
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]KZO</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9Jdx_JAZ8eY</link>
-<thumbnail>http://3.bp.blogspot.com/-D6mEl6Z-I0Y/WeU_V1yo_VI/AAAAAAAACFE/q6AiXmpvMs0TkC_cPkwgZSKrTyEzNkngQCK4BGAYYCw/s1600/kzo.jpg</thumbnail>
-<fanart>https://cdn.ciudad.com.ar/sites/default/files/styles/ciu_nota_slider_contenido_hd/public/nota/2017/05/26/magazine.jpg?itok=r_ZyySh6&c=acc98456cdafb3b6b4bcb921709b36bf</fanart>
-</item>
-
-<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El Trece</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/86241uki62kami41/</link>
 <regex>
@@ -136,6 +129,12 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w252194214_b18
 </item>
 http://200.42.92.149/live/mgzntv/mgzntv/playlist.m3u8|User-Agent=ArtearPlayer/3.2.42 (Linux;Android 4.4.2)
 
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]KZO</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9Jdx_JAZ8eY</link>
+<thumbnail>http://3.bp.blogspot.com/-D6mEl6Z-I0Y/WeU_V1yo_VI/AAAAAAAACFE/q6AiXmpvMs0TkC_cPkwgZSKrTyEzNkngQCK4BGAYYCw/s1600/kzo.jpg</thumbnail>
+<fanart>https://cdn.ciudad.com.ar/sites/default/files/styles/ciu_nota_slider_contenido_hd/public/nota/2017/05/26/magazine.jpg?itok=r_ZyySh6&c=acc98456cdafb3b6b4bcb921709b36bf</fanart>
+</item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Cronica Tv</title>
