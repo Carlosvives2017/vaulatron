@@ -55,6 +55,14 @@ http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/chunklist_b5960
 </item>
 
 <item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]KZO</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9Jdx_JAZ8eY</link>
+<thumbnail>https://media.tvbajocero.com/adjuntos/225/imagenes/000/019/0000019026.jpg</thumbnail>
+<fanart>https://cdn.ciudad.com.ar/sites/default/files/styles/ciu_nota_slider_contenido_hd/public/nota/2017/05/26/magazine.jpg?itok=r_ZyySh6&c=acc98456cdafb3b6b4bcb921709b36bf</fanart>
+</item>
+https://media.tvbajocero.com/adjuntos/225/imagenes/000/019/0000019026.jpg
+
+<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El Trece</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/86241uki62kami41/</link>
 <regex>
@@ -235,6 +243,13 @@ http://200.42.92.149/live/mgzntv/mgzntv/playlist.m3u8|User-Agent=ArtearPlayer/3.
 <link>http://qmnoticiashls-lh.akamaihd.net/i/qmnoticiasTEST_hls@324831/master.m3u8|User-Agent=ArtearPlayer/3.2.42 (Linux;Android 4.4.2) ExoPlayerLib/1.5.9</link>
 <thumbnail>http://2.bp.blogspot.com/-vFT9UUMOEZ8/Wdut86qZ50I/AAAAAAAABw0/8bCfaQmBCqs7u0_oFExdyrCb_NabAfjTQCK4BGAYYCw/s1600/qm.jpg</thumbnail>
 <fanart>https://i.imgur.com/WT0Pe6k.png</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]13 Max Digital</title>
+<link>http://www.coninfo.net:1935/13max/live/playlist.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-nidxi_klkxY/WeU0-xj__iI/AAAAAAAACEw/dsqnJhOG6jIPrdjkHcexDSPg2hR3ingCACK4BGAYYCw/s1600/13maxdig.jpg</thumbnail>
+<fanart>https://mir-s3-cdn-cf.behance.net/projects/404/8be50027771673.559d9cee1512f.png</fanart>
 </item>
 
 <item>
