@@ -109,9 +109,17 @@ item>
 <fanart></fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TyC Sports HD</title>
 <link>http://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master2500k.m3u8</link>
+<thumbnail>https://i.ytimg.com/vi/9lvKFKUeTTE/maxresdefault_live.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TyC Sports SD</title>
+<link>http://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master500k.m3u8</link>
 <thumbnail>https://i.ytimg.com/vi/9lvKFKUeTTE/maxresdefault_live.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -125,14 +133,6 @@ item>
 <expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
 <page>https://www.cxntv.com/canales/172499/</page>
 </regex>
-<thumbnail>https://i.ytimg.com/vi/9lvKFKUeTTE/maxresdefault_live.jpg</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TyC Sports SD</title>
-<link>http://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master500k.m3u8</link>
 <thumbnail>https://i.ytimg.com/vi/9lvKFKUeTTE/maxresdefault_live.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
