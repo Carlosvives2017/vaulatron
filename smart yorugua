@@ -33,28 +33,63 @@
 <fanart>https://mir-s3-cdn-cf.behance.net/project_modules/disp/a096ea33876739.5605e9d69c762.jpg</fanart>
 </item>
 
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Univision</title>
-<link>$doregex[makelist]</link>
+--------------------------------------
+<item>               
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Telemundo</title>
+
+<link>http://$doregex[adryan_IP]/loadbalance/15847258663262532849/playlist.m3u8$doregex[adryan_AuthSign]|User-Agent=iPhone</link>
 <regex>
-<name>makelist</name>
-<expres>"uhls","url":"(http.*?playlist\.m.*)\/</expres>
-<page>http://$doregex[get-link]/1/ustream?connectionId=$doregex[get-token]</page>
-<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex><regex>
-<name>get-token</name>
-<expres>connectionId":"(.*?)"</expres>
-<page>http://r2955015-1-22731347-channel-ws-live.ums.ustream.tv:1935/1/ustream?type=viewer&amp;referrer=http%3A%2F%2Fchiivass.es.tl%2FUNIVI.htm&amp;media=22731347&amp;application=channel&amp;appId=11&amp;appVersion=1</page>
-<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex><regex>
-<name>get-link</name>
-<expres>host":"(.*?)"</expres>
-<page>http://r2955015-1-22731347-channel-ws-live.ums.ustream.tv:1935/1/ustream?type=viewer&amp;referrer=http%3A%2F%2Fchiivass.es.tl%2FUNIVI.htm&amp;media=22731347&amp;application=channel&amp;appId=11&amp;appVersion=1</page>
-<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<name>adryan_IP</name>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[adryan_page]</page>
+<noredirect>true</noredirect>
+<includeheaders></includeheaders>
 </regex>
+<regex>
+<name>adryan_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[adryan_page]</page>
+</regex>
+<regex>
+<name>adryan_page</name>
+<expres>"(.*m3u8.*?)"</expres>
+<page>http://pxstream.tv/embed/up06x35h945y/</page>
+<referer>http://lacasadeltikitaka.club</referer>
+</regex>
+
+<thumbnail>http://1.bp.blogspot.com/-oLZdKyRD5pU/Wec-Xq-RjwI/AAAAAAAACGU/9EoJrpRuNuoZASSKUCL71eUdgcCuF9t_wCK4BGAYYCw/s1600/telemundo.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-cv8nTHGoJiQ/UdTWqhfccMI/AAAAAAAAmUg/7Tx9vZLCJso/s520/Telemundo+PUERTO+RICO+(2).png</fanart>
+<info></info>
+</item>
+	   
+
+<item>               
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Univision</title>
+
+<link>http://$doregex[adryan_IP]/loadbalance/72849632197926123218/playlist.m3u8$doregex[adryan_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>adryan_IP</name>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[adryan_page]</page>
+<noredirect>true</noredirect>
+<includeheaders></includeheaders>
+</regex>
+<regex>
+<name>adryan_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[adryan_page]</page>
+</regex>
+<regex>
+<name>adryan_page</name>
+<expres>"(.*m3u8.*?)"</expres>
+<page>http://pxstream.tv/embed/up06x35h945y/</page>
+<referer>http://lacasadeltikitaka.club</referer>
+</regex>
+
 <thumbnail>http://4.bp.blogspot.com/-H0QKjYKEH_w/WeAdBYJch-I/AAAAAAAACEI/Ot08WOg2JvMW4edqMb7VNovZpz7ktttkQCK4BGAYYCw/s1600/univision.jpg</thumbnail>
 <fanart>http://www.xtremostereo.net/wp-content/uploads/2016/09/Univisión-en-vivo-online.jpg</fanart>
 </item>
+-----------------------------------------
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TV PERU</title>
