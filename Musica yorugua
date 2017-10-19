@@ -24,6 +24,8 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%20tv%20Series%20y%20Animes%20de%20Tv.png",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Hit TV
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
 ----------------------------------------------------
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-ZZ23JgWDxmU/WdbXZYtHw6I/AAAAAAAABpU/C28KfjSz1lAC_KPuw6XXS6pLlUZiGAmGwCK4BGAYYCw/s1600/la%2Bmega%2Bmundial.jpg" ,[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/27274/logo_melody%20channel1.png" ,[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?iptvgratis?Latinos.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvnewscheck.com/marketshare/wp-content/uploads/2017/07/logo.png",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Retro TV
