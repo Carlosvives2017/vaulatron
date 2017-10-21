@@ -80,7 +80,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Crimen investigacion[/COLOR] </title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Crimen investigacion SD[/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
