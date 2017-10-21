@@ -66,6 +66,15 @@
 </item>
 
 <item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR][COLOR red]Mo[COLOR yellow]vist[COLOR red]ar[/COLOR]</title>
+    <link>ignorame</link>
+    <externallink>https://goo.gl/gKTJn1</externallink> 
+    <thumbnail>http://4.bp.blogspot.com/-VI3StFwPbEA/WYDBNKd5MmI/AAAAAAAABXY/Coni6zWWFu8cdTKzk1N3xhklhzRWgVfugCK4BGAYYCw/s1600/Movistar.jpg</thumbnail>	
+    <fanart>https://www.adslzone.net/app/uploads/2015/07/apertura-canales-movistar-plus.jpg</fanart> 
+<info></info>
+</item>
+
+<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR][COLOR][COLOR blue]IPTV[/COLOR]</title>
 <link>NA</link>
 <externallink>$doregex[select]</externallink>
@@ -75,8 +84,8 @@
 def GetLSProData(page_data,Cookie_Jar,m):
    import xbmcgui
    dialog = xbmcgui.Dialog()
-   ret = dialog.select('[B][COLOR red]• •   [/B][COLOR red]Canales IPTV   [COLOR red][B][COLOR red]• •[/COLOR][/B][COLOR deepskyred]**************************************[/COLOR]', ['[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Demo [COLOR blue]IPTV[/COLOR]', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]ExabyteTv', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR orange]Tecno[COLOR white]Tv[/COLOR]', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR deepskyblue]Sr Regio Tv[/COLOR]', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR deepskyblue]Sr Regio peliculas[/COLOR]', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][COLOR lime]Android-Latino[/COLOR]' , '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]AchoTv Peliculas' , '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]AchoTv', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Fluxus Tv'])
-   lists = ['https://goo.gl/yFFsBN', 'http://exabytetv.info/lista.m3u', 'http://tecnotv.xyz/lista.m3u', 'http://srregio.net/regiotv.m3u', 'http://srregio.net/regiopeliculas.m3u', 'https://goo.gl/tSzbi5', 'https://goo.gl/fP6JjA', 'http://www.achotv.com/listas/canales.m3u', 'https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u']
+   ret = dialog.select('[B][COLOR red]• •   [/B][COLOR red]Canales IPTV   [COLOR red][B][COLOR red]• •[/COLOR][/B][COLOR deepskyred]**************************************[/COLOR]', ['[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Demo [COLOR blue]IPTV[/COLOR]', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR orange]Tecno[COLOR white]Tv[/COLOR]', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR orange]Tecno[COLOR white]Tv[/COLOR] Peliculas', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR deepskyblue]Sr Regio Tv[/COLOR]', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR deepskyblue]Sr Regio peliculas[/COLOR]', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][COLOR lime]Android-Latino[/COLOR]' , '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]AchoTv', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]AchoTv Peliculas', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Fluxus Tv'])
+   lists = ['https://goo.gl/yFFsBN', 'http://tecnotv.xyz/lista.m3u', 'http://tecnotv.xyz/peliculas.m3u', 'http://srregio.net/regiotv.m3u', 'http://srregio.net/regiopeliculas.m3u', 'https://goo.gl/tSzbi5', 'http://www.achotv.com/listas/canales.m3u', 'https://goo.gl/fP6JjA', 'https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u']
    return lists[ret]
 ]]></expres>
 <page></page>
@@ -85,14 +94,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
 </item>
 
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR]Deportes</title>
-    <link>ignorame</link> 
-    <externallink>https://goo.gl/3FqoGv</externallink>
- <thumbnail>http://4.bp.blogspot.com/-0O2cZrpnNOw/WYDBNMq181I/AAAAAAAABY4/O2MiaTjM844gX_GnUUrIMpYZJIF6kGPbQCK4BGAYYCw/s1600/Deportes.jpg</thumbnail>
-    <fanart>http://static.azteca.com/imagenes/2017/13/deportes-2126641.jpg</fanart> 
-<info></info>
-</item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR]Musica</title>
