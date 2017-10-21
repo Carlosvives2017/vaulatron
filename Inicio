@@ -122,6 +122,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR]Cunbia Uruguay 2016/17</title>
+    <link>ignorme</link>
+    <jsonrpc>plugin://plugin.video.youtube/playlist/PLyrvT40aVZpQ1GfO5okikoLhbPbt_XPm9/</jsonrpc>
+    <thumbnail>http://1.bp.blogspot.com/-ExxQVQNiRfY/WetNYNNTSWI/AAAAAAAACG8/BMtY2SFve2IzhIrrPeh1wWD2wvkweQhtACK4BGAYYCw/s1600/logocumbia.jpg</thumbnail>
+    <fanart>http://www.unosantafe.com.ar/export/sites/diario_santafe/imagenes/2016/02/08/toco-para-vos.jpg</fanart>
+<info></info>
+</item>
+
+<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR]Peliculas y Series</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/qbVGCe</externallink>
