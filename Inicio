@@ -66,15 +66,6 @@
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR][COLOR red]Mo[COLOR yellow]vist[COLOR red]ar[/COLOR]</title>
-    <link>ignorame</link>
-    <externallink>https://goo.gl/gKTJn1</externallink> 
-    <thumbnail>http://4.bp.blogspot.com/-VI3StFwPbEA/WYDBNKd5MmI/AAAAAAAABXY/Coni6zWWFu8cdTKzk1N3xhklhzRWgVfugCK4BGAYYCw/s1600/Movistar.jpg</thumbnail>	
-    <fanart>https://www.adslzone.net/app/uploads/2015/07/apertura-canales-movistar-plus.jpg</fanart> 
-<info></info>
-</item>
-
-<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR][COLOR][COLOR blue]IPTV[/COLOR]</title>
 <link>NA</link>
 <externallink>$doregex[select]</externallink>
