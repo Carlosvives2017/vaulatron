@@ -13,7 +13,7 @@
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
+<expres>videoUrl = '(.*?)'</expres>
 <page>http://livesports.pw/embed.php?file=vtv&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
