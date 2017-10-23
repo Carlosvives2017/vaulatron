@@ -13,7 +13,7 @@
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]A24 HD[/COLOR]</title> 
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8EPLWwRMnV8</link> 
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kLlI76mNygk</link> 
 <thumbnail>http://1.bp.blogspot.com/-OQXV8MkhyEA/WdaNiL4syoI/AAAAAAAABj4/_HKoBs_ePdUaqD5ZKw1kjPpCkzVbkj8BwCK4BGAYYCw/s1600/a24.jpg</thumbnail>
 <fanart>http://2.bp.blogspot.com/-iX6FPCYr9Og/WdaNiCsxzbI/AAAAAAAABkI/RxxdywAkcaEbXfyJM6zrPt-yJvZqHP4tACK4BGAYYCw/s1600/a24.jpg</fanart>
 </item>
@@ -261,6 +261,13 @@ http://200.42.92.149/live/mgzntv/mgzntv/playlist.m3u8|User-Agent=ArtearPlayer/3.
 <link>http://qmnoticiashls-lh.akamaihd.net/i/qmnoticiasTEST_hls@324831/master.m3u8|User-Agent=ArtearPlayer/3.2.42 (Linux;Android 4.4.2) ExoPlayerLib/1.5.9</link>
 <thumbnail>http://2.bp.blogspot.com/-vFT9UUMOEZ8/Wdut86qZ50I/AAAAAAAABw0/8bCfaQmBCqs7u0_oFExdyrCb_NabAfjTQCK4BGAYYCw/s1600/qm.jpg</thumbnail>
 <fanart>https://i.imgur.com/WT0Pe6k.png</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TDC</title>
+<link>http://painel.serveron.com.br:1935/8166/8166/chunklist_w266638799.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-G7coZb6tQuA/We4BIMy9WhI/AAAAAAAACHQ/ANAbx5N58Zoay-vDaSMIZSAzRBhDlV2xACK4BGAYYCw/s1600/tdc.jpg</thumbnail>
+<fanart>https://lh3.googleusercontent.com/fpC49PlM6FFF58Hm6IoHZuiWFs-A7XhsFnKvB9khWlieKzjHTBQB9g4R99PXUjnOXg=w300</fanart>
 </item>
 
 <item>
