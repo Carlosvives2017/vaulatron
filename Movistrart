@@ -187,7 +187,8 @@ item>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
+<expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=cazaypesca&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
@@ -214,6 +215,7 @@ item>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
+<expres>videoUrl = '(.*?)'</expres>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed.php?file=pluscero&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
@@ -227,7 +229,8 @@ item>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
+<expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=amcesptele&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
@@ -253,7 +256,8 @@ item>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
+<expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=foxespana&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
@@ -266,7 +270,8 @@ item>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
+<expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=tntesp&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
@@ -279,7 +284,8 @@ item>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
+<expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=sysfesp&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
@@ -287,6 +293,7 @@ item>
 <fanart>http://www.syfy.com/sites/syfy/files/wire/legacy/syfy.jpg</fanart>
 </item>
 
+----------------
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]M+ ACCION[COLOR lime][/COLOR]</title>
 <sportsdevil>http://livesports.pw/embedn.php?file=accion&width=650&height=397&autostart=true</sportsdevil>
@@ -326,13 +333,15 @@ item>
 <thumbnail>http://3.bp.blogspot.com/-Aw-2prEPuv0/WdwBBMkEcdI/AAAAAAAAB0c/_30_6zY6X4Y0fUXZ4z2k--V66xeN_rmfwCK4BGAYYCw/s1600/series1.jpg</thumbnail>
 <fanart>http://3.bp.blogspot.com/-Aw-2prEPuv0/WdwBBMkEcdI/AAAAAAAAB0c/_30_6zY6X4Y0fUXZ4z2k--V66xeN_rmfwCK4BGAYYCw/s1600/series1.jpg</fanart>
 </item>
+--------------------
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La 1</title>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
+<expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=launotelefivegb&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
@@ -345,7 +354,8 @@ item>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
+<expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=tvdostelefive&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
@@ -430,7 +440,8 @@ item>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
+<expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=energy&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
