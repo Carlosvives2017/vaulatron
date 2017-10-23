@@ -40,7 +40,7 @@
 <fanart>https://i.ytimg.com/vi/IDMWV4RvXNU/hqdefault.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Los Simpson</title>
 <link>http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8</link>
 <thumbnail>http://2.bp.blogspot.com/-aZKesHwvvSc/WeYXmbMoZXI/AAAAAAAACFc/gRvIZ3y2mvMNytbproqKrG18bCizYFQ2wCK4BGAYYCw/s1600/los%2Bshimpsons.jpg</thumbnail>
@@ -94,7 +94,8 @@ item>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
+<expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed.php?file=telemundoes&amp;width=650&amp;height=397</page>
 <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
 <cookieJar></cookieJar>
