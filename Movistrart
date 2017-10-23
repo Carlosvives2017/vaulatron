@@ -266,6 +266,20 @@ expres>source: '(.*?)'</expres>
 </item>
 
 <item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Energy</title>
+<link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=energy&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://1.bp.blogspot.com/-Gkuc5J5K--8/Wdz4Y_4LjGI/AAAAAAAAB_c/WmwZcDJLh1oZmCSLW5c7d0fi7QDVzychwCK4BGAYYCw/s1600/energy.jpg</thumbnail>
+<fanart>http://www.formulatv.com/images/fgaleria/28800/28803_logo-energy-canal-masculino-mediaset-espana.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]TNT[/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
@@ -296,40 +310,65 @@ expres>source: '(.*?)'</expres>
 ----------------
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]M+ ACCION[COLOR lime][/COLOR]</title>
-<sportsdevil>http://livesports.pw/embedn.php?file=accion&width=650&height=397&autostart=true</sportsdevil>
-<referer>http://telefivegb.com/canales/pelis/maccion</referer>
+<link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html&amp;User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>videoUrl = '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=accion&amp;width=650&amp;height=397</page>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
 <thumbnail>http://1.bp.blogspot.com/-CoW3Aw17b_c/WdwBBKAyIOI/AAAAAAAAB1I/u5HhNzqir18e6ytdQe7aw0ARXty9Vbf-ACK4BGAYYCw/s1600/accion.jpg</thumbnail>
 <fanart>http://1.bp.blogspot.com/-CoW3Aw17b_c/WdwBBKAyIOI/AAAAAAAAB1I/u5HhNzqir18e6ytdQe7aw0ARXty9Vbf-ACK4BGAYYCw/s1600/accion.jpg</fanart>
 </item>
   
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]M+ COMEDY[COLOR lime][/COLOR]</title>
-<sportsdevil>http://livesports.pw/embed.php?file=mcomedia&width=650&height=397&autostart=true</sportsdevil>
-<referer>http://verplusonline.com/canales/comediaes</referer>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>videoUrl = '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=mcomedia&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
 <thumbnail>http://2.bp.blogspot.com/-PlU27t9fiQc/WdwBBJSHNcI/AAAAAAAABzM/KF-qmCyQxAEwagVZdbPfm-ksV8i2MBcOgCK4BGAYYCw/s1600/comediamovi.jpg</thumbnail>
 <fanart>http://2.bp.blogspot.com/-PlU27t9fiQc/WdwBBJSHNcI/AAAAAAAABzM/KF-qmCyQxAEwagVZdbPfm-ksV8i2MBcOgCK4BGAYYCw/s1600/comediamovi.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]M+ DCINE</title>
-<sportsdevil>http://livesports.pw/embedn.php?file=dicneesp&width=588&height=397&autostart=true</sportsdevil>
-<referer>http://telefivegb.com/canales/pelis/dcinen</referer>
+<link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html&amp;User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>videoUrl = '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=dicneesp&amp;width=650&amp;height=397</page>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
 <thumbnail>http://3.bp.blogspot.com/-eY1SIreT_Vw/WdwBBDIsZRI/AAAAAAAAB00/VJ_30iPaOqk4Jy816Wzm_A1hapyNqx9ZwCK4BGAYYCw/s1600/dcine.jpg</thumbnail>
 <fanart>http://3.bp.blogspot.com/-eY1SIreT_Vw/WdwBBDIsZRI/AAAAAAAAB00/VJ_30iPaOqk4Jy816Wzm_A1hapyNqx9ZwCK4BGAYYCw/s1600/dcine.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]M+ ESTRENOS[COLOR lime][/COLOR]</title>
-<sportsdevil>http://livesports.pw/embedn.php?file=mestrenos&width=650&height=397&autostart=true</sportsdevil>
-<referer>http://telefivegb.com/canales/pelis/estrenos/</referer>
+<link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html&amp;User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>videoUrl = '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=movestr&amp;width=650&amp;height=397</page>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
 <thumbnail>http://1.bp.blogspot.com/-5PJGlOkcCrs/WdwBBN7W5DI/AAAAAAAAB0o/o2PIDkJDzscX9RgCxbVujQA7fvKk2upKwCK4BGAYYCw/s1600/estrenomovi.jpg</thumbnail>
 <fanart>http://1.bp.blogspot.com/-5PJGlOkcCrs/WdwBBN7W5DI/AAAAAAAAB0o/o2PIDkJDzscX9RgCxbVujQA7fvKk2upKwCK4BGAYYCw/s1600/estrenomovi.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]M+ Series</title>
-<sportsdevil>http://livesports.pw/embedn.php?file=seriesxtra&width=650&height=397&autostart=true</sportsdevil>
-<referer>http://telefivegb.com/canales/series/m_series_xtra</referer>
+<link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html&amp;User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>videoUrl = '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=mseries&amp;width=650&amp;height=397</page>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
 <thumbnail>http://3.bp.blogspot.com/-Aw-2prEPuv0/WdwBBMkEcdI/AAAAAAAAB0c/_30_6zY6X4Y0fUXZ4z2k--V66xeN_rmfwCK4BGAYYCw/s1600/series1.jpg</thumbnail>
 <fanart>http://3.bp.blogspot.com/-Aw-2prEPuv0/WdwBBMkEcdI/AAAAAAAAB0c/_30_6zY6X4Y0fUXZ4z2k--V66xeN_rmfwCK4BGAYYCw/s1600/series1.jpg</fanart>
 </item>
@@ -379,23 +418,37 @@ expres>source: '(.*?)'</expres>
  
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]A3Series HD[/COLOR]</title> 
-<link>http://vivoplay-i.akamaihd.net/hls/live/255336/canal8/master2500k.m3u8</link> 
+<link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
 <thumbnail>http://2.bp.blogspot.com/-rP6nKSGG9GY/Wdfhwnki0yI/AAAAAAAABtM/q59VtzDvFmUYbC81iysZektj9sePZrvuQCK4BGAYYCw/s1600/a3series.jpg</thumbnail>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZUF8d7HJtaXKg32xFmPUa52RVN663ZWCYBbe0FNIWl_S4wlyz</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]LA QUATRO[COLOR lime][/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/la-cuatro.php</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
+<link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>videoUrl = '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=lacuatro&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+sportsdevil>http://cinestrenostv.tv/canales/nacionales/la-cuatro.php</sportsdevil>
+referer>http://cinestrenostv.tv/</referer>
 <thumbnail>http://4.bp.blogspot.com/-iCyLslC8ODI/WdwqaKcdb8I/AAAAAAAAB2g/U4APug8ME4IC22xdL2bCi36zqJWT2bckwCK4BGAYYCw/s1600/canal%2B4.jpg</thumbnail>
 <fanart>http://2.bp.blogspot.com/-QvLEg1hDXyQ/UJlHJfAq60I/AAAAAAAASgA/TtFfgHhsCBU/s1600/cuatro.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Telecinco[COLOR lime][/COLOR]</title>
-<sportsdevil>http://zagaiptv.eklablog.com/tele-cinco-p1157486</sportsdevil>
-<referer>http://zagaiptv.eklablog.com/</referer>
+<link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>videoUrl = '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=telecinco&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+sportsdevil>http://zagaiptv.eklablog.com/tele-cinco-p1157486</sportsdevil>
+referer>http://zagaiptv.eklablog.com/</referer>
 <thumbnail>http://3.bp.blogspot.com/-bER--eKOgHA/WdwqajXabPI/AAAAAAAAB24/35IFvxnFpTQd58m657xJ9isB5wXaE3kdQCK4BGAYYCw/s1600/canal%2B5.jpg</thumbnail>
 <fanart>http://www.informativostv.com/informativostv/images/Telecinco/Telecinco/t5012001-03.jpg</fanart>
 </item>
@@ -433,20 +486,6 @@ expres>source: '(.*?)'</expres>
 </regex>
 <thumbnail>http://2.bp.blogspot.com/-nq-in0Tgr4M/Wdz4Y7GoPKI/AAAAAAAAB_o/-9D3bhnrt8QavLR_VoyS__68d_73r2FqgCK4BGAYYCw/s1600/fdf.jpg</thumbnail>
 <fanart>http://www.mundoplus.tv/blogs/tvdigital/files/2014/04/vueltafdf.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Energy</title>
-<link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
-expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=energy&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://1.bp.blogspot.com/-Gkuc5J5K--8/Wdz4Y_4LjGI/AAAAAAAAB_c/WmwZcDJLh1oZmCSLW5c7d0fi7QDVzychwCK4BGAYYCw/s1600/energy.jpg</thumbnail>
-<fanart>http://www.formulatv.com/images/fgaleria/28800/28803_logo-energy-canal-masculino-mediaset-espana.jpg</fanart>
 </item>
 
 <item>
