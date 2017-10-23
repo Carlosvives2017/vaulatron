@@ -125,24 +125,10 @@ item>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TDC</title>
-<link>http://painel.serveron.com.br:1935/8166/8166/chunklist_w266638799.m3u8</link>
-<thumbnail>http://1.bp.blogspot.com/-Bk1Q01Mutmc/WdbKC7ixEzI/AAAAAAAABmw/E2SiYrbyqvQ8it73gr-vMzgQnfuplpn0QCK4BGAYYCw/s1600/tdv.jpg</thumbnail>
-<fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2010/10/tdc-logo-side.jpg?resize=350%2C200</fanart>
-</item>
-
-<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Mexico Travel</title>
 <link>http://live10.cdnmedia.tv/mtchlive/mtch.smil/.m3u8</link>
 <thumbnail>http://2.bp.blogspot.com/-EkakUyLW8tA/WeU0-0f3kwI/AAAAAAAACEg/D_zZcurqFZYTKOOZd-HUkdqpIvzOfUK8gCK4BGAYYCw/s1600/mxtravel.jpg</thumbnail>
 <fanart>http://www.formulatv.com/images/noticias/35300/35372/1_1ff4dbafc2.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Latin Angels</title>
-<link>http://vivoplay-i.akamaihd.net/hls/live/255330/canal1/master2500k.m3u8</link>
-<thumbnail>http://2.bp.blogspot.com/-bVAusKOUQi8/WdbXY7EadKI/AAAAAAAABo8/fc_ZZWPxpNAk4Bogf1dNcNuUr5eTbOnTgCK4BGAYYCw/s1600/latinanges.jpg</thumbnail>
-<fanart>http://latinangels.tv/wp-content/uploads/2016/12/Latin-Angels-Post-1024x486-SinPlus.jpg</fanart>
 </item>
 
 <item>
@@ -202,14 +188,14 @@ item>
 </item> 
 
 ------------
-<item>
+item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Telesur[/COLOR]</title> 
 <link>http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8?iptvgratis?chile.m3u8</link> 
 <thumbnail>http://4.bp.blogspot.com/-lEPz5JOXkDo/WdbKCmHx0oI/AAAAAAAABn8/N7PgzZg8PDQerMmNzyRWPyfS4VQ4kCA8ACK4BGAYYCw/s1600/telesur.jpg</thumbnail>
 <fanart>http://www.marcha.org.ar/wp-content/uploads/2016/03/TELESUR-570x300.jpg</fanart>
 </item>
 
-item>
+<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Telesur</title>
 <link>$doregex[get-url]</link>
 <regex>
@@ -229,13 +215,6 @@ item>
 <fanart>http://www.marcha.org.ar/wp-content/uploads/2016/03/TELESUR-570x300.jpg</fanart>
 </item>
 --------------
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]CNN Chile[/COLOR]</title> 
-<link>http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8</link> 
-<thumbnail>http://4.bp.blogspot.com/-69HBMLyg50A/WdbKC6DMtsI/AAAAAAAABnA/MM-17Y4PhPY8fwuC_5f7utuzZXEIvePFQCK4BGAYYCw/s1600/cnn%2Bchile.jpg</thumbnail>
-<fanart>https://www.rapidtvnews.com/images/cnn-chile.jpg</fanart>
-</item> 
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Cable Noticias[/COLOR]</title> 
@@ -410,11 +389,25 @@ item>
 --------------------------------------------------------
 off
 
-<item>
+item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]CNN Chile[/COLOR]</title> 
+<link>http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8</link> 
+<thumbnail>http://4.bp.blogspot.com/-69HBMLyg50A/WdbKC6DMtsI/AAAAAAAABnA/MM-17Y4PhPY8fwuC_5f7utuzZXEIvePFQCK4BGAYYCw/s1600/cnn%2Bchile.jpg</thumbnail>
+<fanart>https://www.rapidtvnews.com/images/cnn-chile.jpg</fanart>
+</item> 
+
+item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La Red</title>
 <link>http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net</link>
 <thumbnail>http://2.bp.blogspot.com/-9Ya_mnuDXPc/WdbKC_u-yaI/AAAAAAAABng/ZPOrsL0M7xscumNbOi97pM9ffBJIA3lcACK4BGAYYCw/s1600/la%2Bred.jpg</thumbnail>
 <fanart>http://www.observacom.org/sitio/wp-content/uploads/2017/07/1897861.jpg</fanart>
+</item>
+
+item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Latin Angels</title>
+<link>http://vivoplay-i.akamaihd.net/hls/live/255330/canal1/master2500k.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-bVAusKOUQi8/WdbXY7EadKI/AAAAAAAABo8/fc_ZZWPxpNAk4Bogf1dNcNuUr5eTbOnTgCK4BGAYYCw/s1600/latinanges.jpg</thumbnail>
+<fanart>http://latinangels.tv/wp-content/uploads/2016/12/Latin-Angels-Post-1024x486-SinPlus.jpg</fanart>
 </item>
 
 item>
