@@ -147,6 +147,13 @@ expres>source: '(.*?)'</expres>
 </item>
 
 <item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Vivo play[/COLOR]</title> 
+<link>http://vivoplay-i.akamaihd.net/hls/live/261554/canal1/master2500k.m3u8</link> 
+<thumbnail>http://1.bp.blogspot.com/--MA4YazblxM/We5smh4G4fI/AAAAAAAACHs/rES3JsojcIID8PejKHrIDodFlC5v8WYQwCK4BGAYYCw/s1600/vivo.jpg</thumbnail>
+<fanart>http://www.el-aji.com/wp-content/uploads/2017/04/VivoPlay.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]HispanTV</title>
 <link>http://178.32.255.199:1935/live/hispantv/chunklist_w1362269254.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-wC-gavrJ1wE/WdbXZiWZ4jI/AAAAAAAABpk/sReuJ8eEqwwrbRuhFa8LdUqQ7VNFV0c3wCK4BGAYYCw/s1600/hispan%2Btv.jpg</thumbnail>
@@ -243,13 +250,6 @@ item>
 <link>http://us.watcha.live/ch13/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link> 
 <thumbnail>http://2.bp.blogspot.com/-BWKdYlZlzfI/WdbKCYlccSI/AAAAAAAABmE/sw0gjGdn0l8tHeA4qYX10EpWbqTjp9JsQCK4BGAYYCw/s1600/RT.jpg</thumbnail>
 <fanart>http://www.iptvcristiano.com/uploads/channels/146/logo_thumb.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Vivo plus[/COLOR]</title> 
-<link>http://vivoplay-i.akamaihd.net/hls/live/261554/canal1/master2500k.m3u8</link> 
-<thumbnail>http://2.bp.blogspot.com/-34-SAPdGCvA/WdfjAqhuwiI/AAAAAAAABtY/tw9hgmOZKvApo7I0KKmAK9-QzEjXl4eowCK4BGAYYCw/s1600/vivo%2Btv.jpg</thumbnail>
-<fanart>http://2.bp.blogspot.com/-34-SAPdGCvA/WdfjAqhuwiI/AAAAAAAABtY/tw9hgmOZKvApo7I0KKmAK9-QzEjXl4eowCK4BGAYYCw/s1600/vivo%2Btv.jpg</fanart>
 </item>
 
 <item>
