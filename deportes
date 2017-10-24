@@ -151,7 +151,8 @@ item>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
+<expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed.php?file=golesp&width=650&height=397 </page>
 <cookieJar></cookieJar>
 </regex>
@@ -224,7 +225,8 @@ item>
 <link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live/tve1.php</link>
 <regex>
 <name>get-id</name>
-<expres>source: '(.*?)'</expres>
+<expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live1/winsport.php</page>
 <referer>http://vercanalestv.com/tv/colombia/win-sports.html</referer>
 <agent>iPad</agent>
@@ -273,7 +275,8 @@ pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=13 live=1 conn=S:OK</link>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
+<expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed.php?file=deporteone&width=650&height=397&autostart=true</page>
 <cookieJar></cookieJar>
 </regex>
@@ -286,7 +289,8 @@ pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=13 live=1 conn=S:OK</link>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
+<expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed.php?file=deportedosm&width=650&height=397&autostart=true</page>
 <cookieJar></cookieJar>
 </regex>
@@ -299,7 +303,8 @@ pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=13 live=1 conn=S:OK</link>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
+<expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed.php?file=eurosportsesp&width=650&height=397&autostart=true</page>
 <cookieJar></cookieJar>
 </regex>
@@ -312,7 +317,8 @@ pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=13 live=1 conn=S:OK</link>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
+<expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed.php?file=eurosportsdosesp&width=650&height=397&autostart=true</page>
 <cookieJar></cookieJar>
 </regex>
@@ -325,7 +331,8 @@ pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=13 live=1 conn=S:OK</link>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
+<expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed.php?file=teledeporteesp&width=650&height=397&autostart=true</page>
 <cookieJar></cookieJar>
 </regex>
@@ -338,7 +345,8 @@ pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=13 live=1 conn=S:OK</link>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
+<expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed.php?file=beinlaliga&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
