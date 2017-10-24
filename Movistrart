@@ -266,6 +266,13 @@ expres>source: '(.*?)'</expres>
 </item>
 
 <item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Paramount[/COLOR] </title>
+<link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=PAES0008</link>
+<thumbnail>http://3.bp.blogspot.com/-VbM4KuSczRY/WdwBBOHcVWI/AAAAAAAABzI/tVB_9Jm1s6s5YQOiriEaCwWuM686ZJeMQCK4BGAYYCw/s1600/paramount.jpg</thumbnail> 
+<fanart>https://upload.wikimedia.org/wikipedia/id/thumb/4/4a/Paramount_logo.jpg/1200px-Paramount_logo.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Energy</title>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
@@ -533,20 +540,6 @@ item><title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Holl
 </regex>
 <thumbnail>http://2.bp.blogspot.com/-1EjjbZC9ffA/WdwBBJErkWI/AAAAAAAABzE/8W82l72rHOop3okvX_5IjPU51v6yq5HMwCK4BGAYYCw/s1600/holliwoddersss.jpg</thumbnail>
 <fanart>http://www.grupocomunica.com/wp-content/uploads/2016/05/Hollywood.jpg</fanart>
-</item>
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Paramount[/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>[",\'](h.*m3u8.*?)[",\']</expres>
-<page>http://tumarcador.xyz/verdirectotv/5</page>
-<referer>http://verdirectotv.com/tv/digitales2/plustoros.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&amp;Referer=http://www.dinozap.info/redirect/embedredi.php</agent>
-</regex>
-<thumbnail>http://3.bp.blogspot.com/-VbM4KuSczRY/WdwBBOHcVWI/AAAAAAAABzI/tVB_9Jm1s6s5YQOiriEaCwWuM686ZJeMQCK4BGAYYCw/s1600/paramount.jpg</thumbnail> 
-<fanart>https://upload.wikimedia.org/wikipedia/id/thumb/4/4a/Paramount_logo.jpg/1200px-Paramount_logo.jpg</fanart>
 </item>
 
 item>
