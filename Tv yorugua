@@ -6,6 +6,18 @@
 <thumbnail>http://minuto90.pt/public/uploads/source/nacionalidades/Uruguay-icon.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Monte Carlo TV</title>
+<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-montecarlo/</link>
+<regex>
+<name>play</name>
+<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
+<page>https://www.cxntv.com/canales/tv-montecarlo/</page>
+</regex>
+<thumbnail>http://3.bp.blogspot.com/-nmhH6RYEez4/WdzJUX3HNVI/AAAAAAAAB6g/Lf4ldgMUuNAmIgkxHdmx3GBnQGVYK_OigCK4BGAYYCw/s1600/canal%2B4.jpg</thumbnail>
+<fanart>http://www.infoycom.org.uy/wp-content/uploads/2016/05/motecarlotv.jpg</fanart>
+</item>
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVUY0002
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal 7</title>
@@ -26,6 +38,43 @@
 <thumbnail>http://2.bp.blogspot.com/-3pSRWDygxqY/WdzJUhdVzTI/AAAAAAAAB40/cpv2RinzhW4BquK_KWp5XATAisXq0RgSwCK4BGAYYCw/s1600/canal%2B7.jpg</thumbnail>
 <fanart>http://2.bp.blogspot.com/-LDp5X2y2cf0/WdeKii2yQII/AAAAAAAABq0/u0VojHHQfPMYrfeE2nAD8UkEeCcXBU7TACK4BGAYYCw/s1600/Sin%2Bt%25C3%25ADtulo-1.jpg</fanart>
 </item>
+
+---------------------------
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Teledoce</title>
+<link>http://api.new.livestream.com/accounts/13567583/events/6415731/live.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/-P3nIlGjOlD0/WdzKioS-gMI/AAAAAAAAB-U/r_9al-mPdB0yLoWMLw9Anr5Vb5O95wCQwCK4BGAYYCw/s1600/tele.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/media/CIyDP9TW8AAS1TE.jpg</fanart>
+</item>
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVUY0001
+
+item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Teledoce</title>
+<link>$doregex[url]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36&amp;Referer=http://livestream.com/accounts/13567583/events/6415731/player?width=960&amp;height=540&amp;autoPlay=true&amp;mute=false&amp;X-Requested-With=ShockwaveFlash/22.0.0.192</link>
+<regex>
+<name>url</name>
+<expres>smil","m3u8_url":"(.*)","secure_m3u8_url</expres>
+<page>https://livestream.com/accounts/13567583/events/6415731/player?width=960&height=540&enableInfoAndActivity=false&autoPlay=true&mute=false</page>
+</regex>
+<thumbnail>http://3.bp.blogspot.com/-P3nIlGjOlD0/WdzKioS-gMI/AAAAAAAAB-U/r_9al-mPdB0yLoWMLw9Anr5Vb5O95wCQwCK4BGAYYCw/s1600/tele.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/media/CIyDP9TW8AAS1TE.jpg</fanart>
+</item>
+-----------------------------
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Saeta Tv</title>
+<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-canal10/</link>
+<regex>
+<name>play</name>
+<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
+<page>https://www.cxntv.com/canales/tv-canal10/</page>
+</regex>
+<thumbnail>http://3.bp.blogspot.com/-q9q9EjHUo3M/WdzJURAX4bI/AAAAAAAAB5Q/_EWgQ3a1-3oPoDzkGopP-CL8kJPK1AU-gCK4BGAYYCw/s1600/canal%2B10.jpg</thumbnail>
+<fanart>http://brecha.com.uy/wp-content/uploads/2017/04/02-Canal-10-Foto-FERNANDO-PENA.jpg</fanart>
+</item>
+
+
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]VTV</title>
@@ -120,56 +169,6 @@ expres>source: '(.*?)'</expres>
 <thumbnail>http://3.bp.blogspot.com/-FDc3-sjoDF8/WdzJUYjrdRI/AAAAAAAAB4k/UwZiXuMjxo4eF6lhaClNMbyvFL5Hi84SwCK4BGAYYCw/s1600/canal%2B12.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/NvydQTgAx-k/hqdefault.jpg</fanart>
 </item>
-
-
----------------------------
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Monte Carlo TV</title>
-<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-montecarlo/</link>
-<regex>
-<name>play</name>
-<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
-<page>https://www.cxntv.com/canales/tv-montecarlo/</page>
-</regex>
-<thumbnail>http://3.bp.blogspot.com/-nmhH6RYEez4/WdzJUX3HNVI/AAAAAAAAB6g/Lf4ldgMUuNAmIgkxHdmx3GBnQGVYK_OigCK4BGAYYCw/s1600/canal%2B4.jpg</thumbnail>
-<fanart>http://www.infoycom.org.uy/wp-content/uploads/2016/05/motecarlotv.jpg</fanart>
-</item>
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVUY0002
- 
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Teledoce</title>
-<link>http://api.new.livestream.com/accounts/13567583/events/6415731/live.m3u8</link>
-<thumbnail>http://3.bp.blogspot.com/-P3nIlGjOlD0/WdzKioS-gMI/AAAAAAAAB-U/r_9al-mPdB0yLoWMLw9Anr5Vb5O95wCQwCK4BGAYYCw/s1600/tele.jpg</thumbnail>
-<fanart>https://pbs.twimg.com/media/CIyDP9TW8AAS1TE.jpg</fanart>
-</item>
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVUY0001
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Teledoce</title>
-<link>$doregex[url]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36&amp;Referer=http://livestream.com/accounts/13567583/events/6415731/player?width=960&amp;height=540&amp;autoPlay=true&amp;mute=false&amp;X-Requested-With=ShockwaveFlash/22.0.0.192</link>
-<regex>
-<name>url</name>
-<expres>smil","m3u8_url":"(.*)","secure_m3u8_url</expres>
-<page>https://livestream.com/accounts/13567583/events/6415731/player?width=960&height=540&enableInfoAndActivity=false&autoPlay=true&mute=false</page>
-</regex>
-<thumbnail>http://3.bp.blogspot.com/-P3nIlGjOlD0/WdzKioS-gMI/AAAAAAAAB-U/r_9al-mPdB0yLoWMLw9Anr5Vb5O95wCQwCK4BGAYYCw/s1600/tele.jpg</thumbnail>
-<fanart>https://pbs.twimg.com/media/CIyDP9TW8AAS1TE.jpg</fanart>
-</item>
------------------------------
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Saeta Tv</title>
-<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-canal10/</link>
-<regex>
-<name>play</name>
-<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
-<page>https://www.cxntv.com/canales/tv-canal10/</page>
-</regex>
-<thumbnail>http://3.bp.blogspot.com/-q9q9EjHUo3M/WdzJURAX4bI/AAAAAAAAB5Q/_EWgQ3a1-3oPoDzkGopP-CL8kJPK1AU-gCK4BGAYYCw/s1600/canal%2B10.jpg</thumbnail>
-<fanart>http://brecha.com.uy/wp-content/uploads/2017/04/02-Canal-10-Foto-FERNANDO-PENA.jpg</fanart>
-</item>
-
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TNU</title>
