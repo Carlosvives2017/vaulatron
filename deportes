@@ -161,7 +161,7 @@ expres>source: '(.*?)'</expres>
 </item>
 --------------------------------------------------------------------------
 
-<item>
+item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]GolPeru</title>
   <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
 			<regex>
@@ -225,8 +225,7 @@ item>
 <link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live/tve1.php</link>
 <regex>
 <name>get-id</name>
-<expres>videoUrl = '(.*?)'</expres>
-expres>source: '(.*?)'</expres>
+<expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live1/winsport.php</page>
 <referer>http://vercanalestv.com/tv/colombia/win-sports.html</referer>
 <agent>iPad</agent>
@@ -247,7 +246,7 @@ expres>source: '(.*?)'</expres>
 
 
 -----------------------------------------
-<item>
+item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TDN</title>
 <link>rtmp://$doregex[ip]/live playpath=YouTVOp1?id=256441$doregex[pk] swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf tcUrl=rtmp://mips.tv:1935/live/
 pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=13 live=1 conn=S:OK</link>
