@@ -40,14 +40,14 @@
 <fanart>https://i.ytimg.com/vi/IDMWV4RvXNU/hqdefault.jpg</fanart>
 </item>
 
-item>
+<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Los Simpson</title>
 <link>http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8</link>
 <thumbnail>http://2.bp.blogspot.com/-aZKesHwvvSc/WeYXmbMoZXI/AAAAAAAACFc/gRvIZ3y2mvMNytbproqKrG18bCizYFQ2wCK4BGAYYCw/s1600/los%2Bshimpsons.jpg</thumbnail>
 <fanart>https://media.elpatagonico.com/adjuntos/193/imagenes/008/552/0008552856.jpg</fanart>
 </item>
 
-item>
+<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La cuatro HD[COLOR lime][/COLOR]</title>
 <link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0012</link>
 <thumbnail>http://4.bp.blogspot.com/-iCyLslC8ODI/WdwqaKcdb8I/AAAAAAAAB2g/U4APug8ME4IC22xdL2bCi36zqJWT2bckwCK4BGAYYCw/s1600/canal%2B4.jpg</thumbnail>
@@ -60,6 +60,32 @@ item>
 <thumbnail>http://3.bp.blogspot.com/-bER--eKOgHA/WdwqajXabPI/AAAAAAAAB24/35IFvxnFpTQd58m657xJ9isB5wXaE3kdQCK4BGAYYCw/s1600/canal%2B5.jpg</thumbnail>
 <fanart>http://www.informativostv.com/informativostv/images/Telecinco/Telecinco/t5012001-03.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Cinemax</title>
+<link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/argentina/cinemax.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/cinemax.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html</referer>
+</regex>
+<thumbnail>http://1.bp.blogspot.com/-oOoyUIuiPxQ/WfCAWw6PXSI/AAAAAAAACIA/bfzQc08R4NEGF9TUa_vCWe15Ts-VxjDiQCK4BGAYYCw/s1600/cinemax.jpg</thumbnail>   
+<fanart>http://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/cinemax_logo_0.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Space</title>
+<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-space/ </link>
+<regex>
+<name>play</name>
+<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
+<page>https://www.cxntv.com/canales/tv-space/</page>
+</regex>
+<thumbnail>http://4.bp.blogspot.com/-9Kag4Bjg73k/WfCAW0YegMI/AAAAAAAACIE/SRRJ6cPn4CgnK6yoClD0D9Cg8h0RYTg0QCK4BGAYYCw/s1600/space.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-xs5k8OLNh3c/UZUY5GfqAtI/AAAAAAAABZE/a3UZkqNf7Qw/s1600/logo_port.jpg</fanart>
+</item>
+
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Willax</title>
