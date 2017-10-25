@@ -220,7 +220,7 @@ item>
 <info></info>
 </item>
 
-<item>
+item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Win Sports</title>
 <link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live/tve1.php</link>
 <regex>
