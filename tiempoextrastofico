@@ -1195,7 +1195,7 @@ item>
 <fanart></fanart>
 </item> 
 
-<item>
+item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]DirecTv</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
@@ -1296,7 +1296,7 @@ item>
 <fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tarjetarojatv 07 [COLOR blue]~[COLOR deepskyblue] TyC sport[/COLOR]</title>
 <sportsdevil>http://www.tarjetarojatv.net/rojadirecta/ver-tyc-sports-online.html</sportsdevil>
 <referer>http://www.tarjetarojaonline.xyz/reproductor/tycsports.php?width=620&height=438</referer>
@@ -1336,7 +1336,7 @@ item>
 <fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Vercanalestv [COLOR blue]~[COLOR deepskyblue] FoxSport 2[/COLOR]</title>
 <sportsdevil>http://vercanalestv.com/tv/opcion2/fox-sports-2.html</sportsdevil>
 <referer>http://vercanalestv.com/tv/opcion2/fox-sports-2.html</referer>
