@@ -547,8 +547,8 @@ referer>http://zagaiptv.eklablog.com/</referer>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=tcmesp&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
-expres>videoUrl = '(.*?)'</expres>
-<expres>source: '(.*?)'</expres>
+<expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=tcmesp&width=650&height=400</page>
 <cookieJar></cookieJar>
 </regex>
