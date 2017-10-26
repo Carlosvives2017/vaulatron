@@ -41,13 +41,6 @@
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Los Simpson</title>
-<link>http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8</link>
-<thumbnail>http://2.bp.blogspot.com/-aZKesHwvvSc/WeYXmbMoZXI/AAAAAAAACFc/gRvIZ3y2mvMNytbproqKrG18bCizYFQ2wCK4BGAYYCw/s1600/los%2Bshimpsons.jpg</thumbnail>
-<fanart>https://media.elpatagonico.com/adjuntos/193/imagenes/008/552/0008552856.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La cuatro HD[COLOR lime][/COLOR]</title>
 <link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0012</link>
 <thumbnail>http://4.bp.blogspot.com/-iCyLslC8ODI/WdwqaKcdb8I/AAAAAAAAB2g/U4APug8ME4IC22xdL2bCi36zqJWT2bckwCK4BGAYYCw/s1600/canal%2B4.jpg</thumbnail>
@@ -59,6 +52,15 @@
 <link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0015</link>
 <thumbnail>http://3.bp.blogspot.com/-bER--eKOgHA/WdwqajXabPI/AAAAAAAAB24/35IFvxnFpTQd58m657xJ9isB5wXaE3kdQCK4BGAYYCw/s1600/canal%2B5.jpg</thumbnail>
 <fanart>http://www.informativostv.com/informativostv/images/Telecinco/Telecinco/t5012001-03.jpg</fanart>
+</item>
+
+------------------------------------
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Los Simpson</title>
+<link>http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-aZKesHwvvSc/WeYXmbMoZXI/AAAAAAAACFc/gRvIZ3y2mvMNytbproqKrG18bCizYFQ2wCK4BGAYYCw/s1600/los%2Bshimpsons.jpg</thumbnail>
+<fanart>https://media.elpatagonico.com/adjuntos/193/imagenes/008/552/0008552856.jpg</fanart>
 </item>
 
 <item>
@@ -76,6 +78,22 @@ expres>videoUrl = '(.*?)'</expres>
 </item>
 
 <item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Fox</title>
+<sportsdevil>http://vergol.com/live1/foxlatino.php</sportsdevil>
+<referer>http://www.vercanalestv.com/fox-latino-en-vivo-por-internet/</referer>
+<thumbnail>http://4.bp.blogspot.com/-C03bsa-qei0/WdwBBH9x4bI/AAAAAAAAB1c/7TpihqLKigcwWxa4KeIJSA_WsW2l4056gCK4BGAYYCw/s1600/fox.jpg</thumbnail>
+<fanart>https://cdn.foxplay.com/sites/foxplay-la/files/img/logo-mobile-channels/fox-generic.png?ver=e2e5a340-3c27-4ac3-9044-a01138da9091</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Fox Action</title>
+<sportsdevil>http://vergol.com/live1/foxaction.php</sportsdevil>
+<referer>http://www.vercanalestv.com/ver-fox-premium-action-en-vivo-gratis-por-internet-en-directo/</referer>
+<thumbnail>https://1.bp.blogspot.com/-yyToGrCknQk/WfJypDpQQnI/AAAAAAAACIU/4Dty8IWHEkIUdxgB5BZYDAapsWIvoaeAQCK4BGAYYCw/s320/foxacti.jpg</thumbnail>
+<fanart>http://i.vimeocdn.com/video/388630672_1280x720.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Space</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-space/</link>
 <regex>
@@ -87,13 +105,7 @@ expres>videoUrl = '(.*?)'</expres>
 <fanart>http://4.bp.blogspot.com/-xs5k8OLNh3c/UZUY5GfqAtI/AAAAAAAABZE/a3UZkqNf7Qw/s1600/logo_port.jpg</fanart>
 </item>
 
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Willax</title>
-<link>http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8?iptvgratis?chile.m3u8</link>
-<thumbnail>http://1.bp.blogspot.com/-bQqjRCqOe3c/WeeG1G8zZsI/AAAAAAAACGk/oHwovyMdoPwAZ4HHXgX2TTQsimFvNUIiwCK4BGAYYCw/s1600/willax.jpg</thumbnail>
-<fanart>http://hostcartoon.com/cartoonproducciones/wp-content/uploads/2014/08/2willax.jpg</fanart>
-</item>
+--------------------------------
 
 --------------------------------------
 <item>               
@@ -284,6 +296,13 @@ item>
 <fanart>http://www.marcha.org.ar/wp-content/uploads/2016/03/TELESUR-570x300.jpg</fanart>
 </item>
 --------------
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Willax</title>
+<link>http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8?iptvgratis?chile.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-bQqjRCqOe3c/WeeG1G8zZsI/AAAAAAAACGk/oHwovyMdoPwAZ4HHXgX2TTQsimFvNUIiwCK4BGAYYCw/s1600/willax.jpg</thumbnail>
+<fanart>http://hostcartoon.com/cartoonproducciones/wp-content/uploads/2014/08/2willax.jpg</fanart>
+</item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Cable Noticias[/COLOR]</title> 
