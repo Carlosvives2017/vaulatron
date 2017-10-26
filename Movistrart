@@ -529,23 +529,28 @@ referer>http://zagaiptv.eklablog.com/</referer>
 ------------------
 --------------------------------------
 
-item><title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Hollywood[/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Hollywood[/COLOR] </title>
+<link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
-<name>get-id</name>
-<expres>[",\'](h.*m3u8.*?)[",\']</expres>
-<page>http://tumarcador.xyz/verdirectotv/10</page>
-<referer>http://verdirectotv.com/tv/digitales2/plustoros.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&amp;Referer=http://www.dinozap.info/redirect/embedredi.php</agent>
+<name>GetPageUrl</name>
+<expres>videoUrl = '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=hollywesp&width=650&height=400</page>
+<cookieJar></cookieJar>
 </regex>
 <thumbnail>http://2.bp.blogspot.com/-1EjjbZC9ffA/WdwBBJErkWI/AAAAAAAABzE/8W82l72rHOop3okvX_5IjPU51v6yq5HMwCK4BGAYYCw/s1600/holliwoddersss.jpg</thumbnail>
 <fanart>http://www.grupocomunica.com/wp-content/uploads/2016/05/Hollywood.jpg</fanart>
 </item>
 
-item>
+<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TCM</title>
-<sportsdevil>http://livesports.pw/embed.php?file=tcmesp&width=650&height=397&autoplay=true</sportsdevil>
-<referer>http://telefivegb.com/canales/pelis/tcm</referer>
+<link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>videoUrl = '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=tcmesp&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
 <thumbnail>http://2.bp.blogspot.com/-WGE9SqbTnN4/WdwBBFMjvAI/AAAAAAAABzo/xIZ71nVEyysdVTL1QbX5tufysxu-tCn3wCK4BGAYYCw/s1600/tcm.jpg</thumbnail>
 <fanart>http://www.chicaoguerrero.com/site/wp-content/uploads/2012/07/FESTA-CANAL-TCM-CONVENÇÃO-NET-3.jpg</fanart>
 </item>
