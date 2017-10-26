@@ -61,13 +61,13 @@
 <fanart>http://www.informativostv.com/informativostv/images/Telecinco/Telecinco/t5012001-03.jpg</fanart>
 </item>
 
-item>
+<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Cinemax</title>
 <link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/argentina/cinemax.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
-expres>source: '(.*?)'</expres>
+expres>videoUrl = '(.*?)'</expres>
+<expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live1/cinemax.php</page>
 <referer>http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html</referer>
 </regex>
