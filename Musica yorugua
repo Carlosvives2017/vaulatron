@@ -11,6 +11,8 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 http://46.101.21.42:8081/live/live2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m790072_quiero-musica.png",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Qmusica
 mms://200.42.92.6:1755/qmusica
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcBR0MyKSM55YdZWyF7hYo0mRXjG9sEQcn9fl3eNZYWp073Z5RHg",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Radio Monte Carlo
+http://fms.105.net:1935/live/rmc1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-PWE01qXA7to/WeU0-5IhsGI/AAAAAAAACEc/PXi2XpqefsEVXwCjn8UpPQyyNHpcPjgoQCK4BGAYYCw/s1600/tv%2Bpop.jpg",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tv POP
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
@@ -103,5 +105,4 @@ http://fms.105.net:1935/live/105Test1/playlist.m3u8
 #EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-tmhSjMT6cYg/VmtgpK5j3wI/AAAAAAAAAV8/iqcRk98LW3o/s1600/onetv.png",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]OneTV 
 http://server5.stweb.tv/radioone/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcBR0MyKSM55YdZWyF7hYo0mRXjG9sEQcn9fl3eNZYWp073Z5RHg",[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Radio Monte Carlo
-http://fms.105.net:1935/live/rmc1/playlist.m3u8
+
