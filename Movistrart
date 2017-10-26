@@ -379,6 +379,33 @@ expres>source: '(.*?)'</expres>
 <thumbnail>http://3.bp.blogspot.com/-Aw-2prEPuv0/WdwBBMkEcdI/AAAAAAAAB0c/_30_6zY6X4Y0fUXZ4z2k--V66xeN_rmfwCK4BGAYYCw/s1600/series1.jpg</thumbnail>
 <fanart>http://3.bp.blogspot.com/-Aw-2prEPuv0/WdwBBMkEcdI/AAAAAAAAB0c/_30_6zY6X4Y0fUXZ4z2k--V66xeN_rmfwCK4BGAYYCw/s1600/series1.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Hollywood[/COLOR] </title>
+<link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=hollywesp&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>videoUrl = '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=hollywesp&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-1EjjbZC9ffA/WdwBBJErkWI/AAAAAAAABzE/8W82l72rHOop3okvX_5IjPU51v6yq5HMwCK4BGAYYCw/s1600/holliwoddersss.jpg</thumbnail>
+<fanart>http://www.grupocomunica.com/wp-content/uploads/2016/05/Hollywood.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TCM</title>
+<link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=tcmesp&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=tcmesp&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-WGE9SqbTnN4/WdwBBFMjvAI/AAAAAAAABzo/xIZ71nVEyysdVTL1QbX5tufysxu-tCn3wCK4BGAYYCw/s1600/tcm.jpg</thumbnail>
+<fanart>http://www.chicaoguerrero.com/site/wp-content/uploads/2012/07/FESTA-CANAL-TCM-CONVENÇÃO-NET-3.jpg</fanart>
+</item>
 --------------------
 
 <item>
@@ -529,32 +556,7 @@ referer>http://zagaiptv.eklablog.com/</referer>
 ------------------
 --------------------------------------
 
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Hollywood[/COLOR] </title>
-<link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=hollywesp&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=hollywesp&width=650&height=400</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://2.bp.blogspot.com/-1EjjbZC9ffA/WdwBBJErkWI/AAAAAAAABzE/8W82l72rHOop3okvX_5IjPU51v6yq5HMwCK4BGAYYCw/s1600/holliwoddersss.jpg</thumbnail>
-<fanart>http://www.grupocomunica.com/wp-content/uploads/2016/05/Hollywood.jpg</fanart>
-</item>
 
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TCM</title>
-<link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=tcmesp&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
-expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=tcmesp&width=650&height=400</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://2.bp.blogspot.com/-WGE9SqbTnN4/WdwBBFMjvAI/AAAAAAAABzo/xIZ71nVEyysdVTL1QbX5tufysxu-tCn3wCK4BGAYYCw/s1600/tcm.jpg</thumbnail>
-<fanart>http://www.chicaoguerrero.com/site/wp-content/uploads/2012/07/FESTA-CANAL-TCM-CONVENÇÃO-NET-3.jpg</fanart>
-</item>
 
 item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]COSMOS[COLOR lime][/COLOR]</title>
