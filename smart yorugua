@@ -146,6 +146,12 @@ expres>source: '(.*?)'</expres>
 <info></info>
 </item>
 
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La Red</title>
+<link>http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net</link>
+<thumbnail>http://2.bp.blogspot.com/-9Ya_mnuDXPc/WdbKC_u-yaI/AAAAAAAABng/ZPOrsL0M7xscumNbOi97pM9ffBJIA3lcACK4BGAYYCw/s1600/la%2Bred.jpg</thumbnail>
+<fanart>http://www.observacom.org/sitio/wp-content/uploads/2017/07/1897861.jpg</fanart>
+</item>
 
 <item>               
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Univision</title>
@@ -451,13 +457,6 @@ item>
 <thumbnail>http://4.bp.blogspot.com/-69HBMLyg50A/WdbKC6DMtsI/AAAAAAAABnA/MM-17Y4PhPY8fwuC_5f7utuzZXEIvePFQCK4BGAYYCw/s1600/cnn%2Bchile.jpg</thumbnail>
 <fanart>https://www.rapidtvnews.com/images/cnn-chile.jpg</fanart>
 </item> 
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La Red</title>
-<link>http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net</link>
-<thumbnail>http://2.bp.blogspot.com/-9Ya_mnuDXPc/WdbKC_u-yaI/AAAAAAAABng/ZPOrsL0M7xscumNbOi97pM9ffBJIA3lcACK4BGAYYCw/s1600/la%2Bred.jpg</thumbnail>
-<fanart>http://www.observacom.org/sitio/wp-content/uploads/2017/07/1897861.jpg</fanart>
-</item>
 
 item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Latin Angels</title>
