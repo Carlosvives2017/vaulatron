@@ -54,81 +54,6 @@
 <fanart>http://www.informativostv.com/informativostv/images/Telecinco/Telecinco/t5012001-03.jpg</fanart>
 </item>
 
-------------------------------------
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Los Simpson</title>
-<link>http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8</link>
-<thumbnail>http://2.bp.blogspot.com/-aZKesHwvvSc/WeYXmbMoZXI/AAAAAAAACFc/gRvIZ3y2mvMNytbproqKrG18bCizYFQ2wCK4BGAYYCw/s1600/los%2Bshimpsons.jpg</thumbnail>
-<fanart>https://media.elpatagonico.com/adjuntos/193/imagenes/008/552/0008552856.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Cinemax</title>
-<link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/argentina/cinemax.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
-<regex>
-<name>GetPageUrl</name>
-expres>videoUrl = '(.*?)'</expres>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/cinemax.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html</referer>
-</regex>
-<thumbnail>http://1.bp.blogspot.com/-oOoyUIuiPxQ/WfCAWw6PXSI/AAAAAAAACIA/bfzQc08R4NEGF9TUa_vCWe15Ts-VxjDiQCK4BGAYYCw/s1600/cinemax.jpg</thumbnail>   
-<fanart>http://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/cinemax_logo_0.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Fox</title>
-<sportsdevil>http://vergol.com/live1/foxlatino.php</sportsdevil>
-<referer>http://www.vercanalestv.com/fox-latino-en-vivo-por-internet/</referer>
-<thumbnail>http://4.bp.blogspot.com/-C03bsa-qei0/WdwBBH9x4bI/AAAAAAAAB1c/7TpihqLKigcwWxa4KeIJSA_WsW2l4056gCK4BGAYYCw/s1600/fox.jpg</thumbnail>
-<fanart>https://cdn.foxplay.com/sites/foxplay-la/files/img/logo-mobile-channels/fox-generic.png?ver=e2e5a340-3c27-4ac3-9044-a01138da9091</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Fox Action</title>
-<sportsdevil>http://vergol.com/live1/foxaction.php</sportsdevil>
-<referer>http://www.vercanalestv.com/ver-fox-premium-action-en-vivo-gratis-por-internet-en-directo/</referer>
-<thumbnail>https://1.bp.blogspot.com/-yyToGrCknQk/WfJypDpQQnI/AAAAAAAACIU/4Dty8IWHEkIUdxgB5BZYDAapsWIvoaeAQCK4BGAYYCw/s320/foxacti.jpg</thumbnail>
-<fanart>http://i.vimeocdn.com/video/388630672_1280x720.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Hbo 2</title>
-<link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed.php?file=12hbodoslat&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
-expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=12hbodoslat&width=650&height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://2.bp.blogspot.com/-966NrF8TmwQ/WfKPXScAEUI/AAAAAAAACIo/OlGWL_EB_qwzH-vh4qqaeM6HF-U-q9magCK4BGAYYCw/s320/HBO2.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/OOruG-4oHeQ/hqdefault.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Space</title>
-<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-space/</link>
-<regex>
-<name>play</name>
-<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
-<page>https://www.cxntv.com/canales/tv-space/</page>
-</regex>
-<thumbnail>http://4.bp.blogspot.com/-9Kag4Bjg73k/WfCAW0YegMI/AAAAAAAACIE/SRRJ6cPn4CgnK6yoClD0D9Cg8h0RYTg0QCK4BGAYYCw/s1600/space.jpg</thumbnail>
-<fanart>http://4.bp.blogspot.com/-xs5k8OLNh3c/UZUY5GfqAtI/AAAAAAAABZE/a3UZkqNf7Qw/s1600/logo_port.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TNT</title>
-<sportsdevil>http://vergol.com/live1/tntlatino.php</sportsdevil>
-<referer>http://www.vercanalestv.com/tnt-en-vivo-latino-por-internet-gratis/</referer>
-<thumbnail>http://4.bp.blogspot.com/-6udFhuEJL-w/WdwBBDU1UiI/AAAAAAAABzc/KuMd-iPe2nQBQzDYHf0YRlrxpI6ZpDlLQCK4BGAYYCw/s1600/tnt.jpg</thumbnail>
-<fanart>http://pulsoslp.com.mx/wp-content/uploads/2015/03/tnt.jpg</fanart>
-</item>
-
---------------------------------
-
 --------------------------------------
 <item>               
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Telemundo</title>
@@ -180,13 +105,6 @@ expres>source: '(.*?)'</expres>
 <info></info>
 </item>
 
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La Red</title>
-<link>http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net</link>
-<thumbnail>http://2.bp.blogspot.com/-9Ya_mnuDXPc/WdbKC_u-yaI/AAAAAAAABng/ZPOrsL0M7xscumNbOi97pM9ffBJIA3lcACK4BGAYYCw/s1600/la%2Bred.jpg</thumbnail>
-<fanart>http://www.observacom.org/sitio/wp-content/uploads/2017/07/1897861.jpg</fanart>
-</item>
-
 <item>               
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Univision</title>
 <link>http://$doregex[adryan_IP]/loadbalance/72849632197926123218/playlist.m3u8$doregex[adryan_AuthSign]|User-Agent=iPhone</link>
@@ -214,6 +132,13 @@ expres>source: '(.*?)'</expres>
 -----------------------------------------
 
 <item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La Red</title>
+<link>http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net</link>
+<thumbnail>http://2.bp.blogspot.com/-9Ya_mnuDXPc/WdbKC_u-yaI/AAAAAAAABng/ZPOrsL0M7xscumNbOi97pM9ffBJIA3lcACK4BGAYYCw/s1600/la%2Bred.jpg</thumbnail>
+<fanart>http://www.observacom.org/sitio/wp-content/uploads/2017/07/1897861.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TV PERU</title>
 <link>http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8</link>
 <thumbnail>http://3.bp.blogspot.com/-Iz2wsFviC-g/WdbKCm7MUEI/AAAAAAAABnM/3gsuydfjQLko5-Dtis9QadF-ad8YTjengCK4BGAYYCw/s1600/tv%2Bperu.jpg</thumbnail>
@@ -233,6 +158,55 @@ expres>source: '(.*?)'</expres>
 <thumbnail>http://1.bp.blogspot.com/--MA4YazblxM/We5smh4G4fI/AAAAAAAACHs/rES3JsojcIID8PejKHrIDodFlC5v8WYQwCK4BGAYYCw/s1600/vivo.jpg</thumbnail>
 <fanart>http://www.el-aji.com/wp-content/uploads/2017/04/VivoPlay.jpg</fanart>
 </item>
+
+
+------------------------------------
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Cinemax</title>
+<link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/argentina/cinemax.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<regex>
+<name>GetPageUrl</name>
+expres>videoUrl = '(.*?)'</expres>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/cinemax.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html</referer>
+</regex>
+<thumbnail>http://1.bp.blogspot.com/-oOoyUIuiPxQ/WfCAWw6PXSI/AAAAAAAACIA/bfzQc08R4NEGF9TUa_vCWe15Ts-VxjDiQCK4BGAYYCw/s1600/cinemax.jpg</thumbnail>   
+<fanart>http://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/cinemax_logo_0.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Fox Action</title>
+<sportsdevil>http://vergol.com/live1/foxaction.php</sportsdevil>
+<referer>http://www.vercanalestv.com/ver-fox-premium-action-en-vivo-gratis-por-internet-en-directo/</referer>
+<thumbnail>https://1.bp.blogspot.com/-yyToGrCknQk/WfJypDpQQnI/AAAAAAAACIU/4Dty8IWHEkIUdxgB5BZYDAapsWIvoaeAQCK4BGAYYCw/s320/foxacti.jpg</thumbnail>
+<fanart>http://i.vimeocdn.com/video/388630672_1280x720.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Space</title>
+<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-space/</link>
+<regex>
+<name>play</name>
+<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
+<page>https://www.cxntv.com/canales/tv-space/</page>
+</regex>
+<thumbnail>http://4.bp.blogspot.com/-9Kag4Bjg73k/WfCAW0YegMI/AAAAAAAACIE/SRRJ6cPn4CgnK6yoClD0D9Cg8h0RYTg0QCK4BGAYYCw/s1600/space.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-xs5k8OLNh3c/UZUY5GfqAtI/AAAAAAAABZE/a3UZkqNf7Qw/s1600/logo_port.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TNT</title>
+<sportsdevil>http://vergol.com/live1/tntlatino.php</sportsdevil>
+<referer>http://www.vercanalestv.com/tnt-en-vivo-latino-por-internet-gratis/</referer>
+<thumbnail>http://4.bp.blogspot.com/-6udFhuEJL-w/WdwBBDU1UiI/AAAAAAAABzc/KuMd-iPe2nQBQzDYHf0YRlrxpI6ZpDlLQCK4BGAYYCw/s1600/tnt.jpg</thumbnail>
+<fanart>http://pulsoslp.com.mx/wp-content/uploads/2015/03/tnt.jpg</fanart>
+</item>
+
+--------------------------------
+
+
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]HispanTV</title>
