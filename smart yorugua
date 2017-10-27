@@ -94,6 +94,20 @@ expres>videoUrl = '(.*?)'</expres>
 </item>
 
 <item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Hbo 2</title>
+<link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed.php?file=12hbodoslat&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=12hbodoslat&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://2.bp.blogspot.com/-966NrF8TmwQ/WfKPXScAEUI/AAAAAAAACIo/OlGWL_EB_qwzH-vh4qqaeM6HF-U-q9magCK4BGAYYCw/s320/HBO2.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/OOruG-4oHeQ/hqdefault.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Space</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-space/</link>
 <regex>
