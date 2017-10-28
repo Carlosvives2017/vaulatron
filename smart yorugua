@@ -130,7 +130,7 @@ item>
 <fanart>http://www.xtremostereo.net/wp-content/uploads/2016/09/Univisión-en-vivo-online.jpg</fanart>
 </item>
 
-<item>               
+item>               
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Univision</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=$doregex[encodedurl]&amp;name=Multilista%20para%20siempre&amp;maxbitrate=1&amp;proxy=None&amp;Buffer=20971520</link>
 <regex>
