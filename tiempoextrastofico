@@ -1226,7 +1226,7 @@ item>
 ---------------------
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tarjetarojatv 01 [COLOR blue]~[COLOR deepskyblue] FoxSport 1[/COLOR]</title>
+title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tarjetarojatv 01 [COLOR blue]~[COLOR deepskyblue] FoxSport 1[/COLOR]</title>
 <sportsdevil>http://www.tarjetarojatv.net/rojadirecta/ver-fox-sports-en-vivo.html</sportsdevil>
 <referer>http://www.tarjetarojatv.net/rojadirecta/ver-fox-sports-en-vivo.html</referer>
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
@@ -1234,7 +1234,7 @@ item>
 </item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tarjetarojatv 02 [COLOR blue]~[COLOR deepskyblue] [COLOR red]bro[COLOR].[COLOR white]adca[COLOR].[COLOR blue]st[/COLOR]</title>
+title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tarjetarojatv 02 [COLOR blue]~[COLOR deepskyblue] [COLOR red]bro[COLOR].[COLOR white]adca[COLOR].[COLOR blue]st[/COLOR]</title>
 
 link>$doregex[bro.adca.st]</link>
 <regex>
@@ -1329,7 +1329,7 @@ item>
 <fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tarjetarojatv [COLOR blue]~[COLOR deepskyblue] FoxSport 1[/COLOR]</title>
 <link>https://live67.vkuserlive.com/637608/live/B7v6Nm5DfHKoIuQH/playlist.m3u8|User-Agent=Mozilla/5.0</link>
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
