@@ -20,9 +20,11 @@
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
 <fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart> 
 </item>
+
 -------------------------------
+
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]FutWide [COLOR blue]~[COLOR deepskyblue] Goltv [COLOR blue]~[COLOR deepskyblue] VTV [COLOR blue]~[COLOR deepskyblue] Foxsport[/COLOR] [COLOR blue]~[COLOR white] Widestream[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]FutWide A[COLOR blue]~[COLOR deepskyblue] Goltv [COLOR blue]~[COLOR deepskyblue] VTV [COLOR blue]~[COLOR deepskyblue] Foxsport[/COLOR] [COLOR blue]~[COLOR white] Widestream[/COLOR]</title>
 <link>$doregex[get-id]</link>
 <regex>
 <name>get-id</name>
@@ -33,6 +35,31 @@
 <fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]FutWide 1[COLOR blue]~[COLOR deepskyblue] Goltv [COLOR blue]~[COLOR deepskyblue] VTV [COLOR blue]~[COLOR deepskyblue] Foxsport[/COLOR] [COLOR blue]~[COLOR white] Widestream[/COLOR]</title>
+<link>$doregex[get-id]</link>
+<regex>
+<name>get-id</name>
+<expres>file:"(.*?)"</expres>
+<page>http://widestream.io/embed-14404</page>
+</regex>
+<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
+<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]DailyWide [COLOR blue]~[COLOR deepskyblue] Goltv [COLOR blue]~[COLOR deepskyblue] VTV [COLOR blue]~[COLOR deepskyblue] Foxsport[/COLOR] [COLOR blue]~[COLOR white] Widestream[/COLOR]</title>
+<link>$doregex[get-id]</link>
+<regex>
+<name>get-id</name>
+<expres>file:"(.*?)"</expres>
+<page>http://widestream.io/embed-14402</page>
+</regex>
+<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
+<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+</item>
+
+--------------------------------
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Rivo tx2 [COLOR blue]~[COLOR deepskyblue] VTV [COLOR blue]~[COLOR deepskyblue] Foxsport[/COLOR]</title>
