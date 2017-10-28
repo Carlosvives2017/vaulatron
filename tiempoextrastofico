@@ -1035,7 +1035,7 @@ Fox Chile
 </item>
   
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Fut Chile</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Fut Chile 3</title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -1068,8 +1068,8 @@ item>
 <item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]FOX SPORTS 1 URU</title>
-<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
+title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]FOX SPORTS 1 URU</title>
+link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
 <regex>
 <name>play</name>
 <expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
@@ -1236,7 +1236,7 @@ item>
 item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tarjetarojatv 02 [COLOR blue]~[COLOR deepskyblue] [COLOR red]bro[COLOR].[COLOR white]adca[COLOR].[COLOR blue]st[/COLOR]</title>
 
-<link>$doregex[bro.adca.st]</link>
+link>$doregex[bro.adca.st]</link>
 <regex>
 <name>bro.adca.st</name>
 <expres><![CDATA[#$pyFunction
