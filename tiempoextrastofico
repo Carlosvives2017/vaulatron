@@ -24,7 +24,7 @@
 -------------------------------
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]FutWide A[COLOR blue]~[COLOR deepskyblue] Goltv [COLOR blue]~[COLOR deepskyblue] VTV [COLOR blue]~[COLOR deepskyblue] Foxsport[/COLOR] [COLOR blue]~[COLOR white] Widestream[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]FutWide canal 1[COLOR blue]~[COLOR deepskyblue] Goltv [COLOR blue]~[COLOR deepskyblue] VTV [COLOR blue]~[COLOR deepskyblue] Foxsport[/COLOR] [COLOR blue]~[COLOR white] Widestream[/COLOR]</title>
 <link>$doregex[get-id]</link>
 <regex>
 <name>get-id</name>
@@ -36,7 +36,7 @@
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]FutWide 1[COLOR blue]~[COLOR deepskyblue] Goltv [COLOR blue]~[COLOR deepskyblue] VTV [COLOR blue]~[COLOR deepskyblue] Foxsport[/COLOR] [COLOR blue]~[COLOR white] Widestream[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]FutWide canal 2 [COLOR blue]~[COLOR deepskyblue] La Liga[/COLOR]</title>
 <link>$doregex[get-id]</link>
 <regex>
 <name>get-id</name>
@@ -48,7 +48,7 @@
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]DailyWide [COLOR blue]~[COLOR deepskyblue] Goltv [COLOR blue]~[COLOR deepskyblue] VTV [COLOR blue]~[COLOR deepskyblue] Foxsport[/COLOR] [COLOR blue]~[COLOR white] Widestream[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]DailyWide [COLOR blue]~[COLOR deepskyblue] La Liga[/COLOR]</title>
 <link>$doregex[get-id]</link>
 <regex>
 <name>get-id</name>
