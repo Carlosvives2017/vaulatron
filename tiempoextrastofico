@@ -511,14 +511,12 @@ http://www.247bay.tv/membedplayer/fox1malosolandia/2/600/400
 -------------------------------------------------------
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]M+ Vip Bein</title>
-
 <link>$doregex[elecdeka]|User-Agent=iPad</link>
 <regex>
 <name>elecdeka</name>
 <expres>source: "(.*?)"</expres>
 <page>http://widestream.io/embedClappr.php?live=79</page>
 </regex>
-
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
 <fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
 </item>
