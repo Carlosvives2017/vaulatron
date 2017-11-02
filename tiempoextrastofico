@@ -508,6 +508,22 @@ item>
 </item>
 http://www.247bay.tv/membedplayer/fox1malosolandia/2/600/400
 
+-------------------------------------------------------
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]M+ Vip Bein</title>
+
+<link>$doregex[elecdeka]|User-Agent=iPad</link>
+<regex>
+<name>elecdeka</name>
+<expres>source: "(.*?)"</expres>
+<page>http://widestream.io/embedClappr.php?live=79</page>
+</regex>
+
+<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
+<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+</item>
+
+------------------------
 
 
 --------------------------------------------
@@ -613,87 +629,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
 <fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
 </item>
-
--------------------------------------------------------
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Vip TkTk</title>
-
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/84985286513551318748/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex>
-<name>Igor_Rangel_IP</name>
-<expres>location:http://(.*)/loadbalance</expres>
-<page>$doregex[Igor_Rangel_Page]</page>
-<noredirect>true</noredirect>
-<includeheaders></includeheaders>
-</regex>
-<regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)</expres>
-<page>$doregex[Igor_Rangel_Page]</page>
-</regex>
-<regex>
-<name>Igor_Rangel_Page</name>
-<expres>"(.*m3u8.*?)"</expres>
-<page>http://pxstream.tv/embed/up06x35h945y/</page>
-<referer>http://lacasadeltikitaka.club</referer>
-</regex>
-
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
-</item>
-http://188.166.34.129/loadbalance//playlist.m3u8?pxAuth=HyKyKhBl761amAdUG0o3nlj2OuMcvhPg
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La casa TikiTaka canal 2</title>
-
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/63895542913919338661/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex>
-<name>Igor_Rangel_IP</name>
-<expres>location:http://(.*)/loadbalance</expres>
-<page>$doregex[Igor_Rangel_Page]</page>
-<noredirect>true</noredirect>
-<includeheaders></includeheaders>
-</regex>
-<regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)</expres>
-<page>$doregex[Igor_Rangel_Page]</page>
-</regex>
-<regex>
-<name>Igor_Rangel_Page</name>
-<expres>"(.*m3u8.*?)"</expres>
-<page>http://pxstream.tv/embed/vtb3rb1wbx70/</page>
-<referer>http://lacasadeltikitaka.club</referer>
-</regex>
-
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
-</item>
- 
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La casa TikiTaka canal 1</title>
-<link>$doregex[ip]</link>
-			<regex>
-			<name>ip</name>
-			<expres>source: '(.*?)',</expres>
-			<page>http://lacasadeltikitaka.me/directo/canal1.php</page>
-			</regex>
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
-</item>
- 
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La casa TikiTaka canal 2</title>
-<link>https://hls.ssh101.com/live/periquitodelospalote/index.m3u8|Referer=http://lacasadeltikitaka.me/directo/canal2.php</link>
-			<regex>
-			<name>ip</name>
-			<expres>source: '(.*?)'</expres>
-			<page>http://lacasadeltikitaka.me/directo/canal2.php</page>
-			</regex>
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
-</item>
-------------------------
 
 
 <item>
