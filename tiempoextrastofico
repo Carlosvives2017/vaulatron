@@ -509,7 +509,7 @@ item>
 http://www.247bay.tv/membedplayer/fox1malosolandia/2/600/400
 
 -------------------------------------------------------
-<item>
+item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]M+ Vip Bein</title>
 <link>$doregex[elecdeka]|User-Agent=iPad</link>
 <regex>
