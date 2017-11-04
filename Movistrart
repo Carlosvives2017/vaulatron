@@ -10,7 +10,7 @@
 </item>
 *************************************************************
 
-item>
+<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]AyE</title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
@@ -23,7 +23,7 @@ item>
 <fanart>http://www.audiovisual451.com/wp-content/uploads/AE.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]AyE</title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
@@ -66,7 +66,7 @@ item>
 
 ----------------------
 
-item>
+<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Crimen investigacion[/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
@@ -79,7 +79,7 @@ item>
 <fanart>http://www.neeo.es/wp-content/uploads/crimen-investigacion.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Crimen investigacion[/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
@@ -112,7 +112,8 @@ item>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
+<expres>source: '(.*?)'</expres>
+expres>videoUrl = '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=calltrees&width=650&height=397&autostart=true</page>
 <cookieJar></cookieJar>
 </regex>
@@ -187,8 +188,8 @@ item>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
-expres>source: '(.*?)'</expres>
+expres>videoUrl = '(.*?)'</expres>
+<expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=cazaypesca&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
@@ -209,6 +210,8 @@ expres>source: '(.*?)'</expres>
 <thumbnail>http://1.bp.blogspot.com/-MoMQ903jUCo/WdwBBHL-GLI/AAAAAAAAB1E/f2Vt7Wc09-caDTZXoicM6EOiF5_GsfQ-wCK4BGAYYCw/s1600/cocina.jpg</thumbnail>
 <fanart>http://tienda.canalcocina.es/4899-tm_home_default/canalcocina.jpg</fanart>
 </item>
+
+-------
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]M+ #0</title>
