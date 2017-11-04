@@ -218,7 +218,7 @@ expres>videoUrl = '(.*?)'</expres>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
+expres>videoUrl = '(.*?)'</expres>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed.php?file=pluscero&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
@@ -261,8 +261,8 @@ cookieJar></cookieJar>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
-expres>source: '(.*?)'</expres>
+expres>videoUrl = '(.*?)'</expres>
+<expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=foxespana&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
@@ -282,8 +282,8 @@ expres>source: '(.*?)'</expres>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
-expres>source: '(.*?)'</expres>
+expres>videoUrl = '(.*?)'</expres>
+<expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=energy&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
@@ -296,8 +296,8 @@ expres>source: '(.*?)'</expres>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
-expres>source: '(.*?)'</expres>
+expres>videoUrl = '(.*?)'</expres>
+<expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=tntesp&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
@@ -310,8 +310,8 @@ expres>source: '(.*?)'</expres>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
-expres>source: '(.*?)'</expres>
+expres>videoUrl = '(.*?)'</expres>
+<expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=sysfesp&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
@@ -325,7 +325,8 @@ expres>source: '(.*?)'</expres>
 <link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html&amp;User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
+expres>videoUrl = '(.*?)'</expres>
+<expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=accion&amp;width=650&amp;height=397</page>
 <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
 </regex>
@@ -338,7 +339,8 @@ expres>source: '(.*?)'</expres>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
+expres>videoUrl = '(.*?)'</expres>
+<expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed.php?file=mcomedia&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
@@ -351,7 +353,8 @@ expres>source: '(.*?)'</expres>
 <link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html&amp;User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
+expres>videoUrl = '(.*?)'</expres>
+<expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=dicneesp&amp;width=650&amp;height=397</page>
 <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
 </regex>
@@ -364,7 +367,8 @@ expres>source: '(.*?)'</expres>
 <link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html&amp;User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
+expres>videoUrl = '(.*?)'</expres>
+<expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=movestr&amp;width=650&amp;height=397</page>
 <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
 </regex>
@@ -377,7 +381,8 @@ expres>source: '(.*?)'</expres>
 <link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html&amp;User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
+expres>videoUrl = '(.*?)'</expres>
+<expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=mseries&amp;width=650&amp;height=397</page>
 <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
 </regex>
@@ -390,7 +395,8 @@ expres>source: '(.*?)'</expres>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=hollywesp&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
+expres>videoUrl = '(.*?)'</expres>
+<expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=hollywesp&width=650&height=400</page>
 <cookieJar></cookieJar>
 </regex>
@@ -403,8 +409,8 @@ expres>source: '(.*?)'</expres>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=tcmesp&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
-expres>source: '(.*?)'</expres>
+expres>videoUrl = '(.*?)'</expres>
+<expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=tcmesp&width=650&height=400</page>
 <cookieJar></cookieJar>
 </regex>
@@ -418,8 +424,8 @@ expres>source: '(.*?)'</expres>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
-expres>source: '(.*?)'</expres>
+expres>videoUrl = '(.*?)'</expres>
+<expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=launotelefivegb&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
@@ -432,8 +438,8 @@ expres>source: '(.*?)'</expres>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
-expres>source: '(.*?)'</expres>
+expres>videoUrl = '(.*?)'</expres>
+<expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=tvdostelefive&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
@@ -467,7 +473,8 @@ expres>source: '(.*?)'</expres>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
+expres>videoUrl = '(.*?)'</expres>
+<expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=lacuatro&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
@@ -482,7 +489,8 @@ referer>http://cinestrenostv.tv/</referer>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
+expres>videoUrl = '(.*?)'</expres>
+<expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=telecinco&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
