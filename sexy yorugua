@@ -11,8 +11,8 @@ item>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.21 Safari/537.36 MMS/1.0.2531.0</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
-expres>source: '(.*?)'</expres>
+expres>videoUrl = '(.*?)'</expres>
+<expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed.php?file=hustelar&width=650&height=397</page>
 <cookiejar></cookieJar>
 </regex>
@@ -25,8 +25,8 @@ expres>source: '(.*?)'</expres>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.21 Safari/537.36 MMS/1.0.2531.0</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
-expres>source: '(.*?)'</expres>
+expres>videoUrl = '(.*?)'</expres>
+<expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed.php?file=playboyxxx&width=650&height=397</page>
 <cookiejar></cookieJar>
 </regex>
@@ -58,7 +58,7 @@ item>
 <fanart>http://adultwalls.com/web/wallpapers/sexy-bikini-ass-lingerie-boobs-wallpaper/1920x1080.jpg</fanart>
 </item>
 *************************************
-<item>
+item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Venus / Brazzers Europe</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
@@ -79,15 +79,8 @@ http://adultwalls.com/web/wallpapers/sexy-bikini-ass-lingerie-boobs-wallpaper/19
 
 ***********************************
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Hot tv</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Hot tv HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/gustavoa/lachannel/1598.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka</link>
-<thumbnail>https://www.sasvpn.com/blog/wp-content/uploads/ltxsss-Custom.jpg</thumbnail>
-<fanart>http://adultwalls.com/web/wallpapers/sexy-bikini-ass-lingerie-boobs-wallpaper/1920x1080.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Secrets</title>
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/gustavoa/lachannel/266.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka</link>
 <thumbnail>https://www.sasvpn.com/blog/wp-content/uploads/ltxsss-Custom.jpg</thumbnail>
 <fanart>http://adultwalls.com/web/wallpapers/sexy-bikini-ass-lingerie-boobs-wallpaper/1920x1080.jpg</fanart>
 </item>
@@ -107,7 +100,7 @@ http://adultwalls.com/web/wallpapers/sexy-bikini-ass-lingerie-boobs-wallpaper/19
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]PINK EROTIC 2</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Pink erotic 2</title>
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/gustavoa/lachannel/1794.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka</link>
 <thumbnail>https://www.sasvpn.com/blog/wp-content/uploads/ltxsss-Custom.jpg</thumbnail>
 <fanart>http://adultwalls.com/web/wallpapers/sexy-bikini-ass-lingerie-boobs-wallpaper/1920x1080.jpg</fanart>
