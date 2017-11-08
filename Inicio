@@ -21,7 +21,7 @@
 
 ----------------------------------------------------------------------------
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR]Canales del Mundo</title>
+<title>[B][COLOR red]•   [/B][/COLOR]Canales del Mundo</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/n5suKT</externallink>    
     <thumbnail>http://3.bp.blogspot.com/-A6Yi701n04I/WYDBNQ7bTLI/AAAAAAAABYQ/xRhcNrTYpkMRFuDOVngQrqDFkqyQMoE9QCK4BGAYYCw/s1600/Canales%2Blatinos.jpg</thumbnail>
@@ -30,7 +30,7 @@
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][COLOR yellow]Tv [COLOR skyblue]U[COLOR white]ru[COLOR skyblue]gu[COLOR white]ay[/COLOR]</title>
+<title>[B][COLOR red]•   [/B][COLOR yellow]Tv [COLOR skyblue]U[COLOR white]ru[COLOR skyblue]gu[COLOR white]ay[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/PUFVj4</externallink>
     <thumbnail>http://4.bp.blogspot.com/-NsGHrHvYQuM/WSBKjV3QAVI/AAAAAAAAA_c/1FfE_-LuowEKnhSMaHlaIrBpRgBdHgWTQCK4B/s1600/URUGUAY.jpg</thumbnail>
@@ -39,7 +39,7 @@
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][COLOR skyblue]Tv Ar[COLOR white]gen[COLOR skyblue]tina[/COLOR]</title>
+<title>[B][COLOR red]•   [/B][COLOR skyblue]Tv Ar[COLOR white]gen[COLOR skyblue]tina[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/4LZUop</externallink>
     <thumbnail>http://3.bp.blogspot.com/-yy_FrMVy2cE/WSBKjgceICI/AAAAAAAAA_o/gtraZJdo10w7UqHc3reAq3jNksu_0IQ0gCK4B/s1600/ARGENTINA.jpg</thumbnail>
@@ -48,7 +48,7 @@
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR][COLOR][COLOR deepskyblue]S[COLOR lime]ma[COLOR orange]rt[COLOR red] Tv[/COLOR]</title>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR][COLOR deepskyblue]S[COLOR lime]ma[COLOR orange]rt[COLOR red] Tv[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/sxd3Eb</externallink>
     <thumbnail>http://4.bp.blogspot.com/-ofXAM8BqjYc/WaAkQY68lDI/AAAAAAAABbs/CSEavir7_Y8Ib3Fn5UpLJopKMgFj0FJwQCK4BGAYYCw/s1600/SMART%2BTV%2B2.jpg</thumbnail>	
@@ -57,7 +57,7 @@
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR][COLOR red]Mo[COLOR yellow]vist[COLOR red]ar[/COLOR]</title>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR red]Mo[COLOR yellow]vist[COLOR red]ar[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/gKTJn1</externallink> 
     <thumbnail>http://4.bp.blogspot.com/-VI3StFwPbEA/WYDBNKd5MmI/AAAAAAAABXY/Coni6zWWFu8cdTKzk1N3xhklhzRWgVfugCK4BGAYYCw/s1600/Movistar.jpg</thumbnail>	
@@ -66,7 +66,7 @@
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR][COLOR][COLOR blue]IPTV[/COLOR]</title>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR][COLOR blue]IPTV[/COLOR]</title>
 <link>NA</link>
 <externallink>$doregex[select]</externallink>
 <regex>
@@ -75,7 +75,7 @@
 def GetLSProData(page_data,Cookie_Jar,m):
    import xbmcgui
    dialog = xbmcgui.Dialog()
-   ret = dialog.select('[B][COLOR red]• •   [/B][COLOR red]Canales IPTV   [COLOR red][B][COLOR red]• •[/COLOR][/B][COLOR deepskyred]**************************************[/COLOR]', ['[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Demo [COLOR blue]IPTV[/COLOR]', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR orange]Tecno[COLOR white]Tv[/COLOR]', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR orange]Tecno[COLOR white]Tv[/COLOR] Peliculas', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR deepskyblue]Sr Regio Tv[/COLOR]', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR deepskyblue]Sr Regio peliculas[/COLOR]', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Chileiptv' , '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]AchoTv', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]AchoTv Peliculas', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Cecegeek', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Cecegeek Peliculas', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Fluxus Tv'])
+   ret = dialog.select('[B][COLOR red]• •   [/B][COLOR red]Canales IPTV   [COLOR red][B][COLOR red]• •[/COLOR][/B][COLOR deepskyred]**************************************[/COLOR]', ['[B][COLOR blue]•   [/B][/COLOR]Demo [COLOR blue]IPTV[/COLOR]', '[B][COLOR blue]•   [/B][COLOR orange]Tecno[COLOR white]Tv[/COLOR]', '[B][COLOR blue]•   [/B][COLOR orange]Tecno[COLOR white]Tv[/COLOR] Peliculas', '[B][COLOR blue]•   [/B][COLOR deepskyblue]Sr Regio Tv[/COLOR]', '[B][COLOR blue]•   [/B][COLOR deepskyblue]Sr Regio peliculas[/COLOR]', '[B][COLOR blue]•   [/B][/COLOR]Chileiptv' , '[B][COLOR blue]•   [/B][/COLOR]AchoTv', '[B][COLOR blue]•   [/B][/COLOR]AchoTv Peliculas', '[B][COLOR blue]•   [/B][/COLOR]Cecegeek', '[B][COLOR blue]•   [/B][/COLOR]Cecegeek Peliculas', '[B][COLOR blue]•   [/B][/COLOR]Fluxus Tv'])
    lists = ['https://goo.gl/yFFsBN', 'http://tecnotv.xyz/lista.m3u', 'http://tecnotv.xyz/peliculas.m3u', 'http://srregio.xyz/regiotv.m3u', 'http://srregio.xyz/regioflix.m3u', 'http://chileiptv.cl/cl.m3u', 'http://www.achotv.com/listas/canales.m3u', 'https://goo.gl/fP6JjA', 'http://cecegeek.com/1tv.m3u','http://cecegeek.com/movies.m3u', 'https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u']
    return lists[ret]
 ]]></expres>
@@ -88,13 +88,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 ---------------------
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR][COLOR white]You [COLOR red]tube[/COLOR]</title>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR white]You [COLOR red]tube[/COLOR]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist.param2]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR][makelist.param2]</title>
 <link>$doregex[resolve]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -178,7 +178,7 @@ class InputWindow(xbmcgui.WindowDialog):
 --------------------------------
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR]Deportes</title>
+<title>[B][COLOR red]•   [/B][/COLOR]Deportes</title>
     <link>ignorame</link> 
     <externallink>https://goo.gl/3FqoGv</externallink>
  <thumbnail>http://4.bp.blogspot.com/-0O2cZrpnNOw/WYDBNMq181I/AAAAAAAABY4/O2MiaTjM844gX_GnUUrIMpYZJIF6kGPbQCK4BGAYYCw/s1600/Deportes.jpg</thumbnail>
@@ -187,7 +187,7 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR]Musica</title>
+<title>[B][COLOR red]•   [/B][/COLOR]Musica</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/jUyVK9</externallink>
     <thumbnail>http://3.bp.blogspot.com/-fLBAA_fJALw/WYDBNF0k4mI/AAAAAAAABXw/idBL_yWG5cM5iVnuV9FJBHhInZZBXdOCwCK4BGAYYCw/s1600/Musica.jpg</thumbnail>
@@ -196,7 +196,7 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR]The Best 70's 80's 90's</title>
+<title>[B][COLOR red]•   [/B][/COLOR]The Best 70's 80's 90's</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/CMrmtJ</externallink>
     <thumbnail>http://1.bp.blogspot.com/-ougwHkXMr9c/WYDBNckxJxI/AAAAAAAABYU/4KXPkqM-UicJropB3mifSq75-arpfp9GwCK4BGAYYCw/s1600/The%2Bbest%2B70%2B80%2B90.jpg</thumbnail>
@@ -205,7 +205,7 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR]Radios Uruguay</title>
+<title>[B][COLOR red]•   [/B][/COLOR]Radios Uruguay</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/UjLrmK</externallink>
     <thumbnail>http://1.bp.blogspot.com/-Euq2J1Xfpv0/WYDBNVOZq-I/AAAAAAAABYk/bgVuP4JXO6oJNYBq05Uh-S2EahJAE3KRQCK4BGAYYCw/s1600/radio.jpg</thumbnail>
@@ -214,7 +214,7 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR]Cumbia Uruguay 2016/17</title>
+<title>[B][COLOR red]•   [/B][/COLOR]Cumbia Uruguay 2016/17</title>
     <link>ignorme</link>
     <jsonrpc>plugin://plugin.video.youtube/playlist/PLyrvT40aVZpQ1GfO5okikoLhbPbt_XPm9/</jsonrpc>
     <thumbnail>http://1.bp.blogspot.com/-ExxQVQNiRfY/WetNYNNTSWI/AAAAAAAACG8/BMtY2SFve2IzhIrrPeh1wWD2wvkweQhtACK4BGAYYCw/s1600/logocumbia.jpg</thumbnail>
@@ -223,7 +223,7 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR]Peliculas y Series</title>
+<title>[B][COLOR red]•   [/B][/COLOR]Peliculas y Series</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/qbVGCe</externallink>
     <thumbnail>http://3.bp.blogspot.com/-tVVK739GnHA/WYDBNOTo_FI/AAAAAAAABX0/XsftAuiPMD81n7zsBzZnyqAn7Go2qO3WQCK4BGAYYCw/s1600/Peliculas.jpg</thumbnail>
@@ -232,7 +232,7 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 <item>
-<title>[COLOR lime]   Email:  elecdeka2017@gmail.com  -  Telegram: @Elecdeka   [/COLOR]</title>
+<title>[COLOR lime]  Email:  elecdeka2017@gmail.com  -  Telegram: @Elecdeka   [/COLOR]</title>
     <link>http://ignoreme</link>
     <externallink>http://pastebin.com</externallink>
     <thumbnail>https://goo.gl/EsHfca</thumbnail>
