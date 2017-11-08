@@ -3,7 +3,7 @@
 
 *************************************************************
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   • •   [/B][COLOR red]Canales Movistar España   [COLOR red][B][COLOR red]• •[/COLOR][/B]</title>
+<title>[B][COLOR red]• •   [/B][COLOR red]Canales Movistar España   [COLOR red][B][COLOR red]• •[/COLOR][/B]</title>
 <link>nop</link>
 <thumbnail>http://3.bp.blogspot.com/-S-butRHosxI/WSBbXWMjC9I/AAAAAAAABBU/OXU6ydQt4iwBU-WojHCzEFlb2JgO8ZlRQCK4B/s1600/Movistar.jpg</thumbnail> 
 <fanart>https://www.adslzone.net/app/uploads/2015/07/apertura-canales-movistar-plus.jpg</fanart>
@@ -11,7 +11,7 @@
 *************************************************************
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]AyE</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]AyE</title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -24,7 +24,7 @@
 </item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]AyE</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]AyE</title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -38,7 +38,7 @@ item>
 
 ------------------------
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Discovery Channel[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][COLOR]Discovery Channel[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -51,7 +51,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Discovery Channel[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][COLOR]Discovery Channel[/COLOR]</title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -67,7 +67,7 @@ item>
 ----------------------
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Crimen investigacion[/COLOR] </title>
+<title>[B][COLOR blue]•   [/B][COLOR]Crimen investigacion[/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -80,7 +80,7 @@ item>
 </item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Crimen investigacion[/COLOR] </title>
+<title>[B][COLOR blue]•   [/B][COLOR]Crimen investigacion[/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -93,7 +93,7 @@ item>
 </item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Crimen investigacion SD[/COLOR] </title>
+<title>[B][COLOR blue]•   [/B][COLOR]Crimen investigacion SD[/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -108,7 +108,7 @@ item>
 
 -----------------------------
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Calle13</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Calle13</title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -122,7 +122,7 @@ expres>videoUrl = '(.*?)'</expres>
 </item>
 --------------------
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Historia[/COLOR] </title>
+<title>[B][COLOR blue]•   [/B][COLOR]Historia[/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -135,7 +135,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Historia[/COLOR] </title>
+<title>[B][COLOR blue]•   [/B][COLOR]Historia[/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -149,7 +149,7 @@ item>
 </item>
 -------------------------------
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]National Geographic[/COLOR] </title>
+<title>[B][COLOR blue]•   [/B][COLOR]National Geographic[/COLOR] </title>
 <sportsdevil>http://livesports.pw/embedn.php?file=natgeo&width=650&height=397&autostart=true</sportsdevil>
 <referer>http://telefivegb.com/canales/documental/natgeoembed.php</referer>
 <thumbnail>http://2.bp.blogspot.com/-6ZGqAH3JXW4/WdwBBO53kJI/AAAAAAAAB0k/rDbYR3pLyoMYLxpe8eevF4JoGcSnQDHtQCK4BGAYYCw/s1600/national%2Bgeografica.jpg</thumbnail>   
@@ -157,7 +157,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]National Geographic[/COLOR] </title>
+<title>[B][COLOR blue]•   [/B][COLOR]National Geographic[/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -171,7 +171,7 @@ item>
 </item>
 ------------------------------ 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]NatGeo Wild[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][COLOR]NatGeo Wild[/COLOR]</title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -184,7 +184,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Caza y pesca[COLOR lime][/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Caza y pesca[COLOR lime][/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -198,7 +198,7 @@ expres>videoUrl = '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Cocina[COLOR lime][/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Cocina[COLOR lime][/COLOR]</title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -214,7 +214,7 @@ expres>videoUrl = '(.*?)'</expres>
 -------
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]M+ #0</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]M+ #0</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -228,7 +228,7 @@ expres>source: '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]AMC[/COLOR] </title>
+<title>[B][COLOR blue]•   [/B][COLOR]AMC[/COLOR] </title>
 link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 regex>
 name>GetPageUrl</name>
@@ -243,7 +243,7 @@ cookieJar></cookieJar>
 <fanart>http://images.amcnetworks.com/amc.com/wp-content/uploads/2016/09/AMC_Black_Hero_Logo-1200x707.jpg</fanart>
 </item>
 
-<item><title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]AXN[/COLOR] </title>
+<item><title>[B][COLOR blue]•   [/B][COLOR]AXN[/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -257,7 +257,7 @@ cookieJar></cookieJar>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Fox[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][COLOR]Fox[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -271,14 +271,14 @@ expres>videoUrl = '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Paramount[/COLOR] </title>
+<title>[B][COLOR blue]•   [/B][COLOR]Paramount[/COLOR] </title>
 <link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=PAES0008</link>
 <thumbnail>http://3.bp.blogspot.com/-VbM4KuSczRY/WdwBBOHcVWI/AAAAAAAABzI/tVB_9Jm1s6s5YQOiriEaCwWuM686ZJeMQCK4BGAYYCw/s1600/paramount.jpg</thumbnail> 
 <fanart>https://upload.wikimedia.org/wikipedia/id/thumb/4/4a/Paramount_logo.jpg/1200px-Paramount_logo.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Energy</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Energy</title>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -292,7 +292,7 @@ expres>videoUrl = '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]TNT[/COLOR] </title>
+<title>[B][COLOR blue]•   [/B][COLOR]TNT[/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -306,7 +306,7 @@ expres>videoUrl = '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]SYFY[/COLOR] </title>
+<title>[B][COLOR blue]•   [/B][COLOR]SYFY[/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -321,7 +321,7 @@ expres>videoUrl = '(.*?)'</expres>
 
 ----------------
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]M+ ACCION[COLOR lime][/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]M+ ACCION[COLOR lime][/COLOR]</title>
 <link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html&amp;User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -335,7 +335,7 @@ expres>videoUrl = '(.*?)'</expres>
 </item>
   
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]M+ COMEDY[COLOR lime][/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]M+ COMEDY[COLOR lime][/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -349,7 +349,7 @@ expres>videoUrl = '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]M+ DCINE</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]M+ DCINE</title>
 <link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html&amp;User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -363,7 +363,7 @@ expres>videoUrl = '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]M+ ESTRENOS[COLOR lime][/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]M+ ESTRENOS[COLOR lime][/COLOR]</title>
 <link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html&amp;User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
@@ -377,7 +377,7 @@ expres>videoUrl = '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]M+ Series</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]M+ Series</title>
 <link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html&amp;User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -391,7 +391,7 @@ expres>videoUrl = '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Hollywood[/COLOR] </title>
+<title>[B][COLOR blue]•   [/B][COLOR]Hollywood[/COLOR] </title>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=hollywesp&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -405,7 +405,7 @@ expres>videoUrl = '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TCM</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]TCM</title>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=tcmesp&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -420,7 +420,7 @@ expres>videoUrl = '(.*?)'</expres>
 --------------------
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La 1</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]La 1</title>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -434,7 +434,7 @@ expres>videoUrl = '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La 2</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]La 2</title>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -448,28 +448,28 @@ expres>videoUrl = '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Antena 3</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Antena 3</title>
 <link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8</link>
 <thumbnail>http://2.bp.blogspot.com/-nyy_tjAhjtI/WdbKCu0PAmI/AAAAAAAABoc/WDoRjwvWX1cfKsiqDCOWF2LfPODuhnLVwCK4BGAYYCw/s1600/Antena%2B3.jpg</thumbnail>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZxVwfjXkV1oRmU07WyCTFrkUItwNwl7hMNInivfre8adE32aAJQ</fanart>
 </item>
  
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Antena 3 Spain</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Antena 3 Spain</title>
 <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8</link>
 <thumbnail>http://2.bp.blogspot.com/-nyy_tjAhjtI/WdbKCu0PAmI/AAAAAAAABoc/WDoRjwvWX1cfKsiqDCOWF2LfPODuhnLVwCK4BGAYYCw/s1600/Antena%2B3.jpg</thumbnail>
 <fanart>http://fisioterapialasrozas.com/wp-content/uploads/2014/04/antena-3-noticias.jpg</fanart>
 </item> 
  
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]A3Series HD[/COLOR]</title> 
+<title>[B][COLOR blue]•   [/B][COLOR]A3Series HD[/COLOR]</title> 
 <link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
 <thumbnail>http://2.bp.blogspot.com/-rP6nKSGG9GY/Wdfhwnki0yI/AAAAAAAABtM/q59VtzDvFmUYbC81iysZektj9sePZrvuQCK4BGAYYCw/s1600/a3series.jpg</thumbnail>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZUF8d7HJtaXKg32xFmPUa52RVN663ZWCYBbe0FNIWl_S4wlyz</fanart>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La cuatro[COLOR lime][/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]La cuatro[COLOR lime][/COLOR]</title>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -485,7 +485,7 @@ referer>http://cinestrenostv.tv/</referer>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Telecinco[COLOR lime][/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Telecinco[COLOR lime][/COLOR]</title>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -501,28 +501,28 @@ referer>http://zagaiptv.eklablog.com/</referer>
 </item>
  
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La Sexta</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]La Sexta</title>
 <link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-zTwpycTNEDU/WdbKCql9wLI/AAAAAAAABoY/aK5a-vabYlczkidf4nk2jTC-mQLEqV4igCK4BGAYYCw/s1600/LA%2BSEXTA.jpg</thumbnail>
 <fanart>http://www.lasexta.com/static/images/lasextacom_logotipo.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]24H</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]24H</title>
 <link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/.m3u8</link>
 <thumbnail>http://2.bp.blogspot.com/-AklBZbjbGW0/Wdz4Y8BYr6I/AAAAAAAAB_g/LF3NtOX9WjkcZSlhp0rhlZYbHzxgczyrACK4BGAYYCw/s1600/24he.jpg</thumbnail>
 <fanart>http://img.rtve.es/v/3341/</fanart>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Nova</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Nova</title>
 <link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-g3VR6rHGyqw/Wdz4YjZXx5I/AAAAAAAAB_Q/CIMyQtvY5gcEChm23kHv2yuZVeLwOWVYACK4BGAYYCw/s1600/nova.jpg</thumbnail>
 <fanart>https://www.adslzone.tv/app/uploads/2013/09/Dibujo6.jpg?x=634&y=309</fanart>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]FDF</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]FDF</title>
 <link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live/tve1.php</link>
 <regex>
 <name>get-id</name>
@@ -536,14 +536,14 @@ referer>http://zagaiptv.eklablog.com/</referer>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]MEGA</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]MEGA</title>
 <link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-XkityGE7YQs/WdwqaiArsKI/AAAAAAAAB3A/cjNwHa_ecdkwRIyLBxg6Wns0JZDIMEPvgCK4BGAYYCw/s1600/mega.jpg</thumbnail>
 <fanart>http://1.bp.blogspot.com/-z1vm1LX6S5E/VjGyi0RHtOI/AAAAAAAAACA/KO1uCXdj1Ik/s1600/mega-logo.png</fanart>
 </item>      
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]BE MAD[COLOR lime][/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]BE MAD[COLOR lime][/COLOR]</title>
 <sportsdevil>http://latelete.tv/ver-be-mad-online-en-directo/</sportsdevil>
 <referer>http://latelete.tv/</referer>
 <thumbnail>http://1.bp.blogspot.com/-xg_scTMoTZE/WdwqZtx86DI/AAAAAAAAB2Q/3rnUKELxilgNNs02oQpo7nsC9bDobJsgACK4BGAYYCw/s1600/beman.jpg</thumbnail>
@@ -551,7 +551,7 @@ referer>http://zagaiptv.eklablog.com/</referer>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Divinity[COLOR lime][/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Divinity[COLOR lime][/COLOR]</title>
 <sportsdevil>http://latelete.tv/divinity-en-directo-gratis-por-internet/</sportsdevil>
 <referer>http://latelete.tv/</referer>
 <thumbnail>http://3.bp.blogspot.com/-mhkuMrrZB8s/WdwqZwT5mpI/AAAAAAAAB2Y/uVWm2Xa6plAa2LTwfitKfV0TSfVm9o4aACK4BGAYYCw/s1600/divitrio.jpg</thumbnail>
@@ -559,7 +559,7 @@ referer>http://zagaiptv.eklablog.com/</referer>
 </item>
  
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Neox</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Neox</title>
 <link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8</link>
 <thumbnail>http://1.bp.blogspot.com/-QiQgBHPbBvk/WdwqZVrhtQI/AAAAAAAAB2A/Ocv_Xw2bChEjQinbjj8HFHQfPiJSUa5NwCK4BGAYYCw/s1600/neox.jpg</thumbnail>
 <fanart>http://www.brandemia.org/wp-content/uploads/2011/07/neox_principal_logo.jpg</fanart>
@@ -572,7 +572,7 @@ referer>http://zagaiptv.eklablog.com/</referer>
 
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]COSMOS[COLOR lime][/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]COSMOS[COLOR lime][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/cosmo.php</sportsdevil>
 <referer>http://cinestrenostv.tv/</referer>
 <thumbnail>http://3.bp.blogspot.com/-607_izUGmQc/WdwqaSyPsnI/AAAAAAAAB2w/gKHFRfEhVMESGpnvL1V_LHEgvZsR_OFsQCK4BGAYYCw/s1600/cosmo.jpg</thumbnail>
@@ -580,7 +580,7 @@ item>
 </item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Odisea[COLOR lime][/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Odisea[COLOR lime][/COLOR]</title>
 <sportsdevil>http://zagaiptv.eklablog.com/odisea-spain-p1157646</sportsdevil>
 <referer>http://zagaiptv.eklablog.com/</referer>
 <thumbnail>http://1.bp.blogspot.com/-TFrNc9hWil8/WdwqaxdLskI/AAAAAAAAB3I/XitmogVkPlkHBHIlfaaY7HFdo44hf_DvACK4BGAYYCw/s1600/odisea.jpg</thumbnail>
@@ -588,7 +588,7 @@ item>
 </item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Comedy Central[/COLOR] </title>
+<title>[B][COLOR blue]•   [/B][COLOR]Comedy Central[/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
