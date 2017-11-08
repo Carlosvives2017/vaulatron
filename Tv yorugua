@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   • •   [/B][COLOR red]Canales Uruguay   [COLOR red][B][COLOR red]• •[/B][/COLOR]</title>
+<title>[B][COLOR red]• •   [/B][COLOR red]Canales Uruguay   [COLOR red][B][COLOR red]• •[/B][/COLOR]</title>
 <link>http://d.mimp3.eu/i/8palSqoimWoficooZ6ncaaZk253/himno-nacional-uruguayo.mp3<link>
 <thumbnail>http://minuto90.pt/public/uploads/source/nacionalidades/Uruguay-icon.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Monte Carlo TV</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Monte Carlo TV</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-montecarlo/</link>
 <regex>
 <name>play</name>
@@ -20,7 +20,7 @@
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVUY0002
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal 7</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Canal 7</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -42,7 +42,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVUY0002
 ---------------------------
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Teledoce</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Teledoce</title>
 <link>http://api.new.livestream.com/accounts/13567583/events/6415731/live.m3u8</link>
 <thumbnail>http://3.bp.blogspot.com/-P3nIlGjOlD0/WdzKioS-gMI/AAAAAAAAB-U/r_9al-mPdB0yLoWMLw9Anr5Vb5O95wCQwCK4BGAYYCw/s1600/tele.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/media/CIyDP9TW8AAS1TE.jpg</fanart>
@@ -50,7 +50,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVUY0002
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVUY0001
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Teledoce</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Teledoce</title>
 <link>$doregex[url]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36&amp;Referer=http://livestream.com/accounts/13567583/events/6415731/player?width=960&amp;height=540&amp;autoPlay=true&amp;mute=false&amp;X-Requested-With=ShockwaveFlash/22.0.0.192</link>
 <regex>
 <name>url</name>
@@ -63,7 +63,7 @@ item>
 -----------------------------
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Saeta Tv</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Saeta Tv</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-canal10/</link>
 <regex>
 <name>play</name>
@@ -77,7 +77,7 @@ item>
 
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]VTV</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]VTV</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -91,7 +91,7 @@ expres>source: '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Vera HD</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Vera HD</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -111,7 +111,7 @@ expres>source: '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Vera + </title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Vera + </title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -131,7 +131,7 @@ expres>source: '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Programacion turistica de Uruguay</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Programacion turistica de Uruguay</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -151,7 +151,7 @@ expres>source: '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal 12 Melo</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Canal 12 Melo</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -171,7 +171,7 @@ expres>source: '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TNU</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]TNU</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -191,7 +191,7 @@ expres>source: '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tv Ciudad</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Tv Ciudad</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -212,7 +212,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal U</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Canal U</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -232,7 +232,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal M</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Canal M</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -252,7 +252,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]1000 x Hra Tv</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]1000 x Hra Tv</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -272,7 +272,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]a+V</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]a+V</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -292,7 +292,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal 2 San Carlos</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Canal 2 San Carlos</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -312,7 +312,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal 11 Treinta y Tres</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Canal 11 Treinta y Tres</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -332,7 +332,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal 11 Las Piedras</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Canal 11 Las Piedras</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -352,7 +352,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Soy Tacuarembo</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Soy Tacuarembo</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -372,7 +372,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]RTV</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]RTV</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -392,7 +392,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Rio Uruguay HD</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Rio Uruguay HD</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -412,7 +412,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal 23 TVD</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Canal 23 TVD</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -432,7 +432,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal 4 Paysandu</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Canal 4 Paysandu</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -452,7 +452,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal 2 Lascano</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Canal 2 Lascano</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -472,7 +472,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal 4 Chuy</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Canal 4 Chuy</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -492,7 +492,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Camara de representantes</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Camara de representantes</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -512,7 +512,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal 8 de Rocha</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Canal 8 de Rocha</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -532,7 +532,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal 8 Salto</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Canal 8 Salto</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -552,7 +552,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal cv10</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Canal cv10</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -572,7 +572,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal 4 salto</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Canal 4 salto</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -592,7 +592,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Charrua tv</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Charrua tv</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -612,7 +612,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tv Pando</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Tv Pando</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -632,7 +632,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Young tevé</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Young tevé</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -652,7 +652,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tv region</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Tv region</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -672,7 +672,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Pop tv</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Pop tv</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -692,7 +692,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal 4 trenta y tres</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Canal 4 trenta y tres</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -712,7 +712,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal 4 juan lacaze</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Canal 4 juan lacaze</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -732,7 +732,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal 8 durazno</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Canal 8 durazno</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -752,7 +752,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal 6 durazno</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Canal 6 durazno</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -772,7 +772,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal 8 artigas</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Canal 8 artigas</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -792,7 +792,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal 5 Colonia</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Canal 5 Colonia</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -812,7 +812,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal 8 Rivera</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Canal 8 Rivera</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -832,7 +832,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El espectador</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]El espectador</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -852,7 +852,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tele 9 Rocha</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Tele 9 Rocha</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -872,7 +872,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal 2 vision</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Canal 2 vision</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -892,7 +892,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Canal 3 hd</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Canal 3 hd</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -912,7 +912,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Artigas TV</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Artigas TV</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -932,7 +932,7 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Miem</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Miem</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -963,13 +963,13 @@ Camaras
 **************************
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   • •   [/B][COLOR red]Camaras Vera Tv   [COLOR red][B][COLOR red]• •[/B][/COLOR]</title>
+<title>[B][COLOR red]• •   [/B][COLOR red]Camaras Vera Tv   [COLOR red][B][COLOR red]• •[/B][/COLOR]</title>
 <link>http://d.mimp3.eu/i/8palSqoimWoficooZ6ncaaZk253/himno-nacional-uruguayo.mp3<link>
 <thumbnail>http://2.bp.blogspot.com/-Mty8Ulvz_nc/WSBSya6GyOI/AAAAAAAABAc/J90u5tV4pA4y-txWbNuYKsq-3EaVbZUswCK4B/s1600/camara%2Bvera.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Plaza independencia</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Plaza independencia</title>
 <sportsdevil>http://camaras.vera.com.uy/camara/22</sportsdevil>
 <referer>http://camaras.vera.com.uy</referer>
 <thumbnail>http://camaras.vera.com.uy/dynamic/cameras_images/22/128/default.jpg</thumbnail>
@@ -977,7 +977,7 @@ Camaras
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Teatro Solis</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Teatro Solis</title>
 <sportsdevil>http://camaras.vera.com.uy/camara/27</sportsdevil>
 <referer>http://camaras.vera.com.uy</referer>
 <thumbnail>http://camaras.vera.com.uy/dynamic/cameras_images/27/128/default.jpg</thumbnail>
@@ -985,7 +985,7 @@ Camaras
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Plaza del Entrevero</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Plaza del Entrevero</title>
 <sportsdevil>http://camaras.vera.com.uy/camara/32</sportsdevil>
 <referer>http://camaras.vera.com.uy</referer>
 <thumbnail>http://camaras.vera.com.uy/dynamic/cameras_images/32/128/default.jpg</thumbnail>
@@ -993,7 +993,7 @@ Camaras
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Peatonal Sarandi</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Peatonal Sarandi</title>
 <sportsdevil>http://camaras.vera.com.uy/camara/34</sportsdevil>
 <referer>http://camaras.vera.com.uy</referer>
 <thumbnail>http://camaras.vera.com.uy/dynamic/cameras_images/34/128/default.jpg</thumbnail>
@@ -1001,7 +1001,7 @@ Camaras
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Plaza 1° de Mayo</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Plaza 1° de Mayo</title>
 <sportsdevil>http://camaras.vera.com.uy/camara/26</sportsdevil>
 <referer>http://camaras.vera.com.uy</referer>
 <thumbnail>http://camaras.vera.com.uy/dynamic/cameras_images/26/128/default.jpg</thumbnail>
@@ -1009,7 +1009,7 @@ Camaras
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Paso Molino</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Paso Molino</title>
 <sportsdevil>http://camaras.vera.com.uy/camara/33</sportsdevil>
 <referer>http://camaras.vera.com.uy</referer>
 <thumbnail>http://camaras.vera.com.uy/dynamic/cameras_images/33/128/default.jpg</thumbnail>
@@ -1017,7 +1017,7 @@ Camaras
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Mercado del Puerto</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Mercado del Puerto</title>
 <sportsdevil>http://camaras.vera.com.uy/camara/29</sportsdevil>
 <referer>http://camaras.vera.com.uy</referer>
 <thumbnail>http://camaras.vera.com.uy/dynamic/cameras_images/29/128/default.jpg</thumbnail>
@@ -1025,7 +1025,7 @@ Camaras
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Mercado Agrícola</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Mercado Agrícola</title>
 <sportsdevil>http://camaras.vera.com.uy/camara/24</sportsdevil>
 <referer>http://camaras.vera.com.uy</referer>
 <thumbnail>http://camaras.vera.com.uy/dynamic/cameras_images/24/128/default.jpg</thumbnail>
@@ -1033,7 +1033,7 @@ Camaras
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Intendencia de Montevideo</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Intendencia de Montevideo</title>
 <sportsdevil>http://camaras.vera.com.uy/camara/30</sportsdevil>
 <referer>http://camaras.vera.com.uy</referer>
 <thumbnail>http://camaras.vera.com.uy/dynamic/cameras_images/30/128/default.jpg</thumbnail>
@@ -1041,7 +1041,7 @@ Camaras
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Viaducto de Paso Molino</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Viaducto de Paso Molino</title>
 <sportsdevil>http://camaras.vera.com.uy/camara/31</sportsdevil>
 <referer>http://camaras.vera.com.uy</referer>
 <thumbnail>http://camaras.vera.com.uy/dynamic/cameras_images/31/128/default.jpg</thumbnail>
@@ -1049,7 +1049,7 @@ Camaras
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Palacio Legislativo</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Palacio Legislativo</title>
 <sportsdevil>http://camaras.vera.com.uy/camara/28</sportsdevil>
 <referer>http://camaras.vera.com.uy</referer>
 <thumbnail>http://camaras.vera.com.uy/dynamic/cameras_images/28/128/default.jpg</thumbnail>
@@ -1057,7 +1057,7 @@ Camaras
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Montevideo, Sur</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Montevideo, Sur</title>
 <sportsdevil>http://camaras.vera.com.uy/camara/11</sportsdevil>
 <referer>http://camaras.vera.com.uy</referer>
 <thumbnail>http://camaras.vera.com.uy/dynamic/cameras_images/11/128/default.jpg</thumbnail>
@@ -1065,7 +1065,7 @@ Camaras
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Montevideo, Este</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Montevideo, Este</title>
 <sportsdevil>http://camaras.vera.com.uy/camara/12</sportsdevil>
 <referer>http://camaras.vera.com.uy</referer>
 <thumbnail>http://camaras.vera.com.uy/dynamic/cameras_images/12/128/default.jpg</thumbnail>
@@ -1073,7 +1073,7 @@ Camaras
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Montevideo, Norte</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Montevideo, Norte</title>
 <sportsdevil>http://camaras.vera.com.uy/camara/13</sportsdevil>
 <referer>http://camaras.vera.com.uy</referer>
 <thumbnail>http://camaras.vera.com.uy/dynamic/cameras_images/13/128/default.jpg</thumbnail>
@@ -1081,7 +1081,7 @@ Camaras
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Montevideo, Oeste</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Montevideo, Oeste</title>
 <sportsdevil>http://camaras.vera.com.uy/camara/14</sportsdevil>
 <referer>http://camaras.vera.com.uy</referer>
 <thumbnail>http://camaras.vera.com.uy/dynamic/cameras_images/14/128/default.jpg</thumbnail>
@@ -1089,7 +1089,7 @@ Camaras
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Terminal Río Branco</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Terminal Río Branco</title>
 <sportsdevil>http://camaras.vera.com.uy/camara/23</sportsdevil>
 <referer>http://camaras.vera.com.uy</referer>
 <thumbnail>http://camaras.vera.com.uy/dynamic/cameras_images/23/128/default.jpg</thumbnail>
@@ -1097,7 +1097,7 @@ Camaras
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Pista de Atletismo</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Pista de Atletismo</title>
 <sportsdevil>http://camaras.vera.com.uy/camara/16</sportsdevil>
 <referer>http://camaras.vera.com.uy</referer>
 <thumbnail>http://camaras.vera.com.uy/dynamic/cameras_images/16/128/default.jpg</thumbnail>
@@ -1105,7 +1105,7 @@ Camaras
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Playa Pocitos</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Playa Pocitos</title>
 <sportsdevil>http://camaras.vera.com.uy/camara/35</sportsdevil>
 <referer>http://camaras.vera.com.uy</referer>
 <thumbnail>http://camaras.vera.com.uy/dynamic/cameras_images/35/128/default.jpg</thumbnail>
