@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   • •   [/B][COLOR red]Transmision en vivo   [COLOR red][B][COLOR red]• •[/COLOR][/B]</title>
+<title>[B][COLOR red]• •   [/B][COLOR red]Transmision en vivo   [COLOR red][B][COLOR red]• •[/COLOR][/B]</title>
 <link>nop</link>
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
 <fanart>https://media.elobservador.com.uy/adjuntos/181/imagenes/001/439/0001439728.jpg</fanart>
@@ -8,7 +8,7 @@
 
 **************************
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Futbol livesports</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Futbol livesports</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -24,9 +24,9 @@ expres>source: '(.*?)'</expres>
 
 <item>       
 
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeka Online</title>
-title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeka Online [COLOR blue]~ [COLOR red]off[/COLOR]</title>
-title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeka Online [COLOR blue]~ [COLOR ]Uruguay vs Bolivia [COLOR blue]~[/COLOR] [COLOR deepskyblue]10/10/2017 18:00 SD[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Elecdeka Online</title>
+title>[B][COLOR blue]•   [/B][/COLOR]Elecdeka Online [COLOR blue]~ [COLOR red]off[/COLOR]</title>
+title>[B][COLOR blue]•   [/B][/COLOR]Elecdeka Online [COLOR blue]~ [COLOR ]Uruguay vs Bolivia [COLOR blue]~[/COLOR] [COLOR deepskyblue]10/10/2017 18:00 SD[/COLOR]</title>
 
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
@@ -60,8 +60,8 @@ link>$doregex[m3u8]</link>
 
 <item>
 
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Premium Online</title> 
-title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Premium Online [COLOR blue]~ [COLOR red]off[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Premium Online</title> 
+title>[B][COLOR blue]•   [/B][/COLOR]Premium Online [COLOR blue]~ [COLOR red]off[/COLOR]</title>
 
 
 <link>http://live.cdn.antel.net.uy/auth_0_l3u7xqzy,vxttoken=cGF0aFVSST0lMkZhdXRoXzBfbDN1N3hxenklMkZobHMlMkYlMkEmZXhwaXJ5PTE1MDk3NzcyODgmcmFuZG9tPVl2Y3A4UldCMEcmYy1pcD0xODYuNTIuMTU4LjIyNCwwMWI5YzI5Y2UwZmQ2Y2UwMDk3NGM0YTZlMDdlNWVhNDYzNGY4Nzk3YmEzMDg3YzRiYzg2ZGQwNzY1ZDQzYzY4/hls/var400400/playlist.m3u8<link> 
@@ -81,14 +81,14 @@ VeraTv
 *****************************
 *****************************
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   • •   [/B][COLOR red]Canales Vera Tv   [COLOR red][B][COLOR red]• •[/B][/COLOR]</title>
+<title>[B][COLOR red]• •   [/B][COLOR red]Canales Vera Tv   [COLOR red][B][COLOR red]• •[/B][/COLOR]</title>
 <link>nop</link>
 <thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6001/240/default.jpg</thumbnail>
 <fanart>https://media.elobservador.com.uy/adjuntos/181/imagenes/001/439/0001439728.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][COLOR yellow]Vera HD[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR][COLOR yellow]Vera HD[/COLOR]</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -108,7 +108,7 @@ VeraTv
 </item>
 ********************
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][COLOR yellow]Vera + basico[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR][COLOR yellow]Vera + basico[/COLOR]</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -138,7 +138,7 @@ VeraTv
 Cambios 1
 *********************
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Final LFB-Defensor vs Malvín [COLOR blue]~[/COLOR] [COLOR deepskyblue]15/10/2017 19:00 HD[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Final LFB-Defensor vs Malvín [COLOR blue]~[/COLOR] [COLOR deepskyblue]15/10/2017 19:00 HD[/COLOR]</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -161,7 +161,7 @@ Cambios 1
 Cambios 2
 *********************
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Larre Borges vs. Biguá [COLOR blue]~[/COLOR] [COLOR deepskyblue]09/10/2017 20:00 HD[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Larre Borges vs. Biguá [COLOR blue]~[/COLOR] [COLOR deepskyblue]09/10/2017 20:00 HD[/COLOR]</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
