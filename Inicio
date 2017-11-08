@@ -232,7 +232,7 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 <item>
-<title>[COLOR lime]  Email:  elecdeka2017@gmail.com  -  Telegram: @Elecdeka   [/COLOR]</title>
+<title>[COLOR lime] Email:  elecdeka2017@gmail.com  -  Telegram: @Elecdeka   [/COLOR]</title>
     <link>http://ignoreme</link>
     <externallink>http://pastebin.com</externallink>
     <thumbnail>https://goo.gl/EsHfca</thumbnail>
