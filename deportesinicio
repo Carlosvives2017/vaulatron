@@ -1,12 +1,12 @@
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   • •   [/B][COLOR red]Deportes   [COLOR red][B][COLOR red]• •[/COLOR][/B]</title>
+<title>[B][COLOR red]• •   [/B][COLOR red]Deportes   [COLOR red][B][COLOR red]• •[/COLOR][/B]</title>
 <link>nop</link>
 <thumbnail>http://4.bp.blogspot.com/-0O2cZrpnNOw/WYDBNMq181I/AAAAAAAABY4/O2MiaTjM844gX_GnUUrIMpYZJIF6kGPbQCK4BGAYYCw/s1600/Deportes.jpg</thumbnail>
 <fanart>http://static.azteca.com/imagenes/2017/13/deportes-2126641.jpg</fanart> 
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][COLOR yellow]Tr[COLOR white]an[COLOR skyblue]sm[COLOR white]isi[COLOR skyblue]on [COLOR white]en [COLORskyblue]Vi[COLOR white]vo[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR][COLOR yellow]Tr[COLOR white]an[COLOR skyblue]sm[COLOR white]isi[COLOR skyblue]on [COLOR white]en [COLORskyblue]Vi[COLOR white]vo[/COLOR]</title>
 <link>ignorame</link>
 <externallink>https://goo.gl/TpQCTz</externallink>
 <thumbnail>http://4.bp.blogspot.com/-V5wIaEfO6M0/WaA-_FdpGGI/AAAAAAAABcM/fHL7hRTaekw8HOYTQPnZBC1IQqsdWlCcgCK4BGAYYCw/s1600/tranestros.jpg</thumbnail>
@@ -14,7 +14,7 @@
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Todo deportes[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][COLOR]Todo deportes[/COLOR]</title>
 <link>ignorame</link>
 <externallink>https://goo.gl/X4KuXj</externallink>
 <thumbnail>http://1.bp.blogspot.com/-T21Wa835qxg/WSBg3Iy6RuI/AAAAAAAABCU/MkWOy2MjrnMuIB8EQRMq4J7RhGW7lhilACK4B/s1600/canales%2Bdeportivos.jpg</thumbnail>
@@ -22,7 +22,7 @@
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR ]Tiempo extra  [COLOR red][/COLOR][/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][COLOR ]Tiempo extra  [COLOR red][/COLOR][/COLOR]</title>
 <link>ignorame</link>
 <externallink>https://goo.gl/8B4sJG</externallink>
 <thumbnail>http://4.bp.blogspot.com/-pSs-kCEnkOs/WYDBNAB5ivI/AAAAAAAABY0/WwIM0PQa-msmEZnjLEIyT0BhjEg8c0zJACK4BGAYYCw/s1600/Futbol2.jpg</thumbnail>
@@ -30,7 +30,7 @@
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR ]Live TV[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][COLOR ]Live TV[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs.cfg&definedIn=mainMenu.cfg&amp;mode=1</jsonrpc>
 <thumbnail>http://2.bp.blogspot.com/-CVXmJEu0P58/WSBg25ZcaoI/AAAAAAAABB8/RfPvFCwdOtkDoXGLYTkkTACoidbzPjpgQCK4B/s1600/live%2Btv.jpg</thumbnail>
@@ -38,7 +38,7 @@
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR ]RojaDirecta[/COLOR][COLOR red][/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][COLOR ]RojaDirecta[/COLOR][COLOR red][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
 <thumbnail>http://3.bp.blogspot.com/-8tVmk20jGDo/WSBg3HnoFVI/AAAAAAAABCQ/U56FkuSn5AcA2WbhFUmvTW-wiDcswg2IgCK4B/s1600/Roja%2Bdirecta%2B1.jpg</thumbnail>
@@ -48,7 +48,7 @@
 --------------------------------------
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Arenavision[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][COLOR]Arenavision[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
 			<regex>
 			<name>hash</name> 
@@ -74,14 +74,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Arenavision  (-5h)[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][COLOR]Arenavision  (-5h)[/COLOR]</title>
 <SetViewMode>55</SetViewMode>
 <link>$doregex[makelist3]</link>
 <regex>
 <name>makelist3</name>
 <listrepeat><![CDATA[
 <SetViewMode>55</SetViewMode>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR][makelist3.param1]  [COLOR blue]~  [COLOR deepskyblue][makelist3.param2] canales[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][COLOR][makelist3.param1]  [COLOR blue]~  [COLOR deepskyblue][makelist3.param2] canales[/COLOR]</title>
 <thumbnail>http://3.bp.blogspot.com/-aGQz7eOYEi8/WSBg2rYeiDI/AAAAAAAABB0/-upsZbTJK6oIPfUaSvq17gG8twf_tQ3rgCK4B/s1600/aseistream.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <link>$doregex[makelist2]</link>
@@ -93,7 +93,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <name>makelist2</name>
 <listrepeat><![CDATA[
 <SetwatchMode>55</SetwatchMode>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR][COLOR lime][makelist2.param2] [COLOR white][makelist2.param3] [COLOR deepskyblue] [makelist2.param5] [/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][COLOR][COLOR lime][makelist2.param2] [COLOR white][makelist2.param3] [COLOR deepskyblue] [makelist2.param5] [/COLOR]</title>
 <thumbnail>http://3.bp.blogspot.com/-aGQz7eOYEi8/WSBg2rYeiDI/AAAAAAAABB0/-upsZbTJK6oIPfUaSvq17gG8twf_tQ3rgCK4B/s1600/aseistream.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -110,7 +110,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <name>makelist</name>
 <listrepeat><![CDATA[
 <SetwatchMode>55</SetwatchMode>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR skyblue][makelist2.param5][/COLOR][COLOR lightslategray]  Canal  [makelist.param1]  idioma:  [makelist.param3][/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][COLOR skyblue][makelist2.param5][/COLOR][COLOR lightslategray]  Canal  [makelist.param1]  idioma:  [makelist.param3][/COLOR]</title>
 <thumbnail>http://3.bp.blogspot.com/-aGQz7eOYEi8/WSBg2rYeiDI/AAAAAAAABB0/-upsZbTJK6oIPfUaSvq17gG8twf_tQ3rgCK4B/s1600/aseistream.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=Elecdeka</link>
@@ -126,7 +126,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 ----------------------------------------------
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR ]SportDevil OnLine[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][COLOR ]SportDevil OnLine[/COLOR]</title>
 <link>ignorme</link>
 <externallink>https://goo.gl/5G2BhD</externallink>
 <thumbnail>http://2.bp.blogspot.com/-AvH8_aIT-4M/WZ8pxC6cWJI/AAAAAAAABa8/spMIYJBn9aMcgIfsBASxR_QYg1U-GPlewCK4BGAYYCw/s1600/sportDevil.jpg</thumbnail>
