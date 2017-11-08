@@ -1,5 +1,5 @@
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]DirecTv +</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]DirecTv +</title>
   <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
 			<regex>
 			<name>ip</name>
@@ -26,7 +26,7 @@ item>
 </item> 
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]DirecTv</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]DirecTv</title>
  
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
@@ -47,7 +47,7 @@ item>
 </item> 
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]FOX SPORTS 1</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]FOX SPORTS 1</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
 <regex>
 <name>play</name>
@@ -58,7 +58,7 @@ item>
 </item>
  
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]FOX SPORTS 1 Arg</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]FOX SPORTS 1 Arg</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
 <regex>
 <name>play</name>
@@ -69,7 +69,7 @@ item>
 </item>
  
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]FOX SPORTS 2</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]FOX SPORTS 2</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
 <regex>
 <name>play</name>
@@ -80,7 +80,7 @@ item>
 </item>
  
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]FOX SPORTS 3</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]FOX SPORTS 3</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
 <regex>
 <name>play</name>
@@ -91,7 +91,7 @@ item>
 </item>
  
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]ESPN 1</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]ESPN 1</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
 <regex>
 <name>play</name>
@@ -102,7 +102,7 @@ item>
 </item>
  
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]ESPN 2</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]ESPN 2</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
 <regex>
 <name>play</name>
@@ -113,7 +113,7 @@ item>
 </item>
  
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]ESPN 3</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]ESPN 3</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
 <regex>
 <name>play</name>
@@ -125,7 +125,7 @@ item>
 <item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Foxsport br</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Foxsport br</title>
 <link>$doregex[get-id]</link>
 <regex>
 <name>get-id</name>
@@ -137,7 +137,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]ESPN+ br</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]ESPN+ br</title>
 <link>$doregex[get-id]</link>
 <regex>
 <name>get-id</name>
@@ -148,7 +148,7 @@ item>
 </item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TyC Sports HD</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]TyC Sports HD</title>
 <link>http://playback.bcovlive.io/de6478f6fd9a4459826ffedd62aa338e/sa-east-1/5395474896001/profile_1/chunklist.m3u8</link>
 <thumbnail>https://i.ytimg.com/vi/9lvKFKUeTTE/maxresdefault_live.jpg</thumbnail>
 <fanart></fanart>
@@ -156,7 +156,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TyC Sports BsAs</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]TyC Sports BsAs</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/172499/</link>
 <regex>
 <name>play</name>
@@ -169,7 +169,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]GolTV (vpn)</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]GolTV (vpn)</title>
 <link>http://50.97.142.130/hls2/amlst:30001_ios/chunklist_b1396000.m3u8</link>
 <thumbnail>http://www.prensario.net/Multimedios/imgs/14885_468.jpg</thumbnail>
 <fanart></fanart>
@@ -177,7 +177,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]GolTV es</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]GolTV es</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -192,7 +192,7 @@ expres>source: '(.*?)'</expres>
 --------------------------------------------------------------------------
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]GolPeru</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]GolPeru</title>
   <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
 			<regex>
 			<name>ip</name>
@@ -220,21 +220,21 @@ item>
 
 -------------------------------------------------------------------------------
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Claro Sport</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Claro Sport</title>
 <link>http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8</link> 
 <thumbnail>http://3.bp.blogspot.com/-DW5e-RY_KeU/WdelpPY9_TI/AAAAAAAABrE/igZQvXk4oD4wgSu8AnMdQ1KppV94-kGUACK4BGAYYCw/s1600/claro%2Bsport.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Latin American Sports HD[/COLOR]</title> 
+<title>[B][COLOR blue]•   [/B][COLOR]Latin American Sports HD[/COLOR]</title> 
 <link>http://vivoplay-i.akamaihd.net/hls/live/253483/canal2/master2500k.m3u8</link> 
 <thumbnail>http://4.bp.blogspot.com/-YwwJZNL1mAk/WdfdwYopTBI/AAAAAAAABsA/GPr6tS8QbtkXRGLuQX5Aq11mXh2QlajywCK4BGAYYCw/s1600/las.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]PX Sports HD[/COLOR]</title> 
+<title>[B][COLOR blue]•   [/B][COLOR]PX Sports HD[/COLOR]</title> 
 <link>http://vivoplay-i.akamaihd.net/hls/live/255324/canal4/master2500k.m3u8</link> 
 <thumbnail>http://2.bp.blogspot.com/-9tRb56N5uXc/Wdfpqpq6umI/AAAAAAAABto/vJVdQrq1b2EHr897G1Tf0aZuZiIlGNOlwCK4BGAYYCw/s1600/px%2Bsport.jpg</thumbnail>
 <fanart></fanart>
@@ -243,7 +243,7 @@ item>
 --------------------------------------------------------------------------------
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Deport Tv</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Deport Tv</title>
 <link>http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8</link>
 <thumbnail>http://i.imgur.com/PxyIZNW.png</thumbnail>
 <fanart></fanart>
@@ -251,7 +251,7 @@ item>
 </item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Win Sports</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Win Sports</title>
 <link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live/tve1.php</link>
 <regex>
 <name>get-id</name>
@@ -267,7 +267,7 @@ item>
 ------------------------------------------------
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Todo Deportes</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Todo Deportes</title>
 <link>http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8|User-Agent=ArtearPlayer/3.2.42 (Linux;Android 4.4.2) ExoPlayerLib/1.5.9</link>
 <thumbnail>http://i.imgur.com/p7DAIKG.png</thumbnail>
 <fanart></fanart>
@@ -277,7 +277,7 @@ item>
 
 -----------------------------------------
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TDN</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]TDN</title>
 <link>rtmp://$doregex[ip]/live playpath=YouTVOp1?id=256441$doregex[pk] swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf tcUrl=rtmp://mips.tv:1935/live/
 pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=13 live=1 conn=S:OK</link>
 <regex>
@@ -300,7 +300,7 @@ pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=13 live=1 conn=S:OK</link>
 
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Deportes 1</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Deportes 1</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -314,7 +314,7 @@ expres>source: '(.*?)'</expres>
 </item>	
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Deportes 2</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Deportes 2</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -328,7 +328,7 @@ expres>source: '(.*?)'</expres>
 </item>	
 		
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Eurosport 1</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Eurosport 1</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -342,7 +342,7 @@ expres>source: '(.*?)'</expres>
 </item>		
 	
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Eurosport 2</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Eurosport 2</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -356,7 +356,7 @@ expres>source: '(.*?)'</expres>
 </item>		
 		
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Teledeportes</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Teledeportes</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -370,7 +370,7 @@ expres>source: '(.*?)'</expres>
 </item>	
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Bein la liga</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Bein la liga</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -387,14 +387,14 @@ expres>source: '(.*?)'</expres>
 ------------------------------------------------
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Being Sport</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Being Sport</title>
 <sportsdevil>http://www.vipgoal.net/C+Liga/35576/Canal-plus-liga-en-directo.html</sportsdevil>
 <referer>http://www.vipgoal.net/</referer>
 <thumbnail>http://tvjaja.com/img/bein.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Sporttv 1a pt</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Sporttv 1a pt</title>
 <link>http://cdn.widestream.io:8081/wideedge/1022qvk/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
@@ -406,7 +406,7 @@ expres>source: '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Sporttv 1b pt</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Sporttv 1b pt</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -419,7 +419,7 @@ expres>source: '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Sporttv 2 pt</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Sporttv 2 pt</title>
 <link>$doregex[m3u8]</link>
 <regex><name>m3u8</name>
 <expres>file: "([^\"].*)"</expres>
@@ -432,7 +432,7 @@ expres>source: '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Sporttv 3 pt</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Sporttv 3 pt</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -446,14 +446,14 @@ expres>source: '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Sporttv 4 pt</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Sporttv 4 pt</title>
 <link>rtmp://213.152.180.151:17247/sstream/0tkVGgd2jl.stream</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/0/05/Sporttv4.png/96px-Sporttv4.png</thumbnail>
 <fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Sporttv 5 pt</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Sporttv 5 pt</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -470,7 +470,7 @@ expres>source: '(.*?)'</expres>
 
 ----------------------------------------
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Sportv br</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Sportv br</title>
 <link>$doregex[Igor_Rangel_Ch]</link>
 <regex>
 <name>Igor_Rangel_Ch</name>
@@ -488,7 +488,7 @@ expres>source: '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Sportv 2 br</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Sportv 2 br</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -506,7 +506,7 @@ expres>source: '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]PFC Brazil br</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]PFC Brazil br</title>
 <link>$doregex[get-id]</link>
 <regex>
 <name>get-id</name>
@@ -524,7 +524,7 @@ expres>source: '(.*?)'</expres>
 pruebas
 ****************
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Sport Tv br</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Sport Tv br</title>
 <link>$doregex[get-id]</link>
 <regex>
 <name>get-id</name>
@@ -536,7 +536,7 @@ item>
 </item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Sport Tv 2 br</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Sport Tv 2 br</title>
 <link>$doregex[get-id]</link>
 <regex>
 <name>get-id</name>
@@ -548,7 +548,7 @@ item>
 </item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Band Sports br</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Band Sports br</title>
 <link>http://$doregex[Henrique_PXLista25_IP]/loadbalance/bandsportshd/playlist.m3u8$doregex[Henrique_PXLista_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Henrique_PXLista25_IP</name>
@@ -575,7 +575,7 @@ item>
 </item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Espn Brasil</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Espn Brasil</title>
 <link>http://$doregex[Henrique_PXLista25_IP]/loadbalance/slv10/playlist.m3u8$doregex[Henrique_PXLista_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Henrique_PXLista25_IP</name>
@@ -600,42 +600,42 @@ item>
 ----------------------------------------------
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Futbol C+</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Futbol C+</title>
 <sportsdevil>http://www.vipgoal.net/c+futbol/35578/C+Futbol-en-directo.html</sportsdevil>
 <referer>http://www.vipgoal.net/</referer>
 <thumbnail>http://4.bp.blogspot.com/-5gFdEJACSuI/Ui2M5enBwMI/AAAAAAAABE0/O0ApwEsVrLM/s1600/p-futbo.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Formula 1</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Formula 1</title>
 <sportsdevil>http://www.vipgoal.net/MovistarF1/35596/Movistar-F1-en-directo.html</sportsdevil>
 <referer>http://www.vipgoal.net/</referer>
 <thumbnail>http://lh6.ggpht.com/_gKQKwLZ8XUs/TIvsZTMx7tI/AAAAAAAADyE/53Jr585dfOM/s800/logos-hidden-symbolism-f-1.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Moto GP</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Moto GP</title>
 <sportsdevil>http://www.vipgoal.net/MovistarMotoGP/35597/Movistar-MotoGP-en-directo.html</sportsdevil>
 <referer>http://www.vipgoal.net/</referer>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqol0wqNzDBWALWVdYgk2JfmRKhh2svR-al07c25VYbojKRr7P</thumbnail>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Bt Sport 1</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Bt Sport 1</title>
 <sportsdevil>http://www.vipgoal.net/BtSport1/35588/Bt-Sport-1-Live-Stream.html</sportsdevil>
 <referer>http://www.vipgoal.net/</referer>
 <thumbnail>https://media.info/i/l/300/1405339450/1539.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Bt Sport 2</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Bt Sport 2</title>
 <sportsdevil>http://www.vipgoal.net/BtSport2/35589/Bt-Sport-2-Live-Stream.html</sportsdevil>
 <referer>http://www.vipgoal.net/</referer>
 <thumbnail>https://media.info/i/l/300/1405339429/1540.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Bt Sport 3</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Bt Sport 3</title>
 <sportsdevil>http://www.vipgoal.net/BtSportEurope/35590/Bt-Sport-3-Live-Stream.html</sportsdevil>
 <referer>http://www.vipgoal.net/</referer>
 <thumbnail>https://media.info/i/l/300/1436396712/5712.png</thumbnail>
