@@ -1,6 +1,6 @@
 *************************************************************
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   • •   [/B][COLOR red]Futbol en vivo   [COLOR red][B][COLOR red]• •[/COLOR][/B]</title>
+<title>[B][COLOR red]• •   [/B][COLOR red]Futbol en vivo   [COLOR red][B][COLOR red]• •[/COLOR][/B]</title>
 <link>nop</link>
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
 <fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart> 
@@ -9,7 +9,7 @@
 ----------------------------------------------------------
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Futbol livesports [COLOR blue]~[COLOR deepskyblue] VTV[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Futbol livesports [COLOR blue]~[COLOR deepskyblue] VTV[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -24,7 +24,7 @@
 -------------------------------
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]FutWide canal 1[COLOR blue]~[COLOR deepskyblue] Goltv [COLOR blue]~[COLOR deepskyblue] VTV [COLOR blue]~[COLOR deepskyblue] Foxsport[/COLOR] [COLOR blue]~[COLOR white] Widestream[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]FutWide canal 1[COLOR blue]~[COLOR deepskyblue] Goltv [COLOR blue]~[COLOR deepskyblue] VTV [COLOR blue]~[COLOR deepskyblue] Foxsport[/COLOR] [COLOR blue]~[COLOR white] Widestream[/COLOR]</title>
 <link>$doregex[get-id]</link>
 <regex>
 <name>get-id</name>
@@ -36,7 +36,7 @@
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]FutWide canal 2 [COLOR blue]~[COLOR deepskyblue] La Liga[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]FutWide canal 2 [COLOR blue]~[COLOR deepskyblue] La Liga[/COLOR]</title>
 <link>$doregex[get-id]</link>
 <regex>
 <name>get-id</name>
@@ -48,7 +48,7 @@
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]DailyWide [COLOR blue]~[COLOR deepskyblue] La Liga[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]DailyWide [COLOR blue]~[COLOR deepskyblue] La Liga[/COLOR]</title>
 <link>$doregex[get-id]</link>
 <regex>
 <name>get-id</name>
@@ -62,7 +62,7 @@
 --------------------------------
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Rivo tx2 [COLOR blue]~[COLOR deepskyblue] VTV [COLOR blue]~[COLOR deepskyblue] Foxsport[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Rivo tx2 [COLOR blue]~[COLOR deepskyblue] VTV [COLOR blue]~[COLOR deepskyblue] Foxsport[/COLOR]</title>
 
 <link>$doregex[bro.adca.st]</link>
 <regex>
@@ -92,7 +92,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Max 01 739[COLOR blue]~[COLOR deepskyblue] DirecTv [COLOR blue]~[COLOR deepskyblue] Espn [COLOR blue]~ [COLOR red]bro[COLOR].[COLOR white]adca[COLOR].[COLOR blue]st[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Max 01 739[COLOR blue]~[COLOR deepskyblue] DirecTv [COLOR blue]~[COLOR deepskyblue] Espn [COLOR blue]~ [COLOR red]bro[COLOR].[COLOR white]adca[COLOR].[COLOR blue]st[/COLOR]</title>
 
 <link>$doregex[bro.adca.st]</link>
 <regex>
@@ -122,7 +122,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 </item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Max 01 739[COLOR blue]~[COLOR deepskyblue] DirecTv [COLOR blue]~[COLOR deepskyblue] Espn [COLOR blue]~ [COLOR red]bro[COLOR].[COLOR white]adca[COLOR].[COLOR blue]st[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Max 01 739[COLOR blue]~[COLOR deepskyblue] DirecTv [COLOR blue]~[COLOR deepskyblue] Espn [COLOR blue]~ [COLOR red]bro[COLOR].[COLOR white]adca[COLOR].[COLOR blue]st[/COLOR]</title>
 
 <link>$doregex[bro.adca.st]</link>
 <regex>
@@ -152,7 +152,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 </item>
 ---------------------------------
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]MAX 10 [COLOR blue]~[COLOR deepskyblue] Univision [COLOR blue]~[COLOR deepskyblue] DirecTV [COLOR blue]~[COLOR deepskyblue] LIGAMX[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]MAX 10 [COLOR blue]~[COLOR deepskyblue] Univision [COLOR blue]~[COLOR deepskyblue] DirecTV [COLOR blue]~[COLOR deepskyblue] LIGAMX[/COLOR]</title>
  <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
 			<regex>
 			<name>ip</name>
@@ -178,7 +178,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]MAX 42 [COLOR blue]~[COLOR red] mips[COLOR white]pla[COLOR blue]yer [/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]MAX 42 [COLOR blue]~[COLOR red] mips[COLOR white]pla[COLOR blue]yer [/COLOR]</title>
  <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
 			<regex>
 			<name>ip</name>
@@ -204,7 +204,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]RivoSport 248 [COLOR blue]~[COLOR deepskyblue] Bein ñ [COLOR deepblue]~[COLOR deepskyblue] EspnDeportes [COLOR blue]~[COLOR deepskyblue] Univision Deportes[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]RivoSport 248 [COLOR blue]~[COLOR deepskyblue] Bein ñ [COLOR deepblue]~[COLOR deepskyblue] EspnDeportes [COLOR blue]~[COLOR deepskyblue] Univision Deportes[/COLOR]</title>
 
 <link>$doregex[bro.adca.st]</link>
 <regex>
@@ -238,7 +238,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 ///////////////////////////
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Vipracing 1 [COLOR blue]~[COLOR deepskyblue] [COLOR red]bro[COLOR].[COLOR white]adca[COLOR].[COLOR blue]st[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Vipracing 1 [COLOR blue]~[COLOR deepskyblue] [COLOR red]bro[COLOR].[COLOR white]adca[COLOR].[COLOR blue]st[/COLOR]</title>
  <link>$doregex[bro.adca.st]</link>
 <regex>
 <name>bro.adca.st</name>
@@ -267,7 +267,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Max max42a1 [COLOR blue]~[COLOR red] mips[COLOR white]pla[COLOR blue]yer[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Max max42a1 [COLOR blue]~[COLOR red] mips[COLOR white]pla[COLOR blue]yer[/COLOR]</title>
  <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
 			<regex>
 			<name>ip</name>
@@ -293,7 +293,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 </item>
 
  <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Max max36a1 [COLOR blue]~[COLOR red] mips[COLOR white]pla[COLOR blue]yer[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Max max36a1 [COLOR blue]~[COLOR red] mips[COLOR white]pla[COLOR blue]yer[/COLOR]</title>
  <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
 			<regex>
 			<name>ip</name>
@@ -322,7 +322,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 //////////////////////////
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Maxdeportv 7 [COLOR blue]~[COLOR red] mips[COLOR white]pla[COLOR blue]yer[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Maxdeportv 7 [COLOR blue]~[COLOR red] mips[COLOR white]pla[COLOR blue]yer[/COLOR]</title>
  <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
 			<regex>
 			<name>ip</name>
@@ -348,7 +348,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Maxdeportv 8 [COLOR blue]~[COLOR deepskyblue] [COLOR red]bro[COLOR].[COLOR white]adca[COLOR].[COLOR blue]st[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Maxdeportv 8 [COLOR blue]~[COLOR deepskyblue] [COLOR red]bro[COLOR].[COLOR white]adca[COLOR].[COLOR blue]st[/COLOR]</title>
 
 <link>$doregex[bro.adca.st]</link>
 <regex>
@@ -379,7 +379,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]333 Sport 18528 [COLOR blue]~[COLOR deepskyblue] Foxsport [COLOR blue]~ [COLOR red]bro[COLOR].[COLOR white]adca[COLOR].[COLOR blue]st[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]333 Sport 18528 [COLOR blue]~[COLOR deepskyblue] Foxsport [COLOR blue]~ [COLOR red]bro[COLOR].[COLOR white]adca[COLOR].[COLOR blue]st[/COLOR]</title>
 
 <link>$doregex[bro.adca.st]</link>
 <regex>
@@ -409,7 +409,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 </item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]333 Sport 2 18528 [COLOR blue]~[COLOR deepskyblue] Foxsport[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]333 Sport 2 18528 [COLOR blue]~[COLOR deepskyblue] Foxsport[/COLOR]</title>
 
 <link>$doregex[bro.adca.st]</link>
 <regex>
@@ -439,7 +439,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 </item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elgrantv [COLOR blue]~[COLOR deepskyblue] TyC Sport[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Elgrantv [COLOR blue]~[COLOR deepskyblue] TyC Sport[/COLOR]</title>
 <link>https://tycsportsalive-a.akamaihd.net/f403563369c049618eecd81e4a75fe75/sa-east-1/5395474896001/playlist.m3u8</link>
 <regex>
 <name>getVipRacing</name>
@@ -451,7 +451,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Deportivotv [COLOR blue]~[COLOR deepskyblue] TyC [COLOR blue]~[COLOR deepskyblue] Foxsport [COLOR blue]~[COLOR deepskyblue] DirecTv [COLOR blue]~[COLOR white] Widestream[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Deportivotv [COLOR blue]~[COLOR deepskyblue] TyC [COLOR blue]~[COLOR deepskyblue] Foxsport [COLOR blue]~[COLOR deepskyblue] DirecTv [COLOR blue]~[COLOR white] Widestream[/COLOR]</title>
 <link>$doregex[get-id]</link>
 <regex>
 <name>get-id</name>
@@ -463,7 +463,7 @@ item>
 </item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Foxsport 1 sd</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Foxsport 1 sd</title>
   <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
 			<regex>
 			<name>ip</name>
@@ -490,7 +490,7 @@ item>
 </item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Foxsport 2 sd</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Foxsport 2 sd</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -510,7 +510,7 @@ http://www.247bay.tv/membedplayer/fox1malosolandia/2/600/400
 
 -------------------------------------------------------
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]M+ Vip Bein</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]M+ Vip Bein</title>
 <link>$doregex[elecdeka]|User-Agent=iPad</link>
 <regex>
 <name>elecdeka</name>
@@ -530,7 +530,7 @@ item>
 
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   • •   [/B][COLOR red]Futbol Streams   [COLOR red][B][COLOR red]• •[/COLOR][/B]</title>
+<title>[B][COLOR red]• •   [/B][COLOR red]Futbol Streams   [COLOR red][B][COLOR red]• •[/COLOR][/B]</title>
 <link>nop</link>
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
 <fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
@@ -539,7 +539,7 @@ item>
 
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]RivoSports 723[COLOR blue]~[COLOR white] widestream[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]RivoSports 723[COLOR blue]~[COLOR white] widestream[/COLOR]</title>
 <link>$doregex[get-id]</link>
 <regex>
 <name>get-id</name>
@@ -551,7 +551,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Zonasport 1[COLOR blue]~[COLOR white] Widestream[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Zonasport 1[COLOR blue]~[COLOR white] Widestream[/COLOR]</title>
 <link>$doregex[get-id]</link>
 <regex>
 <name>get-id</name>
@@ -563,7 +563,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Zonasport 2 [COLOR blue]~[COLOR white] Widestream[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Zonasport 2 [COLOR blue]~[COLOR white] Widestream[/COLOR]</title>
 <link>$doregex[get-id]</link>
 <regex>
 <name>get-id</name>
@@ -575,7 +575,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Zonasport 3 [COLOR blue]~[COLOR white] Widestream[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Zonasport 3 [COLOR blue]~[COLOR white] Widestream[/COLOR]</title>
 <link>$doregex[get-id]</link>
 <regex>
 <name>get-id</name>
@@ -587,7 +587,7 @@ item>
 </item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]dailydeportes16 [COLOR blue]~[COLOR deepskyblue] GolTv[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]dailydeportes16 [COLOR blue]~[COLOR deepskyblue] GolTv[/COLOR]</title>
 <sportsdevil>http://dailydeportes.pw/zive/stream16.html</sportsdevil>
 <referer>http://dailydeportes.pw/zive/stream16.html</referer>
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
@@ -599,7 +599,7 @@ item>
 --------------------------
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Deportesmax 54 [COLOR blue]~[COLOR deepskyblue] [COLOR red]bro[COLOR].[COLOR white]adca[COLOR].[COLOR blue]st[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Deportesmax 54 [COLOR blue]~[COLOR deepskyblue] [COLOR red]bro[COLOR].[COLOR white]adca[COLOR].[COLOR blue]st[/COLOR]</title>
 
 <link>$doregex[bro.adca.st]</link>
 <regex>
@@ -630,7 +630,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Streamlive canal 1 [COLOR blue]~[COLOR deepskyblue] GolTv [COLOR blue]~[COLOR deepskyblue] Bein [COLOR blue]~[COLOR deepskyblue] Foxsport[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Streamlive canal 1 [COLOR blue]~[COLOR deepskyblue] GolTv [COLOR blue]~[COLOR deepskyblue] Bein [COLOR blue]~[COLOR deepskyblue] Foxsport[/COLOR]</title>
 <link>http://$doregex[url]|Referer=http://www.streamlive.to/</link>
 <regex>
 <name>url</name>
@@ -650,7 +650,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Streamlive canal 2 [COLOR blue]~[COLOR deepskyblue] GolTv [COLOR blue]~[COLOR deepskyblue] Bein [COLOR blue]~[COLOR deepskyblue] Foxsport[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Streamlive canal 2 [COLOR blue]~[COLOR deepskyblue] GolTv [COLOR blue]~[COLOR deepskyblue] Bein [COLOR blue]~[COLOR deepskyblue] Foxsport[/COLOR]</title>
 
 <link>$doregex[bro.adca.st]</link>
 <regex>
@@ -680,7 +680,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Streamlive canal 4</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Streamlive canal 4</title>
 <link>http://$doregex[url]|Referer=http://www.streamlive.to/</link>
 <regex>
 <name>url</name>
@@ -699,7 +699,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Stream Vipracing 15129 [COLOR blue]~[COLOR deepskyblue] [COLOR red]bro[COLOR].[COLOR white]adca[COLOR].[COLOR blue]st[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Stream Vipracing 15129 [COLOR blue]~[COLOR deepskyblue] [COLOR red]bro[COLOR].[COLOR white]adca[COLOR].[COLOR blue]st[/COLOR]</title>
 
 <link>$doregex[bro.adca.st]</link>
 <regex>
@@ -729,7 +729,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Max 01 Vipracing 739 [COLOR blue]~[COLOR deepskyblue] WinSports [COLOR blue]~[COLOR deepskyblue] ESPN Sur [COLOR blue]~[COLOR deepskyblue] Colombia[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Max 01 Vipracing 739 [COLOR blue]~[COLOR deepskyblue] WinSports [COLOR blue]~[COLOR deepskyblue] ESPN Sur [COLOR blue]~[COLOR deepskyblue] Colombia[/COLOR]</title>
 
 <link>$doregex[bro.adca.st]</link>
 <regex>
@@ -768,7 +768,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 <page>https://www.streamlive.to/embedplayer_new2.php?width=750&amp;height=480&amp;channel=73638&amp;autoplay=true</page>
 <referer>http://vipracing.info/channel/canal-12</referer>
 </regex>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Max 41 canal 12 [COLOR blue]~[COLOR deepskyblue] Bein ñ[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Max 41 canal 12 [COLOR blue]~[COLOR deepskyblue] Bein ñ[/COLOR]</title>
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
 <fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
 </item>
@@ -781,7 +781,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 <page>https://www.streamlive.to/embedplayer_new2.php?width=750&amp;height=480&amp;channel=73641&amp;autoplay=true</page>
 <referer>http://vipracing.info/channel/canal-12</referer>
 </regex>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Max 44 canal 12 [COLOR blue]~[COLOR deepskyblue] Espn[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Max 44 canal 12 [COLOR blue]~[COLOR deepskyblue] Espn[/COLOR]</title>
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
 <fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
 </item>
@@ -793,7 +793,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 <expres>file": "\/\/(.*?)"</expres><page>https://www.streamlive.to/embedplayer_new2.php?width=750&amp;height=480&amp;channel=73642&amp;autoplay=true</page>
 <referer>http://vipracing.info/channel/canal-12</referer>
 </regex>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Max 45 canal 12</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Max 45 canal 12</title>
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
 <fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
 </item>
@@ -802,7 +802,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 <link>http://$doregex[url]|Referer=http://www.streamlive.to/</link><regex><name>url</name><expres>file": "\/\/(.*?)"</expres><page>https://www.streamlive.to/embedplayer_new2.php?width=750&amp;height=480&amp;channel=73643&amp;autoplay=true</page>
 <referer>http://vipracing.info/channel/canal-12</referer>
 </regex>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Max 46 canal 12</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Max 46 canal 12</title>
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
 <fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
 </item>
@@ -815,14 +815,14 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 <page>https://www.streamlive.to/embedplayer_new2.php?width=750&amp;height=480&amp;channel=73647&amp;autoplay=true</page>
 <referer>http://vipracing.info/channel/canal-12</referer>
 </regex>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Max 50 canal 12</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Max 50 canal 12</title>
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
 <fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
 </item>
 ---------------------------------
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Win Sports</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Win Sports</title>
 <link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live/tve1.php</link>
 <regex>
 <name>get-id</name>
@@ -836,14 +836,14 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]PSN</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]PSN</title>
 <link>https://hls-ord-1a.vaughnsoft.net/ams/live/live_psn77v/chunklist.m3u8|User-Agent=Mozilla/5.0</link>
 <thumbnail>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/psn76v_320.jpg</thumbnail>
 <fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Acestream [COLOR red]27[/COLOR]  </title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Acestream [COLOR red]27[/COLOR]  </title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Ecemc</link>
 			<regex>
 			<name>hash</name> 
@@ -858,7 +858,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Vipracing 37 [COLOR blue]~[COLOR deepskyblue] Bein ñ [COLOR blue]~[COLOR deepskyblue] Espn Deportes [COLOR blue]~[COLOR deepskyblue] Univision Deportes[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Vipracing 37 [COLOR blue]~[COLOR deepskyblue] Bein ñ [COLOR blue]~[COLOR deepskyblue] Espn Deportes [COLOR blue]~[COLOR deepskyblue] Univision Deportes[/COLOR]</title>
 
 <link>$doregex[bro.adca.st]</link>
 <regex>
@@ -888,7 +888,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Vipracing 15129 [COLOR blue]~[COLOR deepskyblue] Univision Deportes [COLOR blue]~[COLOR deepskyblue] ESPN Deportes[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Vipracing 15129 [COLOR blue]~[COLOR deepskyblue] Univision Deportes [COLOR blue]~[COLOR deepskyblue] ESPN Deportes[/COLOR]</title>
 
 <link>$doregex[bro.adca.st]</link>
 <regex>
@@ -918,7 +918,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Max 36 [COLOR blue]~[COLOR deepskyblue] Univision Deportes [COLOR blue]~[COLOR deepskyblue] ESPN Deportes[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Max 36 [COLOR blue]~[COLOR deepskyblue] Univision Deportes [COLOR blue]~[COLOR deepskyblue] ESPN Deportes[/COLOR]</title>
  <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
 			<regex>
 			<name>ip</name>
@@ -947,13 +947,13 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 Fox Chile
 ********************************
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   • •   [/B][COLOR red]Fut Chile   [COLOR red][B][COLOR red]• •[/COLOR][/B]</title>
+<title>[B][COLOR red]• •   [/B][COLOR red]Fut Chile   [COLOR red][B][COLOR red]• •[/COLOR][/B]</title>
 <link>nop</link>
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
 <fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart></item>
 <item>
 
-<item><title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Fut Chile 1</title>
+<item><title>[B][COLOR blue]•   [/B][/COLOR]Fut Chile 1</title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -974,7 +974,7 @@ Fox Chile
 </item>
   
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Fut Chile 2</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Fut Chile 2</title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -995,7 +995,7 @@ Fox Chile
 </item>
   
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Fut Chile 3</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Fut Chile 3</title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -1021,14 +1021,14 @@ Fox y Espn
 *********************************
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   • •   [/B][COLOR red]Fox y Espn (rep)   [COLOR red][B][COLOR red]• •[/COLOR][/B]</title>
+<title>[B][COLOR red]• •   [/B][COLOR red]Fox y Espn (rep)   [COLOR red][B][COLOR red]• •[/COLOR][/B]</title>
 <link>nop</link>
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
 <fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart></item>
 <item>
 
 item>
-title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]FOX SPORTS 1 URU</title>
+title>[B][COLOR blue]•   [/B][/COLOR]FOX SPORTS 1 URU</title>
 link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
 <regex>
 <name>play</name>
@@ -1039,7 +1039,7 @@ link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.
 </item>
  
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]FOX SPORTS 1 ARG</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]FOX SPORTS 1 ARG</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
 <regex>
 <name>play</name>
@@ -1050,7 +1050,7 @@ item>
 </item>
  
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]FOX SPORTS 2 ARG</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]FOX SPORTS 2 ARG</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
 <regex>
 <name>play</name>
@@ -1061,7 +1061,7 @@ item>
 </item>
  
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]FOX SPORTS 3 ARG</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]FOX SPORTS 3 ARG</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
 <regex>
 <name>play</name>
@@ -1072,7 +1072,7 @@ item>
 </item>
   
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]ESPN ARG</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]ESPN ARG</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
 <regex>
 <name>play</name>
@@ -1083,7 +1083,7 @@ item>
 </item>
  
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]ESPN 1 ARG</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]ESPN 1 ARG</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
 <regex>
 <name>play</name>
@@ -1094,7 +1094,7 @@ item>
 </item>
  
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]ESPN 2 ARG</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]ESPN 2 ARG</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
 <regex>
 <name>play</name>
@@ -1105,7 +1105,7 @@ item>
 </item>
  
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]ESPN 3 ARG</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]ESPN 3 ARG</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
 <regex>
 <name>play</name>
@@ -1123,14 +1123,14 @@ Futbol Pruebas
 
 ------------------------------------------------------
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   • •   [/B][COLOR red]Futbol Pruebas   [COLOR red][B][COLOR red]• •[/COLOR][/B]</title>
+<title>[B][COLOR red]• •   [/B][COLOR red]Futbol Pruebas   [COLOR red][B][COLOR red]• •[/COLOR][/B]</title>
 <link>nop</link>
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
 <fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
 </item>
 ------------------------------------------
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]DirecTv</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]DirecTv</title>
   <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
 			<regex>
 			<name>ip</name>
@@ -1156,7 +1156,7 @@ item>
 </item> 
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]DirecTv</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]DirecTv</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -1177,7 +1177,7 @@ http://www.247bay.tv/embedplayer/directvperucho666/2/600/400
 http://www.247bay.tv/membedplayer/directvperu/1/500/400
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]DirecTv</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]DirecTv</title>
 <sportsdevil>http://www.ucaster.eu/directv6542</sportsdevil>
 <referer>http://www.ucaster.eu</referer>
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
@@ -1186,7 +1186,7 @@ item>
 ---------------------
 
 item>
-title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tarjetarojatv 01 [COLOR blue]~[COLOR deepskyblue] FoxSport 1[/COLOR]</title>
+title>[B][COLOR blue]•   [/B][/COLOR]Tarjetarojatv 01 [COLOR blue]~[COLOR deepskyblue] FoxSport 1[/COLOR]</title>
 <sportsdevil>http://www.tarjetarojatv.net/rojadirecta/ver-fox-sports-en-vivo.html</sportsdevil>
 <referer>http://www.tarjetarojatv.net/rojadirecta/ver-fox-sports-en-vivo.html</referer>
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
@@ -1194,7 +1194,7 @@ title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tarjetaro
 </item>
 
 item>
-title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tarjetarojatv 02 [COLOR blue]~[COLOR deepskyblue] [COLOR red]bro[COLOR].[COLOR white]adca[COLOR].[COLOR blue]st[/COLOR]</title>
+title>[B][COLOR blue]•   [/B][/COLOR]Tarjetarojatv 02 [COLOR blue]~[COLOR deepskyblue] [COLOR red]bro[COLOR].[COLOR white]adca[COLOR].[COLOR blue]st[/COLOR]</title>
 
 link>$doregex[bro.adca.st]</link>
 <regex>
@@ -1224,7 +1224,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 </item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tarjetarojatv 03 [COLOR blue]~[COLOR deepskyblue] DirecTv [COLOR blue]~[COLOR deepskyblue] Foxsport[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Tarjetarojatv 03 [COLOR blue]~[COLOR deepskyblue] DirecTv [COLOR blue]~[COLOR deepskyblue] Foxsport[/COLOR]</title>
 <sportsdevil>http://www.tarjetarojatv.net/rojadirecta/ver-directv-sports-en-vivo.html</sportsdevil>
 <referer>http://www.tarjetarojaonline.xyz/reproductor/directv.php?width=620&height=438</referer>
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
@@ -1232,7 +1232,7 @@ item>
 </item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tarjetarojatv 04 [COLOR blue]~[COLOR deepskyblue] Espn [COLOR blue]~[COLOR deepskyblue] GolPeru[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Tarjetarojatv 04 [COLOR blue]~[COLOR deepskyblue] Espn [COLOR blue]~[COLOR deepskyblue] GolPeru[/COLOR]</title>
 <sportsdevil>http://www.tarjetarojatv.net/rojadirecta/ver-espn-deportes-en-vivo.html</sportsdevil>
 <referer>http://www.tarjetarojaonline.xyz/reproductor/espndeportes.php?width=620&height=438</referer>
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
@@ -1240,7 +1240,7 @@ item>
 </item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tarjetarojatv 05 [COLOR blue]~[COLOR deepskyblue] Foxsport 3 [COLOR blue]~[COLOR deepskyblue] Foxsport 3[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Tarjetarojatv 05 [COLOR blue]~[COLOR deepskyblue] Foxsport 3 [COLOR blue]~[COLOR deepskyblue] Foxsport 3[/COLOR]</title>
 <sportsdevil>http://www.tarjetarojatv.net/rojadirecta/fox-sports-3-en-vivo.html</sportsdevil>
 <referer>http://www.tarjetarojaonline.xyz/reproductor/fox3.php?width=620&height=438
 </referer>
@@ -1249,7 +1249,7 @@ item>
 </item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tarjetarojatv 06 [COLOR blue]~[COLOR deepskyblue] Foxsport 2 [COLOR blue]~[COLOR deepskyblue] Espn [COLOR blue]~[COLOR deepskyblue] GolPeru[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Tarjetarojatv 06 [COLOR blue]~[COLOR deepskyblue] Foxsport 2 [COLOR blue]~[COLOR deepskyblue] Espn [COLOR blue]~[COLOR deepskyblue] GolPeru[/COLOR]</title>
 <sportsdevil>http://www.tarjetarojatv.net/rojadirecta/fox-sports-2-en-vivo.html</sportsdevil>
 <referer>http://www.tarjetarojaonline.xyz/reproductor/fox2.php</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yptqtt1433332816.png/medium</thumbnail>
@@ -1257,7 +1257,7 @@ item>
 </item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tarjetarojatv 07 [COLOR blue]~[COLOR deepskyblue] TyC sport[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Tarjetarojatv 07 [COLOR blue]~[COLOR deepskyblue] TyC sport[/COLOR]</title>
 <sportsdevil>http://www.tarjetarojatv.net/rojadirecta/ver-tyc-sports-online.html</sportsdevil>
 <referer>http://www.tarjetarojaonline.xyz/reproductor/tycsports.php?width=620&height=438</referer>
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
@@ -1265,7 +1265,7 @@ item>
 </item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tarjetarojatv 08 [COLOR blue]~[COLOR deepskyblue] M.Deportes [COLOR blue]~[COLOR deepskyblue] GolPeru[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Tarjetarojatv 08 [COLOR blue]~[COLOR deepskyblue] M.Deportes [COLOR blue]~[COLOR deepskyblue] GolPeru[/COLOR]</title>
 <sportsdevil>http://www.tarjetarojatv.net/rojadirecta/movistar-deportes-en-vivo.html</sportsdevil>
 <referer>http://www.tarjetarojaonline.xyz/reproductor/movistardeportes.php?width=620&height=438</referer>
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
@@ -1275,7 +1275,7 @@ item>
 -------------------------------------------------------------
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Vercanalestv [COLOR blue]~[COLOR deepskyblue] Directv[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Vercanalestv [COLOR blue]~[COLOR deepskyblue] Directv[/COLOR]</title>
 <sportsdevil>http://ucaster.eu/espn435672ek</sportsdevil>
 <referer>http://www.ucaster.eu</referer>
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
@@ -1283,21 +1283,21 @@ item>
 </item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Vercanalestv [COLOR blue]~[COLOR deepskyblue] FoxSport 1[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Vercanalestv [COLOR blue]~[COLOR deepskyblue] FoxSport 1[/COLOR]</title>
 <link>http://23.237.22.156/3/U2FsdGVkX19bhV2Wi4N%2BgAJ%2F4w8EEQNKL5jkqFHsUh5loQxPm68MILF7pTRRau8Cp6gFnGRGcJQ47hy877Wl6Q%3D%3D/playlist.m3u8|User-Agent=Mozilla/5.0</link>
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
 <fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
 </item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tarjetarojatv [COLOR blue]~[COLOR deepskyblue] FoxSport 1[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Tarjetarojatv [COLOR blue]~[COLOR deepskyblue] FoxSport 1[/COLOR]</title>
 <link>https://live67.vkuserlive.com/637608/live/B7v6Nm5DfHKoIuQH/playlist.m3u8|User-Agent=Mozilla/5.0</link>
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
 <fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
 </item>
 
 item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Vercanalestv [COLOR blue]~[COLOR deepskyblue] FoxSport 2[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Vercanalestv [COLOR blue]~[COLOR deepskyblue] FoxSport 2[/COLOR]</title>
 <sportsdevil>http://vercanalestv.com/tv/opcion2/fox-sports-2.html</sportsdevil>
 <referer>http://vercanalestv.com/tv/opcion2/fox-sports-2.html</referer>
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
