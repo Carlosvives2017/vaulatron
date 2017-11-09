@@ -215,7 +215,7 @@ expres>videoUrl = '(.*?)'</expres>
 <fanart>http://i.vimeocdn.com/video/388630672_1280x720.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[B][COLOR blue]•   [/B][/COLOR]Space</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-space/</link>
 <regex>
