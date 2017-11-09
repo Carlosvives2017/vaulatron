@@ -26,7 +26,9 @@
     <externallink>http://pastebin.com</externallink>
 <info></info>
 </item>
+
 ----------------------------------------------------------------------------
+
 <item>
 <title>[B][COLOR red]•   [/B][/COLOR]Canales del Mundo</title>
     <link>ignorame</link>
@@ -45,15 +47,6 @@
 <info></info>
 </item>
 
-item>
-<title>[B][COLOR red]•   [/B][COLOR skyblue]Tv Ar[COLOR white]gen[COLOR skyblue]tina[/COLOR]</title>
-    <link>ignorame</link>
-    <externallink>https://goo.gl/4LZUop</externallink>
-    <thumbnail>http://3.bp.blogspot.com/-yy_FrMVy2cE/WSBKjgceICI/AAAAAAAAA_o/gtraZJdo10w7UqHc3reAq3jNksu_0IQ0gCK4B/s1600/ARGENTINA.jpg</thumbnail>
-    <fanart>http://www.tngoya.com/galeria/0206_canales_aire_en_baja_00.jpg</fanart> 
-<info></info>
-</item>
-
 <item>
 <title>[B][COLOR red]•   [/B][/COLOR][COLOR][COLOR deepskyblue]S[COLOR lime]ma[COLOR orange]rt[COLOR red] Tv[/COLOR]</title>
     <link>ignorame</link>
@@ -61,35 +54,6 @@ item>
     <thumbnail>http://4.bp.blogspot.com/-ofXAM8BqjYc/WaAkQY68lDI/AAAAAAAABbs/CSEavir7_Y8Ib3Fn5UpLJopKMgFj0FJwQCK4BGAYYCw/s1600/SMART%2BTV%2B2.jpg</thumbnail>	
     <fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart> 
 <info></info>
-</item>
-
-item>
-<title>[B][COLOR red]•   [/B][/COLOR][COLOR red]Mo[COLOR yellow]vist[COLOR red]ar[/COLOR]</title>
-    <link>ignorame</link>
-    <externallink>https://goo.gl/gKTJn1</externallink> 
-    <thumbnail>http://4.bp.blogspot.com/-VI3StFwPbEA/WYDBNKd5MmI/AAAAAAAABXY/Coni6zWWFu8cdTKzk1N3xhklhzRWgVfugCK4BGAYYCw/s1600/Movistar.jpg</thumbnail>	
-    <fanart>https://www.adslzone.net/app/uploads/2015/07/apertura-canales-movistar-plus.jpg</fanart> 
-<info></info>
-</item>
-
-item>
-<title>[B][COLOR red]•   [/B][/COLOR][COLOR][COLOR blue]IPTV[/COLOR]</title>
-<link>NA</link>
-<externallink>$doregex[select]</externallink>
-<regex>
-<name>select</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-   import xbmcgui
-   dialog = xbmcgui.Dialog()
-   ret = dialog.select('[B][COLOR red]• •   [/B][COLOR red]Canales IPTV   [COLOR red][B][COLOR red]• •[/COLOR][/B][COLOR deepskyred]**************************************[/COLOR]', ['[B][COLOR blue]•   [/B][/COLOR]Demo [COLOR blue]IPTV[/COLOR]', '[B][COLOR blue]•   [/B][COLOR orange]Tecno[COLOR white]Tv[/COLOR]', '[B][COLOR blue]•   [/B][COLOR orange]Tecno[COLOR white]Tv[/COLOR] Peliculas', '[B][COLOR blue]•   [/B][COLOR deepskyblue]Sr Regio Tv[/COLOR]', '[B][COLOR blue]•   [/B][COLOR deepskyblue]Sr Regio peliculas[/COLOR]', '[B][COLOR blue]•   [/B][/COLOR]Chileiptv' , '[B][COLOR blue]•   [/B][/COLOR]AchoTv', '[B][COLOR blue]•   [/B][/COLOR]AchoTv Peliculas', '[B][COLOR blue]•   [/B][/COLOR]Cecegeek', '[B][COLOR blue]•   [/B][/COLOR]Cecegeek Peliculas', '[B][COLOR blue]•   [/B][/COLOR]Fluxus Tv'])
-   lists = ['https://goo.gl/yFFsBN', 'http://tecnotv.xyz/lista.m3u', 'http://tecnotv.xyz/peliculas.m3u', 'http://srregio.xyz/regiotv.m3u', 'http://srregio.xyz/regioflix.m3u', 'http://chileiptv.cl/cl.m3u', 'http://www.achotv.com/listas/canales.m3u', 'https://goo.gl/fP6JjA', 'http://cecegeek.com/1tv.m3u','http://cecegeek.com/movies.m3u', 'https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u']
-   return lists[ret]
-]]></expres>
-<page></page>
-</regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
 </item>
 
 ---------------------
@@ -182,16 +146,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <info></info>
 </item>
 
---------------------------------
-
-item>
-<title>[B][COLOR red]•   [/B][/COLOR]Deportes</title>
-    <link>ignorame</link> 
-    <externallink>https://goo.gl/3FqoGv</externallink>
- <thumbnail>http://4.bp.blogspot.com/-0O2cZrpnNOw/WYDBNMq181I/AAAAAAAABY4/O2MiaTjM844gX_GnUUrIMpYZJIF6kGPbQCK4BGAYYCw/s1600/Deportes.jpg</thumbnail>
-    <fanart>http://static.azteca.com/imagenes/2017/13/deportes-2126641.jpg</fanart> 
-<info></info>
-</item>
+--------------
 
 <item>
 <title>[B][COLOR red]•   [/B][/COLOR]Musica</title>
@@ -220,7 +175,7 @@ item>
 <info></info>
 </item>
 
-item>
+<item>
 <title>[B][COLOR red]•   [/B][/COLOR]Cumbia Uruguay 2016/17</title>
     <link>ignorme</link>
     <jsonrpc>plugin://plugin.video.youtube/playlist/PLyrvT40aVZpQ1GfO5okikoLhbPbt_XPm9/</jsonrpc>
@@ -229,14 +184,6 @@ item>
 <info></info>
 </item>
 
-item>
-<title>[B][COLOR red]•   [/B][/COLOR]Peliculas y Series</title>
-    <link>ignorame</link>
-    <externallink>https://goo.gl/qbVGCe</externallink>
-    <thumbnail>http://3.bp.blogspot.com/-tVVK739GnHA/WYDBNOTo_FI/AAAAAAAABX0/XsftAuiPMD81n7zsBzZnyqAn7Go2qO3WQCK4BGAYYCw/s1600/Peliculas.jpg</thumbnail>
-    <fanart>http://lavozdelmuro.net/wp-content/uploads/2017/02/peliculas_ciencia_ficcion_netflix-1000x523.png</fanart> 
-<info></info>
-</item>
 
 <item>
 <title>[B][COLOR deepskyred]Fin[/B][/COLOR]</title>
