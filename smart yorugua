@@ -55,7 +55,7 @@
 </item>
 
 --------------------------------------
-<item>               
+item>               
 <title>[B][COLOR blue]•   [/B][/COLOR]Telemundo</title>
 <link>http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://1.bp.blogspot.com/-oLZdKyRD5pU/Wec-Xq-RjwI/AAAAAAAACGU/9EoJrpRuNuoZASSKUCL71eUdgcCuF9t_wCK4BGAYYCw/s1600/telemundo.jpg</thumbnail>
@@ -89,7 +89,7 @@ item>
 <info></info>
 </item>
 	   
-<item>               
+item>               
 <title>[B][COLOR blue]•   [/B][/COLOR]Telemundo int</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
