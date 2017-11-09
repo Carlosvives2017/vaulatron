@@ -10,7 +10,7 @@
 </item>
  
 <item>
-<title>[COLOR deepskyred]•[/COLOR][COLOR deepskyred]*****[COLOR lightslategray]Actualizado:  07 nov 2017[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][COLOR deepskyred]*****[COLOR lightslategray]Actualizado:  09 nov 2017[/COLOR]</title>
     <thumbnail>https://goo.gl/EsHfca</thumbnail>
     <fanart>https://goo.gl/SBs3ND</fanart>
     <link>http://ignoreme</link>
@@ -38,7 +38,7 @@
 <info></info>
 </item>
 
-<item>
+item>
 <title>[B][COLOR red]•   [/B][COLOR skyblue]Tv Ar[COLOR white]gen[COLOR skyblue]tina[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/4LZUop</externallink>
@@ -56,7 +56,7 @@
 <info></info>
 </item>
 
-<item>
+item>
 <title>[B][COLOR red]•   [/B][/COLOR][COLOR red]Mo[COLOR yellow]vist[COLOR red]ar[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/gKTJn1</externallink> 
@@ -65,7 +65,7 @@
 <info></info>
 </item>
 
-<item>
+item>
 <title>[B][COLOR red]•   [/B][/COLOR][COLOR][COLOR blue]IPTV[/COLOR]</title>
 <link>NA</link>
 <externallink>$doregex[select]</externallink>
@@ -177,7 +177,7 @@ class InputWindow(xbmcgui.WindowDialog):
 
 --------------------------------
 
-<item>
+item>
 <title>[B][COLOR red]•   [/B][/COLOR]Deportes</title>
     <link>ignorame</link> 
     <externallink>https://goo.gl/3FqoGv</externallink>
@@ -213,7 +213,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <info></info>
 </item>
 
-<item>
+item>
 <title>[B][COLOR red]•   [/B][/COLOR]Cumbia Uruguay 2016/17</title>
     <link>ignorme</link>
     <jsonrpc>plugin://plugin.video.youtube/playlist/PLyrvT40aVZpQ1GfO5okikoLhbPbt_XPm9/</jsonrpc>
@@ -222,7 +222,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <info></info>
 </item>
 
-<item>
+item>
 <title>[B][COLOR red]•   [/B][/COLOR]Peliculas y Series</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/qbVGCe</externallink>
