@@ -46,7 +46,7 @@ item>
 <fanart></fanart>
 </item> 
 
-<item>
+item>
 <title>[B][COLOR blue]•   [/B][/COLOR]FOX SPORTS 1</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
 <regex>
@@ -68,7 +68,7 @@ item>
 <thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2014/05/tv-foxsports-arg-16-hd.png</thumbnail>
 </item>
  
-<item>
+item>
 <title>[B][COLOR blue]•   [/B][/COLOR]FOX SPORTS 2</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
 <regex>
@@ -79,7 +79,7 @@ item>
 <thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/02/tv-foxsports-2-16-hd.png</thumbnail>
 </item>
  
-<item>
+item>
 <title>[B][COLOR blue]•   [/B][/COLOR]FOX SPORTS 3</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
 <regex>
@@ -90,7 +90,7 @@ item>
 <thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/07/tv-foxsports-3-16.png</thumbnail>
 </item>
  
-<item>
+item>
 <title>[B][COLOR blue]•   [/B][/COLOR]ESPN 1</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
 <regex>
@@ -101,7 +101,7 @@ item>
 <thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/09/tv-espn.png</thumbnail>
 </item>
  
-<item>
+item>
 <title>[B][COLOR blue]•   [/B][/COLOR]ESPN 2</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
 <regex>
@@ -112,7 +112,7 @@ item>
 <thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/09/tv-espn2.png</thumbnail>
 </item>
  
-<item>
+item>
 <title>[B][COLOR blue]•   [/B][/COLOR]ESPN 3</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
 <regex>
@@ -155,7 +155,7 @@ item>
 <info></info>
 </item>
 
-<item>
+item>
 <title>[B][COLOR blue]•   [/B][/COLOR]TyC Sports BsAs</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/172499/</link>
 <regex>
@@ -168,7 +168,7 @@ item>
 <info></info>
 </item>
 
-<item>
+item>
 <title>[B][COLOR blue]•   [/B][/COLOR]GolTV (vpn)</title>
 <link>http://50.97.142.130/hls2/amlst:30001_ios/chunklist_b1396000.m3u8</link>
 <thumbnail>http://www.prensario.net/Multimedios/imgs/14885_468.jpg</thumbnail>
