@@ -6,7 +6,7 @@
 <thumbnail>http://minuto90.pt/public/uploads/source/nacionalidades/Uruguay-icon.png</thumbnail>
 </item>
 
-<item>
+item>
 <title>[B][COLOR blue]•   [/B][/COLOR]Monte Carlo TV</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-montecarlo/</link>
 <regex>
@@ -17,7 +17,14 @@
 <thumbnail>http://3.bp.blogspot.com/-nmhH6RYEez4/WdzJUX3HNVI/AAAAAAAAB6g/Lf4ldgMUuNAmIgkxHdmx3GBnQGVYK_OigCK4BGAYYCw/s1600/canal%2B4.jpg</thumbnail>
 <fanart>http://eltelescopio.com.uy/wp-content/uploads/2016/05/Monte-Carlo-Tv-2-web.jpg</fanart>
 </item>
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVUY0002
+
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Monte Carlo TV</title>
+<link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVUY0002</link>
+<thumbnail>http://3.bp.blogspot.com/-nmhH6RYEez4/WdzJUX3HNVI/AAAAAAAAB6g/Lf4ldgMUuNAmIgkxHdmx3GBnQGVYK_OigCK4BGAYYCw/s1600/canal%2B4.jpg</thumbnail>
+<fanart>http://eltelescopio.com.uy/wp-content/uploads/2016/05/Monte-Carlo-Tv-2-web.jpg</fanart>
+</item>
+
 
 <item>
 <title>[B][COLOR blue]•   [/B][/COLOR]Canal 7</title>
@@ -62,7 +69,7 @@ item>
 </item>
 -----------------------------
 
-<item>
+item>
 <title>[B][COLOR blue]•   [/B][/COLOR]Saeta Tv</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-canal10/</link>
 <regex>
@@ -73,7 +80,6 @@ item>
 <thumbnail>http://3.bp.blogspot.com/-q9q9EjHUo3M/WdzJURAX4bI/AAAAAAAAB5Q/_EWgQ3a1-3oPoDzkGopP-CL8kJPK1AU-gCK4BGAYYCw/s1600/canal%2B10.jpg</thumbnail>
 <fanart>http://brecha.com.uy/wp-content/uploads/2017/04/02-Canal-10-Foto-FERNANDO-PENA.jpg</fanart>
 </item>
-
 
 
 <item>
