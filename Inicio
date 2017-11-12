@@ -10,16 +10,7 @@
 </item>
  
 <item>
-<title>[COLOR deepskyred]•[/COLOR][COLOR deepskyred]*****[COLOR lightslategray]Actualizado:  09 nov 2017[/COLOR]</title>
-    <thumbnail>https://goo.gl/EsHfca</thumbnail>
-    <fanart>https://goo.gl/SBs3ND</fanart>
-    <link>http://ignoreme</link>
-    <externallink>http://pastebin.com</externallink>
-<info></info>
-</item>
-
-<item>
-<title>[B][COLOR deepskyred]Inicio[/B][/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][COLOR deepskyred]*****[COLOR lightslategray]Actualizado:  12 nov 2017[/COLOR]</title>
     <thumbnail>https://goo.gl/EsHfca</thumbnail>
     <fanart>https://goo.gl/SBs3ND</fanart>
     <link>http://ignoreme</link>
@@ -48,11 +39,29 @@
 </item>
 
 <item>
+<title>[B][COLOR red]•   [/B][COLOR skyblue]Tv Ar[COLOR white]gen[COLOR skyblue]tina[/COLOR]</title>
+    <link>ignorame</link>
+    <externallink>https://goo.gl/4LZUop</externallink> gratuito
+    <thumbnail>http://3.bp.blogspot.com/-yy_FrMVy2cE/WSBKjgceICI/AAAAAAAAA_o/gtraZJdo10w7UqHc3reAq3jNksu_0IQ0gCK4B/s1600/ARGENTINA.jpg</thumbnail>
+    <fanart>http://www.tngoya.com/galeria/0206_canales_aire_en_baja_00.jpg</fanart> 
+<info></info>
+</item>
+
+<item>
 <title>[B][COLOR red]•   [/B][/COLOR][COLOR][COLOR deepskyblue]S[COLOR lime]ma[COLOR orange]rt[COLOR red] Tv[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/sxd3Eb</externallink>
     <thumbnail>http://4.bp.blogspot.com/-ofXAM8BqjYc/WaAkQY68lDI/AAAAAAAABbs/CSEavir7_Y8Ib3Fn5UpLJopKMgFj0FJwQCK4BGAYYCw/s1600/SMART%2BTV%2B2.jpg</thumbnail>	
     <fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart> 
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR red]Mo[COLOR yellow]vist[COLOR red]ar[/COLOR]</title>
+    <link>ignorame</link>
+    <externallink>https://goo.gl/gKTJn1</externallink> 
+    <thumbnail>http://4.bp.blogspot.com/-VI3StFwPbEA/WYDBNKd5MmI/AAAAAAAABXY/Coni6zWWFu8cdTKzk1N3xhklhzRWgVfugCK4BGAYYCw/s1600/Movistar.jpg</thumbnail>	
+    <fanart>https://www.adslzone.net/app/uploads/2015/07/apertura-canales-movistar-plus.jpg</fanart> 
 <info></info>
 </item>
 
@@ -149,6 +158,16 @@ class InputWindow(xbmcgui.WindowDialog):
 --------------
 
 <item>
+<title>[B][COLOR red]•   [/B][/COLOR]Deportes</title>
+    <link>ignorame</link> 
+    <externallink>https://goo.gl/3FqoGv</externallink>
+ <thumbnail>http://4.bp.blogspot.com/-0O2cZrpnNOw/WYDBNMq181I/AAAAAAAABY4/O2MiaTjM844gX_GnUUrIMpYZJIF6kGPbQCK4BGAYYCw/s1600/Deportes.jpg</thumbnail>
+    <fanart>http://static.azteca.com/imagenes/2017/13/deportes-2126641.jpg</fanart> 
+<info></info>
+</item>
+
+
+<item>
 <title>[B][COLOR red]•   [/B][/COLOR]Musica</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/jUyVK9</externallink>
@@ -184,15 +203,15 @@ class InputWindow(xbmcgui.WindowDialog):
 <info></info>
 </item>
 
-
 <item>
-<title>[B][COLOR deepskyred]Fin[/B][/COLOR]</title>
-    <thumbnail>https://goo.gl/EsHfca</thumbnail>
-    <fanart>https://goo.gl/SBs3ND</fanart>
-    <link>http://ignoreme</link>
-    <externallink>http://pastebin.com</externallink>
+<title>[B][COLOR red]•   [/B][/COLOR]Peliculas y Series</title>
+    <link>ignorame</link>
+    <externallink>https://goo.gl/qbVGCe</externallink>
+    <thumbnail>http://3.bp.blogspot.com/-tVVK739GnHA/WYDBNOTo_FI/AAAAAAAABX0/XsftAuiPMD81n7zsBzZnyqAn7Go2qO3WQCK4BGAYYCw/s1600/Peliculas.jpg</thumbnail>
+    <fanart>http://lavozdelmuro.net/wp-content/uploads/2017/02/peliculas_ciencia_ficcion_netflix-1000x523.png</fanart> 
 <info></info>
 </item>
+
 
 <item>
 <title>[COLOR lime] Email:  elecdeka2017@gmail.com  -  Telegram: @Elecdeka   [/COLOR]</title>
@@ -202,4 +221,3 @@ class InputWindow(xbmcgui.WindowDialog):
     <fanart>https://goo.gl/SBs3ND</fanart>
 <info></info>
 </item>
-
