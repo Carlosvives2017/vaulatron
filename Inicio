@@ -68,6 +68,28 @@
 ---------------------
 
 <item>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR][COLOR blue]IPTV[/COLOR]</title>
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('[B][COLOR red]• •   [/B][COLOR red]Canales IPTV   [COLOR red][B][COLOR red]• •[/COLOR][/B][COLOR deepskyred]**************************************[/COLOR]', ['[B][COLOR blue]•   [/B][/COLOR]Demo [COLOR blue]IPTV[/COLOR]', '[B][COLOR blue]•   [/B][COLOR orange]Tecno[COLOR white]Tv[/COLOR]', '[B][COLOR blue]•   [/B][COLOR orange]Tecno[COLOR white]Tv[/COLOR] Peliculas', '[B][COLOR blue]•   [/B][COLOR deepskyblue]Sr Regio Tv[/COLOR]', '[B][COLOR blue]•   [/B][COLOR deepskyblue]Sr Regio peliculas[/COLOR]', '[B][COLOR blue]•   [/B][/COLOR]Chileiptv' , '[B][COLOR blue]•   [/B][/COLOR]AchoTv', '[B][COLOR blue]•   [/B][/COLOR]AchoTv Peliculas', '[B][COLOR blue]•   [/B][/COLOR]Cecegeek', '[B][COLOR blue]•   [/B][/COLOR]Cecegeek Peliculas', '[B][COLOR blue]•   [/B][/COLOR]Fluxus Tv'])
+   lists = ['https://goo.gl/yFFsBN', 'http://tecnotv.xyz/lista.m3u', 'http://tecnotv.xyz/peliculas.m3u', 'http://srregio.xyz/regiotv.m3u', 'http://srregio.xyz/regioflix.m3u', 'http://chileiptv.cl/cl.m3u', 'http://www.achotv.com/listas/canales.m3u', 'https://goo.gl/fP6JjA', 'http://cecegeek.com/1tv.m3u','http://cecegeek.com/movies.m3u', 'https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://goo.gl/yZhfFG</thumbnail>
+<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
+</item>
+
+---------------------
+
+<item>
 <title>[B][COLOR red]•   [/B][/COLOR][COLOR white]You [COLOR red]tube[/COLOR]</title>
 <link>$doregex[makelist]</link>
 
