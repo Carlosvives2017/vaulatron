@@ -15,7 +15,8 @@
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
+<expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=anadetelefive&width=650&height=400</page>
 <cookieJar></cookieJar>
 </regex>
@@ -23,20 +24,9 @@
 <fanart>http://www.audiovisual451.com/wp-content/uploads/AE.jpg</fanart>
 </item>
 
-item>
-<title>[B][COLOR blue]•   [/B][/COLOR]AyE</title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=anadetelefive&width=650&height=400</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://2.bp.blogspot.com/-D8VFCRoICVI/WdwBA0oMC0I/AAAAAAAAB1Q/WpHnEoxwfI8vi6NpICoYk1ACoGzG8mdlgCK4BGAYYCw/s1600/aye.jpg</thumbnail>
-<fanart>http://www.audiovisual451.com/wp-content/uploads/AE.jpg</fanart>
-</item>
 
 ------------------------
+
 item>
 <title>[B][COLOR blue]•   [/B][COLOR]Discovery Channel[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
@@ -71,7 +61,8 @@ item>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
+<expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=crimenyinvestigacion&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
