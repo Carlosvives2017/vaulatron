@@ -57,6 +57,15 @@ http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8?s
 </item>
 
 <item>
+<title>[B][COLOR blue]•   [/B][COLOR]Canal 9 HD[/COLOR]</title> 
+<link>http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 4.3; Nexus 7 Build/JSS15Q)</link>
+<info>Canal 9, conocido como elnueve,1​ es un canal de televisión abierta argentino que emite desde Buenos Aires. Fue inaugurada el 9 de junio de 1960 y desde 2007 es propiedad de la red latinoamericana de medios Albavisión.</info>
+<thumbnail>https://s5.postimg.org/pz1no2ojr/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.png</thumbnail>
+<thumbnail>http://2.bp.blogspot.com/-irFAxqQj1OQ/WdaNippDSlI/AAAAAAAABko/7YC8LScnTvYvGoJmXtCziwOTrhXogg94wCK4BGAYYCw/s1600/el%2B9.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-IZq2v3kMOzA/WdaNhgRQLcI/AAAAAAAABjg/1QkQXke6voMCFOfgbGAG7v-xttNiNuP0gCK4BGAYYCw/s1600/canal%2B9.jpg</fanart>
+</item>
+
+<item>
 <title>[B][COLOR blue]•   [/B][COLOR]El doce[/COLOR]</title> 
 <link>http://prepublish.f.qaotic.net/a14/ngrp:el12_live01-100083_all/chunklist_b1596000.m3u8|Referer=http://vmf.edge-apps.net&User-Agent=Mozilla/5.0</link> 
 <thumbnail>http://2.bp.blogspot.com/-0LxBfZSZULM/WeYpdDAt6eI/AAAAAAAACFs/rUtC3JS0CmsDlQXfIyA2ij9x84nDwcysQCK4BGAYYCw/s1600/el%2Bdoce.jpg</thumbnail>
@@ -69,6 +78,15 @@ http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8?s
 <thumbnail>http://1.bp.blogspot.com/-gSuD8MbjF98/WdaNiqpyeRI/AAAAAAAABk4/OsM1CZ7tsWwW-F7N1mwxGF03eioaJMMfgCK4BGAYYCw/s1600/el%2Btrece.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/s7cPPjLahhM/maxresdefault.jpg</fanart>
 </item>
+
+<item>
+<title>[B][COLOR blue]•   [/B][COLOR]El Trece HD[/COLOR]</title> 
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9h6Vz6ylIdE&feature=youtu.be</link>
+<info></info>
+<thumbnail>http://1.bp.blogspot.com/-gSuD8MbjF98/WdaNiqpyeRI/AAAAAAAABk4/OsM1CZ7tsWwW-F7N1mwxGF03eioaJMMfgCK4BGAYYCw/s1600/el%2Btrece.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/s7cPPjLahhM/maxresdefault.jpg</fanart>
+</item>
+
 
 <item>
 <title>[B][COLOR blue]•   [/B][COLOR]Telefe[/COLOR]</title> 
