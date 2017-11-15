@@ -7,6 +7,7 @@
 
 
 **************************
+
 <item>
 <title>[B][COLOR blue]•   [/B][/COLOR]Futbol livesports</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
@@ -20,6 +21,16 @@
 <fanart>https://media.elobservador.com.uy/adjuntos/181/imagenes/001/439/0001439728.jpg</fanart> 
 </item>
 expres>source: '(.*?)'</expres>
+
+**************************
+
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Futbol livesports 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://fui.me/4s&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium</link>
+<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
+<fanart>https://media.elobservador.com.uy/adjuntos/181/imagenes/001/439/0001439728.jpg</fanart> 
+</item>
+
 **************************
 
 <item>       
