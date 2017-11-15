@@ -18,14 +18,14 @@ item>
 <fanart>http://eltelescopio.com.uy/wp-content/uploads/2016/05/Monte-Carlo-Tv-2-web.jpg</fanart>
 </item>
 
-item>
+<item>
 <title>[B][COLOR blue]•   [/B][/COLOR]Monte Carlo TV</title>
 <link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVUY0002</link>
 <thumbnail>http://3.bp.blogspot.com/-nmhH6RYEez4/WdzJUX3HNVI/AAAAAAAAB6g/Lf4ldgMUuNAmIgkxHdmx3GBnQGVYK_OigCK4BGAYYCw/s1600/canal%2B4.jpg</thumbnail>
 <fanart>http://eltelescopio.com.uy/wp-content/uploads/2016/05/Monte-Carlo-Tv-2-web.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[B][COLOR blue]•   [/B][/COLOR]Monte Carlo TV</title>
 <link>$doregex[get-url]</link>
 <regex>
