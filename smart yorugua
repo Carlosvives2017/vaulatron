@@ -55,13 +55,14 @@
 </item>
 
 --------------------------------------
-item>               
+<item>               
 <title>[B][COLOR blue]•   [/B][/COLOR]Telemundo</title>
-<link>http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase=on</link>
+<link>http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8</link>
 <thumbnail>http://1.bp.blogspot.com/-oLZdKyRD5pU/Wec-Xq-RjwI/AAAAAAAACGU/9EoJrpRuNuoZASSKUCL71eUdgcCuF9t_wCK4BGAYYCw/s1600/telemundo.jpg</thumbnail>
 <fanart>http://4.bp.blogspot.com/-cv8nTHGoJiQ/UdTWqhfccMI/AAAAAAAAmUg/7Tx9vZLCJso/s520/Telemundo+PUERTO+RICO+(2).png</fanart>
 <info></info>
 </item>
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase=on
 
 item>               
 <title>[B][COLOR blue]•   [/B][/COLOR]Telemundo</title>
@@ -161,6 +162,13 @@ item>
 </item>
 
 -----------------------------------------
+
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Unimas</title> 
+<link>http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unimas_east_hd_androidtab.m3u8?hdnea=expires=1496782140~access=/nlds/univisionnow/unimas_east/as/live/*~md5=faa203f52f13f1fdc38700454e03ee82</link> 
+<thumbnail>http://3.bp.blogspot.com/-uA6-KzGHgCg/Wd42iGVioAI/AAAAAAAACA8/FP2Hid_yWGUCAB4fZ063flHloL4gFwWOACK4BGAYYCw/s1600/unimas.jpg</thumbnail>
+<fanart>http://vignette4.wikia.nocookie.net/logopedia/images/d/d4/Unimas_Logo_2013.jpg/revision/latest?cb=20130110212735</fanart>
+</item>
 
 <item>
 <title>[B][COLOR blue]•   [/B][/COLOR]La Red</title>
@@ -415,13 +423,6 @@ item>
 <link>http://strm.unicanal.com.py/live/unicanal_src.m3u8</link> 
 <thumbnail>http://1.bp.blogspot.com/-Q-i6ntjxbsk/Wd42h-bh3zI/AAAAAAAACAs/9am1ewR4BjkyMbA-3GzGXQkzK5yQ38NwgCK4BGAYYCw/s1600/ucacho.jpg</thumbnail>
 <fanart>http://2.bp.blogspot.com/_bRcJkAnpIEQ/TPP6Qi4B8ZI/AAAAAAAAAF4/4M4fxJ9soCI/s1600/unicanal.jpg</fanart>
-</item>
-
-<item>
-<title>[B][COLOR blue]•   [/B][/COLOR]Unimas</title> 
-<link>http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unimas_east_hd_androidtab.m3u8?hdnea=expires=1496782140~access=/nlds/univisionnow/unimas_east/as/live/*~md5=faa203f52f13f1fdc38700454e03ee82</link> 
-<thumbnail>http://3.bp.blogspot.com/-uA6-KzGHgCg/Wd42iGVioAI/AAAAAAAACA8/FP2Hid_yWGUCAB4fZ063flHloL4gFwWOACK4BGAYYCw/s1600/unimas.jpg</thumbnail>
-<fanart>http://vignette4.wikia.nocookie.net/logopedia/images/d/d4/Unimas_Logo_2013.jpg/revision/latest?cb=20130110212735</fanart>
 </item>
 
 <item>
