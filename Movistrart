@@ -283,6 +283,20 @@ expres>videoUrl = '(.*?)'</expres>
 </item>
 
 <item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Comedy Central</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+expres>videoUrl = '(.*?)'</expres>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=comedycentral&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-_ZKdHZxChcg/WgO4F5HddNI/AAAAAAAACZo/zjoBv_O4wEI1Nx_ZfwYZyP6-SQTxzevWgCK4BGAYYCw/s1600/comedycenter.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/bzEl-xMCfk8/maxresdefault.jpg</fanart>
+</item>
+
+<item>
 <title>[B][COLOR blue]•   [/B][COLOR]TNT[/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
