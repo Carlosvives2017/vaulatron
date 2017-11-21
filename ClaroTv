@@ -38,6 +38,9 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CONCERT_CHANNEL_HD)
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CITY_TV)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/battlefordreamisland/images/4/46/Cartoon_Network.png",Cartoon network
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/co/recursos_contenido/2757a11d-1590-4f41-905a-e097b8185c1e-Internacional-Claro-Sports.png"  group-title="DEPORTES",CLARO SPORTS
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
+
 
 #EXTINF:0,DHE HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DHE_HD)/Stream(01)/index.m3u8
@@ -51,14 +54,21 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/Stream(0
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY H&H
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.Deportv.png.17022f27c037a64a82793b917598ff28.png",DEPORTV
+http://ar.watcha.live/ch8/hi.m3u8
+
 
 #EXTINF:0,EURO CHANNEL
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(EUROCHANNEL)/Stream(01)/index.m3u8
+#EXTINF:-1 ,ESPN
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,ESPN (op 2)
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+#EXTINF:-1,ESPN 2
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+#EXTINF:-1,ESPN 3
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/Stream(06)/index.m3u8
 
-#EXTINF:0,FOX SPORT 2 COLOMBIA
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/Stream(01)/index.m3u8
-#EXTINF:0,FOX SPORT 3 COLOMBIA
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/Stream(01)/index.m3u8
 #EXTINF:0,FOX
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_HD)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="http://promocionestigo.com/report-tigo/SV/tigo-star-canales/images/fox_movies.jpg" group-title="Cine",Fox Movies
@@ -73,6 +83,17 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(THE_FILM_ZONE_HD)/S
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_ACTION)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="http://promocionestigo.com/report-tigo/SV/tigo-star-canales/images/fox_series.jpg" group-title="Cine",FOX SERIES
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX1_HD)/Stream(01)/index.m3u8
+#EXTINF:0,FOX SPORT 2 COLOMBIA
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/Stream(01)/index.m3u8
+#EXTINF:0,FOX SPORT 3 COLOMBIA
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/Stream(01)/index.m3u8
+#EXTINF:-1,FOX SPORTS2 HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/index.m3u8
+#EXTINF:-1,FOX SPORTS3 HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/index.m3u8 
+#EXTINF:-1,F1 Latinoamerica
+http://189.216.247.113/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
+
 
 #EXTINF:0,GOLDEN HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/Stream(01)/index.m3u8
@@ -133,6 +154,8 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SUNDANCE_HD)/Stream
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SPACE_HD)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/Sony_Channel.png",SONY
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SONY_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.supersporting.net/wp-content/uploads/2014/06/Sporting-TV1.jpg" group-title="DEPORTES",Sporting Tv
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/3/3b/TNT_HD.png",TNT
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_HD)/Stream(01)/index.m3u8
@@ -158,7 +181,21 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNIVERSAL_CHANNEL_H
 #EXTINF:0,UNIVICION TDN
 http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_800_ipad.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/8/8a/Warner_Channel_logo.png",Warner Channel
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WARNER_HD)/Stream(01)/index.m3u8
+#EXTINF:-1,WINSPORTS HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WINSPORTS_HD)/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
