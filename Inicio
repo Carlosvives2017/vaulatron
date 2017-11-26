@@ -2,9 +2,8 @@
  
 <item>
 <title>[COLOR deepskyred]•[/COLOR][COLOR deepskyred]*******************[COLOR red][B]#ELECDEKA[/B]  Uruguay[/COLOR]</title>
-    <thumbnail>https://goo.gl/EsHfca</thumbnail>
-thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
-    <fanart>http://4.bp.blogspot.com/-C6jUSMaGEsQ/WeZUiw5odwI/AAAAAAAACF4/4o0PiC6Pun4B076iaOtMsdD_rjqFn4gwACK4BGAYYCw/s1600/fanart%2Bniuww%25C3%25A7.jpg</fanart> 
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+    <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
     <link>http://ignoreme</link>
     <externallink>http://pastebin.com</externallink>
 <info></info>
@@ -12,8 +11,8 @@ thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9
  
 <item>
 <title>[COLOR deepskyred]•[/COLOR][COLOR deepskyred]*****************[COLOR lightslategray]Actualizado:  21 nov 2017[/COLOR]</title>
-    <thumbnail>https://goo.gl/EsHfca</thumbnail>
-    <fanart>http://4.bp.blogspot.com/-C6jUSMaGEsQ/WeZUiw5odwI/AAAAAAAACF4/4o0PiC6Pun4B076iaOtMsdD_rjqFn4gwACK4BGAYYCw/s1600/fanart%2Bniuww%25C3%25A7.jpg</fanart>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+    <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
     <link>http://ignoreme</link>
     <externallink>http://pastebin.com</externallink>
 <info></info>
@@ -239,7 +238,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <title>[COLOR lime]Email:  elecdeka2017@gmail.com  -  Telegram: @Elecdeka   [/COLOR]</title>
     <link>http://ignoreme</link>
     <externallink>http://pastebin.com</externallink>
-    <thumbnail>https://goo.gl/EsHfca</thumbnail>
-    <fanart>https://goo.gl/SBs3ND</fanart>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+    <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
 <info></info>
 </item>
