@@ -468,9 +468,29 @@ item>
 <fanart>http://www.wallpapersin4k.org/wp-content/uploads/2017/04/Wallpaper-Travel-HD.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[B][COLOR blue]•   [/B][/COLOR]DW Latino</title> 
 <link>http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on</link> 
+<thumbnail>http://1.bp.blogspot.com/-HfZYdsstJd0/Wd42hZbbknI/AAAAAAAACAU/2p0fbQ5UXUs1EpGBit_w2VM81O3B0iGJgCK4BGAYYCw/s1600/dw.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/sGc1WnosecU/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]DW Latino HD</title> 
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/6019</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
 <thumbnail>http://1.bp.blogspot.com/-HfZYdsstJd0/Wd42hZbbknI/AAAAAAAACAU/2p0fbQ5UXUs1EpGBit_w2VM81O3B0iGJgCK4BGAYYCw/s1600/dw.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/sGc1WnosecU/maxresdefault.jpg</fanart>
 </item>
