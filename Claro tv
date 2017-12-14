@@ -85,6 +85,8 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(THE_FILM_ZONE_HD)/S
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_ACTION)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="http://promocionestigo.com/report-tigo/SV/tigo-star-canales/images/fox_series.jpg" group-title="Cine",[B][COLOR blue]•   [/B][/COLOR]FOX SERIES
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX1_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://158.69.52.43:8000/imagenes/1820.jpg",[B][COLOR blue]•   [/B][/COLOR]FOX SPORT 1
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS_HD)/Stream(01)/index.m3u8 
 #EXTINF:-1 tvg-logo="http://158.69.52.43:8000/imagenes/1821.jpg",[B][COLOR blue]•   [/B][/COLOR]FOX SPORT 2 COLOMBIA
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="http://158.69.52.43:8000/imagenes/1822.jpg",[B][COLOR blue]•   [/B][/COLOR]FOX SPORT 3 COLOMBIA
@@ -95,7 +97,6 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/ind
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/index.m3u8 
 #EXTINF:-1 ,[B][COLOR blue]•   [/B][/COLOR]F1 Latinoamerica
 http://189.216.247.113/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://s31.postimg.org/g07yzagmz/golden_hd.png",[B][COLOR blue]•   [/B][/COLOR]GOLDEN HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/Stream(01)/index.m3u8
