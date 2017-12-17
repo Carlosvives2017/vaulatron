@@ -102,7 +102,7 @@ item>
 </item>
 
 
-<item>
+item>
 <title>[B][COLOR blue]•   [/B][/COLOR]VTV</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
