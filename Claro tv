@@ -60,7 +60,7 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_HOME_HEAL
 http://ar.watcha.live/ch8/hi.m3u8
 
 
-#EXTINF:-1 ,[B][COLOR blue]•   [/B][/COLOR]EURO CHANNEL
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]•   [/B][/COLOR]EURO CHANNEL
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(EUROCHANNEL)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://s6.postimg.org/inb1ihxld/espn.png",[B][COLOR blue]•   [/B][/COLOR]ESPN
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8
@@ -100,10 +100,10 @@ http://189.216.247.113/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s31.postimg.org/g07yzagmz/golden_hd.png",[B][COLOR blue]•   [/B][/COLOR]GOLDEN HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 ,[B][COLOR blue]•   [/B][/COLOR]GLITZ
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]•   [/B][/COLOR]GLITZ
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GLITZ)/Stream(01)/index.m3u8
 
-#EXTINF:-1 ,[B][COLOR blue]•   [/B][/COLOR]H TV
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]•   [/B][/COLOR]H TV
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HTV)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0023/2575/brand.gif?itok=qAkXe2KL" group-title="Cine",[B][COLOR blue]•   [/B][/COLOR]HBO
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_HD)/Stream(01)/index.m3u8
@@ -122,36 +122,36 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_FAMILY_HD)/Stre
 #EXTINF:-1 ,[B][COLOR blue]•   [/B][/COLOR]H2
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(H2)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",[B][COLOR blue]•   [/B][/COLOR]ID
+#EXTINF:-1 tvg-logo="https://s5.postimg.org/su215zzw7/id.jpg" group-title="",[B][COLOR blue]•   [/B][/COLOR]ID
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ID_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 ,[B][COLOR blue]•   [/B][/COLOR]INTI HD
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]•   [/B][/COLOR]INTI HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(INTI_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 ,[B][COLOR blue]•   [/B][/COLOR]Lifetime
+#EXTINF:-1 tvg-logo="https://s5.postimg.org/x36r86avb/lifetimesd.jpg" ,[B][COLOR blue]•   [/B][/COLOR]Lifetime
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(LIFETIME)/Stream(01)/index.m3u8
 
-#EXTINF:-1 ,[B][COLOR blue]•   [/B][/COLOR]MULTIPREMIER
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]•   [/B][/COLOR]MULTIPREMIER
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MULTIPREMIER)/Stream(01)/index.m3u8
-#EXTINF:-1,[B][COLOR blue]•   [/B][/COLOR]MAX UP HD
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]•   [/B][/COLOR]MAX UP HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_UP_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,[B][COLOR blue]•   [/B][/COLOR]MAX PRIME HD
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]•   [/B][/COLOR]MAX PRIME HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_PRIME_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 ,[B][COLOR blue]•   [/B][/COLOR]MAX
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]•   [/B][/COLOR]MAX
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX)/Stream(01)/index.m3u8
 
-#EXTINF:-1 ,[B][COLOR blue]•   [/B][/COLOR]NATGEO KIDS
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]•   [/B][/COLOR]NATGEO KIDS
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_KIDS_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 ,[B][COLOR blue]•   [/B][/COLOR]NATIONAL GEOGRAPHIT
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]•   [/B][/COLOR]NATIONAL GEOGRAPHIT
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO)/Stream(01)/index.m3u8
-#EXTINF:-1 ,[B][COLOR blue]•   [/B][/COLOR]NICK 2 HD
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]•   [/B][/COLOR]NICK 2 HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICK_2_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 ,[B][COLOR blue]•   [/B][/COLOR]NUESTRA TELE
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]•   [/B][/COLOR]NUESTRA TELE
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NUESTRA_TELE)/Stream(01)/index.m3u8
 
-#EXTINF:-1 ,[B][COLOR blue]•   [/B][/COLOR]PASIONES
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]•   [/B][/COLOR]PASIONES
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(PASIONES_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 ,[B][COLOR blue]•   [/B][/COLOR]SUNDANCE CHANNEL HD
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]•   [/B][/COLOR]SUNDANCE CHANNEL HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SUNDANCE_HD)/Stream(01)/index.m3u8
 #EXTINF:-1 ,[B][COLOR blue]•   [/B][/COLOR]SPACE HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SPACE_HD)/Stream(01)/index.m3u8
@@ -162,26 +162,26 @@ http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/3/3b/TNT_HD.png",[B][COLOR blue]•   [/B][/COLOR]TNT
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 ,[B][COLOR blue]•   [/B][/COLOR]THE FILMZONE
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]•   [/B][/COLOR]THE FILMZONE
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(THE_FILM_ZONE_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 ,[B][COLOR blue]•   [/B][/COLOR]TNT SERIES HD
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]•   [/B][/COLOR]TNT SERIES HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_SERIES_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 ,[B][COLOR blue]•   [/B][/COLOR]TRUTV HD
+#EXTINF:-1 tvg-logo="https://s5.postimg.org/7x5t17c47/trutv.jpg",[B][COLOR blue]•   [/B][/COLOR]TRUTV HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TRUTV)/Stream(01)/index.m3u8
-#EXTINF:-1 ,[B][COLOR blue]•   [/B][/COLOR]TLC
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]•   [/B][/COLOR]TLC
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLC)/Stream(01)/index.m3u8
-#EXTINF:-1 ,[B][COLOR blue]•   [/B][/COLOR]TLNOVELAS
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]•   [/B][/COLOR]TLNOVELAS
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/Stream(01)/index.m3u8
-#EXTINF:-1 ,[B][COLOR blue]•   [/B][/COLOR]TBS
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]•   [/B][/COLOR]TBS
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TBS)/Stream(01)/index.m3u8
-#EXTINF:-1 ,[B][COLOR blue]•   [/B][/COLOR]TVE INTERNACIONAL
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]•   [/B][/COLOR]TVE INTERNACIONAL
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TVE)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2000px-Tooncast_logo.svg.png",[B][COLOR blue]•   [/B][/COLOR]ToonCast
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/Stream(01)/index.m3u8
 
-#EXTINF:-1 ,[B][COLOR blue]•   [/B][/COLOR]UNIVERSAL CHANNEL HD
+#EXTINF:-1 tvg-logo="https://s5.postimg.org/8moldl7iv/UNIVERSAL.jpg",[B][COLOR blue]•   [/B][/COLOR]UNIVERSAL CHANNEL HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 ,[B][COLOR blue]•   [/B][/COLOR]UNIVICION TDN
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]•   [/B][/COLOR]UNIVISION TDN
 http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_800_ipad.m3u8
 
 
