@@ -158,6 +158,15 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 <item>
+<title>[B][COLOR red]•   [/B][/COLOR]Tropical</title>
+    <link>ignorame</link>
+    <externallink>https://goo.gl/q8fd1x</externallink>
+    <thumbnail>https://s26.postimg.org/bqqv5ztq1/tropical.jpg</thumbnail>
+    <fanart>https://media.elobservador.com.uy/adjuntos/181/imagenes/020/118/0020118510.jpg</fanart>
+<info></info>
+</item>
+
+<item>
 <title>[B][COLOR red]•   [/B][/COLOR]Cumbia Uruguay 2016/17</title>
     <link>ignorme</link>
     <jsonrpc>plugin://plugin.video.youtube/playlist/PLyrvT40aVZpQ1GfO5okikoLhbPbt_XPm9/</jsonrpc>
