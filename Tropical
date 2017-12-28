@@ -42,13 +42,6 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR blue]•   [/B][/COLOR]</title> 
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</link> 
-<thumbnail>https://i.ytimg.com/vi/tVMu964Cu4M/hqdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/tVMu964Cu4M/hqdefault.jpg</fanart>
-</item>
-
-<item>
 <title>[B][COLOR blue]•   [/B][/COLOR]Lia Crucet - Qué Bello</title> 
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CrLFnczA2TU</link> 
 <thumbnail>https://i.ytimg.com/vi/CrLFnczA2TU/hqdefault.jpg</thumbnail>
@@ -74,13 +67,6 @@ item>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=K7l8Lp4Zk5A</link> 
 <thumbnail>https://i.ytimg.com/vi/K7l8Lp4Zk5A/hqdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/K7l8Lp4Zk5A/hqdefault.jpg</fanart>
-</item>
-
-<item>
-<title>[B][COLOR blue]•   [/B][/COLOR]</title> 
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</link> 
-<thumbnail>https://i.ytimg.com/vi/tVMu964Cu4M/hqdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/tVMu964Cu4M/hqdefault.jpg</fanart>
 </item>
 
 <item>
