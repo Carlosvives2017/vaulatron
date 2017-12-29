@@ -123,7 +123,7 @@ class InputWindow(xbmcgui.WindowDialog):
 ]]></expres>
 <page></page>
 </regex>
-<thumbnail>http://2.bp.blogspot.com/-xX8GbKKhBYw/We4BIPr13pI/AAAAAAAACHc/Yfz-JvXqHbowcgJ9zZUAVncY0hU8ybMBwCK4BGAYYCw/s1600/youtube.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/ifxv5jobt/youtube.jpg</thumbnail>
 <fanart>https://9to5google.files.wordpress.com/2017/02/youtube.jpg?quality=82&strip=all&w=1000</fanart>
 <info></info>
 </item>
