@@ -34,6 +34,8 @@ http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?iptvgratis?Latinos.
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosplay.com/logos/2/4/9/5/24953.png" ,[B][COLOR blue]•   [/B][/COLOR]Top Latino
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-9Orn4vF_lcw/Wd42iRY0yQI/AAAAAAAACBE/SIGMLX8zzBgQciDUzTacmWF1oW1jG2WDQCK4BGAYYCw/s1600/uhdusdhsuhd.jpg" ,[B][COLOR blue]•   [/B][/COLOR]NiuMedia
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8 
 -----------------------------------------------
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png",[B][COLOR blue]•   [/B][/COLOR]Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
