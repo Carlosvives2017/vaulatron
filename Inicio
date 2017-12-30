@@ -175,6 +175,15 @@ class InputWindow(xbmcgui.WindowDialog):
 <info></info>
 </item>
 
+<item>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR ]Peliculas y Series[/COLOR]</title>
+    <link>ignorame</link>
+    <externallink>https://goo.gl/qbVGCe</externallink>
+    <thumbnail>http://3.bp.blogspot.com/-tVVK739GnHA/WYDBNOTo_FI/AAAAAAAABX0/XsftAuiPMD81n7zsBzZnyqAn7Go2qO3WQCK4BGAYYCw/s1600/Peliculas.jpg</thumbnail>
+    <fanart>http://lavozdelmuro.net/wp-content/uploads/2017/02/peliculas_ciencia_ficcion_netflix-1000x523.png</fanart> 
+<info></info>
+</item>
+
 ------------------------
 
 <item>
