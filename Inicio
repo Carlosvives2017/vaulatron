@@ -149,6 +149,15 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 <item>
+<title>[B][COLOR red]•   [/B][/COLOR]Top 50 Uruguay</title>
+    <link>ignorme</link>
+    <jsonrpc>plugin://plugin.video.youtube/playlist/PLI-HH8H2g8GHlozsrA9U3gO1ZaKELktmI/</jsonrpc>
+   <thumbnail>https://s26.postimg.org/hf387utu1/top50cg.jpg</thumbnail>
+<fanart>https://s26.postimg.org/h2bu1ur1l/1f553c4eda0e304b4c7c6f3b2646286cf258dc8751788420d6919eb034c44897.jpg</fanart>
+<info></info>
+</item>
+
+<item>
 <title>[B][COLOR red]•   [/B][/COLOR]The Best 70's 80's 90's</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/CMrmtJ</externallink>
