@@ -184,7 +184,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <info></info>
 </item>
 
-<item>
+item>
 <title>[B][COLOR red]•   [/B][/COLOR][COLOR ]Peliculas y Series[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/qbVGCe</externallink>
