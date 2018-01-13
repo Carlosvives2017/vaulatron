@@ -19,7 +19,7 @@
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][COLOR red]*** Importante *** Desde el 15/01/2018 al 20/01/2018 hay varios cortes. Disculpas del caso[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][COLOR red]*** Importante *** Desde el 13/01/2018 al 20/01/2018 hay varios cortes. Disculpas del caso[/COLOR]</title>
     <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
     <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
     <link>http://ignoreme</link>
@@ -46,6 +46,15 @@
     <fanart>http://www.g3newswire.com/wp-content/uploads/2014/03/Conrad-Punta-Del-Este-Resort.jpg</fanart> 
 <info></info>
 </item>
+
+<item>
+<title>[B][COLOR red]•   [/B][COLOR skyblue]Tv Ar[COLOR white]gen[COLOR skyblue]tina[/COLOR]</title>
+    <link>ignorame</link>
+    <externallink>https://??</externallink> gratuito
+    <thumbnail>http://4.bp.blogspot.com/-CvlUSPdNDTg/Wg17ScFb-pI/AAAAAAAACjw/EGoUrnSckTcQNZmZPZbX6ZdoiWaDOH31wCK4BGAYYCw/s1600/are2.jpg</thumbnail>
+    <fanart>http://assets.bubblear.com/wp-content/uploads/2017/01/04224808/featured.jpg</fanart>
+<info></info>
+</item>
 --------------------------
 
 <item>
@@ -56,6 +65,40 @@ externallink>https://xxx</externallink>
 <thumbnail>https://s5.postimg.org/79egmavx3/Megapley.jpg</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart>
 </item>
+
+<item>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR deepskyblue]S[COLOR lime]ma[COLOR orange]rt[COLOR red] Tv[/COLOR]</title>
+    <link>ignorame</link>
+    <externallink>https://??</externallink>
+    <thumbnail>http://4.bp.blogspot.com/-ofXAM8BqjYc/WaAkQY68lDI/AAAAAAAABbs/CSEavir7_Y8Ib3Fn5UpLJopKMgFj0FJwQCK4BGAYYCw/s1600/SMART%2BTV%2B2.jpg</thumbnail>  
+    <fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<info></info>
+</item>
+
+---------------------------
+ 
+<item>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR red]Mo[COLOR yellow]vist[COLOR red]ar[/COLOR]</title>
+    <link>ignorame</link>
+    <externallink>https://??</externallink>
+    <thumbnail>http://4.bp.blogspot.com/-VI3StFwPbEA/WYDBNKd5MmI/AAAAAAAABXY/Coni6zWWFu8cdTKzk1N3xhklhzRWgVfugCK4BGAYYCw/s1600/Movistar.jpg</thumbnail>
+    <fanart>https://www.adslzone.net/app/uploads/2015/07/apertura-canales-movistar-plus.jpg</fanart>
+<info></info>
+</item>
+ 
+--------------------------------
+
+--------------------------------
+ 
+<item>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR blue]IPTV[/COLOR]</title>
+<link>NA</link>
+<externallink>http://??</externallink>
+<thumbnail>https://goo.gl/yZhfFG</thumbnail>
+<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
+</item>
+ 
+--------------------------
 
 --------------------------
 
@@ -147,7 +190,51 @@ class InputWindow(xbmcgui.WindowDialog):
 <info></info>
 </item>
 
---------------
+--------------------------
+ 
+<item>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR white]Vaughnlive 24/7[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR blue]•   [/B][/COLOR][makelist.param2]</title>
+ 
+<link>https://clutch.vaughnsoft.net/ord/vl/[makelist.param1].m3u8</link>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/D8sZnLjUU0k/hqdefault.jpg</fanart>
+]]></listrepeat>
+<expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
+<page>https://vaughnlive.tv/browse/espanol&amp;a=mvn</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+ 
+<thumbnail>http://2.bp.blogspot.com/-DAEjaRGQ19w/WSBBfCT7J8I/AAAAAAAAA84/RKU1ioWxQM0lsXv0xLszubPMcEWUeenTgCK4B/s1600/Vaughn%2Blive.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/D8sZnLjUU0k/hqdefault.jpg</fanart>
+<info></info>
+</item>
+
+--------------------------------
+ 
+<item>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR ]Deportes[/COLOR]</title>
+    <link>ignorame</link>
+    <externallink>https://??</externallink>
+ <thumbnail>http://4.bp.blogspot.com/-0O2cZrpnNOw/WYDBNMq181I/AAAAAAAABY4/O2MiaTjM844gX_GnUUrIMpYZJIF6kGPbQCK4BGAYYCw/s1600/Deportes.jpg</thumbnail>
+    <fanart>http://static.azteca.com/imagenes/2017/13/deportes-2126641.jpg</fanart>
+<info></info>
+</item>
+--------------------------------
+<item>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR yellow]Tr[COLOR white]an[COLOR skyblue]sm[COLOR white]isi[COLOR skyblue]on [COLOR white]en [COLORskyblue]Vi[COLOR white]vo[/COLOR]</title>
+<link>ignorame</link>
+<externallink>https://??</externallink>mwEgmt
+<thumbnail>http://4.bp.blogspot.com/--L1WkzExf-4/Wg17SUVb-XI/AAAAAAAACj8/XkJR-cH7rZssOjUy70bmMxmHGNoQJBkAgCK4BGAYYCw/s1600/yoruguito.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-ez7_rq7VBu8/Wg17Vyv10WI/AAAAAAAACkI/baaZjNbjwfEyvWX13IhKvTjyEEpeWncXgCK4BGAYYCw/s1600/657652.jpg</fanart>
+</item>
+--------------------------------
 
 <item>
 <title>[B][COLOR red]•   [/B][/COLOR]Musica</title>
