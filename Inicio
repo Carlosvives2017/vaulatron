@@ -32,7 +32,7 @@
 <item>
 <title>[B][COLOR red]•   [/B][/COLOR]Canales del Mundo</title>
     <link>ignorame</link>
-    <externallink>https://goo.gl/n5suKT</externallink>    
+    <externallink>https://goo.gl/</externallink>    
     <thumbnail>http://3.bp.blogspot.com/-A6Yi701n04I/WYDBNQ7bTLI/AAAAAAAABYQ/xRhcNrTYpkMRFuDOVngQrqDFkqyQMoE9QCK4BGAYYCw/s1600/Canales%2Blatinos.jpg</thumbnail>
     <fanart>https://ae01.alicdn.com/kf/HTB1guJmJFXXXXaYXFXXq6xXFXXXn/Fashion-3D-Wallpaper-World-map-Photo-Wallpaper-Wall-Mural-Kids-Children-Room-decor-Club-Bar-Bedroom.jpg_640x640.jpg</fanart> 
 <info></info>
@@ -41,7 +41,7 @@
 <item>
 <title>[B][COLOR red]•   [/B][COLOR yellow]Tv [COLOR skyblue]U[COLOR white]ru[COLOR skyblue]gu[COLOR white]ay[/COLOR]</title>
     <link>ignorame</link>
-    <externallink>https://goo.gl/PUFVj4</externallink> gratuito
+    <externallink>https://goo.gl/</externallink> gratuito
     <thumbnail>http://4.bp.blogspot.com/-fBRKRW6LXvw/Wg17SSeHL-I/AAAAAAAACj4/peuwpOSXDXMu8ZDZQzfjgEDzsFaKi9PNQCK4BGAYYCw/s1600/yoriin.jpg</thumbnail>
     <fanart>http://www.g3newswire.com/wp-content/uploads/2014/03/Conrad-Punta-Del-Este-Resort.jpg</fanart> 
 <info></info>
@@ -60,7 +60,7 @@
 <item>
 <title>[B][COLOR red]•   [/B][/COLOR][COLOR orange]M[COLOR white]ega P[COLOR orange]l[COLOR white]ay  [COLOR lightslategray]Demo 2h[/COLOR]</title>
 <link>ignorame</link>
-externallink>https://xxx</externallink>
+
 <externallink>http://catromaluferi.blogspot.com.uy/2018/01/color-redcolor-color-orangemcolor.html</externallink>
 <thumbnail>https://s5.postimg.org/79egmavx3/Megapley.jpg</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart>
@@ -248,7 +248,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <item>
 <title>[B][COLOR red]•   [/B][/COLOR]Radios Uruguay</title>
     <link>ignorame</link>
-    <externallink>https://goo.gl/UjLrmK</externallink>
+    <externallink>https://goo.gl/</externallink>
     <thumbnail>http://1.bp.blogspot.com/-Euq2J1Xfpv0/WYDBNVOZq-I/AAAAAAAABYk/bgVuP4JXO6oJNYBq05Uh-S2EahJAE3KRQCK4BGAYYCw/s1600/radio.jpg</thumbnail>
     <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUpjHEnvzmtatERhmSZbsLVyhsqWGkcnWQwP-bWnSLtHWMeamD</fanart> 
 <info></info>
@@ -257,7 +257,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <item>
 <title>[B][COLOR red]•   [/B][/COLOR]Top 50 Uruguay</title>
     <link>ignorme</link>
-    <jsonrpc>plugin://plugin.video.youtube/playlist/PLI-HH8H2g8GHlozsrA9U3gO1ZaKELktmI/</jsonrpc>
+    <jsonrpc>plugin://plugin.video.youtu-HH8H2g8GHlozsrA9U3gO1ZaKELktmI/</jsonrpc>
    <thumbnail>https://s26.postimg.org/hf387utu1/top50cg.jpg</thumbnail>
 <fanart>https://s26.postimg.org/h2bu1ur1l/1f553c4eda0e304b4c7c6f3b2646286cf258dc8751788420d6919eb034c44897.jpg</fanart>
 <info></info>
@@ -266,34 +266,16 @@ class InputWindow(xbmcgui.WindowDialog):
 <item>
 <title>[B][COLOR red]•   [/B][/COLOR]The Best 70's 80's 90's</title>
     <link>ignorame</link>
-    <externallink>https://goo.gl/CMrmtJ</externallink>
+    <externallink>https://goo.glnallink>
     <thumbnail>http://1.bp.blogspot.com/-ougwHkXMr9c/WYDBNckxJxI/AAAAAAAABYU/4KXPkqM-UicJropB3mifSq75-arpfp9GwCK4BGAYYCw/s1600/The%2Bbest%2B70%2B80%2B90.jpg</thumbnail>
     <fanart>https://the80s.com.au/wp-content/uploads/2015/04/music-videos-1000x469.jpg</fanart> 
 <info></info>
 </item>
 
 <item>
-<title>[B][COLOR red]•   [/B][/COLOR]Tropical</title>
-    <link>ignorame</link>
-    <externallink>https://goo.gl/q8fd1x</externallink>
-    <thumbnail>https://s26.postimg.org/bqqv5ztq1/tropical.jpg</thumbnail>
-    <fanart>https://media.elobservador.com.uy/adjuntos/181/imagenes/020/118/0020118510.jpg</fanart>
-<info></info>
-</item>
-
-<item>
-<title>[B][COLOR red]•   [/B][/COLOR]Cumbia Uruguay</title>
-    <link>ignorme</link>
-    <jsonrpc>plugin://plugin.video.youtube/playlist/PLyrvT40aVZpQ1GfO5okikoLhbPbt_XPm9/</jsonrpc>
-    <thumbnail>http://1.bp.blogspot.com/-ExxQVQNiRfY/WetNYNNTSWI/AAAAAAAACG8/BMtY2SFve2IzhIrrPeh1wWD2wvkweQhtACK4BGAYYCw/s1600/logocumbia.jpg</thumbnail>
-    <fanart>http://www.unosantafe.com.ar/export/sites/diario_santafe/imagenes/2016/02/08/toco-para-vos.jpg</fanart>
-<info></info>
-</item>
-
-<item>
 <title>[B][COLOR red]•   [/B][/COLOR][COLOR ]Peliculas y Series[/COLOR]</title>
     <link>ignorame</link>
-    <externallink>https://goo.gl/qbVGCe</externallink>
+    <externallink>httpbVGCe</externallink>
     <thumbnail>http://3.bp.blogspot.com/-tVVK739GnHA/WYDBNOTo_FI/AAAAAAAABX0/XsftAuiPMD81n7zsBzZnyqAn7Go2qO3WQCK4BGAYYCw/s1600/Peliculas.jpg</thumbnail>
     <fanart>http://www.indietips.com/wp-content/uploads/2015/10/movie-collage-TO-BEST-POSTER-ACTION-FREE-ONLINE-FULL-MOVIES-VIDEOS.jpg</fanart> 
 <info></info>
