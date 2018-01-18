@@ -10,7 +10,7 @@
 </item>
  
 <item>
-<title>[COLOR deepskyred]•[/COLOR][COLOR deepskyred]***************[COLOR lightslategray]Actualizado:  16 ene 2018[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][COLOR deepskyred]***************[COLOR lightslategray]Actualizado:  18 ene 2018[/COLOR]</title>
    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
     <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
     <link>http://ignoreme</link>
@@ -28,7 +28,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]Para  prueba IPTV PREMIUM 2h envia un msj en Telegram:  @Elecdeka[/COLOR]</title>
+<title>[COLOR lime]Demo IPTV PREMIUM 2h (gratuito) o 1 dia (done), envia un msj en Telegram: @Elecdeka[/COLOR]</title>
     <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
 <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
     <link>http://ignoreme</link>
@@ -37,3 +37,230 @@
 </item>
 ----------------------------------------------------------------------------
 
+<item>
+<title>[B][COLOR red]•   [/B][COLOR]Tv Digital Abierta[/COLOR]</title>
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('[B][COLOR red]• •   [/B][COLOR red]Tv Digital Abierta   [COLOR red][B][COLOR red]• •[/COLOR][/B][COLOR deepskyred]**************************************[/COLOR]', ['[B][COLOR blue]•   [/B][/COLOR][COLOR ]Canales del Mundo[/COLOR]', '[B][COLOR blue]•   [/B][COLOR yellow]Tv [COLOR skyblue]U[COLOR white]ru[COLOR skyblue]gu[COLOR white]ay[/COLOR]', '[B][COLOR blue]•   [/B][COLOR skyblue]Tv Ar[COLOR white]gen[COLOR skyblue]tina[/COLOR]', '[B][COLOR blue]•   [/B][/COLOR][COLOR red]Tv [COLOR yellow]Espa[COLOR red]ña[/COLOR]', '[B][COLOR blue]•   [/B][COLOR green]Tv [COLOR white]Mexi[COLOR red]co[/COLOR]', '[B][COLOR blue]•   [/B][/COLOR][COLOR][COLOR deepskyblue]S[COLOR lime]ma[COLOR orange]rt[COLOR red] Tv[/COLOR]', '[B][COLOR blue]•   [/B][/COLOR][COLOR blue]IPTV[/COLOR]', '[B][COLOR blue]•   [/B][/COLOR][COLOR magenta]Sexy +18  [COLOR red](OFF)[/COLOR]'])
+   lists = ['https://pastebin.com/raw/', 'https://pastebin.com/raw/', 'https://pastebin.com/raw/', 'https://pastebin.com/raw/', 'https://pastebin.com/raw/', 'https://pastebin.com/raw/', 'https://pastebin.com/raw/', 'https://pastebin.com/raw/']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://s26.postimg.org/vc91ht4uh/tradi34.jpg</thumbnail>
+<fanart>http://www.paginapopular.net/wp-content/uploads/2016/05/tda-1-800x500_c.jpg</fanart>
+</item>
+ 
+-----------------------
+ 
+<item>
+<title>[B][COLOR red]•   [/B][COLOR]Deportes[/COLOR]</title>
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('[B][COLOR red]• •   [/B][COLOR red]Deportes   [COLOR red][B][COLOR red]• •[/COLOR][/B][COLOR deepskyred]**************************************[/COLOR]', ['[B][COLOR blue]•   [/B][/COLOR][COLOR yellow]Tr[COLOR white]an[COLOR skyblue]sm[COLOR white]isi[COLOR skyblue]on [COLOR white]en [COLORskyblue]Vi[COLOR white]vo[/COLOR]', '[B][COLOR blue]•   [/B][COLOR]Todo deportes[/COLOR]', '[B][COLOR blue]•   [/B][COLOR ]Tiempo extra  [COLOR red][/COLOR]', '[B][COLOR blue]•   [/B][COLOR]Live TV[/COLOR]', '[B][COLOR blue]•   [/B][COLOR ]Roja Directa[/COLOR][COLOR red][/COLOR]', '[B][COLOR blue]•   [/B][COLOR]Arenavision  (nº 1 a 35)[/COLOR]', '[B][COLOR blue]•   [/B][COLOR]Arenavision  (-5h) Deportes[/COLOR]', '[B][COLOR blue]•   [/B][COLOR ]Sky Sport[COLOR red]   [/COLOR]', '[B][COLOR blue]•   [/B][COLOR ]beIN Sport[/COLOR]', '[B][COLOR blue]•   [/B][COLOR ]SportDevil OnLine  [COLOR red](OFF) [/COLOR]'])
+   lists = ['https://pastebin.com/raw/', 'https://pastebin.com/raw/', 'https://pastebin.com/raw/', 'https://', 'https://', 'https://', 'https://', 'https://pastebin.com/raw/', 'https://pastebin.com/raw/', 'https://pastebin.com/raw/']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>http://4.bp.blogspot.com/-0O2cZrpnNOw/WYDBNMq181I/AAAAAAAABY4/O2MiaTjM844gX_GnUUrIMpYZJIF6kGPbQCK4BGAYYCw/s1600/Deportes.jpg</thumbnail>
+<fanart>http://static.azteca.com/imagenes/2017/13/deportes-2126641.jpg</fanart>
+<info></info>
+</item>
+ 
+-----------------------
+ 
+<item>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR ]Peliculas y Series[/COLOR]</title>
+    <link>ignorame</link>
+    <externallink>https://pastebin.com/raw/SUvWwr</externallink>
+    <thumbnail>http://3.bp.blogspot.com/-tVVK739GnHA/WYDBNOTo_FI/AAAAAAAABX0/XsftAuiPMD81n7zsBzZnyqAn7Go2qO3WQCK4BGAYYCw/s1600/Peliculas.jpg</thumbnail>
+    <fanart>http://www.indietips.com/wp-content/uploads/2015/10/movie-collage-TO-BEST-POSTER-ACTION-FREE-ONLINE-FULL-MOVIES-VIDEOS.jpg</fanart>  
+<info></info>
+</item>
+ 
+-----------------------
+ 
+<item>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR white]You [COLOR red]tube[/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]•   [/B][/COLOR][makelist.param2]</title>
+<link>$doregex[resolve]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>u'(.+?)', u'(.+?)'</expres>
+<page>$doregex[search]</page>
+</regex>
+ 
+<regex>
+<name>resolve</name>
+<expres><![CDATA[#$pyFunction
+import urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+ url = 'https://www.youtube.com/watch?v=[makelist.param1]'
+ streamLink = urlresolver.resolve(url)
+ return streamLink
+]]></expres>
+<page></page>
+</regex>
+ 
+<regex>
+<name>search</name>
+<expres><![CDATA[#$pyFunction
+import requests,xbmcgui,xbmc, re,time, xbmcaddon
+def GetLSProData(page_data,Cookie_Jar,m):
+ 
+ text=takeInputFortext('Ingrese la búsqueda')
+ url = 'https://www.youtube.com/results?q=' + text.replace(' ', '+')
+ req = requests.get(url)
+ list1 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
+ 
+ count = 10
+ while count > 1:
+   try:
+     url = 'https://www.youtube.com' + re.findall('a href="([^"]+)".+<\/a>\n <\/div>', req.text)[0]
+   except:
+     return list1
+   req = requests.get(url)
+   list2 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
+   list1 = list1 + list2
+   count = count - 1
+ return list1
+ 
+def takeInputFortext(txt):
+ addon = xbmcaddon.Addon('plugin.video.live.streamspro')
+ addon_version = addon.getAddonInfo('version')
+ profile = xbmc.translatePath(addon.getAddonInfo('profile').decode('utf-8'))
+ 
+ solver = InputWindow( txt=txt)
+ solution = solver.get()
+ return solution
+ 
+class InputWindow(xbmcgui.WindowDialog):
+    def __init__(self, *args, **kwargs):
+       
+        self.txt = kwargs.get('txt','')
+ 
+        xbmcgui.WindowXMLDialog.__init__(self)
+        #self.addControl(self.txt)
+        path = xbmcaddon.Addon().getAddonInfo('path')
+        self.kbd = xbmc.Keyboard()
+        self.kbd.setHeading( self.txt)
+ 
+    def get(self):
+        self.show()
+        time.sleep(2)
+        self.kbd.doModal()
+        if (self.kbd.isConfirmed()):
+            text = self.kbd.getText()
+            self.close()
+            return text
+        self.close()
+        return False
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://s26.postimg.org/ifxv5jobt/youtube.jpg</thumbnail>
+<fanart>https://9to5google.files.wordpress.com/2017/02/youtube.jpg?quality=82&strip=all&w=1000</fanart>
+<info></info>
+</item>
+ 
+-----------------------
+ 
+<item>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR]Vaughnlive 24/7[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR blue]•   [/B][/COLOR][makelist.param2]</title>
+ 
+<link>https://clutch.vaughnsoft.net/ord/vl/[makelist.param1].m3u8</link>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/D8sZnLjUU0k/hqdefault.jpg</fanart>
+]]></listrepeat>
+<expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
+<page>https://vaughnlive.tv/browse/espanol&amp;a=mvn</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+ 
+<thumbnail>http://2.bp.blogspot.com/-DAEjaRGQ19w/WSBBfCT7J8I/AAAAAAAAA84/RKU1ioWxQM0lsXv0xLszubPMcEWUeenTgCK4B/s1600/Vaughn%2Blive.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/D8sZnLjUU0k/hqdefault.jpg</fanart>
+<info></info>
+</item>
+ 
+----------------------
+ 
+<item>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR ]Musica[/COLOR]</title>
+ 
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('[B][COLOR red]• •   [/B][COLOR red]Musica   [COLOR red][B][COLOR red]• •[/COLOR][/B][COLOR deepskyred]**************************************[/COLOR]', ['[B][COLOR blue]•   [/B][/COLOR][COLOR]Channel Music[/COLOR]', '[B][COLOR blue]•   [/B][COLOR]Top 50 Uruguay[/COLOR]', '[B][COLOR blue]•   [/B][/COLOR][COLOR ]The Best 70s 80s 90s[/COLOR]', '[B][COLOR blue]•   [/B][/COLOR]Tropical', '[B][COLOR blue]•   [/B][/COLOR][COLOR ]Cumbia Uruguay[/COLOR]'])
+   lists = ['https://pastebin.com/raw/', 'https://', 'https://pastebin.com/raw/', 'https://pastebin.com/raw/', 'https://']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+ 
+<thumbnail>http://3.bp.blogspot.com/-fLBAA_fJALw/WYDBNF0k4mI/AAAAAAAABXw/idBL_yWG5cM5iVnuV9FJBHhInZZBXdOCwCK4BGAYYCw/s1600/Musica.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart>
+<info></info>
+</item>
+ 
+-----------------------
+ 
+<item>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR]Radio Uruguay[/COLOR]</title>
+    <link>ignorame</link>
+    <externallink>https://pastebin.com/raw/GKeWRhez</externallink>
+    <thumbnail>http://1.bp.blogspot.com/-Euq2J1Xfpv0/WYDBNVOZq-I/AAAAAAAABYk/bgVuP4JXO6oJNYBq05Uh-S2EahJAE3KRQCK4BGAYYCw/s1600/radio.jpg</thumbnail>
+    <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUpjHEnvzmtatERhmSZbsLVyhsqWGkcnWQwP-bWnSLtHWMeamD</fanart>
+<info></info>
+</item>
+
+
+-------------------
+---------------
+
+<item>
+<title>[COLOR lime]Telegram: @Elecdeka[/COLOR]</title>
+    <link>http://ignoreme</link>
+    <externallink>http://pastebin.com</externallink>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+    <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>[COLOR lime]Email: elecdeka2017@gmail.com[/COLOR]</title>
+    <link>http://ignoreme</link>
+    <externallink>http://pastebin.com</externallink>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+    <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
+<info></info>
+</item>
