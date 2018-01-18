@@ -1,0 +1,282 @@
+<item>
+<title>[B][COLOR red]• •   [/B][COLOR red]beIN Sports   [COLOR red][B][COLOR red]• •[/B][/COLOR]</title>
+<link>http://elecdeka.uy<link>
+<thumbnail>https://s26.postimg.org/dcsbqgqhl/benetro.jpg</thumbnail>
+<fanart>http://www.catalansdragons.com/photos/datPhoto1_57bbfdf10f372_.jpg</fanart>
+</item>
+
+
+<item>
+<title>[B][COLOR blue]•   [/B][COLOR white]beIN [COLOR violet]Sports [/COLOR][COLOR white]1[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports1.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://s26.postimg.org/dcsbqgqhl/benetro.jpg</thumbnail>
+<fanart>http://www.catalansdragons.com/photos/datPhoto1_57bbfdf10f372_.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR blue]•   [/B][COLOR white]beIN [COLOR violet]Sports [/COLOR][COLOR white]2[/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports2.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://s26.postimg.org/dcsbqgqhl/benetro.jpg</thumbnail>
+<fanart>http://www.catalansdragons.com/photos/datPhoto1_57bbfdf10f372_.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR blue]•   [/B][COLOR white]beIN [COLOR violet]Sports [/COLOR][COLOR white]3[/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports3.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://s26.postimg.org/dcsbqgqhl/benetro.jpg</thumbnail>
+<fanart>http://www.catalansdragons.com/photos/datPhoto1_57bbfdf10f372_.jpg</fanart>
+</item>
+
+-------------------------
+
+
+<item>
+<title>[B][COLOR blue]•   [/B][COLOR white]beIN [COLOR violet]Sports [/COLOR][COLOR white]4[/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports4.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://s26.postimg.org/dcsbqgqhl/benetro.jpg</thumbnail>
+<fanart>http://www.catalansdragons.com/photos/datPhoto1_57bbfdf10f372_.jpg</fanart>
+</item>
+
+--------------------
+
+<item>
+<title>[B][COLOR blue]•   [/B][COLOR white]beIN [COLOR violet]Sports [/COLOR][COLOR white]5[/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports5.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://s26.postimg.org/dcsbqgqhl/benetro.jpg</thumbnail>
+<fanart>http://www.catalansdragons.com/photos/datPhoto1_57bbfdf10f372_.jpg</fanart>
+</item>
+
+------------------------
+
+<item>
+<title>[B][COLOR blue]•   [/B][COLOR white]beIN [COLOR violet]Sports [/COLOR][COLOR white]6[/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports6.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://s26.postimg.org/dcsbqgqhl/benetro.jpg</thumbnail>
+<fanart>http://www.catalansdragons.com/photos/datPhoto1_57bbfdf10f372_.jpg</fanart>
+</item>
+
+------------------
+
+<item>
+<title>[B][COLOR blue]•   [/B][COLOR white]beIN [COLOR violet]Sports [/COLOR][COLOR white]7[/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports7.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://s26.postimg.org/dcsbqgqhl/benetro.jpg</thumbnail>
+<fanart>http://www.catalansdragons.com/photos/datPhoto1_57bbfdf10f372_.jpg</fanart>
+</item>
+
+-----------------------
+
+<item>
+<title>[B][COLOR blue]•   [/B][COLOR white]beIN [COLOR violet]Sports [/COLOR][COLOR white]8[/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports8.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://s26.postimg.org/dcsbqgqhl/benetro.jpg</thumbnail>
+<fanart>http://www.catalansdragons.com/photos/datPhoto1_57bbfdf10f372_.jpg</fanart>
+</item>
+
+--------------------
+
+<item>
+<title>[B][COLOR blue]•   [/B][COLOR white]beIN [COLOR violet]Sports [/COLOR][COLOR white]9[/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports9.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://s26.postimg.org/dcsbqgqhl/benetro.jpg</thumbnail>
+<fanart>http://www.catalansdragons.com/photos/datPhoto1_57bbfdf10f372_.jpg</fanart>
+</item>
+
+---------------------
+
+<item>
+<title>[B][COLOR blue]•   [/B][COLOR white]beIN [COLOR violet]Sports [/COLOR][COLOR white]10 [/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports10.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://s26.postimg.org/dcsbqgqhl/benetro.jpg</thumbnail>
+<fanart>http://www.catalansdragons.com/photos/datPhoto1_57bbfdf10f372_.jpg</fanart>
+</item>
+
+-------------------------
+
+<item>
+<title>[B][COLOR blue]•   [/B][COLOR white]beIN [COLOR violet]Sports [/COLOR][COLOR white]11 [/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports11.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://s26.postimg.org/dcsbqgqhl/benetro.jpg</thumbnail>
+<fanart>http://www.catalansdragons.com/photos/datPhoto1_57bbfdf10f372_.jpg</fanart>
+</item>
+
+----------------------
+
+<item>
+<title>[B][COLOR blue]•   [/B][COLOR white]beIN [COLOR violet]Sports [/COLOR][COLOR white]12 [/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports12.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://s26.postimg.org/dcsbqgqhl/benetro.jpg</thumbnail>
+<fanart>http://www.catalansdragons.com/photos/datPhoto1_57bbfdf10f372_.jpg</fanart>
+</item>
+
+-------------------------
+
+<item>
+<title>[B][COLOR blue]•   [/B][COLOR white]beIN [COLOR violet]Sports [/COLOR][COLOR white]13 [/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports13.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://s26.postimg.org/dcsbqgqhl/benetro.jpg</thumbnail>
+<fanart>http://www.catalansdragons.com/photos/datPhoto1_57bbfdf10f372_.jpg</fanart>
+</item>
+
+------------------------
+
+<item>
+<title>[B][COLOR blue]•   [/B][COLOR white]beIN [COLOR violet]Sports [/COLOR][COLOR white]1 france[/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports1france.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://s26.postimg.org/dcsbqgqhl/benetro.jpg</thumbnail>
+<fanart>http://www.catalansdragons.com/photos/datPhoto1_57bbfdf10f372_.jpg</fanart>
+</item>
+
+----------------------
+
+<item>
+<title>[B][COLOR blue]•   [/B][COLOR white]beIN [COLOR violet]Sports [/COLOR][COLOR white]2 france[/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports2france.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://s26.postimg.org/dcsbqgqhl/benetro.jpg</thumbnail>
+<fanart>http://www.catalansdragons.com/photos/datPhoto1_57bbfdf10f372_.jpg</fanart>
+</item>
+
+--------------------------
+
+<item>
+<title>[B][COLOR blue]•   [/B][COLOR white]beIN [COLOR violet]Sports [/COLOR][COLOR white]3 france[/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports3france.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://s26.postimg.org/dcsbqgqhl/benetro.jpg</thumbnail>
+<fanart>http://www.catalansdragons.com/photos/datPhoto1_57bbfdf10f372_.jpg</fanart>
+</item>
+
+------------------------
+
+<item>
+<title>[B][COLOR blue]•   [/B][COLOR white]beIN [COLOR violet]Sports [/COLOR][COLOR white]News[/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsportsnews.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://s26.postimg.org/dcsbqgqhl/benetro.jpg</thumbnail>
+<fanart>http://www.catalansdragons.com/photos/datPhoto1_57bbfdf10f372_.jpg</fanart>
+</item>
+
+-------------------------
+
+<item>
+<title>[B][COLOR blue]•   [/B][COLOR white]beIN [COLOR violet]Sports ñ[/COLOR]</title>
+<link>http://$doregex[url]|User-Agent=iPad</link>
+<regex>
+<name>url</name>
+<expres>file":"\/\/(.*?)"</expres>
+<page>https://www.streamlive.to/embedplayer_new2.php?width=750&amp;height=480&amp;channel=$doregex[channel]&amp;autoplay=true</page>
+<referer>http://vipracing.info/channel/canal-1</referer>
+</regex>
+<regex>
+<name>channel</name>
+<expres>embed\/(.*?)\&</expres>
+<page>http://vipracing.info/channel/canal-1</page>
+<referer>http://vipracing.info/channel/canal-1</referer>
+</regex>
+<thumbnail>https://s26.postimg.org/dcsbqgqhl/benetro.jpg</thumbnail>
+<fanart>http://www.catalansdragons.com/photos/datPhoto1_57bbfdf10f372_.jpg</fanart>
+</item>
+
+
+-----------
+---------------
