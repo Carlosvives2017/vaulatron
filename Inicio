@@ -85,7 +85,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[B][COLOR red]•   [/B][/COLOR][COLOR ]Peliculas y Series[/COLOR]</title>
     <link>ignorame</link>
-    <externallink>https://pastebin.com/raw/SUvWwr</externallink>
+    <externallink>https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/Pelis%20y%20series</externallink>
     <thumbnail>http://3.bp.blogspot.com/-tVVK739GnHA/WYDBNOTo_FI/AAAAAAAABX0/XsftAuiPMD81n7zsBzZnyqAn7Go2qO3WQCK4BGAYYCw/s1600/Peliculas.jpg</thumbnail>
     <fanart>http://www.indietips.com/wp-content/uploads/2015/10/movie-collage-TO-BEST-POSTER-ACTION-FREE-ONLINE-FULL-MOVIES-VIDEOS.jpg</fanart>  
 <info></info>
@@ -221,7 +221,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
    import xbmcgui
    dialog = xbmcgui.Dialog()
    ret = dialog.select('[B][COLOR red]• •   [/B][COLOR red]Musica   [COLOR red][B][COLOR red]• •[/COLOR][/B][COLOR deepskyred]**************************************[/COLOR]', ['[B][COLOR blue]•   [/B][/COLOR][COLOR]Channel Music[/COLOR]', '[B][COLOR blue]•   [/B][COLOR]Top 50 Uruguay[/COLOR]', '[B][COLOR blue]•   [/B][/COLOR][COLOR ]The Best 70s 80s 90s[/COLOR]', '[B][COLOR blue]•   [/B][/COLOR]Tropical', '[B][COLOR blue]•   [/B][/COLOR][COLOR ]Cumbia Uruguay[/COLOR]'])
-   lists = ['https://pastebin.com/raw/', 'https://', 'https://pastebin.com/raw/', 'https://pastebin.com/raw/', 'https://']
+   lists = ['https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/Musica', 'https://raw.githubusercontent.com/Carlosvives2017/catrudepu/master/Top%2050%20uruguay', 'https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/Clasic%20Proyect', 'https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/Tropical', 'https://raw.githubusercontent.com/Carlosvives2017/catrudepu/master/Cumbia%20uruguay']
    return lists[ret]
 ]]></expres>
 <page></page>
