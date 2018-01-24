@@ -777,12 +777,95 @@ Cine Cafe
 ************
 
 <item>
-<title>[COLOR blue]#  [COLOR]Todo Peliculas[/COLOR]</title>
+<title>[COLOR blue]#  [COLOR]Todo Cine Cafe[/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>https://raw.githubusercontent.com/Carlosvives2017/Pelitronicado/master/Todo%20Peliculas</externallink>
 <thumbnail>https://s26.postimg.org/azsaza1l5/cinecafero.jpg</thumbnail>
 <fanart>https://s26.postimg.org/73ez3aobd/stock-photo-neon-sign-of-a-cine-cafe-pink-glow-62145256.jpg</fanart>
 </item>
+
+--------------
+
+<item>
+<title>[COLOR blue]#  [COLOR]Estrenos Latino[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>$pyFunction:'[COLOR blue]#  [COLOR][makelist.param1][/COLOR]'.replace("_", " ").replace("+", " ")</title>
+<link>$doregex[id3]</link>
+<thumbnail>https://image.tmdb.org/t/p/original/$doregex[imagen]</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/$doregex[imagen]</fanart>
+]]></listrepeat>
+<expres><![CDATA[Estrenos:"(.*?)" url:"(.*?)" server:"(.*?)"]]></expres>
+<page>https://pastebin.com/raw/nWRGhHST</page>
+</regex><regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import urlresolver
+   url = '[makelist.param2]'
+   try:
+     u = urlresolver.resolve(url)
+   except:
+     u = 'http://elecdeka.org/off.mp4'
+   return u
+]]></expres>
+<page></page>
+</regex><regex>
+<name>imagen</name>
+<expres><![CDATA[poster_path\":\"\\/(.*?)\"]]></expres>
+<page>https://api.themoviedb.org/3/search/movie?api_key=3d8a2c67653e2f8fd7dd09959e835f02&amp;language=es&amp;query=$doregex[titulo]</page>
+</regex><regex>
+<name>titulo</name>
+<expres>$pyFunction:'[makelist.param1]'.replace("_", "+")</expres>
+<page></page>
+</regex>
+<thumbnail>https://s26.postimg.org/azsaza1l5/cinecafero.jpg</thumbnail>
+<fanart>https://s26.postimg.org/73ez3aobd/stock-photo-neon-sign-of-a-cine-cafe-pink-glow-62145256.jpg</fanart>
+</item
+
+
+<item>
+<title>[COLOR blue]#  [COLOR]Estrenos España[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>$pyFunction:'[COLOR blue]#  [COLOR][makelist.param1][/COLOR]'.replace("_", " ")</title>
+<link>$doregex[id3]</link>
+<thumbnail>https://image.tmdb.org/t/p/original/$doregex[imagen]</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/$doregex[imagen]</fanart>
+]]></listrepeat>
+<expres><![CDATA[EstrenosESP:"(.*?)" url:"(.*?)" server:"(.*?)"]]></expres>
+<page>https://pastebin.com/raw/nWRGhHST</page>
+</regex><regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import urlresolver
+   url = '[makelist.param2]'
+   try:
+     u = urlresolver.resolve(url)
+   except:
+     u = 'http://elecdeka.org/off.mp4'
+   return u
+]]></expres>
+<page></page>
+</regex><regex>
+<name>imagen</name>
+<expres><![CDATA[poster_path\":\"\\/(.*?)\"]]></expres>
+<page>https://api.themoviedb.org/3/search/movie?api_key=3d8a2c67653e2f8fd7dd09959e835f02&amp;language=es&amp;query=$doregex[titulo]</page>
+</regex><regex>
+<name>titulo</name>
+<expres>$pyFunction:'[makelist.param1]'.replace("_", "+")</expres>
+<page></page>
+</regex>
+<thumbnail>https://s26.postimg.org/azsaza1l5/cinecafero.jpg</thumbnail>
+<fanart>https://s26.postimg.org/73ez3aobd/stock-photo-neon-sign-of-a-cine-cafe-pink-glow-62145256.jpg</fanart>
+</item>
+
+----------------------
 
 <item>
 <title>[COLOR blue]#  [COLOR]Accion[/COLOR]</title>
@@ -844,7 +927,6 @@ Estreno
 ************
 
 ************
-
 <item>
 <title>[COLOR blue]#  [COLOR]Estreno ex 1 [/COLOR]</title>
 <link>http://ignora.me</link>
