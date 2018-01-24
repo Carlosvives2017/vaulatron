@@ -765,127 +765,134 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-
-
-*************************************************************
 <item>
 <title>[COLOR red]# #   [COLOR red]Tv España   [COLOR red][COLOR red]# #[/COLOR]</title>
 <link>nop</link>
 <thumbnail>https://s26.postimg.org/l8hxljmdl/fertss.jpg</thumbnail> 
 <fanart>http://tvradioturismo.com/wp-content/uploads/2015/03/el-mirador-de-la-mancha_377253.jpg</fanart>
 </item>
-*************************************************************
 
 <item>
-<title>[COLOR blue]#  [/COLOR]Programacion - G.Hermano</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]Programacion - G.Hermano[/COLOR]</title>
 <link>https://mdslivehls-i.akamaihd.net/hls/live/571672/realities/bitrate_4.m3u8</link>
 <thumbnail>https://s5.postimg.org/nniphciyf/gh.jpg</thumbnail>
 <fanart>http://www.elcomercio.es/noticias/201611/16/media/cortadas/gh-vip-5-kA3H-U2117440192e1F-575x323@El%20Comercio.jpg</fanart>
 </item>
 
------------------------
-
 <item>
-<title>[COLOR blue]#  [/COLOR]La 1</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]La 1[/COLOR]</title>
 <link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0021</link>
 <thumbnail>http://1.bp.blogspot.com/-sAY-mWI2fnE/WdwqbIdukAI/AAAAAAAAB3Q/SHNbEVP8N2w_uOkS8ITN0CoRk_5JEV9NQCK4BGAYYCw/s1600/1.jpg<thumbnail> 
 <fanart>http://www.cgcom.es/sites/default/images/tve1_g.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR]La 2</title>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]La 1 ES [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/452.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>http://1.bp.blogspot.com/-sAY-mWI2fnE/WdwqbIdukAI/AAAAAAAAB3Q/SHNbEVP8N2w_uOkS8ITN0CoRk_5JEV9NQCK4BGAYYCw/s1600/1.jpg<thumbnail> 
+<fanart>http://www.cgcom.es/sites/default/images/tve1_g.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]La 2[/COLOR]</title>
 <link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0022</link>
 <thumbnail>http://2.bp.blogspot.com/-217M1AxhKHA/WdwqaIVHrnI/AAAAAAAAB2o/GUqCvymTgvY_VSx15D49SySI-CGdq3tNACK4BGAYYCw/s1600/2.jpg<thumbnail> 
 <fanart>http://verkami-production.s3.amazonaws.com/imagenes_vk/MEDIA/PRENSA/tve2g.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR]Antena 3</title>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]La 2 ES [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/451.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>http://2.bp.blogspot.com/-217M1AxhKHA/WdwqaIVHrnI/AAAAAAAAB2o/GUqCvymTgvY_VSx15D49SySI-CGdq3tNACK4BGAYYCw/s1600/2.jpg<thumbnail> 
+<fanart>http://verkami-production.s3.amazonaws.com/imagenes_vk/MEDIA/PRENSA/tve2g.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Antena 3[/COLOR]</title>
 <link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8</link>
 <thumbnail>http://2.bp.blogspot.com/-nyy_tjAhjtI/WdbKCu0PAmI/AAAAAAAABoc/WDoRjwvWX1cfKsiqDCOWF2LfPODuhnLVwCK4BGAYYCw/s1600/Antena%2B3.jpg</thumbnail>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZxVwfjXkV1oRmU07WyCTFrkUItwNwl7hMNInivfre8adE32aAJQ</fanart>
 </item>
  
 <item>
-<title>[COLOR blue]#  [/COLOR]Antena 3 Spain</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]Antena 3 Spain[/COLOR]</title>
 <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8</link>
 <thumbnail>http://2.bp.blogspot.com/-nyy_tjAhjtI/WdbKCu0PAmI/AAAAAAAABoc/WDoRjwvWX1cfKsiqDCOWF2LfPODuhnLVwCK4BGAYYCw/s1600/Antena%2B3.jpg</thumbnail>
 <fanart>http://fisioterapialasrozas.com/wp-content/uploads/2014/04/antena-3-noticias.jpg</fanart>
 </item> 
  
 <item>
-<title>[COLOR blue]#  [COLOR]A3Series HD[/COLOR]</title> 
+<title>[COLOR blue]#  [/COLOR][COLOR]A3Series HD[/COLOR]</title> 
 <link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
 <thumbnail>http://2.bp.blogspot.com/-rP6nKSGG9GY/Wdfhwnki0yI/AAAAAAAABtM/q59VtzDvFmUYbC81iysZektj9sePZrvuQCK4BGAYYCw/s1600/a3series.jpg</thumbnail>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZUF8d7HJtaXKg32xFmPUa52RVN663ZWCYBbe0FNIWl_S4wlyz</fanart>
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR]La cuatro[COLOR lime][/COLOR]</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]La cuatro[COLOR lime][/COLOR]</title>
 <link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0013</link>
 <thumbnail>http://4.bp.blogspot.com/-iCyLslC8ODI/WdwqaKcdb8I/AAAAAAAAB2g/U4APug8ME4IC22xdL2bCi36zqJWT2bckwCK4BGAYYCw/s1600/canal%2B4.jpg</thumbnail>
 <fanart>http://2.bp.blogspot.com/-QvLEg1hDXyQ/UJlHJfAq60I/AAAAAAAASgA/TtFfgHhsCBU/s1600/cuatro.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR]Telecinco[COLOR lime][/COLOR]</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]Telecinco[COLOR lime][/COLOR]</title>
 <link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0016</link>
 <thumbnail>http://3.bp.blogspot.com/-bER--eKOgHA/WdwqajXabPI/AAAAAAAAB24/35IFvxnFpTQd58m657xJ9isB5wXaE3kdQCK4BGAYYCw/s1600/canal%2B5.jpg</thumbnail>
 <fanart>http://www.informativostv.com/informativostv/images/Telecinco/Telecinco/t5012001-03.jpg</fanart>
 </item>
  
 <item>
-<title>[COLOR blue]#  [/COLOR]La Sexta</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]La Sexta[/COLOR]</title>
 <link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-zTwpycTNEDU/WdbKCql9wLI/AAAAAAAABoY/aK5a-vabYlczkidf4nk2jTC-mQLEqV4igCK4BGAYYCw/s1600/LA%2BSEXTA.jpg</thumbnail>
 <fanart>http://www.lasexta.com/static/images/lasextacom_logotipo.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR]24H</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]24H[/COLOR]</title>
 <link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/.m3u8</link>
 <thumbnail>http://2.bp.blogspot.com/-AklBZbjbGW0/Wdz4Y8BYr6I/AAAAAAAAB_g/LF3NtOX9WjkcZSlhp0rhlZYbHzxgczyrACK4BGAYYCw/s1600/24he.jpg</thumbnail>
 <fanart>http://img.rtve.es/v/3341/</fanart>
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR]Telemadrid</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]Telemadrid[/COLOR]</title>
 <link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8</link>
 <thumbnail>https://4.bp.blogspot.com/-NlTqAfxs94A/WhRCIDwJkjI/AAAAAAAACkw/rEJtJgJSAEwWEaeZ9pd8bA0RzPJZbwxbgCK4BGAYYCw/s320/telemadrid.jpg</thumbnail>
 <fanart>http://e03-elmundo.uecdn.es/assets/multimedia/imagenes/2014/06/17/14030333392913.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR]Nova</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]Nova[/COLOR]</title>
 <link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-g3VR6rHGyqw/Wdz4YjZXx5I/AAAAAAAAB_Q/CIMyQtvY5gcEChm23kHv2yuZVeLwOWVYACK4BGAYYCw/s1600/nova.jpg</thumbnail>
 <fanart>https://www.adslzone.tv/app/uploads/2013/09/Dibujo6.jpg?x=634&y=309</fanart>
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR]FDF</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]FDF[/COLOR]</title>
 <link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0015</link>
 <thumbnail>http://2.bp.blogspot.com/-nq-in0Tgr4M/Wdz4Y7GoPKI/AAAAAAAAB_o/-9D3bhnrt8QavLR_VoyS__68d_73r2FqgCK4BGAYYCw/s1600/fdf.jpg</thumbnail>
 <fanart>http://www.mundoplus.tv/blogs/tvdigital/files/2014/04/vueltafdf.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR]MEGA</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]MEGA[/COLOR]</title>
 <link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-XkityGE7YQs/WdwqaiArsKI/AAAAAAAAB3A/cjNwHa_ecdkwRIyLBxg6Wns0JZDIMEPvgCK4BGAYYCw/s1600/mega.jpg</thumbnail>
 <fanart>http://1.bp.blogspot.com/-z1vm1LX6S5E/VjGyi0RHtOI/AAAAAAAAACA/KO1uCXdj1Ik/s1600/mega-logo.png</fanart>
 </item>      
 
 <item>
-<title>[COLOR blue]#  [/COLOR]Energy</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]Energy[/COLOR]</title>
 <link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0007</link>
 <thumbnail>http://1.bp.blogspot.com/-Gkuc5J5K--8/Wdz4Y_4LjGI/AAAAAAAAB_c/WmwZcDJLh1oZmCSLW5c7d0fi7QDVzychwCK4BGAYYCw/s1600/energy.jpg</thumbnail>
 <fanart>http://www.formulatv.com/images/fgaleria/28800/28803_logo-energy-canal-masculino-mediaset-espana.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR]BE MAD[COLOR lime][/COLOR]</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]BE MAD[COLOR lime][/COLOR]</title>
 <link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0003</link>
 sportsdevil>http://latelete.tv/ver-be-mad-online-en-directo/</sportsdevil>
 referer>http://latelete.tv/</referer>
@@ -894,7 +901,7 @@ referer>http://latelete.tv/</referer>
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR]Divinity[COLOR lime][/COLOR]</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]Divinity[COLOR lime][/COLOR]</title>
 <link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0014</link>
 sportsdevil>http://latelete.tv/divinity-en-directo-gratis-por-internet/</sportsdevil>
 referer>http://latelete.tv/</referer>
@@ -903,28 +910,28 @@ referer>http://latelete.tv/</referer>
 </item>
  
 <item>
-<title>[COLOR blue]#  [/COLOR]Neox</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]Neox[/COLOR]</title>
 <link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8</link>
 <thumbnail>http://1.bp.blogspot.com/-QiQgBHPbBvk/WdwqZVrhtQI/AAAAAAAAB2A/Ocv_Xw2bChEjQinbjj8HFHQfPiJSUa5NwCK4BGAYYCw/s1600/neox.jpg</thumbnail>
 <fanart>http://www.brandemia.org/wp-content/uploads/2011/07/neox_principal_logo.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR]Tv3</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]Tv3[/COLOR]</title>
 <link>http://aragontv.stream.flumotion.com/aragontv/live-hls/main.m3u8</link>
 <thumbnail>https://s5.postimg.org/q4ugolfpj/3.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/media/CrvlbXsWAAAMvW-.jpg</fanart>
 </item>
  
 <item>
-<title>[COLOR blue]#  [/COLOR]EITB</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]EITB[/COLOR]</title>
 <link>http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8</link>
 <thumbnail>https://s5.postimg.org/6zr7eugh3/eitb.jpg</thumbnail>
 <fanart>http://www.eitb.eus/multimedia/images/2012/10/10/721870/721870_Redimensionamiento_de__DSC7770_foto960.JPG</fanart>
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR]Andorra TV</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]Andorra TV[/COLOR]</title>
 <link>http://194.158.80.31:443/live/rtva/master.m3u8</link>
 <thumbnail>https://s5.postimg.org/cnxi5qd3r/atvd.jpg</thumbnail>
 <fanart></fanart>
@@ -933,14 +940,7 @@ referer>http://latelete.tv/</referer>
 ------------------
 
 <item>
-<title>[COLOR blue]#  [COLOR]Paramount[/COLOR] </title>
-<link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=PAES0008</link>
-<thumbnail>http://3.bp.blogspot.com/-VbM4KuSczRY/WdwBBOHcVWI/AAAAAAAABzI/tVB_9Jm1s6s5YQOiriEaCwWuM686ZJeMQCK4BGAYYCw/s1600/paramount.jpg</thumbnail> 
-<fanart>https://upload.wikimedia.org/wikipedia/id/thumb/4/4a/Paramount_logo.jpg/1200px-Paramount_logo.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [/COLOR]AyE</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]AyE[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -953,11 +953,17 @@ expres>videoUrl = '(.*?)'</expres>
 <fanart>http://www.audiovisual451.com/wp-content/uploads/AE.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]AyE [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/443.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>http://2.bp.blogspot.com/-D8VFCRoICVI/WdwBA0oMC0I/AAAAAAAAB1Q/WpHnEoxwfI8vi6NpICoYk1ACoGzG8mdlgCK4BGAYYCw/s1600/aye.jpg</thumbnail>
+<fanart>http://www.audiovisual451.com/wp-content/uploads/AE.jpg</fanart>
+</item>
 
 ------------------------
 
 item>
-<title>[COLOR blue]#  [COLOR]Discovery Channel[/COLOR]</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]Discovery Channel[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -970,7 +976,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR blue]#  [COLOR]Discovery Channel[/COLOR]</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]Discovery Channel[/COLOR]</title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -983,10 +989,17 @@ item>
 <fanart>https://www.adslzone.tv/app/uploads/2015/12/discovery-channel.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]Discovery Channel [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/437.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>http://2.bp.blogspot.com/-I01lKFxj3bY/WdwBBNvzJQI/AAAAAAAABzY/RQPXlU28UmAKqeHeHLT3uDev1a1_KkDGQCK4BGAYYCw/s1600/discovery%2Bchanelero.jpg</thumbnail>
+<fanart>https://www.adslzone.tv/app/uploads/2015/12/discovery-channel.jpg</fanart>
+</item>
+
 ----------------------
 
 <item>
-<title>[COLOR blue]#  [COLOR]Crimen investigacion[/COLOR] </title>
+<title>[COLOR blue]#  [/COLOR][COLOR]Crimen investigacion[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1000,7 +1013,7 @@ expres>videoUrl = '(.*?)'</expres>
 </item>
 
 item>
-<title>[COLOR blue]#  [COLOR]Crimen investigacion[/COLOR] </title>
+<title>[COLOR blue]#  [/COLOR][COLOR]Crimen investigacion[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1013,7 +1026,7 @@ item>
 </item>
 
 item>
-<title>[COLOR blue]#  [COLOR]Crimen investigacion SD[/COLOR] </title>
+<title>[COLOR blue]#  [/COLOR][COLOR]Crimen investigacion SD[/COLOR]</title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -1026,9 +1039,16 @@ item>
 <fanart>http://www.neeo.es/wp-content/uploads/crimen-investigacion.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]Crimen Investigation [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/3712.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>http://2.bp.blogspot.com/-uzPHoYGvfhQ/WdwBBCHDowI/AAAAAAAAB0Y/iSJTcRJJx7kJmFlabeuhgpNHdjXapn9YQCK4BGAYYCw/s1600/id.jpg</thumbnail>   
+<fanart>http://www.neeo.es/wp-content/uploads/crimen-investigacion.jpg</fanart>
+</item>
+
 -----------------------------
 <item>
-<title>[COLOR blue]#  [/COLOR]Calle13</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]Calle13[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1042,7 +1062,7 @@ expres>videoUrl = '(.*?)'</expres>
 </item>
 --------------------
 item>
-<title>[COLOR blue]#  [COLOR]Historia[/COLOR] </title>
+<title>[COLOR blue]#  [/COLOR][COLOR]Historia[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1055,7 +1075,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR blue]#  [COLOR]Historia[/COLOR] </title>
+<title>[COLOR blue]#  [/COLOR][COLOR]Historia[/COLOR]</title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -1067,9 +1087,17 @@ item>
 <thumbnail>http://2.bp.blogspot.com/-zP6ZYFpVMM0/WdwBBPxf4vI/AAAAAAAAB0I/0xxxH-debSMTkIZVArdlXFsgpfw-Z34RgCK4BGAYYCw/s1600/historia.jpg</thumbnail>   
 <fanart>http://estaticoshumor.atresmedia.com/wp-content/uploads/2016/11/historiatestportada-940x400.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]Historia [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/1451.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>http://2.bp.blogspot.com/-zP6ZYFpVMM0/WdwBBPxf4vI/AAAAAAAAB0I/0xxxH-debSMTkIZVArdlXFsgpfw-Z34RgCK4BGAYYCw/s1600/historia.jpg</thumbnail>   
+<fanart>http://estaticoshumor.atresmedia.com/wp-content/uploads/2016/11/historiatestportada-940x400.jpg</fanart>
+</item>
+
 -------------------------------
 item>
-<title>[COLOR blue]#  [COLOR]National Geographic[/COLOR] </title>
+<title>[COLOR blue]#  [/COLOR][COLOR]National Geographic[/COLOR]</title>
 <sportsdevil>http://livesports.pw/embedn.php?file=natgeo&width=650&height=397&autostart=true</sportsdevil>
 <referer>http://telefivegb.com/canales/documental/natgeoembed.php</referer>
 <thumbnail>http://2.bp.blogspot.com/-6ZGqAH3JXW4/WdwBBO53kJI/AAAAAAAAB0k/rDbYR3pLyoMYLxpe8eevF4JoGcSnQDHtQCK4BGAYYCw/s1600/national%2Bgeografica.jpg</thumbnail>   
@@ -1077,7 +1105,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR blue]#  [COLOR]National Geographic[/COLOR] </title>
+<title>[COLOR blue]#  [/COLOR][COLOR]National Geographic[/COLOR]</title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -1089,9 +1117,17 @@ item>
 <thumbnail>http://2.bp.blogspot.com/-6ZGqAH3JXW4/WdwBBO53kJI/AAAAAAAAB0k/rDbYR3pLyoMYLxpe8eevF4JoGcSnQDHtQCK4BGAYYCw/s1600/national%2Bgeografica.jpg</thumbnail>   
 <fanart>https://orig00.deviantart.net/9a37/f/2012/048/8/4/nat_geo_wallpaper_by_johnnyslowhand-d4q0zf1.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]National Geographic [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/429.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>http://2.bp.blogspot.com/-6ZGqAH3JXW4/WdwBBO53kJI/AAAAAAAAB0k/rDbYR3pLyoMYLxpe8eevF4JoGcSnQDHtQCK4BGAYYCw/s1600/national%2Bgeografica.jpg</thumbnail>   
+<fanart>https://orig00.deviantart.net/9a37/f/2012/048/8/4/nat_geo_wallpaper_by_johnnyslowhand-d4q0zf1.jpg</fanart>
+</item> 
+
 ------------------------------ 
 <item>
-<title>[COLOR blue]#  [COLOR]NatGeo Wild[/COLOR]</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]NatGeo Wild[/COLOR]</title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -1104,7 +1140,14 @@ item>
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR]Caza y pesca[COLOR lime][/COLOR]</title>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]NatGeo Wild [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/430.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>http://1.bp.blogspot.com/-5c1iC0rcOuI/WdwUNBlqTuI/AAAAAAAAB1w/iw179SALDRoNQHRKOWlH3X7TN-U4TIyAwCK4BGAYYCw/s1600/nachowilstors.jpg</thumbnail>   
+<fanart>http://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/natgeo-wild-grande.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Caza y pesca[COLOR lime][/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1118,7 +1161,14 @@ expres>videoUrl = '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR]Cocina[COLOR lime][/COLOR]</title>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]Caza y Pesca [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/3675.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>http://4.bp.blogspot.com/-PV2R50pXaV0/WdwBBCIRB7I/AAAAAAAAB0M/n_P0GQYG9tEvDVpPq6kgjOAW8r-JR5-HwCK4BGAYYCw/s1600/casaypescaso.jpg</thumbnail>
+<fanart>http://scontent.cdninstagram.com/t51.2885-15/e35/13166816_1705502169703569_1977793477_n.jpg?ig_cache_key=MTI1MjA0MTEwODA3NzczODY0MQ==.2</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Cocina[COLOR lime][/COLOR]</title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -1131,10 +1181,17 @@ expres>videoUrl = '(.*?)'</expres>
 <fanart>http://tienda.canalcocina.es/4899-tm_home_default/canalcocina.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]Cocina [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/438.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>http://1.bp.blogspot.com/-MoMQ903jUCo/WdwBBHL-GLI/AAAAAAAAB1E/f2Vt7Wc09-caDTZXoicM6EOiF5_GsfQ-wCK4BGAYYCw/s1600/cocina.jpg</thumbnail>
+<fanart>http://tienda.canalcocina.es/4899-tm_home_default/canalcocina.jpg</fanart>
+</item>
+
 -------
 
 <item>
-<title>[COLOR blue]#  [/COLOR]M+ #0</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]M+ #0[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1148,7 +1205,14 @@ expres>source: '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR blue]#  [COLOR]AMC[/COLOR] </title>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]M+ #0 ES [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/3676.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>http://2.bp.blogspot.com/-qj2bkeojNHo/WdwBBHpT8DI/AAAAAAAAB04/r30m5vg1Sfw8O5mAtq80itO4DTG0byn4wCK4BGAYYCw/s1600/%25230.jpg</thumbnail>
+<fanart>https://i0.wp.com/diariomnipresente.com/wp-content/uploads/2015/12/0-Movistar.jpg?resize=1000%2C450</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]AMC[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1163,7 +1227,14 @@ referer>http://www.vercanalestv.com/ver-amc-online-gratis-en-vivo-por-internet/<
 <fanart>http://images.amcnetworks.com/amc.com/wp-content/uploads/2016/09/AMC_Black_Hero_Logo-1200x707.jpg</fanart>
 </item>
 
-<item><title>[COLOR blue]#  [COLOR]AXN[/COLOR] </title>
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]AMC [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/468.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>http://1.bp.blogspot.com/-oa27pB9pGek/WdwBBNT-3jI/AAAAAAAABzs/LEWgFfdg3HMowCH9vndZlWdRiogR5wA2QCK4BGAYYCw/s1600/amc.jpg</thumbnail>
+<fanart>http://images.amcnetworks.com/amc.com/wp-content/uploads/2016/09/AMC_Black_Hero_Logo-1200x707.jpg</fanart>
+</item>  
+
+<item><title>[COLOR blue]#  [/COLOR][COLOR]AXN[/COLOR]</title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -1177,7 +1248,14 @@ referer>http://www.vercanalestv.com/ver-amc-online-gratis-en-vivo-por-internet/<
 </item>
 
 <item>
-<title>[COLOR blue]#  [COLOR]Fox[/COLOR]</title>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]AXN White ES [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/465.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>https://s5.postimg.org/6ge9ckx5z/axn_white.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/6Lz9BI6PsbU/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Fox[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1190,13 +1268,25 @@ expres>videoUrl = '(.*?)'</expres>
 <fanart>https://cdn.foxplay.com/sites/foxplay-la/files/img/logo-mobile-channels/fox-generic.png?ver=e2e5a340-3c27-4ac3-9044-a01138da9091</fanart>
 </item>
 
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]Fox [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/455.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>http://4.bp.blogspot.com/-C03bsa-qei0/WdwBBH9x4bI/AAAAAAAAB1c/7TpihqLKigcwWxa4KeIJSA_WsW2l4056gCK4BGAYYCw/s1600/fox.jpg</thumbnail>
+<fanart>https://cdn.foxplay.com/sites/foxplay-la/files/img/logo-mobile-channels/fox-generic.png?ver=e2e5a340-3c27-4ac3-9044-a01138da9091</fanart>
+</item>
 
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]Fox Life [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/454.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>https://s5.postimg.org/iv11cwwdz/foxlife.jpg</thumbnail>
+<fanart>https://s5.postimg.org/iv11cwwdz/foxlife.jpg</fanart>
+</item> 
 
 ////////////////////////////
 ///////////////////////
 
 <item>
-<title>[COLOR blue]#  [/COLOR]Comedy Central</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]Comedy Central[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1210,7 +1300,7 @@ expres>videoUrl = '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR blue]#  [COLOR]TNT[/COLOR] </title>
+<title>[COLOR blue]#  [/COLOR][COLOR]TNT[/COLOR] [/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1224,7 +1314,7 @@ expres>videoUrl = '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR blue]#  [COLOR]SYFY[/COLOR] </title>
+<title>[COLOR blue]#  [/COLOR][COLOR]SYFY[/COLOR] [/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1237,9 +1327,16 @@ expres>videoUrl = '(.*?)'</expres>
 <fanart>http://www.syfy.com/sites/syfy/files/wire/legacy/syfy.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]SyFy [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/446.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>http://3.bp.blogspot.com/-u7f-WDQr3pA/WdwBBHAYpSI/AAAAAAAAB1U/-5NBfVuZsF8KBuo5k4sGtfW2pr14RwLNwCK4BGAYYCw/s1600/syfy.jpg</thumbnail>   
+<fanart>http://www.syfy.com/sites/syfy/files/wire/legacy/syfy.jpg</fanart>
+</item> 
+
 ----------------
 <item>
-<title>[COLOR blue]#  [/COLOR]M+ ACCION[COLOR lime][/COLOR]</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]M+ ACCION[COLOR lime][/COLOR]</title>
 <link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html&amp;User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1251,9 +1348,16 @@ expres>videoUrl = '(.*?)'</expres>
 <thumbnail>http://1.bp.blogspot.com/-CoW3Aw17b_c/WdwBBKAyIOI/AAAAAAAAB1I/u5HhNzqir18e6ytdQe7aw0ARXty9Vbf-ACK4BGAYYCw/s1600/accion.jpg</thumbnail>
 <fanart>http://1.bp.blogspot.com/-CoW3Aw17b_c/WdwBBKAyIOI/AAAAAAAAB1I/u5HhNzqir18e6ytdQe7aw0ARXty9Vbf-ACK4BGAYYCw/s1600/accion.jpg</fanart>
 </item>
-  
+ 
 <item>
-<title>[COLOR blue]#  [/COLOR]M+ COMEDY[COLOR lime][/COLOR]</title>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]M+ ACCION [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/464.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>http://1.bp.blogspot.com/-CoW3Aw17b_c/WdwBBKAyIOI/AAAAAAAAB1I/u5HhNzqir18e6ytdQe7aw0ARXty9Vbf-ACK4BGAYYCw/s1600/accion.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-CoW3Aw17b_c/WdwBBKAyIOI/AAAAAAAAB1I/u5HhNzqir18e6ytdQe7aw0ARXty9Vbf-ACK4BGAYYCw/s1600/accion.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]M+ COMEDY[COLOR lime][/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1267,7 +1371,14 @@ expres>videoUrl = '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR]M+ DCINE</title>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]M+ COMEDY [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/463.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>http://2.bp.blogspot.com/-PlU27t9fiQc/WdwBBJSHNcI/AAAAAAAABzM/KF-qmCyQxAEwagVZdbPfm-ksV8i2MBcOgCK4BGAYYCw/s1600/comediamovi.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-PlU27t9fiQc/WdwBBJSHNcI/AAAAAAAABzM/KF-qmCyQxAEwagVZdbPfm-ksV8i2MBcOgCK4BGAYYCw/s1600/comediamovi.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]M+ DCine[/COLOR]</title>
 <link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html&amp;User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1281,7 +1392,14 @@ expres>videoUrl = '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR]M+ ESTRENOS[COLOR lime][/COLOR]</title>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]M+ DCine [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/462.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>http://3.bp.blogspot.com/-eY1SIreT_Vw/WdwBBDIsZRI/AAAAAAAAB00/VJ_30iPaOqk4Jy816Wzm_A1hapyNqx9ZwCK4BGAYYCw/s1600/dcine.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-eY1SIreT_Vw/WdwBBDIsZRI/AAAAAAAAB00/VJ_30iPaOqk4Jy816Wzm_A1hapyNqx9ZwCK4BGAYYCw/s1600/dcine.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]M+ ESTRENOS[COLOR lime][/COLOR]</title>
 <link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html&amp;User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1295,7 +1413,14 @@ expres>videoUrl = '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR]M+ Series</title>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]M+ ESTRENOS [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/461.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>http://1.bp.blogspot.com/-5PJGlOkcCrs/WdwBBN7W5DI/AAAAAAAAB0o/o2PIDkJDzscX9RgCxbVujQA7fvKk2upKwCK4BGAYYCw/s1600/estrenomovi.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-5PJGlOkcCrs/WdwBBN7W5DI/AAAAAAAAB0o/o2PIDkJDzscX9RgCxbVujQA7fvKk2upKwCK4BGAYYCw/s1600/estrenomovi.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]M+ Series[/COLOR]</title>
 <link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html&amp;User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1309,7 +1434,14 @@ expres>videoUrl = '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR blue]#  [COLOR]Hollywood[/COLOR] </title>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]M+ Series XTRA [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/458.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>https://s5.postimg.org/djm4s97rb/xtr.jpg</thumbnail>
+<fanart>https://s5.postimg.org/djm4s97rb/xtr.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Hollywood[/COLOR]</title>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=hollywesp&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1323,7 +1455,28 @@ expres>videoUrl = '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR]TCM</title>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]Hollywood [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/453.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>http://2.bp.blogspot.com/-1EjjbZC9ffA/WdwBBJErkWI/AAAAAAAABzE/8W82l72rHOop3okvX_5IjPU51v6yq5HMwCK4BGAYYCw/s1600/holliwoddersss.jpg</thumbnail>
+<fanart>http://www.grupocomunica.com/wp-content/uploads/2016/05/Hollywood.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]Odisea ES [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/426.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>http://1.bp.blogspot.com/-TFrNc9hWil8/WdwqaxdLskI/AAAAAAAAB3I/XitmogVkPlkHBHIlfaaY7HFdo44hf_DvACK4BGAYYCw/s1600/odisea.jpg</thumbnail>
+<fanart>http://www.mundoplus.tv/img/d6ae6723a4c822d97778856d24d4ae39</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Paramount[/COLOR]</title>
+<link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=PAES0008</link>
+<thumbnail>http://3.bp.blogspot.com/-VbM4KuSczRY/WdwBBOHcVWI/AAAAAAAABzI/tVB_9Jm1s6s5YQOiriEaCwWuM686ZJeMQCK4BGAYYCw/s1600/paramount.jpg</thumbnail> 
+<fanart>https://upload.wikimedia.org/wikipedia/id/thumb/4/4a/Paramount_logo.jpg/1200px-Paramount_logo.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]TCM[/COLOR]</title>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=tcmesp&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1336,35 +1489,45 @@ expres>videoUrl = '(.*?)'</expres>
 <fanart>http://www.chicaoguerrero.com/site/wp-content/uploads/2012/07/FESTA-CANAL-TCM-CONVENÇÃO-NET-3.jpg</fanart>
 </item>
 
---------------------
-----------------------
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]Nick Jr [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/428.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>https://s5.postimg.org/88n9dvsjb/nikjd.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-kqcCJrfK8kM/VXibYT64DPI/AAAAAAAAeq0/pH5k5XPRmR4/s1600/nick-jr-music-summer-music-mash-up-nickelodeon-preschool.jpg</fanart>
+</item>  
 
-item>
-<title>[COLOR blue]#  [/COLOR]COSMOS[COLOR lime][/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/cosmo.php</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<thumbnail>http://3.bp.blogspot.com/-607_izUGmQc/WdwqaSyPsnI/AAAAAAAAB2w/gKHFRfEhVMESGpnvL1V_LHEgvZsR_OFsQCK4BGAYYCw/s1600/cosmo.jpg</thumbnail>
-<fanart>https://www.cosmopolitantv.es/img/logorrss.png</fanart>
-</item>
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]Nickelodeon [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/427.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>https://s5.postimg.org/jxr91ubs7/nichelodium.jpg</thumbnail>
+<fanart>http://images6.fanpop.com/image/photos/38600000/SpongeBob-SquarePants-nickelodeon-38677628-500-281.jpg</fanart>
+</item> 
 
-item>
-<title>[COLOR blue]#  [/COLOR]Odisea[COLOR lime][/COLOR]</title>
-<sportsdevil>http://zagaiptv.eklablog.com/odisea-spain-p1157646</sportsdevil>
-<referer>http://zagaiptv.eklablog.com/</referer>
-<thumbnail>http://1.bp.blogspot.com/-TFrNc9hWil8/WdwqaxdLskI/AAAAAAAAB3I/XitmogVkPlkHBHIlfaaY7HFdo44hf_DvACK4BGAYYCw/s1600/odisea.jpg</thumbnail>
-<fanart>http://www.mundoplus.tv/img/d6ae6723a4c822d97778856d24d4ae39</fanart>
-</item>
 
-item>
-<title>[COLOR blue]#  [COLOR]Comedy Central[/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>[",\'](h.*m3u8.*?)[",\']</expres>
-<page>http://tumarcador.xyz/verdirectotv/8</page>
-<referer>http://verdirectotv.com/tv/digitales2/plustoros.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&amp;Referer=http://www.dinozap.info/redirect/embedredi.php</agent>
-</regex>
-<thumbnail>http://4.bp.blogspot.com/-2XWy2iU53iw/WdwqZlqHQGI/AAAAAAAAB2I/i2xjPs8Oiv0OUrZkKApq3NzPz0K3N8kFgCK4BGAYYCw/s1600/cine%2Bcentral.jpg</thumbnail>   
-<fanart>https://davidmarin99.files.wordpress.com/2015/11/comedy_central_brand.jpg?w=676</fanart>
-</item>
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]Disney Junior [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/435.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>https://s26.postimg.org/o4biiq1hl/disney_junior.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/05/e9/e8/05e9e8a3ffe1685746093ee4e2bdab67.jpg</fanart>
+</item>  
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]Disney XD [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/434.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>https://s26.postimg.org/vkas4ihh5/disneixd.jpg</thumbnail>
+<fanart>http://images2.fanpop.com/images/photos/5200000/Disney-XD-aaron-stone-5232955-1024-768.jpg</fanart>
+</item> 
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]Canal Panda [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/425.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>https://s5.postimg.org/vz6lpn6g7/panda.jpg</thumbnail>
+<fanart>https://s3.drafthouse.com/images/made/Kung-Fu-Panda-3-First-Look-Photos_800_418_81_s.jpg</fanart>
+</item>  
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]Clan [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/1065.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>https://s5.postimg.org/g0xvzhhd3/clan.jpg</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxnI8ZfsBh0anRCTo9uMglt2v_YazvfOrpsykAY_PMnuA-5CPHRw</fanart>
+</item>  
