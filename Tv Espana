@@ -1300,7 +1300,7 @@ expres>videoUrl = '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR][COLOR]TNT[/COLOR] [/COLOR]</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]TNT[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1314,7 +1314,7 @@ expres>videoUrl = '(.*?)'</expres>
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR][COLOR]SYFY[/COLOR] [/COLOR]</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]SYFY[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
