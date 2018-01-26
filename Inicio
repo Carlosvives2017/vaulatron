@@ -765,51 +765,26 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
- 
-<item>
-<title>[COLOR deepskyred]•[/COLOR][COLOR deepskyred]*****************[COLOR red][B]#Elecdeka  Uruguay[/B][/COLOR]</title>
-    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
-    <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
-    <link>http://ignoreme</link>
-    <externallink>http://pastebin.com</externallink>
-<info></info>
-</item>
- 
-<item>
-<title>[COLOR deepskyred]•[/COLOR][COLOR deepskyred]***************[COLOR lightslategray]Actualizado: 25 ene 2018[/COLOR]</title>
-   <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
-    <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
-    <link>http://ignoreme</link>
-    <externallink>http://pastebin.com</externallink>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][COLOR red]***  Desde el 25/01/2018 hasta el 31/01/2018 se envia el nuevo addonns gratuito por telegram @Elecdeka o youtube *** [/COLOR]</title>
-    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
-    <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
-    <link>http://ignoreme</link>
-    <externallink>http://pastebin.com</externallink>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR lime]Demo IPTV PREMIUM 2h (gratuito) o 24h (done), envia un msj en Telegram: @Elecdeka[/COLOR]</title>
-    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><item><title>[COLOR red]###  AVISO  ###[COLOR blue]  >>>>[COLOR]  PRESIONE AQUI  [COLOR blue]<<<<[/COLOR]</title><link>$doregex[text]</link>
+<regex>
+<name>text</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import xbmcgui
+    dialog = xbmcgui.Dialog()
+    dialog.textviewer('[COLOR red]###  AVISO #ELECDEKA  ###[COLOR deepskyred]*********************************[/COLOR]', '[COLOR lightslategray]Para el correcto funcionamiento de [COLOR red]#ELECDEKA[/COLOR] debes seguir la siguientes indicaciones:\n\n[COLOR blue]#  [/COLOR][COLOR lightslategray]Actualizacion de addons en [COLOR red]http://bit.ly/EK1FEB[/COLOR]\n[COLOR blue]#  [/COLOR][COLOR lightslategray]Activar [COLOR red]Flash[/COLOR][COLOR lightslategray] en Configuracion del Addon [COLOR red]#ELECDEKA[/COLOR]\n[COLOR blue]#  [COLOR lightslategray]Tener instalados Addons [COLOR white]URLRESOLVER[COLOR lightslategray], [COLOR white]PLEXUS[COLOR lightslategray], [COLOR white]SPORTSDEVIL[COLOR lightslategray] y[COLOR white] F4MTESTER\n\n[COLOR lightslategray]Si necesitas ayuda con alguno de estos puntos, puedes ingresar a [COLOR red][I]Telegram: @Elecdeka[/I][/COLOR]\n\n[COLOR lightslategray]Los canales TDP ([COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a [COLOR white]Premium[COLOR white][COLOR lightslategray]) son demo[/COLOR]\n\n[COLOR lightslategray]Ayuda en [COLOR red]paypal.me/Elecdekauy[COLOR lightslategray] para seguir funcionando el equipo[/COLOR]\n\n[COLOR red]###  #ELECDEKA - URUGUAY  #### [/COLOR]')
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
 <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
+<info>[COLOR red]###  #ELECDEKA  ###[/COLOR]</info>
+</item><item><title>[COLOR deepskyred]•[/COLOR][COLOR red]***  Desde el 25/01/2018 hasta el 31/01/2018 se envia el nuevo addonns gratuito  *** [/COLOR]</title>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+    <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
     <link>http://ignoreme</link>
-    <externallink>http://pastebin.com</externallink>
-<info></info>
-</item>
-
-
-
-<item>
-<title>[COLOR lime]Email: elecdeka2017@gmail.com - Telegram: @Elecdeka[/COLOR]</title>
+    <externallink>http://pastebin.com</externallink><info></info></item><item><title>[COLOR lime]Email: elecdeka2017@gmail.com - Telegram: @Elecdeka[/COLOR]</title>
     <link>http://ignoreme</link>
     <externallink>http://pastebin.com</externallink>
     <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
-    <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
-<info></info>
-</item>
+    <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart><info></info></item>
