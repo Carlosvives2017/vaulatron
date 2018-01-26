@@ -820,37 +820,6 @@ item>
 <fanart></fanart>
 </item> 
 
--------------
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR]GolTv/PSN[/COLOR]</title>
-
-<link>$doregex[bro.adca.st]</link>
-<regex>
-<name>bro.adca.st</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=415&p=1&c=0&stretching=uniform&old=0'):
- import requests, re, urllib
- headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:52.0) Gecko/20100101 Firefox/52.0'}
- headers['Referer'] = 'http://www.tarjetarojatv.net/rojadirecta/ver-directv-sports-en-vivo.html'
- source = requests.get(url, headers=headers)
- m3u8 = re.findall('trap = "(.+?)"', source.text)[0]
- m3u8 = m3u8.decode('base64')
- tokenpage = re.findall('fass = "(.+?)"', source.text)[0]
- headers['Referer'] = url
- headers['X-Requested-With'] = 'XMLHttpRequest'
- headers['Accept'] = 'application/json, text/javascript, */*; q=0.01'
- headers['Accept-Language'] = 'en-US,en;q=0.5'
- source = requests.get('http://bro.adca.st/%s'%tokenpage, headers=headers)
- m3u8 = m3u8 + re.findall(':"(.+?)"', source.text)[0] + '|User-Agent=%s&Referer=http://bro.adca.st/&Origin=http://bro.adca.st'%headers['User-Agent']
- return m3u8
-]]></expres>
-<page></page>
-</regex>
-
-<thumbnail>http://www.prensario.net/Multimedios/imgs/14885_468.jpg</thumbnail>
-<fanart></fanart>
-</item>
--------
 
 item>
 <title>[COLOR blue]#  [/COLOR][COLOR]FOX SPORTS 1[/COLOR]</title>
@@ -1037,6 +1006,945 @@ expres>source: '(.*?)'</expres>
 
 
 
+/////////////////////////////////////
+///////////////////////////////////////
+
+
+<item>
+<title>[COLOR blue]#  [COLOR]La Liga TV[/COLOR]</title>
+<link>http://185.231.160.42/614/1/index.m3u8</link>
+<thumbnail>https://i.imgur.com/wFjWYNH.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]TDN[/COLOR]</title>
+<link>http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(06)/index.m3u8</link>
+<thumbnail>https://i.imgur.com/PI0Nfq3.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Univision TDN[/COLOR]</title>
+<link>http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/Stream(05)/index.m3u8</link>
+<thumbnail>https://i.imgur.com/72ifO3Q.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]beIN La Liga[/COLOR]</title>
+<link>http://185.231.160.42/607/3/index.m3u8</link>
+<thumbnail>https://i.imgur.com/ipQogS3.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]beIN Sports España[/COLOR]</title>
+<link>http://185.231.160.42/598/3/index.m3u8</link>
+<thumbnail>https://i.imgur.com/fRIIR4y.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]AD Sports 1[/COLOR]</title>
+<link>http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8</link>
+<thumbnail>http://lh3.googleusercontent.com/09beKJuWUWacPlJQYjJpld5UkS4EQrXKEtcc4zkB-ZVbYxZqIO_Nat5qqHiVe61Izg2s=w300</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Arena Sport 1 (SRB)[/COLOR]</title>
+<link>http://195.252.68.245:1935/KLIKTV_2/smil:pink71.mf.smil/playlist.m3u8</link>
+<thumbnail>http://static-cdn1.ustream.tv/i/channel/picture/1/9/6/3/19633072/19633072,640x360,b:2.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Arena Sport 2 (SRB)[/COLOR]</title>
+<link>http://195.252.68.245:1935/KLIKTV_2/smil:pink72.mf.smil/playlist.m3u8</link>
+<thumbnail>http://static-cdn1.ustream.tv/i/channel/picture/1/9/6/3/19633072/19633072,640x360,b:2.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Arena Sport 3 (SRB)[/COLOR]</title>
+<link>http://195.252.68.245:1935/KLIKTV_2/smil:pink73.mf.smil/playlist.m3u8</link>
+<thumbnail>http://static-cdn1.ustream.tv/i/channel/picture/1/9/6/3/19633072/19633072,640x360,b:2.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Arena Sport 4 (SRB)[/COLOR]</title>
+<link>http://195.252.68.245:1935/KLIKTV_2/smil:pink74.mf.smil/playlist.m3u8</link>
+<thumbnail>http://static-cdn1.ustream.tv/i/channel/picture/1/9/6/3/19633072/19633072,640x360,b:2.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]At the Races[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/attheraces.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://data.attheraces.com/images/tv-images/default.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]beIN Sports 1 (FR)[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports1france.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]beIN Sports 2 (FR)[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports2france.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]beIN Sports 3 (FR)[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports3france.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]beIN Sports 1 (MENA)[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports1.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/F3z5kHV.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]beIN Sports 2 (MENA)[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports2.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/F3z5kHV.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]beIN Sports 3 (MENA)[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports3.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/F3z5kHV.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]beIN Sports 4 (MENA)[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports4.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/F3z5kHV.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]beIN Sports 5 (MENA)[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports5.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/F3z5kHV.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]beIN Sports 6 (MENA)[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports6.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/F3z5kHV.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]beIN Sports 7 (MENA)[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports7.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/F3z5kHV.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]beIN Sports 8 (MENA)[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports8.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/F3z5kHV.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]beIN Sports 9 (MENA)[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports9.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/F3z5kHV.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]beIN Sports 10 (MENA)[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports10.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/F3z5kHV.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]beIN Sports 11 (MENA)[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports11.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/F3z5kHV.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]beIN Sports 12 (MENA)[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports12.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/F3z5kHV.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]beIN Sports 13 (MENA)[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports13.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/F3z5kHV.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]beIN Sports 1 (Thailand)[/COLOR]</title>
+<link>http://111.223.50.12:8081/liveNimble/ch04h/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/N3rDQXX.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]beIN Sports 2 (Thailand)[/COLOR]</title>
+<link>http://111.223.50.12:8081/liveNimble/ch05h/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/N3rDQXX.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]beIN Sports 3 (Thailand)[/COLOR]</title>
+<link>http://111.223.50.12:8081/liveNimble/ch06h/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/N3rDQXX.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]beIN Sports 4 (Thailand)[/COLOR]</title>
+<link>http://111.223.50.12:8081/liveNimble/ch07h/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/N3rDQXX.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]beIN Sports USA[/COLOR]</title>
+<link>http://wagonn.info/futbotv/djsssnmepk91t_beins.m3u8</link>
+<thumbnail>https://i.imgur.com/kG0nw7O.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Box Nation[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/boxnation.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://is1.mzstatic.com/image/thumb/Purple62/v4/fb/01/98/fb01983b-52ad-9979-819f-b2f64727fdf7/source/1200x630bb.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]BT Sport 1[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/btsport1.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://sportplaylists.com/wp-content/uploads/2016/11/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]BT Sport 2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/btsport2.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://sportplaylists.com/wp-content/uploads/2016/11/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]BT Sport 3[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/btsporteurope.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://sportplaylists.com/wp-content/uploads/2016/11/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]BT Sport ESPN[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/btsportespn.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://sportplaylists.com/wp-content/uploads/2016/11/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Canal+ Sport (FR)[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+sport.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/UxQxWTg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]CBC Sport[/COLOR]</title>
+<link>
+sublink:plugin://plugin.video.f4mTester/?url=http://ams.tvizlehd.com/live/cbcsport/playlist.m3u8;&amp;streamtype=HLSRETRY&amp;name=BOOM! for Lee#
+sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/index.m3u8;&amp;streamtype=HLSRETRY&amp;name=BOOM! for Lee#
+</link>
+<thumbnail>https://pbs.twimg.com/profile_images/694429650211201024/hV8YCIoF.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Chelsea TV[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/chelseatv.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/8ELysrw.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]ESPN[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/espn.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/syquGUp.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Fox Sports 1 (US)[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/foxsports1.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://i.pinimg.com/736x/00/a9/29/00a9291e9423aeca2c42f7ce4bf9e77d--rugby-league-fox-sports.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Fox Sports 2 (US)[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/foxsports2.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://i.pinimg.com/736x/00/a9/29/00a9291e9423aeca2c42f7ce4bf9e77d--rugby-league-fox-sports.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Futbol 1[/COLOR]</title>
+<link>https://217-182-196-134.livesports24.online/onlineukrfootball1-live.m3u8</link>
+<thumbnail>https://i.imgur.com/uBwXPLw.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Futbol 2[/COLOR]</title>
+<link>https://5-254-66-104.livesports24.online/onlineukrfootball2-live.m3u8</link>
+<thumbnail>https://i.imgur.com/uBwXPLw.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Golf Channel[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>https://live.bypassed.st/golf-channel</page>
+<referer>https://live.bypassed.st</referer>
+</regex>
+<thumbnail>https://i.imgur.com/YJ6KS1G.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]LFC TV[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/lfctv.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://betfreebets.uk/img/channels/300x300/xLFCTV.png.pagespeed.ic.dqEjTC0LXT.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Match! Football 1[/COLOR]</title>
+<link>http://185.58.65.51:8081/futbol1/tracks-v1a1/index.m3u8</link>
+<thumbnail>https://i.imgur.com/gEfb1xJ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Match! Football 2[/COLOR]</title>
+<link>http://185.58.65.51:8081/futbol2/tracks-v1a1/index.m3u8</link>>
+<thumbnail>https://i.imgur.com/gEfb1xJ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Match! Football 3[/COLOR]</title>
+<link>http://185.58.65.51:8081/futbol3/tracks-v1a1/index.m3u8</link>
+<thumbnail>https://i.imgur.com/gEfb1xJ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Match! TV[/COLOR]</title>
+<link>http://185.58.65.51:8081/matchtv/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/gEfb1xJ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]MLB Network[/COLOR]</title>
+<link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8</link>
+<thumbnail>https://i.imgur.com/BiOsFVk.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Movistar Futbol[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+futbol.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/790990535603478528/-acdPvtn_400x400.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]MUTV[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/mutv.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://lh3.googleusercontent.com/s9RdxF424tVm6sy5dU5_qBRnI39Cczk2pqIYwZUV7s2tY6v1F9U2_-8jTe6Xmuk4A4xG=w300</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]NBA TV[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/nbatv.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.nba.com/media/NBATVcolorlogo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]NBCSN[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/nbcsn.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://thecomeback.com/awfulannouncing/wp-content/uploads/sites/94/2014/01/nbcsnblack.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]NFL Network[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>https://live.bypassed.st/nflnetwork</page>
+<referer>https://live.bypassed.st</referer>
+</regex>
+<thumbnail>https://i.imgur.com/xqHrotC.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]NFL Now[/COLOR]</title>
+<link>https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_4500k.m3u8</link>
+<thumbnail>https://static-s.aa-cdn.net/img/wp/40700000404121/58ce0116191a5bb7739a557def67fa1b</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Olympic Channel[/COLOR]</title>
+<link>https://live.olympicchannel.com/ocs/channel01b/master.m3u8</link>
+<thumbnail>https://i.imgur.com/OkPPrf9.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Premier Sports[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/premiersports.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+</link>
+<thumbnail>https://i.imgur.com/JEielOM.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]PTV Sports[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/ptvsports.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://is3.mzstatic.com/image/thumb/Purple111/v4/ee/e2/74/eee274ae-0f75-edb2-685a-c1b8996e9d4e/source/1200x630bb.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Racing UK[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/racinguk.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/930029556114870273/zm1YKNp9_400x400.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Sky Sport Bundesliga 1[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysportbundesliga1.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/Ok64MjP.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Sky Sport Bundesliga 2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysportbundesliga2.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/Ok64MjP.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Sky Sports Main Event[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports1.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://skysportshd.tk/img/sky.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Sky Sports Cricket[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports2.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://skysportshd.tk/img/sky.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Sky Sports Action[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports3.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://skysportshd.tk/img/sky.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Sky Sports Golf[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports4.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://skysportshd.tk/img/sky.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Sky Sports Premier League[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports5.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://skysportshd.tk/img/sky.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Sky Sports News[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysportsnews.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://skysportshd.tk/img/sky.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Sky Sports F1[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysportsf1.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://skysportshd.tk/img/sky.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Sky Sports Football[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysportsfootball.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://skysportshd.tk/img/sky.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Sky Sports Box Office[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysportsboxoffice.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://skysportshd.tk/img/sky.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Sky Calcio[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skycalcio.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://image.jimcdn.com/app/cms/image/transf/none/path/s8eaeebbab5d7fb95/image/i806e962a370c6b41/version/1328269374/image.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Sky Sport 1 Italia[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysport1italia.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/i8dqETq.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Sky Sport 2 Italia[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysport2italia.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/i8dqETq.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Sky Sport 3 Italia[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysport3italia.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/i8dqETq.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Sony Six[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/sonysix.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/3PXUzcX.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]TEN 1[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/ten1.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/tt8F9r1.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]TRT Spor[/COLOR]</title>
+<link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '(.*http.*m3u8.*?)'</expres>
+<page>http://www.b-c-e.us/FHD15</page>
+<referer>http://www.tv.b-c-e.us/TRTSpor.php</referer>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/541877772537188353/Ue3YfaCk.jpeg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]TSN 1[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/tsn.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://media.glassdoor.com/sqll/700491/tsn-squarelogo-1480436140042.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]TSN 2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/tsn2.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://media.glassdoor.com/sqll/700491/tsn-squarelogo-1480436140042.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Willow[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/willowtv.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://techstory.in/wp-content/uploads/2016/03/Willow.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
 
 
 ////////////////////////////////////
@@ -1098,7 +2006,7 @@ expres>source: '(.*?)'</expres>
 <title>[COLOR blue]#  [/COLOR][COLOR]Sporttv 4 pt[/COLOR]</title>
 <link>rtmp://213.152.180.151:17247/sstream/0tkVGgd2jl.stream</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/0/05/Sporttv4.png/96px-Sporttv4.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
