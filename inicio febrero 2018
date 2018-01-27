@@ -789,7 +789,7 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 
 -----------------
 
-item>
+<item>
 <title>[COLOR red]###  AVISO  ###[COLOR blue]  >>>>[COLOR]  PRESIONE AQUI  [COLOR blue]<<<<[/COLOR]</title>
 <link>$doregex[text]</link>
 <regex>
@@ -805,6 +805,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
 <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
 <info>[COLOR red]###  #ELECDEKA  ###[/COLOR]</info>
+</item>
 
 -----------------
 
