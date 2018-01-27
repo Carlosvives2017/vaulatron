@@ -774,7 +774,14 @@ http://elecdeka.com.uy
 
 Entretenimientos
 
-http://iptv.premiumtutv.com/canal_60_tbs.m3u8
+#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]A&E
+http://iptv.premiumtutv.com/canal_48_ae.m3u8
+#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Animal Planet
+http://iptv.premiumtutv.com/canal_28_animalplanet.m3u8
+#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Investigación Discovery
+http://iptv.premiumtutv.com/canal_65_investigacindiscovery.m3u8
+#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]TruTV
+http://iptv.premiumtutv.com/canal_73_trutv.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Discovery Civilization
 http://iptv.premiumtutv.com/canal_61_discoverycivilization.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Discovery Science
@@ -783,10 +790,10 @@ http://iptv.premiumtutv.com/canal_62_discoveryscience.m3u8
 http://iptv.premiumtutv.com/canal_63_discoveryturbo.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Discovery Theater
 http://iptv.premiumtutv.com/canal_64_discoverytheater.m3u8
-#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Investigación Discovery
-http://iptv.premiumtutv.com/canal_65_investigacindiscovery.m3u8
-#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]TruTV
-http://iptv.premiumtutv.com/canal_73_trutv.m3u8
+#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Discovery World
+http://iptv.premiumtutv.com/canal_87_discoveryworld.m3u8
+#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Home and Health
+http://iptv.premiumtutv.com/canal_66_homeandhealth.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Discovery Channel
 http://iptv.premiumtutv.com/canal_19_discoverychannel.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]NatGeo
@@ -795,8 +802,6 @@ http://iptv.premiumtutv.com/canal_23_natgeo.m3u8
 http://iptv.premiumtutv.com/canal_32_tve.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Lifetime
 http://iptv.premiumtutv.com/canal_34_lifetime.m3u8
-#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Unicable
-http://iptv.premiumtutv.com/canal_43_unicable.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Fox life
 http://iptv.premiumtutv.com/canal_44_foxlife.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]E! Entertainment Television
@@ -806,8 +811,7 @@ http://iptv.premiumtutv.com/canal_58_bbcentertainment.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Comedy Central
 http://iptv.premiumtutv.com/canal_59_comedycentral.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]TBS 
-#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Home and Health
-http://iptv.premiumtutv.com/canal_66_homeandhealth.m3u8
+http://iptv.premiumtutv.com/canal_60_tbs.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Glitz   
 http://iptv.premiumtutv.com/canal_67_glitz.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]HMX TV
@@ -830,6 +834,8 @@ http://iptv.premiumtutv.com/canal_104_garajetv.m3u8
 http://iptv.premiumtutv.com/canal_112_fashiontv.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]TLC 
 http://iptv.premiumtutv.com/canal_105_tlc.m3u8
+#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Unicable
+http://iptv.premiumtutv.com/canal_43_unicable.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]WOBI TV
 http://iptv.premiumtutv.com/canal_107_wobitv.m3u8
 
@@ -837,48 +843,36 @@ Peliculas y series
 
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]AMC
 http://iptv.premiumtutv.com/canal_96_amc.m3u8
-#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]I.Sat
-http://iptv.premiumtutv.com/canal_69_i.sat.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]AXN
 http://iptv.premiumtutv.com/canal_74_axn.m3u8
-#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Warner  
-http://iptv.premiumtutv.com/canal_76_warner.m3u8
-#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Universal
-http://iptv.premiumtutv.com/canal_78_universal.m3u8
+#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Cinemax (O)
+http://iptv.premiumtutv.com/canal_115_cinemaxo.m3u8
+#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Cinecanal
+http://iptv.premiumtutv.com/canal_119_cinecanal.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]The Film Zone
 http://iptv.premiumtutv.com/canal_79_thefilmzone.m3u8
-#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Space   
-http://iptv.premiumtutv.com/canal_81_space.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]De Película
 http://iptv.premiumtutv.com/canal_85_depelcula.m3u8
-#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Discovery World
-http://iptv.premiumtutv.com/canal_87_discoveryworld.m3u8
-#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Fox Action
-http://iptv.premiumtutv.com/canal_88_foxaction.m3u8
-#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Fox 1
-http://iptv.premiumtutv.com/canal_89_fox1.m3u8
-#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Az Corazón
-http://iptv.premiumtutv.com/canal_90_azcorazn.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Golden Edge
 http://iptv.premiumtutv.com/canal_37_goldenedge.m3u8
-#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]TNT Series
-http://iptv.premiumtutv.com/canal_39_tntseries.m3u8
+#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]I.Sat
+http://iptv.premiumtutv.com/canal_69_i.sat.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Syfy
 http://iptv.premiumtutv.com/canal_42_syfy.m3u8
+#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Space   
+http://iptv.premiumtutv.com/canal_81_space.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Cinecanal (W)
 http://iptv.premiumtutv.com/canal_27_cinecanalw.m3u8
-#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Animal Planet
-http://iptv.premiumtutv.com/canal_28_animalplanet.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]FX
 http://iptv.premiumtutv.com/canal_29_fx.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Fox
 http://iptv.premiumtutv.com/canal_8_fox.m3u8
+#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Fox 1
+http://iptv.premiumtutv.com/canal_89_fox1.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Fox Movies HD
 http://iptv.premiumtutv.com/canal_46_foxmovieshd.m3u8
-#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]AyM Sports
-http://iptv.premiumtutv.com/canal_47_aymsports.m3u8
-#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]A&E
-http://iptv.premiumtutv.com/canal_48_ae.m3u8
+#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Fox Action
+http://iptv.premiumtutv.com/canal_88_foxaction.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Fox Classics
 http://iptv.premiumtutv.com/canal_52_foxclassics.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Fox Cinéma
@@ -889,18 +883,21 @@ http://iptv.premiumtutv.com/canal_54_golden.m3u8
 http://iptv.premiumtutv.com/canal_56_studiouniversal.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]TCM 
 http://iptv.premiumtutv.com/canal_57_tcm.m3u8
-#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Cinemax (O)
-http://iptv.premiumtutv.com/canal_115_cinemaxo.m3u8
-#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Cinecanal
-http://iptv.premiumtutv.com/canal_119_cinecanal.m3u8
-#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Universal Channel TEST
-http://iptv.premiumtutv.com/canal_129_universalchanneltest.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Sony
 http://iptv.premiumtutv.com/canal_11_sony.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]TNT
 http://iptv.premiumtutv.com/canal_15_tnt.m3u8
+#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]TNT Series
+http://iptv.premiumtutv.com/canal_39_tntseries.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Universal Channel   
 http://iptv.premiumtutv.com/canal_33_universalchannel.m3u8
+#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Universal
+http://iptv.premiumtutv.com/canal_78_universal.m3u8
+#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Universal Channel (op-2)
+http://iptv.premiumtutv.com/canal_129_universalchanneltest.m3u8
+#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Warner  
+http://iptv.premiumtutv.com/canal_76_warner.m3u8
+
 
 Dibujos
 
@@ -935,6 +932,8 @@ http://iptv.premiumtutv.com/canal_132_natgeokids.m3u8
 
 Deportes
 
+#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]AyM Sports
+http://iptv.premiumtutv.com/canal_47_aymsports.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]ESPN
 http://iptv.premiumtutv.com/canal_95_espn.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]ESPN 2
@@ -1000,6 +999,8 @@ http://iptv.premiumtutv.com/canal_109_proyecto40.m3u8
 http://iptv.premiumtutv.com/canal_111_mileniotv.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Az Mundo
 http://iptv.premiumtutv.com/canal_113_azmundo.m3u8
+#EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Az Corazón
+http://iptv.premiumtutv.com/canal_90_azcorazn.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Az Cinéma
 http://iptv.premiumtutv.com/canal_114_azcinma.m3u8
 #EXTINF:-1 tvg-logo="https://s10.postimg.org/6wfhj3189/yotevero.jpg",[COLOR blue]#  [/COLOR]Az Click!
