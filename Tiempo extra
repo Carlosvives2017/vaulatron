@@ -766,10 +766,10 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 <item>
-<title>[COLOR red]# #   [COLOR red]Futbol en vivo   [COLOR red][COLOR red]# #[/COLOR]</title>
+<title>[COLOR red]# #   [COLOR red]Tiempo extra   [COLOR red][COLOR red]# #[/COLOR]</title>
 <link>nop</link>
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart> 
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 
@@ -782,8 +782,8 @@ item>
 <expres>file:"(.*?)"</expres>
 <page>http://widestream.io/embed-14404</page>
 </regex>
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 item>
@@ -794,41 +794,11 @@ item>
 <expres>file:"(.*?)"</expres>
 <page>http://widestream.io/embed-14402</page>
 </regex>
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 --------------------------------
-
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Rivo tx2 [COLOR blue]~[COLOR deepskyblue] VTV [COLOR blue]~[COLOR deepskyblue] Foxsport[/COLOR]</title>
-
-<link>$doregex[bro.adca.st]</link>
-<regex>
-<name>bro.adca.st</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=53&p=1&c=0&stretching=uniform&old=0'):
- import requests, re, urllib
- headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:52.0) Gecko/20100101 Firefox/52.0'}
- headers['Referer'] = 'http://in.xrivonet.info/003.html'
- source = requests.get(url, headers=headers)
- m3u8 = re.findall('trap = "(.+?)"', source.text)[0]
- m3u8 = m3u8.decode('base64')
- tokenpage = re.findall('fass = "(.+?)"', source.text)[0]
- headers['Referer'] = url
- headers['X-Requested-With'] = 'XMLHttpRequest'
- headers['Accept'] = 'application/json, text/javascript, */*; q=0.01'
- headers['Accept-Language'] = 'en-US,en;q=0.5'
- source = requests.get('http://bro.adca.st/%s'%tokenpage, headers=headers)
- m3u8 = m3u8 + re.findall(':"(.+?)"', source.text)[0] + '|User-Agent=%s&Referer=http://bro.adca.st/&Origin=http://bro.adca.st'%headers['User-Agent']
- return m3u8
-]]></expres>
-<page></page>
-</regex>
-
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
-</item>
 
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Max 01 739 [COLOR blue]~[COLOR deepskyblue] DirecTv [COLOR blue]~[COLOR deepskyblue] Espn [COLOR blue]~ [COLOR red]bro[COLOR].[COLOR white]adca[COLOR].[COLOR blue]st[/COLOR]</title>
@@ -856,8 +826,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 <page></page>
 </regex>
 
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 
@@ -884,8 +854,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
 			<referer>http://www.mipsplayer.net</referer>
 			</regex>
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 <item>
@@ -910,8 +880,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
 			<referer>http://www.mipsplayer.net</referer>
 			</regex>
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 <item>
@@ -940,16 +910,47 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 <page></page>
 </regex>
 
-<thumbnail>http://2.bp.blogspot.com/-KIQ9UsL-s6Y/WSBBfIz_-rI/AAAAAAAAA-A/fFJ21CGrRbsLMUk7D5D5nAVLk6jvxuX2wCK4B/s1600/Deportes.jpg</thumbnail>
-<fanart>http://www.rotadeportes.com.ar/img/slider/deportes.jpg</fanart>   
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Vip 1 La casita[/COLOR]</title>
 <link>https://ssh101.com/m3u8/dyn/vip2/index.m3u8</link>
-<thumbnail>http://2.bp.blogspot.com/-KIQ9UsL-s6Y/WSBBfIz_-rI/AAAAAAAAA-A/fFJ21CGrRbsLMUk7D5D5nAVLk6jvxuX2wCK4B/s1600/Deportes.jpg</thumbnail>
-<fanart>http://www.rotadeportes.com.ar/img/slider/deportes.jpg</fanart>   
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
+</item>
+
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Rivo tx2 [COLOR blue]~[COLOR deepskyblue] VTV [COLOR blue]~[COLOR deepskyblue] Foxsport[/COLOR]</title>
+
+<link>$doregex[bro.adca.st]</link>
+<regex>
+<name>bro.adca.st</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=53&p=1&c=0&stretching=uniform&old=0'):
+ import requests, re, urllib
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:52.0) Gecko/20100101 Firefox/52.0'}
+ headers['Referer'] = 'http://in.xrivonet.info/003.html'
+ source = requests.get(url, headers=headers)
+ m3u8 = re.findall('trap = "(.+?)"', source.text)[0]
+ m3u8 = m3u8.decode('base64')
+ tokenpage = re.findall('fass = "(.+?)"', source.text)[0]
+ headers['Referer'] = url
+ headers['X-Requested-With'] = 'XMLHttpRequest'
+ headers['Accept'] = 'application/json, text/javascript, */*; q=0.01'
+ headers['Accept-Language'] = 'en-US,en;q=0.5'
+ source = requests.get('http://bro.adca.st/%s'%tokenpage, headers=headers)
+ m3u8 = m3u8 + re.findall(':"(.+?)"', source.text)[0] + '|User-Agent=%s&Referer=http://bro.adca.st/&Origin=http://bro.adca.st'%headers['User-Agent']
+ return m3u8
+]]></expres>
+<page></page>
+</regex>
+
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 
@@ -980,8 +981,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 <page></page>
 </regex>
 
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 <item>
@@ -1006,8 +1007,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
 			<referer>http://www.mipsplayer.net</referer>
 			</regex>
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
  <item>
@@ -1033,8 +1034,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 			<referer>http://www.mipsplayer.net</referer>
 			</regex>
 
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 //////////////////////////
@@ -1061,8 +1062,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
 			<referer>http://www.mipsplayer.net</referer>
 			</regex>
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 <item>
@@ -1091,8 +1092,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 <page></page>
 </regex>
 
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 
@@ -1122,8 +1123,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 <page></page>
 </regex>
 
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 item>
@@ -1152,8 +1153,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 <page></page>
 </regex>
 
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 item>
@@ -1164,8 +1165,8 @@ item>
 <expres>file:"(.*?)"</expres>
 <page>http://elgrantv.com/tyc-sports-en-vivo.html</page>
 </regex>
-<thumbnail>https://i.ytimg.com/vi/9lvKFKUeTTE/maxresdefault_live.jpg</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 <item>
@@ -1176,8 +1177,8 @@ item>
 <expres>file:"(.*?)"</expres>
 <page>http://widestream.io/embed-12431</page>
 </regex>
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 item>
@@ -1203,8 +1204,8 @@ item>
 			<referer>http://www.ucaster.me</referer>
 			</regex>
 
-<thumbnail>http://www.thelogodb.com/images/media/logo/uyusws1446157799.png/medium</thumbnail>
-<fanart></fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 item>
@@ -1221,8 +1222,8 @@ item>
 <page>http://www.247bay.tv/membedplayer/sports2caballona/2/600/400</page>
 <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
 <referer>http://www.247bay.tv</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/uyusws1446157799.png/medium</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 http://www.247bay.tv/membedplayer/fox1malosolandia/2/600/400
 
@@ -1235,26 +1236,11 @@ item>
 <expres>source: "(.*?)"</expres>
 <page>http://widestream.io/embedClappr.php?live=79</page>
 </regex>
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 ------------------------
-
-
---------------------------------------------
----------------------------------------------------------
-
-
-
-<item>
-<title>[COLOR red]# #   [COLOR red]Futbol Streams   [COLOR red][COLOR red]# #[/COLOR]</title>
-<link>nop</link>
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
-</item>
-*************************************************************
-
 
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]RivoSports 723[COLOR blue]~[COLOR white] widestream[/COLOR]</title>
@@ -1264,8 +1250,8 @@ item>
 <expres>file:"(.*?)"</expres>
 <page>http://widestream.io/embed-7231</page>
 </regex>
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 <item>
@@ -1276,8 +1262,8 @@ item>
 <expres>file:"(.*?)"</expres>
 <page>http://widestream.io/embed-7230</page>
 </regex>
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 <item>
@@ -1288,8 +1274,8 @@ item>
 <expres>file:"(.*?)"</expres>
 <page>http://widestream.io/embed-7231</page>
 </regex>
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 <item>
@@ -1300,16 +1286,16 @@ item>
 <expres>file:"(.*?)"</expres>
 <page>http://widestream.io/embed-16337</page>
 </regex>
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 item>
 <title>[COLOR blue]#  [/COLOR][COLOR]dailydeportes16 [COLOR blue]~[COLOR deepskyblue] GolTv[/COLOR]</title>
 <sportsdevil>http://dailydeportes.pw/zive/stream16.html</sportsdevil>
 <referer>http://dailydeportes.pw/zive/stream16.html</referer>
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 
@@ -1342,8 +1328,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 <page></page>
 </regex>
 
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 
@@ -1362,8 +1348,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 <page>http://vipracing.info/channel/canal-1</page>
 <referer>http://vipracing.info/channel/canal-1</referer>
 </regex>
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 
@@ -1393,8 +1379,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 <page></page>
 </regex>
 
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 <item>
@@ -1412,8 +1398,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 <page>http://vipracing.info/channel/canal-4</page>
 <referer>http://vipracing.info/channel/canal-1</referer>
 </regex>
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 <item>
@@ -1442,8 +1428,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 <page></page>
 </regex>
 
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 <item>
@@ -1472,8 +1458,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 <page></page>
 </regex>
 
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 
@@ -1487,8 +1473,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 <referer>http://vipracing.info/channel/canal-12</referer>
 </regex>
 <title>[COLOR blue]#  [/COLOR][COLOR]Max 41 canal 12 [COLOR blue]~[COLOR deepskyblue] Bein ñ[/COLOR]</title>
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 <item> 
@@ -1500,8 +1486,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 <referer>http://vipracing.info/channel/canal-12</referer>
 </regex>
 <title>[COLOR blue]#  [/COLOR][COLOR]Max 44 canal 12 [COLOR blue]~[COLOR deepskyblue] Espn[/COLOR]</title>
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 <item> 
@@ -1512,8 +1498,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 <referer>http://vipracing.info/channel/canal-12</referer>
 </regex>
 <title>[COLOR blue]#  [/COLOR][COLOR]Max 45 canal 12[/COLOR]</title>
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 <item> 
@@ -1521,8 +1507,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 <referer>http://vipracing.info/channel/canal-12</referer>
 </regex>
 <title>[COLOR blue]#  [/COLOR][COLOR]Max 46 canal 12[/COLOR]</title>
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 <item> 
@@ -1534,8 +1520,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 <referer>http://vipracing.info/channel/canal-12</referer>
 </regex>
 <title>[COLOR blue]#  [/COLOR][COLOR]Max 50 canal 12[/COLOR]</title>
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 ---------------------------------
 
@@ -1563,8 +1549,8 @@ item>
 			<referer>http://arenavision.ru</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
-<thumbnail>http://3.bp.blogspot.com/-aGQz7eOYEi8/WSBg2rYeiDI/AAAAAAAABB0/-upsZbTJK6oIPfUaSvq17gG8twf_tQ3rgCK4B/s1600/aseistream.jpg</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 
@@ -1594,8 +1580,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 <page></page>
 </regex>
 
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
 <item>
@@ -1624,45 +1610,11 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 <page></page>
 </regex>
 
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Max 36 [COLOR blue]~[COLOR deepskyblue] Univision Deportes [COLOR blue]~[COLOR deepskyblue] ESPN Deportes[/COLOR]</title>
- <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.mipsplayer.net/membedplayer/max36a1/1/650/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.mipsplayer.net</referer>
-			</regex> 
-			<regex>
-			<name>hls</name>
-			<expres>hlsUrl \+ \(\"(.*?)"</expres>
-			<page>http://www.mipsplayer.net/membedplayer/max36a1/1/650/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.mipsplayer.net</referer>
-			</regex>
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
-</item>
-
-********************************
-Fox Chile
-********************************
-<item>
-<title>[COLOR red]# #   [COLOR red]Fut Chile   [COLOR red][COLOR red]# #[/COLOR]</title>
-<link>nop</link>
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart></item>
-<item>
+------------------------
 
 <item><title>[COLOR blue]#  [/COLOR][COLOR]Fut Chile 1[/COLOR]</title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
@@ -1680,8 +1632,8 @@ Fox Chile
 <page>$pyFunction:cloudflare.createCookie('http://futbolchile.net',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://1.bp.blogspot.com/-sbxCwdscy94/WK0WCVzEqyI/AAAAAAAAEVw/qu0sOdR3qKUGY1R9MxTImlUqh1JwQYOHACLcB/s1600/nuevo_logo_futbol_chile_para_pagina.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
   
 <item>
@@ -1701,8 +1653,8 @@ Fox Chile
 <page>$pyFunction:cloudflare.createCookie('http://futbolchile.net',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://1.bp.blogspot.com/-sbxCwdscy94/WK0WCVzEqyI/AAAAAAAAEVw/qu0sOdR3qKUGY1R9MxTImlUqh1JwQYOHACLcB/s1600/nuevo_logo_futbol_chile_para_pagina.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
   
 <item>
@@ -1722,107 +1674,9 @@ Fox Chile
 <page>$pyFunction:cloudflare.createCookie('http://futbolchile.net',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://1.bp.blogspot.com/-sbxCwdscy94/WK0WCVzEqyI/AAAAAAAAEVw/qu0sOdR3qKUGY1R9MxTImlUqh1JwQYOHACLcB/s1600/nuevo_logo_futbol_chile_para_pagina.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
-
-*****************************
-Fox y Espn
-*********************************
-
-item>
-<title>[COLOR red]# #   [COLOR red]Fox y Espn (rep)   [COLOR red][COLOR red]# #[/COLOR]</title>
-<link>nop</link>
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart></item>
-<item>
-
-item>
-title>[COLOR blue]#  [/COLOR][COLOR]FOX SPORTS 1 URU</title>
-link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
-<regex>
-<name>play</name>
-<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
-<page>https://www.cxntv.com/canales/tv-foxuy/</page>
-</regex>
-<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/01/tv-foxsports-uru-16-hd.png</thumbnail>
-</item>
- 
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR]FOX SPORTS 1 ARG</title>
-<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
-<regex>
-<name>play</name>
-<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
-<page>https://www.cxntv.com/canales/tv-foxar/</page>
-</regex>
-<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2014/05/tv-foxsports-arg-16-hd.png</thumbnail>
-</item>
- 
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR]FOX SPORTS 2 ARG</title>
-<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
-<regex>
-<name>play</name>
-<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
-<page>https://www.cxntv.com/canales/tv-fox2/</page>
-</regex>
-<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/02/tv-foxsports-2-16-hd.png</thumbnail>
-</item>
- 
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR]FOX SPORTS 3 ARG</title>
-<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
-<regex>
-<name>play</name>
-<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
-<page>https://www.cxntv.com/canales/fox-sports-3/</page>
-</regex>
-<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/07/tv-foxsports-3-16.png</thumbnail>
-</item>
-  
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR]ESPN ARG</title>
-<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
-<regex>
-<name>play</name>
-<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
-<page>https://www.cxntv.com/canales/espn/</page>
-</regex>
-<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/09/espn.png</thumbnail>
-</item>
- 
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR]ESPN 1 ARG</title>
-<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
-<regex>
-<name>play</name>
-<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
-<page>https://www.cxntv.com/canales/tv-espn1</page>
-</regex>
-<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/09/tv-espn.png</thumbnail>
-</item>
- 
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR]ESPN 2 ARG</title>
-<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
-<regex>
-<name>play</name>
-<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
-<page>https://www.cxntv.com/canales/tv-espn2/</page>
-</regex>
-<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/09/tv-espn2.png</thumbnail>
-</item>
- 
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR]ESPN 3 ARG</title>
-<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
-<regex>
-<name>play</name>
-<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
-<page>https://www.cxntv.com/canales/espn3/</page>
-</regex>
-<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/09/tv-espn3.png</thumbnail>
-</item>
-<item>
+------
+-------------
