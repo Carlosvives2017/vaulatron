@@ -772,64 +772,22 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 <fanart></fanart>
 </item>
 
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR]DirecTv +[/COLOR]</title>
-  <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.pubucaster.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.ucaster.me/membedplayer/fire78s/1/620/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.ucaster.me</referer>
-			</regex> 
-			<regex>
-			<name>hls</name>
-			<expres>hlsUrl \+ \(\"(.*?)"</expres>
-			<page>http://www.ucaster.me/membedplayer/fire78s/1/620/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.ucaster.me</referer>
-			</regex>
-
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsK4vUgygmgC4UnOOymvpDyptEiv_PDJCNu-rYf97CgE7L3UPD-A</thumbnail>
-<fanart></fanart>
-</item> 
-
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR]DirecTv[/COLOR]</title>
- 
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.publish247.xyz:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.247bay.tv/membedplayer/directvcaballona/2/600/400</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.247bay.tv</referer>
-</regex>
-
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsK4vUgygmgC4UnOOymvpDyptEiv_PDJCNu-rYf97CgE7L3UPD-A</thumbnail>
-<fanart></fanart>
-</item> 
-
-
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR]FOX SPORTS 1[/COLOR]</title>
-<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
-<regex>
-<name>play</name>
-<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
-<page>https://www.cxntv.com/canales/tv-foxuy/</page>
-</regex>
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Fox Sport 1[/COLOR]</title>
+<link>http://iptv.premiumtutv.com/canal_102_foxsports.m3u8</link>
 <thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/01/tv-foxsports-uru-16-hd.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Fox Sports 2[/COLOR]</title>
+<link>http://iptv.premiumtutv.com/canal_77_foxsports2.m3u8</link>
+<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/02/tv-foxsports-2-16-hd.png</thumbnail>
+</item>
+
+item>
+<title>[COLOR blue]#  [/COLOR][COLOR]FOX SPORTS 3[/COLOR]</title>
+<link>http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/Stream(01)/index.m3u8</link>
+<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/07/tv-foxsports-3-16.png</thumbnail>
 </item>
  
 <item>
@@ -854,63 +812,30 @@ item>
 <fanart></fanart>
 </item>
 
-
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR]FOX SPORTS 2[/COLOR]</title>
-
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres><![CDATA[source: '(.*?)']]></expres>
-<page>http://depo.superligatv.com/foxsport2.php</page>
-</regex>
-
-<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/02/tv-foxsports-2-16-hd.png</thumbnail>
-</item>
- 
-  
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR]FOX SPORTS 3[/COLOR]</title>
-<link>http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/Stream(01)/index.m3u8</link>
-<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/07/tv-foxsports-3-16.png</thumbnail>
-</item>
- 
-item>
+<item>
 <title>[COLOR blue]#  [/COLOR][COLOR]ESPN 1[/COLOR]</title>
-<link>http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8</link>
+<link>http://iptv.premiumtutv.com/canal_95_espn.m3u8</link>
 <thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/09/tv-espn.png</thumbnail>
 </item>
  
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR]ESPN 1 (op 2)[/COLOR]</title>
-<link>http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8</link>
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]ESPN +[/COLOR]</title>
+<link>http://iptv.premiumtutv.com/canal_103_espn+.m3u8</link>
 <thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/09/tv-espn2.png</thumbnail>
 </item>
 
-item>
+<item>
 <title>[COLOR blue]#  [/COLOR][COLOR]ESPN 2[/COLOR]</title>
-<link>http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8</link>
+<link>http://iptv.premiumtutv.com/canal_35_espn2.m3u8</link>
 <thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/09/tv-espn2.png</thumbnail>
 </item>
 
-item>
+<item>
 <title>[COLOR blue]#  [/COLOR][COLOR]ESPN 3[/COLOR]</title>
-<link>http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/Stream(06)/index.m3u8</link>
+<link>http://iptv.premiumtutv.com/canal_36_espn3.m3u8</link>
 <thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/09/tv-espn3.png</thumbnail>
 </item>
 <item>
-
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Foxsport br[/COLOR]</title>
-<link>$doregex[get-id]</link>
-<regex>
-<name>get-id</name>
-<expres>file:"(.*?)"</expres>
-<page>http://widestream.io/embed-7029</page>
-</regex>
-<thumbnail>http://www.thelogodb.com/images/media/logo/uyusws1446157799.png/medium</thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]ESPN+ br[/COLOR]</title>
@@ -931,52 +856,8 @@ item>
 <info></info>
 </item>
 
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR]TyC Sports BsAs[/COLOR]</title>
-<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/172499/</link>
-<regex>
-<name>play</name>
-<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
-<page>https://www.cxntv.com/canales/172499/</page>
-</regex>
-<thumbnail>https://i.ytimg.com/vi/9lvKFKUeTTE/maxresdefault_live.jpg</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR]GolTV (vpn)[/COLOR]</title>
-<link>http://50.97.142.130/hls2/amlst:30001_ios/chunklist_b1396000.m3u8</link>
-<thumbnail>http://www.prensario.net/Multimedios/imgs/14885_468.jpg</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
--------------------------------------------------------------------------
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]GolTV es[/COLOR]</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
-expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=golesp&width=650&height=397 </page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6--Tc3QlBHZPKhtgbV5pDGYCq_zWAIBib8GOdlhO3GKqduxhViQ</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]GolTV es (op 2)[/COLOR]</title>
-<sportsdevil>http://latelete.tv/goltv-en-directo-gratis-por-internet/</sportsdevil>
-<referer>http://latelete.tv/</referer>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6--Tc3QlBHZPKhtgbV5pDGYCq_zWAIBib8GOdlhO3GKqduxhViQ</thumbnail>
-<fanart></fanart>
-</item>
-
 /////////////////////////////////////
 /////////////////////////////////////
-
 
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Univision deportes[/COLOR]</title>
@@ -2249,86 +2130,27 @@ expres>source: '(.*?)'</expres>
 </item>
 ------------------------------------------------------
 
-
-
-************************************************************
-pruebas
-****************
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Sport Tv br[/COLOR]</title>
-<link>$doregex[get-id]</link>
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]GolTV es[/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
-<name>get-id</name>
-<expres>file:"(.*?)"</expres>
-<page>http://widestream.io/embed-11402</page>
+<name>GetPageUrl</name>
+<expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=golesp&width=650&height=397 </page>
+<cookieJar></cookieJar>
 </regex>
-<thumbnail>http://1.bp.blogspot.com/-wGKaNp4FOhM/WaAb3tHExoI/AAAAAAAABbc/oIPYbRURp2oikEv7vqE-ZTQlK1onJ10SACK4BGAYYCw/s1600/icon%2Blogo%2Bok.png</thumbnail>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6--Tc3QlBHZPKhtgbV5pDGYCq_zWAIBib8GOdlhO3GKqduxhViQ</thumbnail>
 <fanart></fanart>
 </item>
 
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Sport Tv 2 br[/COLOR]</title>
-<link>$doregex[get-id]</link>
-<regex>
-<name>get-id</name>
-<expres>file:"(.*?)"</expres>
-<page>http://widestream.io/embed-11403</page>
-</regex>
-<thumbnail>http://1.bp.blogspot.com/-wGKaNp4FOhM/WaAb3tHExoI/AAAAAAAABbc/oIPYbRURp2oikEv7vqE-ZTQlK1onJ10SACK4BGAYYCw/s1600/icon%2Blogo%2Bok.png</thumbnail>
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]GolTV es (op 2)[/COLOR]</title>
+<sportsdevil>http://latelete.tv/goltv-en-directo-gratis-por-internet/</sportsdevil>
+<referer>http://latelete.tv/</referer>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6--Tc3QlBHZPKhtgbV5pDGYCq_zWAIBib8GOdlhO3GKqduxhViQ</thumbnail>
 <fanart></fanart>
 </item>
-
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Band Sports br[/COLOR]</title>
-<link>http://$doregex[Henrique_PXLista25_IP]/loadbalance/bandsportshd/playlist.m3u8$doregex[Henrique_PXLista_AuthSign]|User-Agent: Mozilla/5.0</link>
-<regex>
-<name>Henrique_PXLista25_IP</name>
-<expres>location:http://(.*)/loadbalance</expres>
-<page>$doregex[Henrique_PXLista_Page]</page>
-<noredirect>true</noredirect>
-<includeheaders></includeheaders>
-</regex>
-<regex>
-<name>Henrique_PXLista_AuthSign</name>
-<expres>m3u8(.*)</expres>
-<page>$doregex[Henrique_PXLista_Page]</page>
-</regex>
-<regex>
-<name>Henrique_PXLista_Page</name>
-<expres>source: "(.*)",</expres>
-<page>http://pxstream.tv/embed/p3wq1j2yfhhm/?HENRIQUELISTA</page>
-<referer>http://ekostreams.co/</referer>
-</regex>
-<thumbnail>http://brasilsports.tv/wp-content/themes/brasilsports/canais/esportes/bandsports.png</thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item><item><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/200px-BandSports_logo.svg.png</thumbnail>
-<fanart></fanart>
-</item>
-
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Espn Brasil[/COLOR]</title>
-<link>http://$doregex[Henrique_PXLista25_IP]/loadbalance/slv10/playlist.m3u8$doregex[Henrique_PXLista_AuthSign]|User-Agent: Mozilla/5.0</link>
-<regex>
-<name>Henrique_PXLista25_IP</name>
-<expres>location:http://(.*)/loadbalance</expres>
-<page>$doregex[Henrique_PXLista_Page]</page>
-<noredirect>true</noredirect>
-<includeheaders></includeheaders>
-</regex>
-<regex>
-<name>Henrique_PXLista_AuthSign</name>
-<expres>m3u8(.*)</expres>
-<page>$doregex[Henrique_PXLista_Page]</page>
-</regex><regex>
-<name>Henrique_PXLista_Page</name>
-<expres>source: "(.*)",</expres>
-<page>http://pxstream.tv/embed/uk4gxc5do2xp/?HENRIQUELISTA</page>
-<referer>http://ekostreams.co/</referer>
-</regex>
-<thumbnail>http://www.thelogodb.com/images/media/logo/sxvypw1437611411.png/medium</thumbnail>
-<fanart></fanart>
-</item>
-----------------------------------------------
 
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Futbol C+[/COLOR]</title>
