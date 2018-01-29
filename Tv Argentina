@@ -953,7 +953,6 @@ item>
 <thumbnail>http://4.bp.blogspot.com/-ivOg2-zfAOk/WdaNifM-XaI/AAAAAAAABkY/3lI2oa12M7sF_UfjKwTvsPtDSl545jCEwCK4BGAYYCw/s1600/canal%2B26.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Canal_26_Movil.jpg/220px-Canal_26_Movil.jpg</fanart>
 </item>
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w252194214_b1864000_sleng.m3u8
 
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Ciudad Magazine[/COLOR]</title>
@@ -961,11 +960,10 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w252194214_b18
 <thumbnail>http://1.bp.blogspot.com/-cZcn_5Fz-Nw/WdaNiTlbleI/AAAAAAAABkg/XvBWTxapTOQQO943BlgRTenMuTpGMOT3QCK4BGAYYCw/s1600/Ciudad%2BMagazing.jpg</thumbnail>
 <fanart>http://1.bp.blogspot.com/-JoGdP3jQYFs/WdaNeJXQfPI/AAAAAAAABig/9KJO-5Zs-hYdxX0LEGSDyWrkpwL6jIc_wCK4BGAYYCw/s1600/ciudad%2Bmagazing.jpg</fanart>
 </item>
-http://200.42.92.149/live/mgzntv/mgzntv/playlist.m3u8|User-Agent=ArtearPlayer/3.2.42 (Linux;Android 4.4.2)
 
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Ciudad Magazine HD[/COLOR]</title>
-<link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0012</link>
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]Ciudad Magazine [COLOR lightslategray]TDP[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/elecuy/3844/5243.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link>
 <thumbnail>http://1.bp.blogspot.com/-cZcn_5Fz-Nw/WdaNiTlbleI/AAAAAAAABkg/XvBWTxapTOQQO943BlgRTenMuTpGMOT3QCK4BGAYYCw/s1600/Ciudad%2BMagazing.jpg</thumbnail>
 <fanart>http://1.bp.blogspot.com/-JoGdP3jQYFs/WdaNeJXQfPI/AAAAAAAABig/9KJO-5Zs-hYdxX0LEGSDyWrkpwL6jIc_wCK4BGAYYCw/s1600/ciudad%2Bmagazing.jpg</fanart>
 </item>
