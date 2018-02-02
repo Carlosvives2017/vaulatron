@@ -775,12 +775,12 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Fox Sport 1[/COLOR]</title>
 <link>http://iptv.premiumtutv.com/canal_102_foxsports.m3u8</link>
-<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/01/tv-foxsports-uru-16-hd.png</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uyusws1446157799.png/medium</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
  
 <item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Fox Sports 2[/COLOR]</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]Fox Sport 2[/COLOR]</title>
 <link>http://iptv.premiumtutv.com/canal_77_foxsports2.m3u8</link>
 <thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/02/tv-foxsports-2-16-hd.png</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
@@ -793,7 +793,7 @@ item>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
  
-<item>
+item>
 <title>[COLOR blue]#  [/COLOR][COLOR]FOX SPORTS (br)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/abrhd/foxsportshd/tracks-v2a1/index.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
