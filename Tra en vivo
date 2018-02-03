@@ -1041,7 +1041,7 @@ item>
 Cambios 1
 *********************
 <item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Pasión de Carnaval [COLOR blue]~[/COLOR] [COLOR deepskyblue]03/02/2018 23:00 HD[/COLOR]</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]Pasión de Carnaval - Carnaval [COLOR blue]~[/COLOR] [COLOR deepskyblue]03/02/2018 23:00 HD[/COLOR]</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
