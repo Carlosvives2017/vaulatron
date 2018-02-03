@@ -962,8 +962,8 @@ HIJO DE PUTA TE GUSTA COPIAR COPIAME LA PIJA Y SIENTANTE ENCIMA...
 *********************
 Cambios 1
 *********************
-item>
-<title>[COLOR blue]#  [/COLOR]Hebraica vs Nacional – LUB [COLOR blue]~[/COLOR] [COLOR deepskyblue]22/12/2017 20:00 HD[/COLOR]</title>
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Pasión de Carnaval [COLOR blue]~[/COLOR] [COLOR deepskyblue]03/02/2018 23:00 HD[/COLOR]</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -974,11 +974,11 @@ item>
 <regex>
 <name>get-ifr</name>
 <expres>'src', '(.*extras.*?)'</expres>
-<page>http://tv.vera.com.uy/evento/33722</page>
+<page>http://tv.vera.com.uy/evento/33998</page>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/33722/240/default.jpg</thumbnail>
+<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/33998/240/default.jpg</thumbnail>
 <fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
 </item>
 
