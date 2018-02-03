@@ -782,12 +782,103 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 </item>
 
 <item>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]Telehit [COLOR lightslategray]TDP[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/elecuy/3844/103.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>https://s26.postimg.org/3zeql5rt5/TYGY.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
 <title>[COLOR blue]#  [/COLOR]Music Top HD</title>
 <link>http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8</link>
 <thumbnail>https://s26.postimg.org/sld77adw9/musictop.jpg</thumbnail>
 <fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
 <info></info>
 </item>
+
+-------------------------------------------
+
+<item>
+<title>[COLOR blue]#  [/COLOR]Music Choice Play</title>
+<link>http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8</link>
+<thumbnail>https://s26.postimg.org/9jukm67wp/mcer.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
+<info></info>
+</item> 
+
+<item>
+<title>[COLOR blue]#  [/COLOR]Music Latino</title>
+<link>http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>https://s26.postimg.org/9jukm67wp/mcer.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
+<info></info>
+</item> 
+
+<item>
+<title>[COLOR blue]#  [/COLOR]Music Tropical</title>
+<link>http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>https://s26.postimg.org/9jukm67wp/mcer.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
+<info></info>
+</item> 
+
+<item>
+<title>[COLOR blue]#  [/COLOR]One.by hd</title>
+<link>http://rtmp.one.by:1300/</link>
+<thumbnail>https://s26.postimg.org/sayfd0ptl/one.tv.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
+<info></info>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR]Music vox tv olds cool</title>
+<link>http://stream.cdn.smcloud.net/vox-t/vox_720p/playlist.m3u8</link>
+<thumbnail>https://s26.postimg.org/bn6xaji7d/imagesvox_tv.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
+<info></info>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR]Eska best music</title>
+<link>http://stream.cdn.smcloud.net/best-t/best_720p/playlist.m3u8</link>
+<thumbnail>https://s26.postimg.org/g931iutft/bestmusic.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
+<info></info>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR]Eska party</title>
+<link>http://stream.cdn.smcloud.net/eska_party-t/eska_party_720p/playlist.m3u8</link>
+<thumbnail>https://s26.postimg.org/vukd2u095/party_eska.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
+<info></info>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR]Xite tv</title>
+<link>http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/index.m3u8</link>
+<thumbnail>https://s26.postimg.org/wwujlcvx5/xite.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
+<info></info>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR]538 tv</title>
+<link>http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8</link>
+<thumbnail>https://s26.postimg.org/t0h7pdind/radio_538.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
+<info></info>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR]Telemusica</title>
+<link>http://186.155.200.118:1935/live/telemusica/chunklist_w1353784156_69909.m3u8</link>
+<thumbnail>https://s26.postimg.org/j366wby6x/telemusica.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
+<info></info>
+</item>
+
+------------------------------------------
 
 <item>
 <title>[COLOR blue]#  [/COLOR]Vibee TV</title>
@@ -814,6 +905,13 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 </item> 
 
 <item>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]HTV [COLOR lightslategray]TDP[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/elecuy/3844/375.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>https://s26.postimg.org/n382217dl/GFFDG.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR blue]#  [/COLOR]Tv POP</title>
 <link>http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8</link>
 <thumbnail>https://s26.postimg.org/gztu805wp/tv_pop.jpg</thumbnail>
@@ -822,12 +920,18 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR]Music Choice Play</title>
-<link>http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8</link>
-<thumbnail>https://s26.postimg.org/9jukm67wp/mcer.jpg</thumbnail>
-<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
-<info></info>
-</item> 
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]VH1 [COLOR lightslategray]TDP[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/elecuy/3844/104.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>https://s26.postimg.org/ge1ilggqh/JJGJGJ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]MTV [COLOR lightslategray]TDP[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/elecuy/3844/105.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>https://s26.postimg.org/o6s6dg255/MFDAS.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>[COLOR blue]#  [/COLOR]Virgin TV</title>
@@ -862,6 +966,13 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 </item> 
 
 <item>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]VH1 Classic [COLOR lightslategray]TDP[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/elecuy/3844/107.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>https://s26.postimg.org/oi9mqr0qx/GHYTF.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
 <title>[COLOR blue]#  [/COLOR]Melody Channel</title>
 <link>http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?iptvgratis?Latinos.m3u8</link>
 <thumbnail>https://s26.postimg.org/hcl8e5661/nelodyt.jpg</thumbnail>
@@ -876,6 +987,13 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 <fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
 <info></info>
 </item> 
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]Retro TV [COLOR lightslategray]TDP[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/elecuy/3844/4775.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a[/COLOR]</link> 
+<thumbnail>https://s26.postimg.org/hpcmkcr0p/retro.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
+</item>
 
 <item>
 <title>[COLOR blue]#  [/COLOR]Top Latino</title>
