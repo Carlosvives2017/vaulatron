@@ -1098,7 +1098,7 @@ Cambios 3
 <regex>
 <name>get-ifr</name>
 <expres>'src', '(.*extras.*?)'</expres>
-<page>http://tv.vera.com.uy/evento/33723</page>
+<page>http://tv.vera.com.uy/evento/34042</page>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
