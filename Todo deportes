@@ -773,73 +773,70 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Fox Sport 1[/COLOR]</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]Fox Sports 1[/COLOR]</title>
 <link>http://iptv.premiumtutv.com/canal_102_foxsports.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/uyusws1446157799.png/medium</thumbnail>
+<thumbnail>https://s26.postimg.org/g53hcen2x/Foxsport.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
  
 <item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Fox Sport 2[/COLOR]</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]Fox Sports 2[/COLOR]</title>
 <link>http://iptv.premiumtutv.com/canal_77_foxsports2.m3u8</link>
-<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/02/tv-foxsports-2-16-hd.png</thumbnail>
+<thumbnail>https://s26.postimg.org/imf8joep5/Foxsport_2.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR]FOX SPORTS 3[/COLOR]</title>
-<link>http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/Stream(01)/index.m3u8</link>
-<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/07/tv-foxsports-3-16.png</thumbnail>
+<item>
+<title>[COLOR blue]#  [COLOR]Fox Sports 1 (US)[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/foxsports1.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://s9.postimg.org/5byjmbznz/foxspusa.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
- 
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR]FOX SPORTS (br)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/abrhd/foxsportshd/tracks-v2a1/index.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+
+<item>
+<title>[COLOR blue]#  [COLOR]Fox Sports 2 (US)[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
-<name>Igor_Rangel_IP</name>
-<expres>location:http://(.*)/abrhd</expres>
-<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/foxsports2.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)</expres>
-<page>$doregex[Igor_Rangel_Page]</page>
-</regex>
-<regex>
-<name>Igor_Rangel_Page</name>
-<expres>hls: '(.*)'</expres
-<page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
-</regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstream2hd.txt</page></regex>
-<thumbnail>http://www.thelogodb.com/images/media/logo/uyusws1446157799.png/medium</thumbnail>
+<thumbnail>https://s9.postimg.org/5byjmbznz/foxspusa.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]ESPN 1[/COLOR]</title>
 <link>http://iptv.premiumtutv.com/canal_95_espn.m3u8</link>
-<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/09/tv-espn.png</thumbnail>
+<thumbnail>https://s26.postimg.org/kqzlkq615/espn_1.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
  
 <item>
-<title>[COLOR blue]#  [/COLOR][COLOR]ESPN +[/COLOR]</title>
-<link>http://iptv.premiumtutv.com/canal_103_espn+.m3u8</link>
-<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/09/tv-espn2.png</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR blue]#  [/COLOR][COLOR]ESPN 2[/COLOR]</title>
 <link>http://iptv.premiumtutv.com/canal_35_espn2.m3u8</link>
-<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/09/tv-espn2.png</thumbnail>
+<thumbnail>https://s26.postimg.org/clhjmkx7t/espn_2.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]ESPN 3[/COLOR]</title>
 <link>http://iptv.premiumtutv.com/canal_36_espn3.m3u8</link>
-<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/09/tv-espn3.png</thumbnail>
+<thumbnail>https://s26.postimg.org/bvyra8c3t/espn3.jpg</thumbnail>
+<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]ESPN +[/COLOR]</title>
+<link>http://iptv.premiumtutv.com/canal_103_espn+.m3u8</link>
+<thumbnail>https://s26.postimg.org/agx6lhnvd/espn.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -851,14 +848,27 @@ item>
 <expres>file:"(.*?)"</expres>
 <page>http://widestream.io/embed-16337</page>
 </regex>
-<thumbnail>https://d1rkb03u2ginv9.cloudfront.net/wp-content/uploads/2015/09/tv-espn.png</thumbnail>
+<thumbnail>https://s9.postimg.org/oh1sw6m2n/syqu_GUp.jpg</thumbnail>
+<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR]ESPN (US)[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/espn.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://s9.postimg.org/oh1sw6m2n/syqu_GUp.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]TyC Sports HD[/COLOR]</title>
 <link>https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/2bf9213f418f4445ad9bc3fd0454ddf2/index_1.m3u8</link>
-<thumbnail>https://i.ytimg.com/vi/9lvKFKUeTTE/maxresdefault_live.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/5i9o71zix/tycsport.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -899,70 +909,56 @@ item>
 <item>
 <title>[COLOR blue]#  [COLOR]La Liga TV[/COLOR]</title>
 <link>http://185.231.160.42/614/1/index.m3u8</link>
-<thumbnail>https://i.imgur.com/wFjWYNH.png</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [COLOR]TDN[/COLOR]</title>
-<link>http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(06)/index.m3u8</link>
-<thumbnail>https://i.imgur.com/PI0Nfq3.png</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [COLOR]Univision TDN[/COLOR]</title>
-<link>http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/Stream(05)/index.m3u8</link>
-<thumbnail>https://i.imgur.com/72ifO3Q.png</thumbnail>
+<thumbnail>https://s9.postimg.org/4mfra3wlb/w_Fj_WYNH.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR blue]#  [COLOR]beIN La Liga[/COLOR]</title>
 <link>http://185.231.160.42/607/3/index.m3u8</link>
-<thumbnail>https://i.imgur.com/ipQogS3.png</thumbnail>
+<thumbnail>https://s9.postimg.org/nermdk38f/f_RIIR4y.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR blue]#  [COLOR]beIN Sports España[/COLOR]</title>
 <link>http://185.231.160.42/598/3/index.m3u8</link>
-<thumbnail>https://i.imgur.com/fRIIR4y.png</thumbnail>
+<thumbnail>https://s9.postimg.org/nermdk38f/f_RIIR4y.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR blue]#  [COLOR]AD Sports 1[/COLOR]</title>
 <link>http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8</link>
-<thumbnail>http://lh3.googleusercontent.com/09beKJuWUWacPlJQYjJpld5UkS4EQrXKEtcc4zkB-ZVbYxZqIO_Nat5qqHiVe61Izg2s=w300</thumbnail>
+<thumbnail>https://s9.postimg.org/q8urr5ib3/unnamed.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR blue]#  [COLOR]Arena Sport 1 (SRB)[/COLOR]</title>
 <link>http://195.252.68.245:1935/KLIKTV_2/smil:pink71.mf.smil/playlist.m3u8</link>
-<thumbnail>http://static-cdn1.ustream.tv/i/channel/picture/1/9/6/3/19633072/19633072,640x360,b:2.jpg</thumbnail>
+<thumbnail>https://s9.postimg.org/xc2n6l0jj/19633072_640x360_b-2.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR blue]#  [COLOR]Arena Sport 2 (SRB)[/COLOR]</title>
 <link>http://195.252.68.245:1935/KLIKTV_2/smil:pink72.mf.smil/playlist.m3u8</link>
-<thumbnail>http://static-cdn1.ustream.tv/i/channel/picture/1/9/6/3/19633072/19633072,640x360,b:2.jpg</thumbnail>
+<thumbnail>https://s9.postimg.org/xc2n6l0jj/19633072_640x360_b-2.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR blue]#  [COLOR]Arena Sport 3 (SRB)[/COLOR]</title>
 <link>http://195.252.68.245:1935/KLIKTV_2/smil:pink73.mf.smil/playlist.m3u8</link>
-<thumbnail>http://static-cdn1.ustream.tv/i/channel/picture/1/9/6/3/19633072/19633072,640x360,b:2.jpg</thumbnail>
+<thumbnail>https://s9.postimg.org/xc2n6l0jj/19633072_640x360_b-2.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR blue]#  [COLOR]Arena Sport 4 (SRB)[/COLOR]</title>
 <link>http://195.252.68.245:1935/KLIKTV_2/smil:pink74.mf.smil/playlist.m3u8</link>
-<thumbnail>http://static-cdn1.ustream.tv/i/channel/picture/1/9/6/3/19633072/19633072,640x360,b:2.jpg</thumbnail>
+<thumbnail>https://s9.postimg.org/xc2n6l0jj/19633072_640x360_b-2.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -975,7 +971,7 @@ item>
 <page>http://www.liveonlinetv247.info/embed/attheraces.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>http://data.attheraces.com/images/tv-images/default.png</thumbnail>
+<thumbnail>https://s9.postimg.org/lmynimwq7/default.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -988,7 +984,7 @@ item>
 <page>http://www.liveonlinetv247.info/embed/beinsports1france.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg</thumbnail>
+<thumbnail>https://s9.postimg.org/rnwcfoohb/Be_IN_SPORTS_France_logo_2017.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1001,7 +997,7 @@ item>
 <page>http://www.liveonlinetv247.info/embed/beinsports2france.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg</thumbnail>
+<thumbnail>https://s9.postimg.org/rnwcfoohb/Be_IN_SPORTS_France_logo_2017.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1014,7 +1010,7 @@ item>
 <page>http://www.liveonlinetv247.info/embed/beinsports3france.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg</thumbnail>
+<thumbnail>https://s9.postimg.org/rnwcfoohb/Be_IN_SPORTS_France_logo_2017.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1027,7 +1023,7 @@ item>
 <page>http://www.liveonlinetv247.info/embed/beinsports1.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://i.imgur.com/F3z5kHV.png</thumbnail>
+<thumbnail>https://s9.postimg.org/9xunuodhb/F3z5k_HV.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1040,7 +1036,7 @@ item>
 <page>http://www.liveonlinetv247.info/embed/beinsports2.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://i.imgur.com/F3z5kHV.png</thumbnail>
+<thumbnail>https://s9.postimg.org/9xunuodhb/F3z5k_HV.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1053,7 +1049,7 @@ item>
 <page>http://www.liveonlinetv247.info/embed/beinsports3.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://i.imgur.com/F3z5kHV.png</thumbnail>
+<thumbnail>https://s9.postimg.org/9xunuodhb/F3z5k_HV.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1066,7 +1062,7 @@ item>
 <page>http://www.liveonlinetv247.info/embed/beinsports4.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://i.imgur.com/F3z5kHV.png</thumbnail>
+<thumbnail>https://s9.postimg.org/9xunuodhb/F3z5k_HV.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1079,7 +1075,7 @@ item>
 <page>http://www.liveonlinetv247.info/embed/beinsports5.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://i.imgur.com/F3z5kHV.png</thumbnail>
+<thumbnail>https://s9.postimg.org/9xunuodhb/F3z5k_HV.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1092,7 +1088,7 @@ item>
 <page>http://www.liveonlinetv247.info/embed/beinsports6.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://i.imgur.com/F3z5kHV.png</thumbnail>
+<thumbnail>https://s9.postimg.org/9xunuodhb/F3z5k_HV.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1105,7 +1101,7 @@ item>
 <page>http://www.liveonlinetv247.info/embed/beinsports7.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://i.imgur.com/F3z5kHV.png</thumbnail>
+<thumbnail>https://s9.postimg.org/9xunuodhb/F3z5k_HV.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1118,7 +1114,7 @@ item>
 <page>http://www.liveonlinetv247.info/embed/beinsports8.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://i.imgur.com/F3z5kHV.png</thumbnail>
+<thumbnail>https://s9.postimg.org/9xunuodhb/F3z5k_HV.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1131,7 +1127,7 @@ item>
 <page>http://www.liveonlinetv247.info/embed/beinsports9.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://i.imgur.com/F3z5kHV.png</thumbnail>
+<thumbnail>https://s9.postimg.org/9xunuodhb/F3z5k_HV.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1144,7 +1140,7 @@ item>
 <page>http://www.liveonlinetv247.info/embed/beinsports10.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://i.imgur.com/F3z5kHV.png</thumbnail>
+<thumbnail>https://s9.postimg.org/9xunuodhb/F3z5k_HV.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1157,7 +1153,7 @@ item>
 <page>http://www.liveonlinetv247.info/embed/beinsports11.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://i.imgur.com/F3z5kHV.png</thumbnail>
+<thumbnail>https://s9.postimg.org/9xunuodhb/F3z5k_HV.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1170,7 +1166,7 @@ item>
 <page>http://www.liveonlinetv247.info/embed/beinsports12.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://i.imgur.com/F3z5kHV.png</thumbnail>
+<thumbnail>https://s9.postimg.org/9xunuodhb/F3z5k_HV.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1183,42 +1179,42 @@ item>
 <page>http://www.liveonlinetv247.info/embed/beinsports13.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://i.imgur.com/F3z5kHV.png</thumbnail>
+<thumbnail>https://s9.postimg.org/9xunuodhb/F3z5k_HV.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR blue]#  [COLOR]beIN Sports 1 (Thailand)[/COLOR]</title>
 <link>http://111.223.50.12:8081/liveNimble/ch04h/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/N3rDQXX.png</thumbnail>
+<thumbnail>https://s9.postimg.org/73rih9dvz/N3r_DQXX.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR blue]#  [COLOR]beIN Sports 2 (Thailand)[/COLOR]</title>
 <link>http://111.223.50.12:8081/liveNimble/ch05h/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/N3rDQXX.png</thumbnail>
+<thumbnail>https://s9.postimg.org/73rih9dvz/N3r_DQXX.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR blue]#  [COLOR]beIN Sports 3 (Thailand)[/COLOR]</title>
 <link>http://111.223.50.12:8081/liveNimble/ch06h/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/N3rDQXX.png</thumbnail>
+<thumbnail>https://s9.postimg.org/73rih9dvz/N3r_DQXX.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR blue]#  [COLOR]beIN Sports 4 (Thailand)[/COLOR]</title>
 <link>http://111.223.50.12:8081/liveNimble/ch07h/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/N3rDQXX.png</thumbnail>
+<thumbnail>https://s9.postimg.org/73rih9dvz/N3r_DQXX.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR blue]#  [COLOR]beIN Sports USA[/COLOR]</title>
 <link>http://wagonn.info/futbotv/djsssnmepk91t_beins.m3u8</link>
-<thumbnail>https://i.imgur.com/kG0nw7O.png</thumbnail>
+<thumbnail>https://s9.postimg.org/lmyninzb3/k_G0nw7_O.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1231,7 +1227,7 @@ item>
 <page>http://www.liveonlinetv247.info/embed/boxnation.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>http://is1.mzstatic.com/image/thumb/Purple62/v4/fb/01/98/fb01983b-52ad-9979-819f-b2f64727fdf7/source/1200x630bb.jpg</thumbnail>
+<thumbnail>https://s9.postimg.org/3wwyxk8un/1200x630bb.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1244,7 +1240,7 @@ item>
 <page>http://www.liveonlinetv247.info/embed/btsport1.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>http://sportplaylists.com/wp-content/uploads/2016/11/photo.jpg</thumbnail>
+<thumbnail>https://s9.postimg.org/du7zqqyhr/photo.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1257,7 +1253,7 @@ item>
 <page>http://www.liveonlinetv247.info/embed/btsport2.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>http://sportplaylists.com/wp-content/uploads/2016/11/photo.jpg</thumbnail>
+<thumbnail>https://s9.postimg.org/du7zqqyhr/photo.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1270,7 +1266,7 @@ item>
 <page>http://www.liveonlinetv247.info/embed/btsporteurope.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>http://sportplaylists.com/wp-content/uploads/2016/11/photo.jpg</thumbnail>
+<thumbnail>https://s9.postimg.org/du7zqqyhr/photo.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1283,7 +1279,7 @@ item>
 <page>http://www.liveonlinetv247.info/embed/btsportespn.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>http://sportplaylists.com/wp-content/uploads/2016/11/photo.jpg</thumbnail>
+<thumbnail>https://s9.postimg.org/du7zqqyhr/photo.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1296,7 +1292,7 @@ item>
 <page>http://www.liveonlinetv247.info/embed/canal+sport.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://i.imgur.com/UxQxWTg.png</thumbnail>
+<thumbnail>https://s9.postimg.org/vx12i0k2n/Ux_Qx_WTg.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1306,7 +1302,7 @@ item>
 sublink:plugin://plugin.video.f4mTester/?url=http://ams.tvizlehd.com/live/cbcsport/playlist.m3u8;&amp;streamtype=HLSRETRY&amp;name=BOOM! for Lee#
 sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/index.m3u8;&amp;streamtype=HLSRETRY&amp;name=BOOM! for Lee#
 </link>
-<thumbnail>https://pbs.twimg.com/profile_images/694429650211201024/hV8YCIoF.png</thumbnail>
+<thumbnail>https://s9.postimg.org/fm0ylmmzj/h_V8_YCIo_F.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1319,60 +1315,22 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.liveonlinetv247.info/embed/chelseatv.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://i.imgur.com/8ELysrw.jpg</thumbnail>
+<thumbnail>https://s9.postimg.org/9l39ofq1r/8_ELysrw.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR blue]#  [COLOR]ESPN[/COLOR]</title>
-<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/espn.php?width=650&height=480</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-</regex>
-<thumbnail>https://i.imgur.com/syquGUp.png</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [COLOR]Fox Sports 1 (US)[/COLOR]</title>
-<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/foxsports1.php?width=650&height=480</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-</regex>
-<thumbnail>https://i.pinimg.com/736x/00/a9/29/00a9291e9423aeca2c42f7ce4bf9e77d--rugby-league-fox-sports.jpg</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [COLOR]Fox Sports 2 (US)[/COLOR]</title>
-<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/foxsports2.php?width=650&height=480</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-</regex>
-<thumbnail>https://i.pinimg.com/736x/00/a9/29/00a9291e9423aeca2c42f7ce4bf9e77d--rugby-league-fox-sports.jpg</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
 
 <item>
 <title>[COLOR blue]#  [COLOR]Futbol 1[/COLOR]</title>
 <link>https://217-182-196-134.livesports24.online/onlineukrfootball1-live.m3u8</link>
-<thumbnail>https://i.imgur.com/uBwXPLw.jpg</thumbnail>
+<thumbnail>https://s9.postimg.org/c2f0vv2a7/u_Bw_XPLw.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR blue]#  [COLOR]Futbol 2[/COLOR]</title>
 <link>https://5-254-66-104.livesports24.online/onlineukrfootball2-live.m3u8</link>
-<thumbnail>https://i.imgur.com/uBwXPLw.jpg</thumbnail>
+<thumbnail>https://s9.postimg.org/c2f0vv2a7/u_Bw_XPLw.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1385,7 +1343,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>https://live.bypassed.st/golf-channel</page>
 <referer>https://live.bypassed.st</referer>
 </regex>
-<thumbnail>https://i.imgur.com/YJ6KS1G.png</thumbnail>
+<thumbnail>https://s9.postimg.org/tfpbarv1b/YJ6_KS1_G.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1398,42 +1356,42 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.liveonlinetv247.info/embed/lfctv.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://betfreebets.uk/img/channels/300x300/xLFCTV.png.pagespeed.ic.dqEjTC0LXT.png</thumbnail>
+<thumbnail>https://s9.postimg.org/5byjmgpf3/x_LFCTV.png.pagespeed.ic.dq_Ej_TC0_LXT.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR blue]#  [COLOR]Match! Football 1[/COLOR]</title>
 <link>http://185.58.65.51:8081/futbol1/tracks-v1a1/index.m3u8</link>
-<thumbnail>https://i.imgur.com/gEfb1xJ.jpg</thumbnail>
+<thumbnail>https://s9.postimg.org/rb4y9jvxr/g_Efb1x_J.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR blue]#  [COLOR]Match! Football 2[/COLOR]</title>
 <link>http://185.58.65.51:8081/futbol2/tracks-v1a1/index.m3u8</link>>
-<thumbnail>https://i.imgur.com/gEfb1xJ.jpg</thumbnail>
+<thumbnail>https://s9.postimg.org/rb4y9jvxr/g_Efb1x_J.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR blue]#  [COLOR]Match! Football 3[/COLOR]</title>
 <link>http://185.58.65.51:8081/futbol3/tracks-v1a1/index.m3u8</link>
-<thumbnail>https://i.imgur.com/gEfb1xJ.jpg</thumbnail>
+<thumbnail>https://s9.postimg.org/rb4y9jvxr/g_Efb1x_J.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR blue]#  [COLOR]Match! TV[/COLOR]</title>
 <link>http://185.58.65.51:8081/matchtv/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/gEfb1xJ.jpg</thumbnail>
+<thumbnail>https://s9.postimg.org/rb4y9jvxr/g_Efb1x_J.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR blue]#  [COLOR]MLB Network[/COLOR]</title>
 <link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8</link>
-<thumbnail>https://i.imgur.com/BiOsFVk.png</thumbnail>
+<thumbnail>https://s9.postimg.org/bcw8jdz4v/Bi_Os_FVk.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1446,7 +1404,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.liveonlinetv247.info/embed/canal+futbol.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://pbs.twimg.com/profile_images/790990535603478528/-acdPvtn_400x400.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/l44v741zd/futog.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1459,7 +1417,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.liveonlinetv247.info/embed/mutv.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>http://lh3.googleusercontent.com/s9RdxF424tVm6sy5dU5_qBRnI39Cczk2pqIYwZUV7s2tY6v1F9U2_-8jTe6Xmuk4A4xG=w300</thumbnail>
+<thumbnail>https://s9.postimg.org/3k5krklhr/unnamed_1.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1472,7 +1430,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.liveonlinetv247.info/embed/nbatv.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>http://www.nba.com/media/NBATVcolorlogo.jpg</thumbnail>
+<thumbnail>https://s9.postimg.org/wzb90hakv/NBATVcolorlogo.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1485,7 +1443,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.liveonlinetv247.info/embed/nbcsn.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>http://thecomeback.com/awfulannouncing/wp-content/uploads/sites/94/2014/01/nbcsnblack.jpg</thumbnail>
+<thumbnail>https://s9.postimg.org/nrj0jsiy7/nbcsnblack.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1498,21 +1456,21 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>https://live.bypassed.st/nflnetwork</page>
 <referer>https://live.bypassed.st</referer>
 </regex>
-<thumbnail>https://i.imgur.com/xqHrotC.png</thumbnail>
+<thumbnail>https://s9.postimg.org/u583mxl8f/58ce0116191a5bb7739a557def67fa1b.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR blue]#  [COLOR]NFL Now[/COLOR]</title>
 <link>https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_4500k.m3u8</link>
-<thumbnail>https://static-s.aa-cdn.net/img/wp/40700000404121/58ce0116191a5bb7739a557def67fa1b</thumbnail>
+<thumbnail>https://s9.postimg.org/u583mxl8f/58ce0116191a5bb7739a557def67fa1b.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR blue]#  [COLOR]Olympic Channel[/COLOR]</title>
 <link>https://live.olympicchannel.com/ocs/channel01b/master.m3u8</link>
-<thumbnail>https://i.imgur.com/OkPPrf9.png</thumbnail>
+<thumbnail>https://s9.postimg.org/9xunuqy2n/Ok_PPrf9.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1526,7 +1484,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
 </link>
-<thumbnail>https://i.imgur.com/JEielOM.png</thumbnail>
+<thumbnail>https://s9.postimg.org/4mfra01pb/JEiel_OM.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1539,7 +1497,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.liveonlinetv247.info/embed/ptvsports.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>http://is3.mzstatic.com/image/thumb/Purple111/v4/ee/e2/74/eee274ae-0f75-edb2-685a-c1b8996e9d4e/source/1200x630bb.jpg</thumbnail>
+<thumbnail>https://s9.postimg.org/bcw8jdrf3/1200x630bb_1.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1552,7 +1510,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.liveonlinetv247.info/embed/racinguk.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://pbs.twimg.com/profile_images/930029556114870273/zm1YKNp9_400x400.jpg</thumbnail>
+<thumbnail>https://s9.postimg.org/j5mwbjklb/zm1_YKNp9_400x400.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1565,7 +1523,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.liveonlinetv247.info/embed/skysportbundesliga1.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://i.imgur.com/Ok64MjP.png</thumbnail>
+<thumbnail>https://s9.postimg.org/crxt877yn/sky.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1578,7 +1536,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.liveonlinetv247.info/embed/skysportbundesliga2.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://i.imgur.com/Ok64MjP.png</thumbnail>
+<thumbnail>https://s9.postimg.org/crxt877yn/sky.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1591,7 +1549,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.liveonlinetv247.info/embed/skysports1.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>http://skysportshd.tk/img/sky.png</thumbnail>
+<thumbnail>https://s9.postimg.org/crxt877yn/sky.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1604,7 +1562,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.liveonlinetv247.info/embed/skysports2.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>http://skysportshd.tk/img/sky.png</thumbnail>
+<thumbnail>https://s9.postimg.org/crxt877yn/sky.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1617,7 +1575,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.liveonlinetv247.info/embed/skysports3.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>http://skysportshd.tk/img/sky.png</thumbnail>
+<thumbnail>https://s9.postimg.org/crxt877yn/sky.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1630,7 +1588,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.liveonlinetv247.info/embed/skysports4.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>http://skysportshd.tk/img/sky.png</thumbnail>
+<thumbnail>https://s9.postimg.org/crxt877yn/sky.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1643,7 +1601,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.liveonlinetv247.info/embed/skysports5.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>http://skysportshd.tk/img/sky.png</thumbnail>
+<thumbnail>https://s9.postimg.org/crxt877yn/sky.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1656,7 +1614,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.liveonlinetv247.info/embed/skysportsnews.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>http://skysportshd.tk/img/sky.png</thumbnail>
+<thumbnail>https://s9.postimg.org/crxt877yn/sky.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1669,7 +1627,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.liveonlinetv247.info/embed/skysportsf1.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>http://skysportshd.tk/img/sky.png</thumbnail>
+<thumbnail>https://s9.postimg.org/crxt877yn/sky.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1682,7 +1640,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.liveonlinetv247.info/embed/skysportsfootball.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>http://skysportshd.tk/img/sky.png</thumbnail>
+<thumbnail>https://s9.postimg.org/crxt877yn/sky.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1695,7 +1653,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.liveonlinetv247.info/embed/skysportsboxoffice.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>http://skysportshd.tk/img/sky.png</thumbnail>
+<thumbnail>https://s9.postimg.org/crxt877yn/sky.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1708,7 +1666,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.liveonlinetv247.info/embed/skycalcio.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://image.jimcdn.com/app/cms/image/transf/none/path/s8eaeebbab5d7fb95/image/i806e962a370c6b41/version/1328269374/image.png</thumbnail>
+<thumbnail>https://s9.postimg.org/wmjuu7kkf/1328269374.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1721,7 +1679,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.liveonlinetv247.info/embed/skysport1italia.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://i.imgur.com/i8dqETq.jpg</thumbnail>
+<thumbnail>https://s9.postimg.org/crxt877yn/sky.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1734,7 +1692,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.liveonlinetv247.info/embed/skysport2italia.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://i.imgur.com/i8dqETq.jpg</thumbnail>
+<thumbnail>https://s9.postimg.org/crxt877yn/sky.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1747,7 +1705,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.liveonlinetv247.info/embed/skysport3italia.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://i.imgur.com/i8dqETq.jpg</thumbnail>
+<thumbnail>https://s9.postimg.org/crxt877yn/sky.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1760,12 +1718,12 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.liveonlinetv247.info/embed/sonysix.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://i.imgur.com/3PXUzcX.png</thumbnail>
+<thumbnail>https://s9.postimg.org/3k5krcvpr/3_PXUzc_X.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue]#  [COLOR]TEN 1[/COLOR]</title>
+<title>[COLOR blue]#  [COLOR]Sony TEN 1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>get_sxstream</name>
@@ -1773,7 +1731,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.liveonlinetv247.info/embed/ten1.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://i.imgur.com/tt8F9r1.png</thumbnail>
+<thumbnail>https://s9.postimg.org/dhglklb33/tt8_F9r1.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1786,7 +1744,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.b-c-e.us/FHD15</page>
 <referer>http://www.tv.b-c-e.us/TRTSpor.php</referer>
 </regex>
-<thumbnail>https://pbs.twimg.com/profile_images/541877772537188353/Ue3YfaCk.jpeg</thumbnail>
+<thumbnail>https://s9.postimg.org/yr47vfz3j/Ue3_Yfa_Ck.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1799,7 +1757,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.liveonlinetv247.info/embed/tsn.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://media.glassdoor.com/sqll/700491/tsn-squarelogo-1480436140042.png</thumbnail>
+<thumbnail>https://s9.postimg.org/jv5ontstr/tsn-squarelogo-1480436140042.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1812,7 +1770,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.liveonlinetv247.info/embed/tsn2.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>https://media.glassdoor.com/sqll/700491/tsn-squarelogo-1480436140042.png</thumbnail>
+<thumbnail>https://s9.postimg.org/jv5ontstr/tsn-squarelogo-1480436140042.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1825,7 +1783,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://www.liveonlinetv247.info/embed/willowtv.php?width=650&height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>http://techstory.in/wp-content/uploads/2016/03/Willow.png</thumbnail>
+<thumbnail>https://s9.postimg.org/bcw8jkmbz/Willow.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1844,7 +1802,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <expres>m3u8(.*)"</expres>
 <page>http://widestream.io/embed-13593?IGOR_RANGEL</page>
 </regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/c/ce/Sporttv1.png/96px-Sporttv1.png</thumbnail>
+<thumbnail>https://s26.postimg.org/lgidx5jg9/sporttv.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1857,7 +1815,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <page>http://sharecast.eu/embed.php?ch=live1-rbi6c</page>
 <referer></referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent>
 </regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/c/ce/Sporttv1.png/96px-Sporttv1.png</thumbnail>
+<thumbnail>https://s26.postimg.org/lgidx5jg9/sporttv.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1870,7 +1828,7 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <referer></referer>
 <agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent>
 </regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/8/8c/Sporttv2.png/96px-Sporttv2.png</thumbnail>
+<thumbnail>https://s26.postimg.org/lgidx5jg9/sporttv.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1884,14 +1842,14 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <referer>http://www.desportogratis.com/canal-sporttv3.html</referer>
 <agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent>
 </regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/6/60/Sporttv3.png/96px-Sporttv3.png</thumbnail>
+<thumbnail>https://s26.postimg.org/lgidx5jg9/sporttv.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Sporttv 4 pt[/COLOR]</title>
 <link>rtmp://213.152.180.151:17247/sstream/0tkVGgd2jl.stream</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/0/05/Sporttv4.png/96px-Sporttv4.png</thumbnail>
+<thumbnail>https://s26.postimg.org/lgidx5jg9/sporttv.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -1905,38 +1863,11 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <referer></referer>
 <agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent>
 </regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/9/9a/Sporttv5.png/96px-Sporttv5.png</thumbnail>
+<thumbnail>https://s26.postimg.org/lgidx5jg9/sporttv.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 ----------------------------------------
 
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR]GolPeru[/COLOR]</title>
-  <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.pubucaster.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.ucaster.me/membedplayer/golo09e/1/620/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.ucaster.me</referer>
-			</regex> 
-			<regex>
-			<name>hls</name>
-			<expres>hlsUrl \+ \(\"(.*?)"</expres>
-			<page>http://www.ucaster.me/membedplayer/golo09e/1/620/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.ucaster.me</referer>
-			</regex>
-
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSecdTif0K-6lcr36_mJtnwm5ON-DbQORMjOIkTmrtolHB5ALJg</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart> 
-</item> 
---------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Deport Tv[/COLOR]</title>
@@ -1947,26 +1878,12 @@ link>http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_sles
 <info></info>
 </item>
 
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Win Sports[/COLOR]</title>
-<link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live/tve1.php</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/winsport.php</page>
-<referer>http://vercanalestv.com/tv/colombia/win-sports.html</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>https://2.bp.blogspot.com/-Q-Aa5I2t2UQ/Vzprkbdp8qI/AAAAAAAAkoQ/Dgjnk3elXcQfV7kwrvY2GOROrKatZRJLACLcB/s320/Win_Sport_logo.png</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
-
-------------------------------------------------
+-------------------------------------
 
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Todo Deportes[/COLOR]</title>
 <link>http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8|User-Agent=ArtearPlayer/3.2.42 (Linux;Android 4.4.2) ExoPlayerLib/1.5.9</link>
-<thumbnail>http://i.imgur.com/p7DAIKG.png</thumbnail>
+<thumbnail>https://s26.postimg.org/5v12d3kbt/deportv.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 <info></info>
 </item>
@@ -1981,7 +1898,7 @@ expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed.php?file=deporteone&width=650&height=397&autostart=true</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://vercanalestv.com/imagenes/movistar-deportes.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/qf5wbqkp5/depo1.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>	
 
@@ -1989,7 +1906,7 @@ item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Deportes 1[/COLOR]</title>
 <sportsdevil>http://zagaiptv.eklablog.com/canal-deportes-spain-p1157316</sportsdevil>
 <referer>http://zagaiptv.eklablog.com/</referer>
-<thumbnail>http://vercanalestv.com/imagenes/movistar-deportes.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/qf5wbqkp5/depo1.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>	
 -----------------------------------------------
@@ -2003,7 +1920,7 @@ expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed.php?file=deportedosm&width=650&height=397&autostart=true</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://vercanalestv.com/imagenes/movistar-depores-2.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/5v12d4f6x/depo2.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>	
 
@@ -2011,7 +1928,7 @@ item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Deportes 2[/COLOR]</title>
 <sportsdevil>http://zagaiptv.eklablog.com/deportes-2-p1157520</sportsdevil>
 <referer>http://zagaiptv.eklablog.com/</referer>
-<thumbnail>http://vercanalestv.com/imagenes/movistar-depores-2.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/5v12d4f6x/depo2.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>	
 -------------------------------------------------
@@ -2025,7 +1942,7 @@ expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed.php?file=eurosportsesp&width=650&height=397&autostart=true</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://vertutele.com/img/eurosport.png</thumbnail>
+<thumbnail>https://s26.postimg.org/swviz4i95/gtaaj.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>		
 ---------------------------------	
@@ -2039,7 +1956,7 @@ expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed.php?file=eurosportsdosesp&width=650&height=397&autostart=true</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://vertutele.com/img/eurosport2.png</thumbnail>
+<thumbnail>https://s26.postimg.org/imt3zxi3t/gtaaj233e.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>		
 
@@ -2047,7 +1964,7 @@ item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Eurosport 2[/COLOR]</title>
 <sportsdevil>http://zagaiptv.eklablog.com/eurosport2-spain-p1157324</sportsdevil>
 <referer>http://zagaiptv.eklablog.com/</referer>
-<thumbnail>http://vertutele.com/img/eurosport2.png</thumbnail>
+<thumbnail>https://s26.postimg.org/imt3zxi3t/gtaaj233e.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>	
 ------------------------------------
@@ -2061,149 +1978,9 @@ expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed.php?file=teledeporteesp&width=650&height=397&autostart=true</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logotipo_de_Teledeporte%2C_tdp.svg/600px-Logotipo_de_Teledeporte%2C_tdp.svg.png</thumbnail>
+<thumbnail>https://s26.postimg.org/k1gt8fxsp/Tdp.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>	
 
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Bein la liga[/COLOR]</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
-expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=beinlaliga&width=650&height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://vercanalestv.com/imagenes/bein-spor-liga.jpg<thumbnail>http://tvjaja.com/img/bein.png</thumbnail></thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
-------------------------------------------------
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Being Sport[/COLOR]</title>
-<sportsdevil>http://www.vipgoal.net/C+Liga/35576/Canal-plus-liga-en-directo.html</sportsdevil>
-<referer>http://www.vipgoal.net/</referer>
-<thumbnail>http://tvjaja.com/img/bein.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Sportv br[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Ch]</link>
-<regex>
-<name>Igor_Rangel_Ch</name>
-<expres>src": "(.*playlist.*?)"</expres>
-<page>http://abcast.net/abc.php?file=$doregex[Igor_Rangel_ID]</page>
-<referer>http://torcidatricolor.tv/</referer>
-</regex>
-<regex>
-<name>Igor_Rangel_ID</name>
-<expres>file='(.*?)';</expres>
-<page>http://torcidatricolor.tv/brazil/jogo8.php?IGOR_RANGEL</page>
-</regex>
-<thumbnail>http://www.thelogodb.com/images/media/logo/ruvrus1437612002.png/medium</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Sportv 2 br[/COLOR]</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.mipsplayer.com/membedplayer/tvsportv2aovivo5/1/640/360</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.mips.tv</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/rspqxw1437612159.png/medium</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]PFC Brazil br[/COLOR]</title>
-<link>$doregex[get-id]</link>
-<regex>
-<name>get-id</name>
-<expres>file:"(.*?)"</expres>
-<page>http://widestream.io/embed-11429</page>
-</regex>
-<thumbnail>http://1.bp.blogspot.com/-wGKaNp4FOhM/WaAb3tHExoI/AAAAAAAABbc/oIPYbRURp2oikEv7vqE-ZTQlK1onJ10SACK4BGAYYCw/s1600/icon%2Blogo%2Bok.png</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
-------------------------------------------------------
-
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]GolTV es[/COLOR]</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
-expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=golesp&width=650&height=397 </page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6--Tc3QlBHZPKhtgbV5pDGYCq_zWAIBib8GOdlhO3GKqduxhViQ</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]GolTV es (op 2)[/COLOR]</title>
-<sportsdevil>http://latelete.tv/goltv-en-directo-gratis-por-internet/</sportsdevil>
-<referer>http://latelete.tv/</referer>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6--Tc3QlBHZPKhtgbV5pDGYCq_zWAIBib8GOdlhO3GKqduxhViQ</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Futbol C+[/COLOR]</title>
-<sportsdevil>http://www.vipgoal.net/c+futbol/35578/C+Futbol-en-directo.html</sportsdevil>
-<referer>http://www.vipgoal.net/</referer>
-<thumbnail>http://4.bp.blogspot.com/-5gFdEJACSuI/Ui2M5enBwMI/AAAAAAAABE0/O0ApwEsVrLM/s1600/p-futbo.jpg</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Formula 1[/COLOR]</title>
-<sportsdevil>http://www.vipgoal.net/MovistarF1/35596/Movistar-F1-en-directo.html</sportsdevil>
-<referer>http://www.vipgoal.net/</referer>
-<thumbnail>http://lh6.ggpht.com/_gKQKwLZ8XUs/TIvsZTMx7tI/AAAAAAAADyE/53Jr585dfOM/s800/logos-hidden-symbolism-f-1.jpg</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Moto GP[/COLOR]</title>
-<sportsdevil>http://www.vipgoal.net/MovistarMotoGP/35597/Movistar-MotoGP-en-directo.html</sportsdevil>
-<referer>http://www.vipgoal.net/</referer>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqol0wqNzDBWALWVdYgk2JfmRKhh2svR-al07c25VYbojKRr7P</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Bt Sport 1[/COLOR]</title>
-<sportsdevil>http://www.vipgoal.net/BtSport1/35588/Bt-Sport-1-Live-Stream.html</sportsdevil>
-<referer>http://www.vipgoal.net/</referer>
-<thumbnail>https://media.info/i/l/300/1405339450/1539.png</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Bt Sport 2[/COLOR]</title>
-<sportsdevil>http://www.vipgoal.net/BtSport2/35589/Bt-Sport-2-Live-Stream.html</sportsdevil>
-<referer>http://www.vipgoal.net/</referer>
-<thumbnail>https://media.info/i/l/300/1405339429/1540.png</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Bt Sport 3[/COLOR]</title>
-<sportsdevil>http://www.vipgoal.net/BtSportEurope/35590/Bt-Sport-3-Live-Stream.html</sportsdevil>
-<referer>http://www.vipgoal.net/</referer>
-<thumbnail>https://media.info/i/l/300/1436396712/5712.png</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
-
---------------
------------------
+------------------
+------------------------
