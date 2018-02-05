@@ -798,6 +798,18 @@ item>
 <fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
+<item>
+<title>[COLOR blue]#  [/COLOR]Fut Ads</title>
+<link>$doregex[get-id]</link>
+<regex>
+<name>get-id</name>
+<expres>file:"(.*?)"</expres>
+<page>http://widestream.io/embed-7231</page>
+</regex>
+<thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
+</item>
+
 --------------------------------
 
 <item>
