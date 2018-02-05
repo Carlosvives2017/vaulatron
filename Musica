@@ -789,6 +789,30 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 <info></info>
 </item>
 
+<item>
+<title>[COLOR blue]#  [/COLOR]Vibee TV</title>
+<link>http://46.101.21.42:8081/live/live2/playlist.m3u8</link>
+<thumbnail>https://s26.postimg.org/q7m2oq049/vibee.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
+<info></info>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR]Qmusica</title>
+<link>mms://200.42.92.6:1755/qmusica</link>
+<thumbnail>https://s26.postimg.org/vvsdfl9ll/quico.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
+<info></info>
+</item> 
+
+<item>
+<title>[COLOR blue]#  [/COLOR]Radio Monte Carlo</title>
+<link>http://fms.105.net:1935/live/rmc1/playlist.m3u8</link>
+<thumbnail>https://s26.postimg.org/e5qouhqux/images.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
+<info></info>
+</item> 
+
 -------------------------------------------
 
 <item>
@@ -871,31 +895,95 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 <info></info>
 </item>
 
+<item>
+<title>[COLOR blue]#  [/COLOR]Music Vox Tv</title>
+<link>http://stream.cdn.smcloud.net/vox2-p/stream1/playlist.m3u8</link>
+<thumbnail>https://s26.postimg.org/6bszftw4p/niuvox.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
+<info></info>
+</item> 
+
+<item>
+<title>[COLOR blue]#  [/COLOR]Playchannel</title>
+<link>http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/playchannel.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>https://s26.postimg.org/a86bbtwjt/playchannel.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
+<info></info>
+</item> 
+
+<item>
+<title>[COLOR blue]#  [/COLOR]guFo retro</title>
+<link>http://wowzaprod4-i.akamaihd.net/hls/live/253920/148a6ff0/playlist.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>https://s26.postimg.org/9inizg155/gufo_retro.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
+<info></info>
+</item> 
+
+<item>
+<title>[COLOR blue]#  [/COLOR]gufo hits</title>
+<link>http://wowzaprod4-i.akamaihd.net/hls/live/253920/fc13c4a3/playlist.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>https://s26.postimg.org/9inizg155/gufo_retro.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
+<info></info>
+</item> 
+
+<item>
+<title>[COLOR blue]#  [/COLOR]gufo chile</title>
+<link>http://wowzaprod4-i.akamaihd.net/hls/live/253920/8be6db2d/playlist.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>https://s26.postimg.org/9inizg155/gufo_retro.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
+<info></info>
+</item> 
+
+<item>
+<title>[COLOR blue]#  [/COLOR]gufo indie</title>
+<link>http://wowzaprod4-i.akamaihd.net/hls/live/253920/d3daa538/playlist.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>https://s26.postimg.org/9inizg155/gufo_retro.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
+<info></info>
+</item> 
+
+<item>
+<title>[COLOR blue]#  [/COLOR]Otto Fm Tv</title>
+<link>http://live.youiptv.ch:1935/8FM/8FM_source/livestream.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>https://s26.postimg.org/td9kllqnd/otto8.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
+<info></info>
+</item> 
+
+<item>
+<title>[COLOR blue]#  [/COLOR]Radio 51 Tv</title>
+<link>http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>https://s26.postimg.org/oem2714u1/51radio.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
+<info></info>
+</item> 
+
+<item>
+<title>[COLOR blue]#  [/COLOR]Rti</title>
+<link>http://cdn.vsnw.net:8081/interradio/720i.m3u8|User-Agent=Mozilla/5.0</link>
+<thumbnail>https://s26.postimg.org/7quk4jpi1/rti.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
+<info></info>
+</item> 
+
+<item>
+<title>[COLOR blue]#  [/COLOR]Heart Tv</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8</link>
+<thumbnail>https://s26.postimg.org/ccqocx5w9/hearttv.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
+<info></info>
+</item> 
+
+<item>
+<title>[COLOR blue]#  [/COLOR]Music Channel</title>
+<link>http://stream.1music.hu/stream/1music.m3u8</link>
+<thumbnail>https://s26.postimg.org/lkiwtlxix/mussic_channel1.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
+<info></info>
+</item> 
+
 ------------------------------------------
-
-<item>
-<title>[COLOR blue]#  [/COLOR]Vibee TV</title>
-<link>http://46.101.21.42:8081/live/live2/playlist.m3u8</link>
-<thumbnail>https://s26.postimg.org/q7m2oq049/vibee.jpg</thumbnail>
-<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
-<info></info>
-</item>
-
-<item>
-<title>[COLOR blue]#  [/COLOR]Qmusica</title>
-<link>mms://200.42.92.6:1755/qmusica</link>
-<thumbnail>https://s26.postimg.org/vvsdfl9ll/quico.jpg</thumbnail>
-<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
-<info></info>
-</item> 
-
-<item>
-<title>[COLOR blue]#  [/COLOR]Radio Monte Carlo</title>
-<link>http://fms.105.net:1935/live/rmc1/playlist.m3u8</link>
-<thumbnail>https://s26.postimg.org/e5qouhqux/images.jpg</thumbnail>
-<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
-<info></info>
-</item> 
 
 <item>
 <title>[COLOR blue]#  [/COLOR]Tv POP</title>
