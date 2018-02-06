@@ -872,10 +872,33 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Todo Deportes[/COLOR]</title>
+<link>http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8|User-Agent=ArtearPlayer/3.2.42 (Linux;Android 4.4.2) ExoPlayerLib/1.5.9</link>
+<thumbnail>https://s26.postimg.org/5v12d3kbt/deportv.jpg</thumbnail>
+<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Teledeportes[/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=teledeporteesp&width=650&height=397&autostart=true</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://s26.postimg.org/k1gt8fxsp/Tdp.jpg</thumbnail>
+<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+</item>	
+
+
 /////////////////////////////////////
 /////////////////////////////////////
 
-<item>
+item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Univision deportes[/COLOR]</title>
 <link>http://$doregex[adryan_IP]/loadbalance/28997987539921527996/playlist.m3u8$doregex[adryan_AuthSign]|User-Agent=iPhone</link>
 <regex>
@@ -1866,27 +1889,8 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <thumbnail>https://s26.postimg.org/lgidx5jg9/sporttv.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
-----------------------------------------
 
-
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Deport Tv[/COLOR]</title>
-link>http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8</link>
-<link>http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w1663058059_b800000_slesp.m3u8</link>
-<thumbnail>http://i.imgur.com/PxyIZNW.png</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-<info></info>
-</item>
-
--------------------------------------
-
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Todo Deportes[/COLOR]</title>
-<link>http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8|User-Agent=ArtearPlayer/3.2.42 (Linux;Android 4.4.2) ExoPlayerLib/1.5.9</link>
-<thumbnail>https://s26.postimg.org/5v12d3kbt/deportv.jpg</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-<info></info>
-</item>
+--------------------------------
 
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Deportes 1[/COLOR]</title>
@@ -1968,19 +1972,146 @@ item>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>	
 ------------------------------------
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Teledeportes[/COLOR]</title>
+
+item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Bein la liga[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>videoUrl = '(.*?)'</expres>
 expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=teledeporteesp&width=650&height=397&autostart=true</page>
+<page>http://livesports.pw/embed.php?file=beinlaliga&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://s26.postimg.org/k1gt8fxsp/Tdp.jpg</thumbnail>
+<thumbnail>http://vercanalestv.com/imagenes/bein-spor-liga.jpg<thumbnail>http://tvjaja.com/img/bein.png</thumbnail></thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>	
+</item>
+------------------------------------------------
+item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Being Sport[/COLOR]</title>
+<sportsdevil>http://www.vipgoal.net/C+Liga/35576/Canal-plus-liga-en-directo.html</sportsdevil>
+<referer>http://www.vipgoal.net/</referer>
+<thumbnail>http://tvjaja.com/img/bein.png</thumbnail>
+</item>
 
-------------------
-------------------------
+item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Sportv br[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Ch]</link>
+<regex>
+<name>Igor_Rangel_Ch</name>
+<expres>src": "(.*playlist.*?)"</expres>
+<page>http://abcast.net/abc.php?file=$doregex[Igor_Rangel_ID]</page>
+<referer>http://torcidatricolor.tv/</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_ID</name>
+<expres>file='(.*?)';</expres>
+<page>http://torcidatricolor.tv/brazil/jogo8.php?IGOR_RANGEL</page>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ruvrus1437612002.png/medium</thumbnail>
+<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+</item>
+
+item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Sportv 2 br[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.mipsplayer.com/membedplayer/tvsportv2aovivo5/1/640/360</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.mips.tv</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rspqxw1437612159.png/medium</thumbnail>
+<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+</item>
+
+item>
+<title>[COLOR blue]#  [/COLOR][COLOR]PFC Brazil br[/COLOR]</title>
+<link>$doregex[get-id]</link>
+<regex>
+<name>get-id</name>
+<expres>file:"(.*?)"</expres>
+<page>http://widestream.io/embed-11429</page>
+</regex>
+<thumbnail>http://1.bp.blogspot.com/-wGKaNp4FOhM/WaAb3tHExoI/AAAAAAAABbc/oIPYbRURp2oikEv7vqE-ZTQlK1onJ10SACK4BGAYYCw/s1600/icon%2Blogo%2Bok.png</thumbnail>
+<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+</item>
+------------------------------------------------------
+
+item>
+<title>[COLOR blue]#  [/COLOR][COLOR]GolTV es[/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=golesp&width=650&height=397 </page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6--Tc3QlBHZPKhtgbV5pDGYCq_zWAIBib8GOdlhO3GKqduxhViQ</thumbnail>
+<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+</item>
+
+item>
+<title>[COLOR blue]#  [/COLOR][COLOR]GolTV es (op 2)[/COLOR]</title>
+<sportsdevil>http://latelete.tv/goltv-en-directo-gratis-por-internet/</sportsdevil>
+<referer>http://latelete.tv/</referer>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6--Tc3QlBHZPKhtgbV5pDGYCq_zWAIBib8GOdlhO3GKqduxhViQ</thumbnail>
+<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+</item>
+
+item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Futbol C+[/COLOR]</title>
+<sportsdevil>http://www.vipgoal.net/c+futbol/35578/C+Futbol-en-directo.html</sportsdevil>
+<referer>http://www.vipgoal.net/</referer>
+<thumbnail>http://4.bp.blogspot.com/-5gFdEJACSuI/Ui2M5enBwMI/AAAAAAAABE0/O0ApwEsVrLM/s1600/p-futbo.jpg</thumbnail>
+<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+</item>
+
+item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Formula 1[/COLOR]</title>
+<sportsdevil>http://www.vipgoal.net/MovistarF1/35596/Movistar-F1-en-directo.html</sportsdevil>
+<referer>http://www.vipgoal.net/</referer>
+<thumbnail>http://lh6.ggpht.com/_gKQKwLZ8XUs/TIvsZTMx7tI/AAAAAAAADyE/53Jr585dfOM/s800/logos-hidden-symbolism-f-1.jpg</thumbnail>
+<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+</item>
+
+item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Moto GP[/COLOR]</title>
+<sportsdevil>http://www.vipgoal.net/MovistarMotoGP/35597/Movistar-MotoGP-en-directo.html</sportsdevil>
+<referer>http://www.vipgoal.net/</referer>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqol0wqNzDBWALWVdYgk2JfmRKhh2svR-al07c25VYbojKRr7P</thumbnail>
+<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+</item>
+
+item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Bt Sport 1[/COLOR]</title>
+<sportsdevil>http://www.vipgoal.net/BtSport1/35588/Bt-Sport-1-Live-Stream.html</sportsdevil>
+<referer>http://www.vipgoal.net/</referer>
+<thumbnail>https://media.info/i/l/300/1405339450/1539.png</thumbnail>
+<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+</item>
+
+item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Bt Sport 2[/COLOR]</title>
+<sportsdevil>http://www.vipgoal.net/BtSport2/35589/Bt-Sport-2-Live-Stream.html</sportsdevil>
+<referer>http://www.vipgoal.net/</referer>
+<thumbnail>https://media.info/i/l/300/1405339429/1540.png</thumbnail>
+<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+</item>
+
+item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Bt Sport 3[/COLOR]</title>
+<sportsdevil>http://www.vipgoal.net/BtSportEurope/35590/Bt-Sport-3-Live-Stream.html</sportsdevil>
+<referer>http://www.vipgoal.net/</referer>
+<thumbnail>https://media.info/i/l/300/1436396712/5712.png</thumbnail>
+<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+</item>
+
+--------------
+-----------------
