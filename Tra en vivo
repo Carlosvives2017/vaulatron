@@ -773,17 +773,8 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 <fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
 </item>
 -----------------------------------------------------
-<item>       
-
-<title>[COLOR blue]#  [/COLOR][COLOR]Elecdeka Online [COLOR lime] zenex[COLOR red] [/COLOR]</title>
-title>[COLOR blue]#  [/COLOR]Elecdeka Online [COLOR lime] zenex  [COLOR lightslategray]CHAPA VS BOLSO 21:00 [COLOR lime](2h)[/COLOR]</title>
-
-link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/1821.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka</link>1821
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totaldeka2018/sementalhdp/1450.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka</link>
-
-<thumbnail>http://4.bp.blogspot.com/--L1WkzExf-4/Wg17SUVb-XI/AAAAAAAACj8/XkJR-cH7rZssOjUy70bmMxmHGNoQJBkAgCK4BGAYYCw/s1600/yoruguito.jpg</thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
-</item>
+<item><title>[COLOR blue]#  [/COLOR]Elecdeka Online [COLOR lime] zenex 1  [COLOR lightslategray][/COLOR]</title><link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link><regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embedna.php?file=vtvu&width=650&height=397</page><cookieJar></cookieJar></regex><thumbnail>http://4.bp.blogspot.com/--L1WkzExf-4/Wg17SUVb-XI/AAAAAAAACj8/XkJR-cH7rZssOjUy70bmMxmHGNoQJBkAgCK4BGAYYCw/s1600/yoruguito.jpg</thumbnail><fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart></item>
+<item><title>[COLOR blue]#  [/COLOR]Elecdeka Online [COLOR lime] zenex 2  [COLOR lightslategray][/COLOR]</title><link>http://185.231.160.42/607/3/index.m3u8</link><thumbnail>http://4.bp.blogspot.com/--L1WkzExf-4/Wg17SUVb-XI/AAAAAAAACj8/XkJR-cH7rZssOjUy70bmMxmHGNoQJBkAgCK4BGAYYCw/s1600/yoruguito.jpg</thumbnail><fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart></item>
 -----------------------------------------
 <item>       
 <title>[COLOR blue]#  [/COLOR]Elecdeka Online [COLOR yellow] sharecast [COLOR red] [/COLOR]</title>
