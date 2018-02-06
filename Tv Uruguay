@@ -812,7 +812,7 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 -----------------
 
 <item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Pasión de Carnaval  [COLOR lightslategray]06/02/2018 23:00 HD[/COLOR]</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]Pasión de Carnaval  [COLOR lightslategray]23:00 HD[/COLOR]</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
