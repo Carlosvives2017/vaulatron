@@ -812,7 +812,7 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 -----------------
 
 <item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Pasión de Carnaval  [COLOR lightslategray]23:00 HD[/COLOR]</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]Pasión de Carnaval  [COLOR lightslategray]21:00 HD[/COLOR]</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -823,7 +823,7 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 <regex>
 <name>get-ifr</name>
 <expres>'src', '(.*extras.*?)'</expres>
-<page>http://tv.vera.com.uy/evento/34003</page>
+<page>http://tv.vera.com.uy/evento/34211</page>34212 21:00 09/02 - 34005 23:00 10/02
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
