@@ -774,15 +774,22 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 
 item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Fox Sports 1[/COLOR]</title>
-<link>http://iptv.premiumtutv.com/canal_102_foxsports.m3u8</link>
+<link>http://gratis.iptvcanales.com/hls/redirect.php/coin/FOX_SPORTS3_HD/Stream(04)/index.m3u8</link>
 <thumbnail>https://s26.postimg.org/g53hcen2x/Foxsport.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
  
-item>
+<item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Fox Sports 2[/COLOR]</title>
-<link>http://iptv.premiumtutv.com/canal_77_foxsports2.m3u8</link>
+<link>http://gratis.iptvcanales.com/hls/redirect.php/coin/FOX_SPORTS2_HD/Stream(04)/index.m3u8</link>
 <thumbnail>https://s26.postimg.org/imf8joep5/Foxsport_2.jpg</thumbnail>
+<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Fox Sports 3[/COLOR]</title>
+<link>http://gratis.iptvcanales.com/hls/redirect.php/coin/FOX_SPORTS3_HD/Stream(04)/index.m3u8</link>
+<thumbnail>https://s26.postimg.org/g53hcf2ih/Foxsport_3.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
@@ -812,30 +819,31 @@ item>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
-item>
+<item>
 <title>[COLOR blue]#  [/COLOR][COLOR]ESPN 1[/COLOR]</title>
-<link>http://iptv.premiumtutv.com/canal_95_espn.m3u8</link>
+<link>http://gratis.iptvcanales.com/hls/redirect.php/coin/ESPN_HD/Stream(04)/index.m3u8</link>
 <thumbnail>https://s26.postimg.org/kqzlkq615/espn_1.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
  
-item>
+<item>
 <title>[COLOR blue]#  [/COLOR][COLOR]ESPN 2[/COLOR]</title>
-<link>http://iptv.premiumtutv.com/canal_35_espn2.m3u8</link>
+<link>http://gratis.iptvcanales.com/hls/redirect.php/coin/ESPN_2_HD/Stream(04)/index.m3u8</link>
 <thumbnail>https://s26.postimg.org/clhjmkx7t/espn_2.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
-item>
+<item>
 <title>[COLOR blue]#  [/COLOR][COLOR]ESPN 3[/COLOR]</title>
-<link>http://iptv.premiumtutv.com/canal_36_espn3.m3u8</link>
+<link>http://gratis.iptvcanales.com/hls/redirect.php/coin/ESPN_3_HD/Stream(04)/index.m3u8</link>
 <thumbnail>https://s26.postimg.org/bvyra8c3t/espn3.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
-item>
+<item>
 <title>[COLOR blue]#  [/COLOR][COLOR]ESPN +[/COLOR]</title>
-<link>http://iptv.premiumtutv.com/canal_103_espn+.m3u8</link>
+<link>http://gratis.iptvcanales.com/hls/redirect.php/coin/ESPN_PLUS_HD/Stream(04)/index.m3u8
+</link>
 <thumbnail>https://s26.postimg.org/agx6lhnvd/espn.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
@@ -893,7 +901,6 @@ expres>source: '(.*?)'</expres>
 <thumbnail>https://s26.postimg.org/k1gt8fxsp/Tdp.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>	
-
 
 /////////////////////////////////////
 /////////////////////////////////////
