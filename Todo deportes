@@ -935,21 +935,21 @@ item>
 ///////////////////////////////////////
 
 
-<item>
+item>
 <title>[COLOR blue]#  [COLOR]La Liga TV[/COLOR]</title>
 <link>http://185.231.160.42/614/1/index.m3u8</link>
 <thumbnail>https://s9.postimg.org/4mfra3wlb/w_Fj_WYNH.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR blue]#  [COLOR]beIN La Liga[/COLOR]</title>
 <link>http://185.231.160.42/607/3/index.m3u8</link>
 <thumbnail>https://s9.postimg.org/nermdk38f/f_RIIR4y.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR blue]#  [COLOR]beIN Sports España[/COLOR]</title>
 <link>http://185.231.160.42/598/3/index.m3u8</link>
 <thumbnail>https://s9.postimg.org/nermdk38f/f_RIIR4y.jpg</thumbnail>
@@ -1327,9 +1327,7 @@ item>
 
 <item>
 <title>[COLOR blue]#  [COLOR]CBC Sport[/COLOR]</title>
-<link>
-sublink:plugin://plugin.video.f4mTester/?url=http://ams.tvizlehd.com/live/cbcsport/playlist.m3u8;&amp;streamtype=HLSRETRY&amp;name=BOOM! for Lee#
-sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/index.m3u8;&amp;streamtype=HLSRETRY&amp;name=BOOM! for Lee#
+<link>sublink:plugin://plugin.video.f4mTester/?url=http://ams.tvizlehd.com/live/cbcsport/playlist.m3u8;&amp;streamtype=HLSRETRY&amp;name=BOOM! for Lee#sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/index.m3u8;&amp;streamtype=HLSRETRY&amp;name=BOOM! for Lee#
 </link>
 <thumbnail>https://s9.postimg.org/fm0ylmmzj/h_V8_YCIo_F.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
@@ -1389,28 +1387,28 @@ sublink:plugin://plugin.video.f4mTester/?url=http://85.132.71.6/turk/cbc_sport/i
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR blue]#  [COLOR]Match! Football 1[/COLOR]</title>
 <link>http://185.58.65.51:8081/futbol1/tracks-v1a1/index.m3u8</link>
 <thumbnail>https://s9.postimg.org/rb4y9jvxr/g_Efb1x_J.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR blue]#  [COLOR]Match! Football 2[/COLOR]</title>
 <link>http://185.58.65.51:8081/futbol2/tracks-v1a1/index.m3u8</link>>
 <thumbnail>https://s9.postimg.org/rb4y9jvxr/g_Efb1x_J.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR blue]#  [COLOR]Match! Football 3[/COLOR]</title>
 <link>http://185.58.65.51:8081/futbol3/tracks-v1a1/index.m3u8</link>
 <thumbnail>https://s9.postimg.org/rb4y9jvxr/g_Efb1x_J.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR blue]#  [COLOR]Match! TV[/COLOR]</title>
 <link>http://185.58.65.51:8081/matchtv/playlist.m3u8</link>
 <thumbnail>https://s9.postimg.org/rb4y9jvxr/g_Efb1x_J.jpg</thumbnail>
