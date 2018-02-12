@@ -784,6 +784,26 @@ link>plugin://plugin.video.f4mTester/?url=http://158.69.228.135:8000/live/totald
 <thumbnail>http://4.bp.blogspot.com/--L1WkzExf-4/Wg17SUVb-XI/AAAAAAAACj8/XkJR-cH7rZssOjUy70bmMxmHGNoQJBkAgCK4BGAYYCw/s1600/yoruguito.jpg</thumbnail>
 <fanart>https://media.elobservador.com.uy/adjuntos/181/imagenes/001/439/0001439728.jpg</fanart>
 </item>
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Nacional vs Aguada [COLOR blue]~[/COLOR] [COLOR deepskyblue]13/02/2018 20:10 HD[/COLOR]</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/evento/34220</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/34220/240/default.jpg</thumbnail>
+<fanart>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/34220/240/default.jpg</fanart>
+</item>
+
 HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
