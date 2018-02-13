@@ -831,7 +831,7 @@ item>
 -----------------------
 
 <item>
-<title>[COLOR blue]#  [/COLOR][COLOR ]Tv Digital Abierta[/COLOR]</title>
+<title>[COLOR blue]#  [/COLOR][COLOR ]Tv Digital[/COLOR]</title>
 <link>NA</link>
 <externallink>$doregex[select]</externallink>
 <regex>
