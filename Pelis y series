@@ -777,7 +777,7 @@ Cine Cafe
 ************
 
 <item>
-<title>[COLOR blue]#  [COLOR]Todo Cine Cafe[/COLOR]</title>
+<title>[COLOR blue]#  [COLOR]Cine Cafe[/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>https://raw.githubusercontent.com/Carlosvives2017/Pelitronicado/master/Todo%20Peliculas</externallink>
 <thumbnail>https://s26.postimg.org/azsaza1l5/cinecafero.jpg</thumbnail>
@@ -867,7 +867,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 ----------------------
 
-<item>
+item>
 <title>[COLOR blue]#  [COLOR]Accion[/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>https://raw.githubusercontent.com/Carlosvives2017/Pelitronicado/master/Accion</externallink>
@@ -875,7 +875,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://s26.postimg.org/73ez3aobd/stock-photo-neon-sign-of-a-cine-cafe-pink-glow-62145256.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR blue]#  [COLOR]Comedia[/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>https://raw.githubusercontent.com/Carlosvives2017/Pelitronicado/master/Comedia</externallink>
@@ -883,7 +883,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://s26.postimg.org/73ez3aobd/stock-photo-neon-sign-of-a-cine-cafe-pink-glow-62145256.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR blue]#  [COLOR]Animacion[/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>https://raw.githubusercontent.com/Carlosvives2017/Pelitronicado/master/Animacion</externallink>
@@ -891,7 +891,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://s26.postimg.org/73ez3aobd/stock-photo-neon-sign-of-a-cine-cafe-pink-glow-62145256.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR blue]#  [COLOR]Thriller[/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>https://raw.githubusercontent.com/Carlosvives2017/Pelitronicado/master/Thriller</externallink>
@@ -899,7 +899,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://s26.postimg.org/73ez3aobd/stock-photo-neon-sign-of-a-cine-cafe-pink-glow-62145256.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR blue]#  [COLOR]Terror[/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>https://raw.githubusercontent.com/Carlosvives2017/Pelitronicado/master/Terror</externallink>
@@ -907,7 +907,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://s26.postimg.org/73ez3aobd/stock-photo-neon-sign-of-a-cine-cafe-pink-glow-62145256.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR blue]#  [COLOR]Drama | Bélica[/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>https://raw.githubusercontent.com/Carlosvives2017/Pelitronicado/master/Drama</externallink>
