@@ -952,20 +952,7 @@ http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&r
 
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Telesur[/COLOR]</title>
-<link>$doregex[get-url]</link>
-<regex>
-<name>get-url</name>
-<expres>file: "(.*?)"</expres>
-<page>$doregex[get-ifr]</page>
-<referer>http://tv.vera.com.uy</referer>
-</regex>
-<regex>
-<name>get-ifr</name>
-<expres>'src', '(.*extras.*?)'</expres>
-<page>http://tv.vera.com.uy/canal/6028</page>
-<referer>http://tv.vera.com.uy</referer>
-<cookieJar></cookieJar>
-</regex>
+<link>http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-lEPz5JOXkDo/WdbKCmHx0oI/AAAAAAAABn8/N7PgzZg8PDQerMmNzyRWPyfS4VQ4kCA8ACK4BGAYYCw/s1600/telesur.jpg</thumbnail>
 <fanart>http://www.marcha.org.ar/wp-content/uploads/2016/03/TELESUR-570x300.jpg</fanart>
 </item>
