@@ -929,29 +929,17 @@ http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&r
 
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Caracol[/COLOR]</title> 
-<link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.mips.tv/membedplayer/campeonestvhd/1/500/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.mips.tv</referer>
-			</regex> 
-			<regex>
-			<name>hls</name>
-			<expres>hlsUrl \+ \(\"(.*?)"</expres>
-			<page>http://www.mips.tv/membedplayer/campeonestvhd/1/500/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.mips.tv</referer>
-			</regex>
+<link>http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8</link>
 <thumbnail>http://2.bp.blogspot.com/-uY_o9klEniE/WdbKCioX8kI/AAAAAAAABmQ/GxCNzwbiZhUSjcukhicjtF3TEqCC60pDwCK4BGAYYCw/s1600/caracol.jpg</thumbnail>
 <fanart>http://photos.wikimapia.org/p/00/02/12/37/22_big.jpg</fanart>
 </item> 
+
+<item>
+<title>[COLOR blue]#  [COLOR]RCN Nuestra Tele HD[/COLOR]</title> 
+<link>https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8</link> 
+<thumbnail>http://1.bp.blogspot.com/-Z2JCu7rM1yc/WdfdvxJI7HI/AAAAAAAABrc/2fJdwpmOG3Q3C08jPpmBS68-61y5Ru3fACK4BGAYYCw/s1600/rcn%2Bnuestra%2Btele.jpg</thumbnail>
+<fanart>https://www.entretengo.com/wp-content/uploads/2014/03/Nuestra-Tele-Internacional.jpg</fanart>
+</item>
 
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]La Tele Tuya[/COLOR]</title> 
