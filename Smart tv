@@ -849,7 +849,7 @@ http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&r
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Univision (Opt-1)[/COLOR]</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]Univision (Op 1)[/COLOR]</title>
 <link>https://ssh101.com/m3u8/dyn/unonuevo/index.m3u8</link>          
 <thumbnail>http://4.bp.blogspot.com/-H0QKjYKEH_w/WeAdBYJch-I/AAAAAAAACEI/Ot08WOg2JvMW4edqMb7VNovZpz7ktttkQCK4BGAYYCw/s1600/univision.jpg</thumbnail>
 <fanart>http://www.xtremostereo.net/wp-content/uploads/2016/09/Univisión-en-vivo-online.jpg</fanart>
@@ -857,7 +857,7 @@ http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&r
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Univision (Opt-2)[/COLOR]</title>
+<title>[COLOR blue]#  [/COLOR][COLOR]Univision (Op 2)[/COLOR]</title>
 <link>http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8?hdnea=expires=1496782118~access=/nlds/univisionnow/univision_east/as/live/*~md5=a4f512d96d77b9a4f5e4d8f31bbf5361</link>          
 <thumbnail>http://4.bp.blogspot.com/-H0QKjYKEH_w/WeAdBYJch-I/AAAAAAAACEI/Ot08WOg2JvMW4edqMb7VNovZpz7ktttkQCK4BGAYYCw/s1600/univision.jpg</thumbnail>
 <fanart>http://www.xtremostereo.net/wp-content/uploads/2016/09/Univisión-en-vivo-online.jpg</fanart>
@@ -894,37 +894,11 @@ http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&r
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Cinemax[/COLOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/argentina/cinemax.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
-<regex>
-<name>GetPageUrl</name>
-expres>videoUrl = '(.*?)'</expres>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/cinemax.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html</referer>
-</regex>
-<thumbnail>http://1.bp.blogspot.com/-oOoyUIuiPxQ/WfCAWw6PXSI/AAAAAAAACIA/bfzQc08R4NEGF9TUa_vCWe15Ts-VxjDiQCK4BGAYYCw/s1600/cinemax.jpg</thumbnail>   
-<fanart>http://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/cinemax_logo_0.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Fox Action[/COLOR]</title>
 <sportsdevil>http://vergol.com/live1/foxaction.php</sportsdevil>
 <referer>http://www.vercanalestv.com/ver-fox-premium-action-en-vivo-gratis-por-internet-en-directo/</referer>
 <thumbnail>https://1.bp.blogspot.com/-yyToGrCknQk/WfJypDpQQnI/AAAAAAAACIU/4Dty8IWHEkIUdxgB5BZYDAapsWIvoaeAQCK4BGAYYCw/s320/foxacti.jpg</thumbnail>
 <fanart>http://i.vimeocdn.com/video/388630672_1280x720.jpg</fanart>
-</item>
-
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Space[/COLOR]</title>
-<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-space/</link>
-<regex>
-<name>play</name>
-<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
-<page>https://www.cxntv.com/canales/tv-space/</page>
-</regex>
-<thumbnail>http://4.bp.blogspot.com/-9Kag4Bjg73k/WfCAW0YegMI/AAAAAAAACIE/SRRJ6cPn4CgnK6yoClD0D9Cg8h0RYTg0QCK4BGAYYCw/s1600/space.jpg</thumbnail>
-<fanart>http://4.bp.blogspot.com/-xs5k8OLNh3c/UZUY5GfqAtI/AAAAAAAABZE/a3UZkqNf7Qw/s1600/logo_port.jpg</fanart>
 </item>
 
 <item>
@@ -937,9 +911,9 @@ item>
 
 --------------------------------
 
-item>
+<item>
 <title>[COLOR blue]#  [/COLOR][COLOR]HispanTV[/COLOR]</title>
-<link>http://178.32.255.199:1935/live/hispantv/chunklist_w1362269254.m3u8</link>
+<link>http://107.189.40.49:1935/live/hispantv/playlist.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-wC-gavrJ1wE/WdbXZiWZ4jI/AAAAAAAABpk/sReuJ8eEqwwrbRuhFa8LdUqQ7VNFV0c3wCK4BGAYYCw/s1600/hispan%2Btv.jpg</thumbnail>
 <fanart>http://www.mediamoves.com/wp-content/uploads/2012/02/HispanTV-set.jpg</fanart>
 </item>
@@ -955,7 +929,26 @@ item>
 
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Caracol[/COLOR]</title> 
-<link>http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8?&dnt=true&ref=http%3A%2F%2Flive2.caracoltv.com%2FNoticias%2Fpl-ms.html</link> 
+<link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.mips.tv/membedplayer/campeonestvhd/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.mips.tv</referer>
+			</regex> 
+			<regex>
+			<name>hls</name>
+			<expres>hlsUrl \+ \(\"(.*?)"</expres>
+			<page>http://www.mips.tv/membedplayer/campeonestvhd/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.mips.tv</referer>
+			</regex>
 <thumbnail>http://2.bp.blogspot.com/-uY_o9klEniE/WdbKCioX8kI/AAAAAAAABmQ/GxCNzwbiZhUSjcukhicjtF3TEqCC60pDwCK4BGAYYCw/s1600/caracol.jpg</thumbnail>
 <fanart>http://photos.wikimapia.org/p/00/02/12/37/22_big.jpg</fanart>
 </item> 
@@ -1122,13 +1115,6 @@ item>
 <fanart>http://www.wallpapersin4k.org/wp-content/uploads/2017/04/Wallpaper-Travel-HD.jpg</fanart>
 </item>
 
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR]DW Latino[/COLOR]</title> 
-<link>http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on</link> 
-<thumbnail>http://1.bp.blogspot.com/-HfZYdsstJd0/Wd42hZbbknI/AAAAAAAACAU/2p0fbQ5UXUs1EpGBit_w2VM81O3B0iGJgCK4BGAYYCw/s1600/dw.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/sGc1WnosecU/maxresdefault.jpg</fanart>
-</item>
-
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]DW Latino HD[/COLOR]</title> 
 <link>$doregex[get-url]</link>
@@ -1169,3 +1155,4 @@ item>
 <thumbnail>http://2.bp.blogspot.com/-9Orn4vF_lcw/Wd42iRY0yQI/AAAAAAAACBE/SIGMLX8zzBgQciDUzTacmWF1oW1jG2WDQCK4BGAYYCw/s1600/uhdusdhsuhd.jpg</thumbnail>
 <fanart>http://niu.cl/wp-content/uploads/2017/07/og_default_fb.png</fanart>
 </item>
+
