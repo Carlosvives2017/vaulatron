@@ -831,7 +831,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 -----------------------
 
 <item>
-<title>[COLOR blue]#  [/COLOR][COLOR ]Tv Digital[/COLOR]</title>
+<title>[COLOR red]#  [/COLOR][COLOR ]Tv Digital[/COLOR]</title>
 <link>NA</link>
 <externallink>$doregex[select]</externallink>
 <regex>
@@ -882,7 +882,7 @@ item>
 -----------------------
 
 <item>
-<title>[COLOR blue]#  [COLOR]Deportes[/COLOR]</title>
+<title>[COLOR red]#  [COLOR]Deportes[/COLOR]</title>
 <link>NA</link>
 <externallink>$doregex[select]</externallink>
 <regex>
@@ -1052,10 +1052,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 -----------------------
 
-item>
-<title>[COLOR blue]#  [/COLOR]Servicio IPTV</title>
+<item>
+<title>[COLOR red]#  [/COLOR]Servicio IPTV</title>
 <link>ignorame</link>
-<externallink>https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/Servicio%20iptv</externallink>
+<externallink>https://??</externallink>
 <thumbnail>https://s26.postimg.org/sddaqg7ex/SERVIP.jpg</thumbnail>
 <fanart>https://s26.postimg.org/hci5lfull/iptv-1067x800.jpg</fanart>
 </item>
