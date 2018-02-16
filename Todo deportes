@@ -773,49 +773,52 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Fox Sports 1[/COLOR]</title>
-<link>http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports.php/index.m3u8</link>
+<title>[COLOR blue]#  [/COLOR]EUROSPORT 1 fr</title>
+<link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/toby1/toby1/31764.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]ELECDEKA[/COLOR]</link>
+<thumbnail>https://s26.postimg.org/swviz4i95/gtaaj.jpg</thumbnail>
+<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+</item>	
+
+<item>
+<title>[COLOR blue]#  [/COLOR]EUROSPORT 2 fr</title>
+<link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/toby1/toby1/31763.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]ELECDEKA[/COLOR]</link>
+<thumbnail>https://s26.postimg.org/imt3zxi3t/gtaaj233e.jpg</thumbnail>
+<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+</item>	
+
+<item>
+<title>[COLOR blue]#  [/COLOR]Foxsport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/toby1/toby1/35779.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]ELECDEKA[/COLOR]</link>
 <thumbnail>https://s26.postimg.org/g53hcen2x/Foxsport.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
- 
+
 <item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Fox Sports 2[/COLOR]</title>
-<link>http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports2.php/index.m3u8</link>
+<title>[COLOR blue]#  [/COLOR]Foxsport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/toby1/toby1/35777.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]ELECDEKA[/COLOR]</link>
 <thumbnail>https://s26.postimg.org/imf8joep5/Foxsport_2.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Fox Sports 3[/COLOR]</title>
-<link>http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports3.php/index.m3u8</link>
+<title>[COLOR blue]#  [/COLOR]Foxsport 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/toby1/toby1/35778.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]ELECDEKA[/COLOR]</link>
 <thumbnail>https://s26.postimg.org/g53hcf2ih/Foxsport_3.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
+
 <item>
-<title>[COLOR blue]#  [COLOR]Fox Sports 1 (US)[/COLOR]</title>
-<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/foxsports1.php?width=650&height=480</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-</regex>
-<thumbnail>https://s9.postimg.org/5byjmbznz/foxspusa.jpg</thumbnail>
+<title>[COLOR blue]#  [/COLOR]Foxsport Premium</title>
+<link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/toby1/toby1/35776.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]ELECDEKA[/COLOR]</link>
+<thumbnail>https://s26.postimg.org/g53hcen2x/Foxsport.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue]#  [COLOR]Fox Sports 2 (US)[/COLOR]</title>
-<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/foxsports2.php?width=650&height=480</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-</regex>
-<thumbnail>https://s9.postimg.org/5byjmbznz/foxspusa.jpg</thumbnail>
+<title>[COLOR blue]#  [/COLOR]TNT Sport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/toby1/toby1/35775.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]ELECDEKA[/COLOR]</link>
+<thumbnail>https://s26.postimg.org/9ree97fmx/tntsport.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
