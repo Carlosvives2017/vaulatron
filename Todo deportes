@@ -766,6 +766,7 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 <item>
+<item>
 <title>[COLOR red]# #   [COLOR red]Todo Deportes   [COLOR red][COLOR red]# #[/COLOR][/COLOR]</title>
 <link>http://elecdeka.uy<link>
 <thumbnail>http://4.bp.blogspot.com/-0O2cZrpnNOw/WYDBNMq181I/AAAAAAAABY4/O2MiaTjM844gX_GnUUrIMpYZJIF6kGPbQCK4BGAYYCw/s1600/Deportes.jpg</thumbnail>
@@ -773,114 +774,102 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR]EUROSPORT 1 fr</title>
-<link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/toby1/toby1/31764.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]ELECDEKA[/COLOR]</link>
+<title>[COLOR blue]#  [COLOR ]beIN La Liga[/COLOR]</title>
+<sportsdevil>http://vergol.com/live3/beinliga.php</sportsdevil>
+<referer>http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-gratis-online/</referer>
+<thumbnail>https://s9.postimg.org/nermdk38f/f_RIIR4y.jpg</thumbnail>
+<fanart></fanart>
+</item>
+	
+<item>
+<title>[COLOR blue]#  [COLOR ]beIN Sport ESPAÑA[/COLOR]</title>
+<sportsdevil>http://livesports.pw/embed.php?file=beinsport&width=650&height=397</sportsdevil>
+<referer>http://verplusonline.com/ver-bein-sport-n/</referer>
+<thumbnail>https://s9.postimg.org/nermdk38f/f_RIIR4y.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [COLOR ]beIN Sport Ñ[/COLOR]</title>
+<sportsdevil>http://livesports.pw/embed.php?file=beinsportn&width=650&height=397</sportsdevil>
+<referer>http://verplusonline.com/ver-bein-sport-espana-en-directo-gratis-y-en-vivo-por-internet-opcion-2/</referer>
+<thumbnail>https://s9.postimg.org/nermdk38f/f_RIIR4y.jpg</thumbnail>
+<fanart></fanart>
+</item>
+	
+<item>
+<title>[COLOR blue]#  [COLOR ]La Liga Tv[/COLOR]</title>
+<sportsdevil>http://livesports.pw/embed.php?file=barliga&width=650&height=397</sportsdevil>
+<referer>http://verplusonline.com/laligatv/</referer>
+<thumbnail>https://s9.postimg.org/4mfra3wlb/w_Fj_WYNH.jpg</thumbnail>
+<fanart></fanart>
+</item>
+----	
+<item>
+<title>[COLOR blue]#  [COLOR ]Partidazo[/COLOR]</title>
+<sportsdevil>http://vergol.com/live3/beinliga.php</sportsdevil>
+<referer>http://www.vercanalestv.com/tv/deportes/plus-partidazo.html</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+	
+<item>
+<title>[COLOR blue]#  [COLOR ]Movistar Futbol[/COLOR]</title>
+<sportsdevil>http://wwww.dinostream.pw/channel.php?file=105997&width=650&height=400&autostart=true</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/deportes/multifutbol/canal1.html</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+-----		
+<item>
+<title>[COLOR blue]#  [COLOR ]Eurosport 1[/COLOR]</title>
+<sportsdevil>http://livesports.pw/embed.php?file=eurosportsesp&width=650&height=397&autostart=true</sportsdevil>
+<referer>http://telefivegb.com/canales/deporte/eurosport</referer>
 <thumbnail>https://s26.postimg.org/swviz4i95/gtaaj.jpg</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>	
-
+<fanart></fanart>
+</item>
+	
 <item>
-<title>[COLOR blue]#  [/COLOR]EUROSPORT 2 fr</title>
-<link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/toby1/toby1/31763.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]ELECDEKA[/COLOR]</link>
+<title>[COLOR blue]#  [COLOR ]Eurosport 2[/COLOR]</title>
+<sportsdevil>http://livesports.pw/embed.php?file=eurosportsdosesp&width=650&height=397&autostart=true</sportsdevil>
+<referer>http://telefivegb.com/canales/deporte/eurosport2</referer>
 <thumbnail>https://s26.postimg.org/imt3zxi3t/gtaaj233e.jpg</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>	
-
+<fanart></fanart>
+</item>
+	
 <item>
-<title>[COLOR blue]#  [/COLOR]Foxsport 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/toby1/toby1/35779.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]ELECDEKA[/COLOR]</link>
-<thumbnail>https://s26.postimg.org/g53hcen2x/Foxsport.jpg</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+<title>[COLOR blue]#  [COLOR ]Movistar Deportes 1[/COLOR]</title>
+<sportsdevil>http://vergol.com/live1/plusdeportes1.php</sportsdevil>
+<referer>http://www.vercanalestv.com/ver-canal-plus-deportes-online-y-en-directo-las-24-en-vivo/</referer>
+<thumbnail>https://s26.postimg.org/qf5wbqkp5/depo1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+	
+<item>
+<title>[COLOR blue]#  [COLOR ]Movistar Deportes 2[/COLOR]</title>
+<sportsdevil>http://vergol.com/live1/plusdeportes2.php</sportsdevil>
+<referer>http://www.vercanalestv.com/ver-canal-plus-deportes-2-online-y-en-directo-las-24h-en-vivo/</referer>
+<thumbnail>https://s26.postimg.org/5v12d4f6x/depo2.jpg</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR]Foxsport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/toby1/toby1/35777.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]ELECDEKA[/COLOR]</link>
-<thumbnail>https://s26.postimg.org/imf8joep5/Foxsport_2.jpg</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+<title>[COLOR blue]#  [COLOR ]Movistar MotoGP[/COLOR]</title>
+<sportsdevil>http://vergol.com/live3/motogp.php</sportsdevil>
+<referer>http://www.vercanalestv.com/ver-motogp-en-directo-y-online-24h-gratis/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+	
+<item> off
+<title>[COLOR blue]#  [COLOR ]Movistar F1[/COLOR]</title>
+<sportsdevil>http://vercanalestv.com/tv/deportes/formula-1.html</sportsdevil>
+<referer>http://www.vercanalestv.com/tv/deportes/formula-1.html</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
-<item>
-<title>[COLOR blue]#  [/COLOR]Foxsport 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/toby1/toby1/35778.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]ELECDEKA[/COLOR]</link>
-<thumbnail>https://s26.postimg.org/g53hcf2ih/Foxsport_3.jpg</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR blue]#  [/COLOR]Foxsport Premium</title>
-<link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/toby1/toby1/35776.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]ELECDEKA[/COLOR]</link>
-<thumbnail>https://s26.postimg.org/g53hcen2x/Foxsport.jpg</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [/COLOR]TNT Sport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/toby1/toby1/35775.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]ELECDEKA[/COLOR]</link>
-<thumbnail>https://s26.postimg.org/9ree97fmx/tntsport.jpg</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]ESPN 1[/COLOR]</title>
-<link>http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn_kr.php/index.m3u8</link>
-<thumbnail>https://s26.postimg.org/kqzlkq615/espn_1.jpg</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
- 
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]ESPN 2[/COLOR]</title>
-<link>http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn2_kr.php/index.m3u8</link>
-<thumbnail>https://s26.postimg.org/clhjmkx7t/espn_2.jpg</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]ESPN 3[/COLOR]</title>
-<link>http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn3_kr.php/index.m3u8</link>
-<thumbnail>https://s26.postimg.org/bvyra8c3t/espn3.jpg</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]ESPN +[/COLOR]</title>
-<link>http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn_plus.php/index.m3u8</link>
-<thumbnail>https://s26.postimg.org/agx6lhnvd/espn.jpg</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]ESPN+ br[/COLOR]</title>
-<link>$doregex[get-id]</link>
-<regex>
-<name>get-id</name>
-<expres>file:"(.*?)"</expres>
-<page>http://widestream.io/embed-16337</page>
-</regex>
-<thumbnail>https://s9.postimg.org/oh1sw6m2n/syqu_GUp.jpg</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [COLOR]ESPN (US)[/COLOR]</title>
-<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/espn.php?width=650&height=480</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-</regex>
-<thumbnail>https://s9.postimg.org/oh1sw6m2n/syqu_GUp.jpg</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]TyC Sports HD[/COLOR]</title>
-<link>https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/2bf9213f418f4445ad9bc3fd0454ddf2/index_1.m3u8</link>
-<thumbnail>https://s26.postimg.org/5i9o71zix/tycsport.jpg</thumbnail>
-<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
-</item>
+/////////////////////////////////////////////
 
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Todo Deportes[/COLOR]</title>
