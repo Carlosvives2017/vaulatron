@@ -789,7 +789,7 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 
 -----------------
 
-item>
+<item>
 <title>[COLOR red]###  AVISO  ###[COLOR blue]  >>>>[COLOR]  PRESIONE AQUI  [COLOR blue]<<<<[/COLOR]</title>
 <link>$doregex[text]</link>
 <regex>
