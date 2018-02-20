@@ -983,33 +983,28 @@ referer>http://latelete.tv/</referer>
 
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]M+ #0[/COLOR]</title>
-<link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.pubfstream.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.playerfs.com/membedplayer/$doregex[ch]/1/650/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.playerfs.com</referer>
-			</regex>
-			<regex>
-			<name>hls</name>
-			<expres>hlsUrl \+ \(\"(.*?)"</expres>
-			<page>http://www.playerfs.com/membedplayer/$doregex[ch]/1/650/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.playerfs.com</referer>
-			</regex>
-			<regex>
-			<name>ch</name>
-			<expres>channel='(.*?)'</expres>
-			<page>http://cinestrenostv.tv/canales/envivo/plus1.html</page>
-			</regex>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.52 Safari/537.36 OPR/52.0.2871.0 (Edition developer)</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=movistarcero&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
 <thumbnail>http://2.bp.blogspot.com/-qj2bkeojNHo/WdwBBHpT8DI/AAAAAAAAB04/r30m5vg1Sfw8O5mAtq80itO4DTG0byn4wCK4BGAYYCw/s1600/%25230.jpg</thumbnail>
 <fanart>https://i0.wp.com/diariomnipresente.com/wp-content/uploads/2015/12/0-Movistar.jpg?resize=1000%2C450</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Calle13[/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.52 Safari/537.36 OPR/52.0.2871.0 (Edition developer)</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=calltrees&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-g-b0fyVodJ4/WdwBBCy7INI/AAAAAAAABz4/5JuhevKnZEM_4XmnQ8SfUBfaB6BxGeBRACK4BGAYYCw/s1600/calle%2B13.jpg</thumbnail>
+<fanart>https://alejandrapons.files.wordpress.com/2012/08/calle-13-tv-channel-all-fools-day-small-38184.jpg</fanart>
 </item>
 
 <item>
@@ -1025,7 +1020,6 @@ referer>http://latelete.tv/</referer>
 <thumbnail>http://2.bp.blogspot.com/-zP6ZYFpVMM0/WdwBBPxf4vI/AAAAAAAAB0I/0xxxH-debSMTkIZVArdlXFsgpfw-Z34RgCK4BGAYYCw/s1600/historia.jpg</thumbnail>  
 <fanart>http://estaticoshumor.atresmedia.com/wp-content/uploads/2016/11/historiatestportada-940x400.jpg</fanart>
 </item>
-
 
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]National Geographic[/COLOR]</title>
