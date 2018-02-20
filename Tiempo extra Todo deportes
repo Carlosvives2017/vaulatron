@@ -786,7 +786,7 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 </item>
 
 <item>      
-<title>[COLOR blue]#  [/COLOR]Elecdeka [COLOR lime] Zenex[/COLOR]</title>
+<title>[COLOR blue]#  [/COLOR]Elecdeka  [COLOR lime] Zenex[/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
