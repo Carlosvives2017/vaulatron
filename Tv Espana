@@ -954,6 +954,32 @@ referer>http://latelete.tv/</referer>
 </item>
 
 <item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Discovery Channel[/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.52 Safari/537.36 OPR/52.0.2871.0 (Edition developer)</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=discoverychannel&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-I01lKFxj3bY/WdwBBNvzJQI/AAAAAAAABzY/RQPXlU28UmAKqeHeHLT3uDev1a1_KkDGQCK4BGAYYCw/s1600/discovery%2Bchanelero.jpg</thumbnail>
+<fanart>https://www.adslzone.tv/app/uploads/2015/12/discovery-channel.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Cocina[COLOR lime][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.52 Safari/537.36 OPR/52.0.2871.0 (Edition developer)</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=cocinaesp&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://1.bp.blogspot.com/-MoMQ903jUCo/WdwBBHL-GLI/AAAAAAAAB1E/f2Vt7Wc09-caDTZXoicM6EOiF5_GsfQ-wCK4BGAYYCw/s1600/cocina.jpg</thumbnail>
+<fanart>http://tienda.canalcocina.es/4899-tm_home_default/canalcocina.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Caza y pesca[COLOR lime][/COLOR]</title>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedna.php?file=movestr&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0</link>
 <regex>
