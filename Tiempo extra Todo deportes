@@ -787,22 +787,32 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 
 <item>      
 <title>[COLOR blue]#  [/COLOR]Elecdeka  [COLOR lime] Zenex[/COLOR]</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
+
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.52 Safari/537.36 OPR/52.0.2871.0 (Edition developer)</link>
 <regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.zenexpublisher.com:1935/loadbalancer</page>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=antena3&width=650&height=397</page>
+<cookieJar></cookieJar>
 </regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.zenexplayer.com/membedplayer/Elecdeka/1/500/400</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.zenex.com</referer>
-</regex>
+
 <thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
 <fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
+
+link>http://$doregex[ip]$doregex[m3u8]</link>
+regex>
+name>ip</name>
+expres>redirect=(.*)</expres>
+page>http://www.zenexpublisher.com:1935/loadbalancer</page>
+/regex>
+regex>
+name>m3u8</name>
+expres>ea \+ "(.*?)"</expres>
+page>http://www.zenexplayer.com/membedplayer/Elecdeka/1/500/400</page>
+agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+referer>http://www.zenex.com</referer>
+/regex>
 
 <item>
 <title>[COLOR blue]#  [/COLOR]Futbol Andres  [COLOR lightslategray]VTV / TyC / Fox Sport[/COLOR]</title>
