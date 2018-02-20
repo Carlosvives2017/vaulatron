@@ -853,7 +853,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 -----------------------
 
 <item>
-<title>[COLOR red]#  [COLOR]Deportes[/COLOR]</title>
+<title>[COLOR blue]#  [COLOR]Deportes[/COLOR]</title>
 <link>NA</link>
 <externallink>$doregex[select]</externallink>
 <regex>
@@ -863,7 +863,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
    import xbmcgui
    dialog = xbmcgui.Dialog()
    ret = dialog.select('[COLOR red]# #   [COLOR red]Deportes   [COLOR red][COLOR red]# #[/COLOR][COLOR deepskyred]**************************************[/COLOR]', ['[COLOR blue]#  [/COLOR][COLOR ]Tiempo extra / Todo Deportes  [COLOR red][/COLOR]', '[COLOR blue]#  [/COLOR][COLOR]Live TV[/COLOR]', '[COLOR blue]#  [/COLOR][COLOR ]Roja Directa[/COLOR][COLOR red][/COLOR]', '[COLOR blue]#  [/COLOR][COLOR]Arenavision  (-5h) Deportes[/COLOR]', '[COLOR blue]#  [/COLOR][COLOR ]Sky Sport[COLOR red]   [/COLOR]', '[COLOR blue]#  [/COLOR][COLOR ]beIN Sport[/COLOR]', '[COLOR red]>>>  [/COLOR][COLOR red]Inicio  >>>[/COLOR]'])
-   lists = ['https://', 'https://raw.githubusercontent.com/Carlosvives2017/catrudepu/master/live%20Tv', 'https://raw.githubusercontent.com/Carlosvives2017/catrudepu/master/Roja%20Directa',  'https://raw.githubusercontent.com/Carlosvives2017/catrudepu/master/Arenavision%20-5h', 'https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/Sky%20Sport', 'https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/bein', 'https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/inicio%20febrero%202018']
+   lists = ['https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/Tiempo%20extra%20Todo%20deportes', 'https://raw.githubusercontent.com/Carlosvives2017/catrudepu/master/live%20Tv', 'https://raw.githubusercontent.com/Carlosvives2017/catrudepu/master/Roja%20Directa',  'https://raw.githubusercontent.com/Carlosvives2017/catrudepu/master/Arenavision%20-5h', 'https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/Sky%20Sport', 'https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/bein', 'https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/inicio%20febrero%202018']
    return lists[ret]
 ]]></expres>
 <page></page>
