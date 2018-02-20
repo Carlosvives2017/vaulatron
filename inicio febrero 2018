@@ -790,6 +790,15 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 -----------------
 
 <item>
+<title>[COLOR deepskyred]•[/COLOR]</title>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+    <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
+    <link>http://ignoreme</link>
+    <externallink>http://pastebin.com</externallink>
+<info></info>
+</item>
+
+<item>
 <title>[COLOR red]###  AVISO  ###[COLOR blue]  >>>>[COLOR]  PRESIONE AQUI  [COLOR blue]<<<<[/COLOR]</title>
 <link>$doregex[text]</link>
 <regex>
@@ -809,8 +818,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 -----------------
 
-item>
-<title>[COLOR deepskyred]•[/COLOR][COLOR red]  ***  Equipos en reparacion  ***  Disculpas del caso[/COLOR]</title>
+<item>
+<title>[COLOR deepskyred]•[/COLOR]</title>
     <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
     <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
     <link>http://ignoreme</link>
@@ -819,7 +828,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR lime]Para pregunta en IPTV PREMIUM, envia un msj en Telegram: @Elecdeka[/COLOR]</title>
+<title>[COLOR lime]Pregunta en IPTV PREMIUM, envia un msj en Telegram: @Elecdeka[/COLOR]</title>
     <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
 <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
     <link>http://ignoreme</link>
@@ -828,7 +837,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR lime]Para ver los canales que buscas, estan en:[COLOR red] [I]http://goo.gl/UF4WL5[/I][/COLOR]</title>
+<title>[COLOR lime]Canales IPTV PREMIUM:[COLOR red]  [I]http://goo.gl/UF4WL5[/I][/COLOR]</title>
     <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
 <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
     <link>http://ignoreme</link>
@@ -837,7 +846,16 @@ item>
 </item>
 
 <item>
-<title>[COLOR red]***  NO DAMOS MAS DEMO 2H DE IPTV PREMIUM POR TENER TANTA CANTIDAD DE PERSONAS INESCRUPULOSAS QUE JUEGAN NUESTRO MEDIO DE VIDA  ***[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR]</title>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+    <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
+    <link>http://ignoreme</link>
+    <externallink>http://pastebin.com</externallink>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR red]***  NOOOO DEMO 2H DE IPTV PREMIUM  ***[/COLOR]</title>
     <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
 <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
     <link>http://ignoreme</link>
@@ -846,203 +864,29 @@ item>
 </item>
 
 <item>
-<title>[COLOR lime]SI OFRECEMOS IPTV PREMIUM 24H CON DONE DE PAYPAL/PREX DE LUNES A VIERNES DE 8:00 A 12:00  ***[/COLOR]</title>
+<title>[COLOR lime]SÍ IPTV PREMIUM 24H CON DONE DE PAYPAL/PREX DE LUNES A VIERNES DE 8:00 A 12:00  ***[/COLOR]</title>
     <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
 <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
     <link>http://ignoreme</link>
     <externallink>http://pastebin.com</externallink>
-<info></info>
-</item>
-
-----------------------------------------------------------------------------
------------------------
-
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR ]Tv Digital[/COLOR]</title>
-<link>NA</link>
-<externallink>$doregex[select]</externallink>
-<regex>
-<name>select</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-   import xbmcgui
-   dialog = xbmcgui.Dialog()
-   ret = dialog.select('[COLOR red]# #   [COLOR red]Tv Digital Abierta   [COLOR red][COLOR red]# #[/COLOR][COLOR deepskyred]**************************************[/COLOR]', ['[COLOR blue]#  [/COLOR][COLOR yellow]Tv [COLOR deepskyblue]U[COLOR white]ru[COLOR deepskyblue]gu[COLOR white]ay[/COLOR]', '[COLOR blue]#  [/COLOR][COLOR deepskyblue]Tv Ar[COLOR white]gen[COLOR deepskyblue]tina[/COLOR]', '[COLOR blue]#  [/COLOR][COLOR red]Tv [COLOR yellow]Espa[COLOR red]ña[/COLOR]', '[COLOR blue]#  [/COLOR][COLOR green]Tv [COLOR white]Mexi[COLOR red]co[/COLOR]', '[COLOR blue]#  [/COLOR][COLOR lime]S[COLOR deepskyblue]ma[COLOR orange]rt[COLOR red] Tv[/COLOR]', '[COLOR blue]#  [/COLOR][COLOR ]Canales del Mundo[/COLOR]', '[COLOR red]>>>  [/COLOR][COLOR red]Inicio  >>>  [/COLOR]'])
-   lists = ['https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/Tv%20Uruguay', 'https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/Tv%20Argentina', 'https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/Tv%20Espana', 'https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/Tv%20Mexico', 'https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/Smart%20tv', 'https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/Canales%20del%20Mundo', 'https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/inicio%20febrero%202018']
-   return lists[ret]
-]]></expres>
-<page></page>
-</regex>
-<thumbnail>https://s26.postimg.org/vc91ht4uh/tradi34.jpg</thumbnail>
-<fanart>http://www.paginapopular.net/wp-content/uploads/2016/05/tda-1-800x500_c.jpg</fanart>
-</item>
-
------------------------
-
-<item>
-<title>[COLOR blue]#  [COLOR]Deportes[/COLOR]</title>
-<link>NA</link>
-<externallink>$doregex[select]</externallink>
-<regex>
-<name>select</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-   import xbmcgui
-   dialog = xbmcgui.Dialog()
-   ret = dialog.select('[COLOR red]# #   [COLOR red]Deportes   [COLOR red][COLOR red]# #[/COLOR][COLOR deepskyred]**************************************[/COLOR]', ['[COLOR blue]#  [/COLOR][COLOR ]Tiempo extra / Todo Deportes  [COLOR red][/COLOR]', '[COLOR blue]#  [/COLOR][COLOR]Live TV[/COLOR]', '[COLOR blue]#  [/COLOR][COLOR ]Roja Directa[/COLOR][COLOR red][/COLOR]', '[COLOR blue]#  [/COLOR][COLOR]Arenavision  (-5h) Deportes[/COLOR]', '[COLOR blue]#  [/COLOR][COLOR ]Sky Sport[COLOR red]   [/COLOR]', '[COLOR blue]#  [/COLOR][COLOR ]beIN Sport[/COLOR]', '[COLOR red]>>>  [/COLOR][COLOR red]Inicio  >>>[/COLOR]'])
-   lists = ['https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/Tiempo%20extra%20Todo%20deportes', 'https://raw.githubusercontent.com/Carlosvives2017/catrudepu/master/live%20Tv', 'https://raw.githubusercontent.com/Carlosvives2017/catrudepu/master/Roja%20Directa',  'https://raw.githubusercontent.com/Carlosvives2017/catrudepu/master/Arenavision%20-5h', 'https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/Sky%20Sport', 'https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/bein', 'https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/inicio%20febrero%202018']
-   return lists[ret]
-]]></expres>
-<page></page>
-</regex>
-<thumbnail>http://4.bp.blogspot.com/-0O2cZrpnNOw/WYDBNMq181I/AAAAAAAABY4/O2MiaTjM844gX_GnUUrIMpYZJIF6kGPbQCK4BGAYYCw/s1600/Deportes.jpg</thumbnail>
-<fanart>http://static.azteca.com/imagenes/2017/13/deportes-2126641.jpg</fanart>
-<info></info>
-</item>
-
------------------------
-
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR ]Peliculas[/COLOR]</title>
-    <link>ignorame</link>
-    <externallink>https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/Pelis%20y%20series</externallink>
-    <thumbnail>http://3.bp.blogspot.com/-tVVK739GnHA/WYDBNOTo_FI/AAAAAAAABX0/XsftAuiPMD81n7zsBzZnyqAn7Go2qO3WQCK4BGAYYCw/s1600/Peliculas.jpg</thumbnail>
-    <fanart>http://www.indietips.com/wp-content/uploads/2015/10/movie-collage-TO-BEST-POSTER-ACTION-FREE-ONLINE-FULL-MOVIES-VIDEOS.jpg</fanart>  
-<info></info>
-</item>
-
------------------------
-
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR ]Series[/COLOR]</title>
-    <link>ignorame</link>
-    <externallink>https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/Series</externallink>
-    <thumbnail>https://s26.postimg.org/gpadpadux/seritos.jpg</thumbnail>
-    <fanart>https://cdn23.merca20.com/wp-content/uploads/2017/06/series-tv.jpg</fanart>  
 <info></info>
 </item>
 
 ------------------------
 
 <item>
-<title>[COLOR blue]#  [/COLOR][COLOR ][COLOR white]You [COLOR red]tube[/COLOR]</title>
-<link>$doregex[makelist]</link>
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR blue]#  [/COLOR][makelist.param2]</title>
-<link>$doregex[resolve]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>u'(.+?)', u'(.+?)'</expres>
-<page>$doregex[search]</page>
-</regex>
-
-<regex>
-<name>resolve</name>
-<expres><![CDATA[#$pyFunction
-import urlresolver
-def GetLSProData(page_data,Cookie_Jar,m):
- url = 'https://www.youtube.com/watch?v=[makelist.param1]'
- streamLink = urlresolver.resolve(url)
- return streamLink
-]]></expres>
-<page></page>
-</regex>
-
-<regex>
-<name>search</name>
-<expres><![CDATA[#$pyFunction
-import requests,xbmcgui,xbmc, re,time, xbmcaddon
-def GetLSProData(page_data,Cookie_Jar,m):
-
- text=takeInputFortext('Ingrese la búsqueda')
- url = 'https://www.youtube.com/results?q=' + text.replace(' ', '+')
- req = requests.get(url)
- list1 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
-
- count = 10
- while count > 1:
-   try:
-     url = 'https://www.youtube.com' + re.findall('a href="([^"]+)".+<\/a>\n <\/div>', req.text)[0]
-   except:
-     return list1
-   req = requests.get(url)
-   list2 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
-   list1 = list1 + list2
-   count = count - 1
- return list1
-
-def takeInputFortext(txt):
- addon = xbmcaddon.Addon('plugin.video.live.streamspro')
- addon_version = addon.getAddonInfo('version')
- profile = xbmc.translatePath(addon.getAddonInfo('profile').decode('utf-8'))
- 
- solver = InputWindow( txt=txt)
- solution = solver.get()
- return solution
-
-class InputWindow(xbmcgui.WindowDialog):
-    def __init__(self, *args, **kwargs):
-        
-        self.txt = kwargs.get('txt','')
-
-        xbmcgui.WindowXMLDialog.__init__(self)
-        #self.addControl(self.txt)
-        path = xbmcaddon.Addon().getAddonInfo('path')
-        self.kbd = xbmc.Keyboard()
-        self.kbd.setHeading( self.txt)
-
-    def get(self):
-        self.show()
-        time.sleep(2)
-        self.kbd.doModal()
-        if (self.kbd.isConfirmed()):
-            text = self.kbd.getText()
-            self.close()
-            return text
-        self.close()
-        return False
-]]></expres>
-<page></page>
-</regex>
-<thumbnail>https://s26.postimg.org/ifxv5jobt/youtube.jpg</thumbnail>
-<fanart>https://9to5google.files.wordpress.com/2017/02/youtube.jpg?quality=82&strip=all&w=1000</fanart>
+<title>[COLOR deepskyred]•[/COLOR]</title>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+    <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
+    <link>http://ignoreme</link>
+    <externallink>http://pastebin.com</externallink>
 <info></info>
 </item>
 
------------------------
-
 <item>
-<title>[COLOR blue]#  [/COLOR][COLOR ]Musica[/COLOR]</title>
-
-<link>NA</link>
-<externallink>$doregex[select]</externallink>
-<regex>
-<name>select</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-   import xbmcgui
-   dialog = xbmcgui.Dialog()
-   ret = dialog.select('[COLOR red]# #   [COLOR red]Musica   [COLOR red][COLOR red]# #[/COLOR][COLOR deepskyred]**************************************[/COLOR]', ['[COLOR blue]#  [/COLOR][COLOR]Channel Music[/COLOR]', '[COLOR blue]#  [/COLOR][COLOR]Top 50 Uruguay[/COLOR]', '[COLOR blue]#  [/COLOR][COLOR ]The Best 70s 80s 90s[/COLOR]', '[COLOR blue]#  [/COLOR]Tropical', '[COLOR blue]#  [/COLOR][COLOR ]Cumbia Uruguay[/COLOR]', '[COLOR red]>>>  [/COLOR][COLOR red]Inicio  >>>[/COLOR]'])
-   lists = ['https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/Musica', 'https://raw.githubusercontent.com/Carlosvives2017/catrudepu/master/Top%2050%20uruguay', 'https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/Clasic%20Proyect', 'https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/Tropical', 'https://raw.githubusercontent.com/Carlosvives2017/catrudepu/master/Cumbia%20uruguay', 'https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/inicio%20febrero%202018']
-   return lists[ret]
-]]></expres>
-<page></page>
-</regex>
-
-<thumbnail>http://3.bp.blogspot.com/-fLBAA_fJALw/WYDBNF0k4mI/AAAAAAAABXw/idBL_yWG5cM5iVnuV9FJBHhInZZBXdOCwCK4BGAYYCw/s1600/Musica.jpg</thumbnail>
-<fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart>
-<info></info>
-</item>
-
------------------------
-
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR ]Radio Uruguay[/COLOR]</title>
+<title><title>[COLOR red]### Elecdeka ### [/COLOR][COLOR blue]  >>>>[COLOR]  PRESIONE AQUI  [COLOR blue]<<<<[/COLOR]</title></title>
     <link>ignorame</link>
-    <externallink>https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/Radio%20Uruguay</externallink>
+    <externallink>https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/inicio%202</externallink>
     <thumbnail>http://1.bp.blogspot.com/-Euq2J1Xfpv0/WYDBNVOZq-I/AAAAAAAABYk/bgVuP4JXO6oJNYBq05Uh-S2EahJAE3KRQCK4BGAYYCw/s1600/radio.jpg</thumbnail>
     <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUpjHEnvzmtatERhmSZbsLVyhsqWGkcnWQwP-bWnSLtHWMeamD</fanart> 
 <info></info>
@@ -1050,15 +894,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 -----------------------
 
-item>
-<title>[COLOR red]#  [/COLOR]Servicio IPTV</title>
-<link>ignorame</link>
-<externallink>https://??</externallink>
-<thumbnail>https://s26.postimg.org/sddaqg7ex/SERVIP.jpg</thumbnail>
-<fanart>https://s26.postimg.org/hci5lfull/iptv-1067x800.jpg</fanart>
+<item>
+<title>[COLOR deepskyred]•[/COLOR]</title>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+    <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
+    <link>http://ignoreme</link>
+    <externallink>http://pastebin.com</externallink>
+<info></info>
 </item>
-
----------------------------------------------------
 
 <item>
 <title>[COLOR lime]Email: elecdeka2017@gmail.com - Telegram: @Elecdeka[/COLOR]</title>
