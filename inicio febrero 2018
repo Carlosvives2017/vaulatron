@@ -850,35 +850,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>http://www.paginapopular.net/wp-content/uploads/2016/05/tda-1-800x500_c.jpg</fanart>
 </item>
 
--------------------
-
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR red]Claro Tv[/COLOR]</title>
-<link>ignorame</link>
-<externallink>https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/Claro%20Tv</externallink>
-<thumbnail>https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg</thumbnail>
-<fanart>http://www.jcmagazine.com/wp-content/uploads/2013/03/claro.jpg</fanart>
-<info></info>
-</item>
-
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR lime]You[COLOR orange]Tv[COLOR deepskyblue] Player[/COLOR]</title>
-<link>ignorame</link>
-<externallink>https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/YouTv%20Player</externallink>
-<thumbnail>https://s10.postimg.org/go08p8mq1/yotevero.jpg</thumbnail>
-<fanart>https://androidbasico.com/wp-content/uploads/2016/11/ver-canal-plus-gratis-You-tv-player.png</fanart>
-<info></info>
-</item>
-
-item>
-<title>[COLOR blue]#  [/COLOR][COLOR white]Total[COLOR deepskyblue]d[COLOR lime]e[COLOR orange]k[COLOR red]a  [COLOR lime](2h)[/COLOR]</title>
-<link>ignorame</link>
-<externallink>https://goo.gl/W7fYxR</externallink>
-<thumbnail>https://s10.postimg.org/5bnn7fyll/Totaldeka.jpg</thumbnail>
-<fanart>https://s26.postimg.org/d54qhg2ah/fanatrodeka.jpg</fanart>
-<info></info>
-</item>
-
 -----------------------
 
 <item>
@@ -891,8 +862,8 @@ item>
 def GetLSProData(page_data,Cookie_Jar,m):
    import xbmcgui
    dialog = xbmcgui.Dialog()
-   ret = dialog.select('[COLOR red]# #   [COLOR red]Deportes   [COLOR red][COLOR red]# #[/COLOR][COLOR deepskyred]**************************************[/COLOR]', ['[COLOR blue]#  [/COLOR][COLOR ]Deportes / Tiempo extra  [COLOR red][/COLOR]', '[COLOR blue]#  [/COLOR][COLOR]Live TV[/COLOR]', '[COLOR blue]#  [/COLOR][COLOR ]Roja Directa[/COLOR][COLOR red][/COLOR]', '[COLOR blue]#  [/COLOR][COLOR]Arenavision  (-5h) Deportes[/COLOR]', '[COLOR blue]#  [/COLOR][COLOR ]Sky Sport[COLOR red]   [/COLOR]', '[COLOR blue]#  [/COLOR][COLOR ]beIN Sport[/COLOR]', '[COLOR red]>>>  [/COLOR][COLOR red]Inicio  >>>[/COLOR]'])
-   lists = ['https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/Tiempo%20extra', 'https://raw.githubusercontent.com/Carlosvives2017/catrudepu/master/live%20Tv', 'https://raw.githubusercontent.com/Carlosvives2017/catrudepu/master/Roja%20Directa',  'https://raw.githubusercontent.com/Carlosvives2017/catrudepu/master/Arenavision%20-5h', 'https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/Sky%20Sport', 'https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/bein', 'https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/inicio%20febrero%202018']
+   ret = dialog.select('[COLOR red]# #   [COLOR red]Deportes   [COLOR red][COLOR red]# #[/COLOR][COLOR deepskyred]**************************************[/COLOR]', ['[COLOR blue]#  [/COLOR][COLOR ]Tiempo extra / Todo Deportes  [COLOR red][/COLOR]', '[COLOR blue]#  [/COLOR][COLOR]Live TV[/COLOR]', '[COLOR blue]#  [/COLOR][COLOR ]Roja Directa[/COLOR][COLOR red][/COLOR]', '[COLOR blue]#  [/COLOR][COLOR]Arenavision  (-5h) Deportes[/COLOR]', '[COLOR blue]#  [/COLOR][COLOR ]Sky Sport[COLOR red]   [/COLOR]', '[COLOR blue]#  [/COLOR][COLOR ]beIN Sport[/COLOR]', '[COLOR red]>>>  [/COLOR][COLOR red]Inicio  >>>[/COLOR]'])
+   lists = ['https://', 'https://raw.githubusercontent.com/Carlosvives2017/catrudepu/master/live%20Tv', 'https://raw.githubusercontent.com/Carlosvives2017/catrudepu/master/Roja%20Directa',  'https://raw.githubusercontent.com/Carlosvives2017/catrudepu/master/Arenavision%20-5h', 'https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/Sky%20Sport', 'https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/bein', 'https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/inicio%20febrero%202018']
    return lists[ret]
 ]]></expres>
 <page></page>
