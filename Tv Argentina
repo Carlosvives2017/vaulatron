@@ -802,6 +802,20 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 </item>
 
 <item>
+<title>[COLOR blue]#  [/COLOR][COLOR]5R Tv[/COLOR]</title>
+<link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0186</link>
+<thumbnail>https://s26.postimg.org/5e717m789/logo-5R-silver_x2.jpg</thumbnail>
+<fanart>http://www.rts.com.ar/wp-content/uploads/sites/3/2015/11/logo-5rtv-noche.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]5Tv[/COLOR]</title>
+<link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0132</link>
+<thumbnail>https://s26.postimg.org/ojaahde6h/5tv.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/3SdoY2JAX_4/hqdefault.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Canal 9[/COLOR]</title> 
 <link>http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 4.3; Nexus 7 Build/JSS15Q)</link>
 <info></info>
@@ -831,10 +845,24 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 </item> 
 
 <item>
+<title>[COLOR blue]#  [/COLOR][COLOR]A24[/COLOR]</title> 
+<link>http://a.watcha.live/ch2/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link> 
+<thumbnail>http://1.bp.blogspot.com/-OQXV8MkhyEA/WdaNiL4syoI/AAAAAAAABj4/_HKoBs_ePdUaqD5ZKw1kjPpCkzVbkj8BwCK4BGAYYCw/s1600/a24.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-iX6FPCYr9Og/WdaNiCsxzbI/AAAAAAAABkI/RxxdywAkcaEbXfyJM6zrPt-yJvZqHP4tACK4BGAYYCw/s1600/a24.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Canal 26[/COLOR]</title>
 <link>http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-ivOg2-zfAOk/WdaNifM-XaI/AAAAAAAABkY/3lI2oa12M7sF_UfjKwTvsPtDSl545jCEwCK4BGAYYCw/s1600/canal%2B26.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Canal_26_Movil.jpg/220px-Canal_26_Movil.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]24/7[/COLOR]</title>
+<link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0162</link>
+<thumbnail>https://s26.postimg.org/gds8j85d5/ar_24-7-canal-de-noticias_m.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Ky1XF5jN7w4/maxresdefault.jpg</fanart>
 </item>
 
 <item>
@@ -872,6 +900,49 @@ link>http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/Playlist.m3u8|Us
 <thumbnail>http://3.bp.blogspot.com/-YlgzlTL9iG8/WdaNhyi7ldI/AAAAAAAABjw/QdLd_Y75dCMzEN39qlnZyM8_vgyA_UTpwCK4BGAYYCw/s1600/Tvp.jpg</thumbnail>
 <fanart>http://2.bp.blogspot.com/-eN392BwrLKs/WdaNgQmkrMI/AAAAAAAABjI/Qm-GpE5aV_IseCU2e5DOWmEvTkdVrL-6gCK4BGAYYCw/s1600/tv%2Bpublica.jpg</fanart>
 </item> 
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Cronica Tv[/COLOR]</title>
+<link>http://a.watcha.live/ch18/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link>
+<thumbnail>http://4.bp.blogspot.com/-cuQjZ_R9GqA/WdaUYzy4RzI/AAAAAAAABlo/UdJ9qB2sOqkj-Rm66sm_T_1X9zkUwRcHgCK4BGAYYCw/s1600/cronica.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-9-DTnF-bQJU/WdaRV5MDhGI/AAAAAAAABlc/1fuPydPlhPUF6COVN9aLLcqDiQLE4rMrwCK4BGAYYCw/s1600/cronica%2Btv.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Encuentro[/COLOR]</title>
+<link>http://level3itvo.cdnar.net/itvmedia/1/1/channel_000.m3u8</link>
+<thumbnail>https://s26.postimg.org/dwghbyt6h/encuentro.jpg</thumbnail>
+<fanart>http://www.telam.com.ar/advf/imagenes/2013/11/52951d7c352c2_645x430.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]TATETI[/COLOR]</title>
+<link>http://a.watcha.live/ch16/hi.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link>
+<thumbnail>http://3.bp.blogspot.com/-XmtJu2SoJyY/Wdut8uN_sEI/AAAAAAAABw4/R3UTMgo9aDEvHU284PCFYhglgqKyACBNgCK4BGAYYCw/s1600/tateti.jpg</thumbnail>
+<fanart>https://s5.postimg.org/px5rbrqo7/tateti.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]LN+[/COLOR]</title> 
+<link>http://a.watcha.live/ch9/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link> 
+<thumbnail>http://2.bp.blogspot.com/-cCJpME_UcFo/WdbKChsLj_I/AAAAAAAABok/RIXIcdagFPEflZAvybHE4FcJc17DSUkFgCK4BGAYYCw/s1600/la%2Bnacion.jpg</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBfFCi02ggwKljkYoHcD3_5JHJWwMshtk7K3Lv0OuJfbaUZWpA</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]CINEAR[/COLOR]</title>
+<link>http://a.watcha.live/ch17/hi.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:51.0)+Gecko/20100101+Firefox/51.0&mode=12</link>
+<thumbnail>http://2.bp.blogspot.com/-ojU3p9t-Chc/WdbKCjxbLlI/AAAAAAAABoI/dz6-TyWikFMLTlVRwoT6-6RQmfZVsOxXgCK4BGAYYCw/s1600/cine%2Bar.jpg</thumbnail>
+<fanart>http://www.punto-cine.com/wp-content/uploads/2017/03/CINE.AR-MARCAS-1000x500.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]360[/COLOR]</title>
+<link>http://a.watcha.live/ch12/hi.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:51.0)+Gecko/20100101+Firefox/51.0&mode=12</link>
+<thumbnail>http://3.bp.blogspot.com/-_LwcOIdr3Ks/WdbKCgScm9I/AAAAAAAABnc/NbOE5pNwxaU4V5UJDQZlNwYrBe27_RUswCK4BGAYYCw/s1600/360.jpg</thumbnail>
+<fanart>https://www.victorhugomorales.com.ar/wp-content/uploads/2015/05/360-tv-digital.png</fanart>
+</item>
+
 
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Orbe 21[/COLOR]</title> 
