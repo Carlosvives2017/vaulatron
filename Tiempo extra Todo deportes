@@ -785,34 +785,21 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 <fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
-<item>      
-<title>[COLOR blue]#  [/COLOR]Elecdeka  [COLOR lime] Zenex[/COLOR]</title>
+--------------
 
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.52 Safari/537.36 OPR/52.0.2871.0 (Edition developer)</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=antena3&width=650&height=397</page>
-<cookieJar></cookieJar>
-</regex>
+*****************************************
+zenex
+*****************************************
+ 
+<item>      
+<title>[COLOR blue]#  [/COLOR]Elecdeka  [COLOR lime] Zenex[/COLOR]</title>tyc
+
+<link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/35194.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=ELECDEKA</link><thumbnail>https://s26.postimg.org/5i9o71zix/tycsport.jpg</thumbnail>
 
 <thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
 <fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
-link>http://$doregex[ip]$doregex[m3u8]</link>
-regex>
-name>ip</name>
-expres>redirect=(.*)</expres>
-page>http://www.zenexpublisher.com:1935/loadbalancer</page>
-/regex>
-regex>
-name>m3u8</name>
-expres>ea \+ "(.*?)"</expres>
-page>http://www.zenexplayer.com/membedplayer/Elecdeka/1/500/400</page>
-agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-referer>http://www.zenex.com</referer>
-/regex>
 
 <item>
 <title>[COLOR blue]#  [/COLOR]Futbol Andres  [COLOR lightslategray]VTV / TyC / Fox Sport[/COLOR]</title>
@@ -867,6 +854,14 @@ referer>http://verplusonline.com/ver-canal-directv-sports-online-gratis-vivo-int
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
+<item><title>[COLOR blue]#  [/COLOR]Directv Sport 1 Es</title><link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/35790.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=ELECDEKA</link><thumbnail>https://s26.postimg.org/eq1wnmojt/Directv.jpg</thumbnail>
+<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+</item>
+
+<item><title>[COLOR blue]#  [/COLOR]Directv Sport 2 Es</title><link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/35789.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=ELECDEKA</link><thumbnail>https://s26.postimg.org/eq1wnmojt/Directv.jpg</thumbnail>
+<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+</item>
+
 <item>      
 <title>[COLOR blue]#  [/COLOR]Fox Sport 1 AR</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.52 Safari/537.36 OPR/52.0.2871.0 (Edition developer)</link>
@@ -910,13 +905,17 @@ referer>http://verplusonline.com/ver-fox-sport-2-online/</referer>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
-<item><title>[COLOR blue]#  [/COLOR]TYC Sport SPORTS</title><link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/35222.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=ELECDEKA</link><thumbnail>https://s26.postimg.org/5i9o71zix/tycsport.jpg</thumbnail><fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+<item><title>[COLOR blue]#  [/COLOR]TYC SPORTS</title><link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/35194.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=ELECDEKA</link><thumbnail>https://s26.postimg.org/5i9o71zix/tycsport.jpg</thumbnail><fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
-<item><title>[COLOR blue]#  [/COLOR]beIN Latino SPORTS</title><link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/32294.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=ELECDEKA</link><thumbnail>https://s26.postimg.org/b6fyxsqyx/beinsport.jpg</thumbnail><fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+<item><title>[COLOR blue]#  [/COLOR]TYC Sport 2</title><link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/35222.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=ELECDEKA</link><thumbnail>https://s26.postimg.org/5i9o71zix/tycsport.jpg</thumbnail><fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
-<item><title>[COLOR blue]#  [/COLOR]GOL TV (ES)</title><link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/32295.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=ELECDEKA</link><thumbnail>https://s26.postimg.org/7dkh0s57d/gfdogidg.jpg</thumbnail><fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+<item><title>[COLOR blue]#  [/COLOR]beIN Latino</title><link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/32294.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=ELECDEKA</link><thumbnail>https://s26.postimg.org/b6fyxsqyx/beinsport.jpg</thumbnail><fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+</item>
+
+<item><title>[COLOR blue]#  [/COLOR]GOL TV Ur</title><link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/36719.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=ELECDEKA</link><thumbnail>https://s26.postimg.org/glkk4q2gp/goltvv.jpg</thumbnail>
+<fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>      
@@ -930,6 +929,9 @@ referer>http://verplusonline.com/ver-fox-sport-2-online/</referer>
 </regex>
 <thumbnail>https://s26.postimg.org/glkk4q2gp/goltvv.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+</item>
+
+<item><title>[COLOR blue]#  [/COLOR]GOL TV Es</title><link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/32295.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=ELECDEKA</link><thumbnail>https://s26.postimg.org/7dkh0s57d/gfdogidg.jpg</thumbnail><fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
 <item>      
@@ -977,6 +979,7 @@ referer>http://verplusonline.com/ver-fox-sport-2-online/</referer>
 <thumbnail>https://s26.postimg.org/5v12d3kbt/deportv.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
+
 
 ---
 
@@ -1130,3 +1133,5 @@ referer>http://verplusonline.com/ver-fox-sport-2-online/</referer>
 <thumbnail>https://s9.postimg.org/xc2n6l0jj/19633072_640x360_b-2.jpg</thumbnail>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
+
+
