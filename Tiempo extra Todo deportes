@@ -792,9 +792,10 @@ zenex
 *****************************************
  
 <item>      
-<title>[COLOR blue]#  [/COLOR]Elecdeka  [COLOR lime] Zenex[/COLOR]</title>tyc
+<title>[COLOR blue]#  [/COLOR]Elecdeka  [COLOR lightslategray] GolTv / TyC / UEFA[/COLOR]</title>tyc
 
-<link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/35194.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=ELECDEKA</link><thumbnail>https://s26.postimg.org/5i9o71zix/tycsport.jpg</thumbnail>
+link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/35222.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=ELECDEKA</link>
+<link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/36719.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=ELECDEKA</link>
 
 <thumbnail>https://s10.postimg.org/v4dusvo6x/fsfsfsf.jpg</thumbnail>
 <fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
@@ -809,7 +810,7 @@ zenex
 <fanart>http://4.bp.blogspot.com/-Dvf63V1nLQ8/UUD0xCoXi1I/AAAAAAAAABw/F5X0PtkbuSc/s1600/id176.jpg</fanart> 
 </item>
 
-<item>
+item>
 <title>[COLOR blue]#  [/COLOR]Fut Chile  [COLOR lightslategray]CDF / Fox Sport[/COLOR]</title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
