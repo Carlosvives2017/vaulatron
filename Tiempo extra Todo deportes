@@ -910,6 +910,15 @@ referer>http://verplusonline.com/ver-fox-sport-2-online/</referer>
 <fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
 </item>
 
+<item><title>[COLOR blue]#  [/COLOR]TYC Sport SPORTS</title><link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/35222.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=ELECDEKA</link><thumbnail>https://s26.postimg.org/5i9o71zix/tycsport.jpg</thumbnail><fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+</item>
+
+<item><title>[COLOR blue]#  [/COLOR]beIN Latino SPORTS</title><link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/32294.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=ELECDEKA</link><thumbnail>https://s26.postimg.org/b6fyxsqyx/beinsport.jpg</thumbnail><fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+</item>
+
+<item><title>[COLOR blue]#  [/COLOR]GOL TV (ES)</title><link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/32295.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=ELECDEKA</link><thumbnail>https://s26.postimg.org/7dkh0s57d/gfdogidg.jpg</thumbnail><fanart>https://s10.postimg.org/g8fblaki1/sports_collage_by_ricardorea24-d4blmsh.jpg</fanart>
+</item>
+
 <item>      
 <title>[COLOR blue]#  [/COLOR]GolTv Latino</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.52 Safari/537.36 OPR/52.0.2871.0 (Edition developer))</link>
