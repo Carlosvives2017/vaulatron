@@ -804,7 +804,7 @@ HIJO PUTA YA TE ALEGRASTE CON LA PIJA ADENTRO TE PONDRÄS A BUSCAR...!!!!
 
 <item>
 <title>[COLOR blue]#  [/COLOR]Saeta Tv</title>
-<link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/35468.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=ELECDEKA</link>
+<link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/32500.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=ELECDEKA</link>
 <thumbnail>http://3.bp.blogspot.com/-q9q9EjHUo3M/WdzJURAX4bI/AAAAAAAAB5Q/_EWgQ3a1-3oPoDzkGopP-CL8kJPK1AU-gCK4BGAYYCw/s1600/canal%2B10.jpg</thumbnail>
 <fanart>http://brecha.com.uy/wp-content/uploads/2017/04/02-Canal-10-Foto-FERNANDO-PENA.jpg</fanart>
 </item>
@@ -857,7 +857,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVUY0001
 <regex>
 <name>get-ifr</name>
 <expres>'src', '(.*extras.*?)'</expres>
-<page>http://tv.vera.com.uy/evento/34250</page>
+<page>http://tv.vera.com.uy/evento/34251</page>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
