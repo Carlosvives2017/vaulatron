@@ -1003,3 +1003,143 @@ def GetLSProData(page_data,Cookie_Jar,m):
  -------------------------
  ------------------------
  --------------------------
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<item>
+<title>[COLOR deepskyred]•[/COLOR][COLOR deepskyred]*****************[COLOR red][B]#Elecdeka  Uruguay[/B][/COLOR]</title>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+    <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
+    <link>http://ignoreme</link>
+    <externallink>http://pastebin.com</externallink>
+<info></info>
+</item>
+ 
+<item>
+<title>[COLOR deepskyred]•[/COLOR][COLOR deepskyred]***************[COLOR lightslategray]Actualizado:  20 feb 2018[/COLOR]</title>
+   <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+    <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
+    <link>http://ignoreme</link>
+    <externallink>http://pastebin.com</externallink>
+<info></info>
+</item>
+
+-----------------
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR]</title>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+    <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
+    <link>http://ignoreme</link>
+    <externallink>http://pastebin.com</externallink>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR red]###  AVISO  ###[COLOR blue]  >>>>[COLOR]  PRESIONE AQUI  [COLOR blue]<<<<[/COLOR]</title>
+<link>$doregex[text]</link>
+<regex>
+<name>text</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import xbmcgui
+    dialog = xbmcgui.Dialog()
+    dialog.textviewer('[COLOR red]###  AVISO #ELECDEKA  ###[COLOR deepskyred]*********************************[/COLOR]', '[COLOR lightslategray]Para el correcto funcionamiento de [COLOR red]#ELECDEKA[/COLOR] debes seguir la siguientes indicaciones:\n\n[COLOR blue]#  [/COLOR][COLOR lightslategray]Actualizacion de addons en [COLOR red]http://bit.ly/EK1FEB[/COLOR]\n[COLOR blue]#  [/COLOR][COLOR lightslategray]Activar [COLOR red]Flash[/COLOR][COLOR lightslategray] en Configuracion del Addon [COLOR red]#ELECDEKA[/COLOR]\n[COLOR blue]#  [COLOR lightslategray]Tener instalados Addons [COLOR white]URLRESOLVER[COLOR lightslategray], [COLOR white]PLEXUS[COLOR lightslategray], [COLOR white]SPORTSDEVIL[COLOR lightslategray], [COLOR white]LIVE STREAMS PRO[COLOR lightslategray] y[COLOR white] F4MTESTER\n\n[COLOR lightslategray]Si necesitas ayuda con alguno de estos puntos, puedes ingresar a [COLOR red][I]Telegram: @Elecdeka[/I][/COLOR]\n\n[COLOR lightslategray]Ayuda en [COLOR red]paypal.me/Elecdekauy [COLOR lightslategray]o [COLOR red]PREX [COLOR lightslategray] para seguir funcionando el equipo[/COLOR]\n\n[COLOR red]###  #ELECDEKA - URUGUAY  #### [/COLOR]')
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+<fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
+<info>[COLOR red]###  #ELECDEKA  ###[/COLOR]</info>
+</item>
+
+-----------------
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR]</title>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+    <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
+    <link>http://ignoreme</link>
+    <externallink>http://pastebin.com</externallink>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR lime]Para IPTV PREMIUM, envia un msj en Telegram: @Elecdeka[/COLOR]</title>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+<fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
+    <link>http://ignoreme</link>
+    <externallink>http://pastebin.com</externallink>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR lime]Canales IPTV PREMIUM:[COLOR red]  [I]http://goo.gl/UF4WL5[/I][/COLOR]</title>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+<fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
+    <link>http://ignoreme</link>
+    <externallink>http://pastebin.com</externallink>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR]</title>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+    <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
+    <link>http://ignoreme</link>
+    <externallink>http://pastebin.com</externallink>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR red]***  Nuestro addons #ELECDEKA sera caducado el 01/03/2018 para siempre  ***[/COLOR]</title>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+<fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
+    <link>http://ignoreme</link>
+    <externallink>http://pastebin.com</externallink>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR red]***  NO FUE UNA DENUNCIA, ES UN TRABAJO MUY COMPLICADO Y NADIE DIO UN APORTE NI AYUDA (no tiene que ser solo dinero)  ***[/COLOR]</title>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+<fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
+    <link>http://ignoreme</link>
+    <externallink>http://pastebin.com</externallink>
+<info></info>
+</item>
+
+------------------------
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR]</title>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+    <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
+    <link>http://ignoreme</link>
+    <externallink>http://pastebin.com</externallink>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR red]### Inicio Elecdeka ### [/COLOR][COLOR blue]  >>>>[COLOR]  PRESIONE AQUI  [COLOR blue]<<<<[/COLOR]</title>
+    <link>ignorame</link>
+    <externallink>https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/inicio%202</externallink>
+    <thumbnail>http://1.bp.blogspot.com/-Euq2J1Xfpv0/WYDBNVOZq-I/AAAAAAAABYk/bgVuP4JXO6oJNYBq05Uh-S2EahJAE3KRQCK4BGAYYCw/s1600/radio.jpg</thumbnail>
+    <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUpjHEnvzmtatERhmSZbsLVyhsqWGkcnWQwP-bWnSLtHWMeamD</fanart> 
+<info></info>
+</item>
+
+-----------------------
+-------------------------------
+----------------------------------------
+
