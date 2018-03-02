@@ -29,13 +29,6 @@
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR][COLOR]CNN en Español[/COLOR]</title> 
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yawsbr3fClk</link> 
-<thumbnail>https://s5.postimg.org/3y8liu5lz/cnn.jpg</thumbnail>
-<fanart>https://bigleaguepolitics.com/wp-content/uploads/2017/06/cnn.jpg</fanart>
-</item>
-
-<item>
 title>[COLOR blue]#  [/COLOR][COLOR]La cuatro HD[COLOR lime][/COLOR]</title>
 <title>[COLOR blue]#  [/COLOR][COLOR]Teledeportes[/COLOR]</title>
 <link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0012</link>
@@ -82,14 +75,6 @@ http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&r
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Univision (Op 1)[/COLOR]</title>
-<link>https://ssh101.com/m3u8/dyn/unonuevo/index.m3u8</link>          
-<thumbnail>http://4.bp.blogspot.com/-H0QKjYKEH_w/WeAdBYJch-I/AAAAAAAACEI/Ot08WOg2JvMW4edqMb7VNovZpz7ktttkQCK4BGAYYCw/s1600/univision.jpg</thumbnail>
-<fanart>http://www.xtremostereo.net/wp-content/uploads/2016/09/Univisión-en-vivo-online.jpg</fanart>
-<info></info>
-</item>
-
-<item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Univision (Op 2)[/COLOR]</title>
 <link>http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8?hdnea=expires=1496782118~access=/nlds/univisionnow/univision_east/as/live/*~md5=a4f512d96d77b9a4f5e4d8f31bbf5361</link>          
 <thumbnail>http://4.bp.blogspot.com/-H0QKjYKEH_w/WeAdBYJch-I/AAAAAAAACEI/Ot08WOg2JvMW4edqMb7VNovZpz7ktttkQCK4BGAYYCw/s1600/univision.jpg</thumbnail>
@@ -102,6 +87,13 @@ http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&r
 <link>http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unimas_east_hd_androidtab.m3u8?hdnea=expires=1496782140~access=/nlds/univisionnow/unimas_east/as/live/*~md5=faa203f52f13f1fdc38700454e03ee82</link> 
 <thumbnail>http://3.bp.blogspot.com/-uA6-KzGHgCg/Wd42iGVioAI/AAAAAAAACA8/FP2Hid_yWGUCAB4fZ063flHloL4gFwWOACK4BGAYYCw/s1600/unimas.jpg</thumbnail>
 <fanart>https://4.bp.blogspot.com/-DIgim6M9dMg/Vzjwj-c5QJI/AAAAAAAAMqQ/fI_cQpPj46wnWNpyeELIzQuXHwIEqFe_gCLcB/s1600/upfrontunimas.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]5R Tv[/COLOR]</title>
+<link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0186</link>
+<thumbnail>https://s26.postimg.org/5e717m789/logo-5R-silver_x2.jpg</thumbnail>
+<fanart>http://www.rts.com.ar/wp-content/uploads/sites/3/2015/11/logo-5rtv-noche.jpg</fanart>
 </item>
 
 <item>
@@ -119,29 +111,6 @@ http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&r
 <fanart>http://www.observacom.org/sitio/wp-content/uploads/2017/07/1897861.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]TV PERU[/COLOR]</title>
-<link>http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8</link>
-<thumbnail>http://3.bp.blogspot.com/-Iz2wsFviC-g/WdbKCm7MUEI/AAAAAAAABnM/3gsuydfjQLko5-Dtis9QadF-ad8YTjengCK4BGAYYCw/s1600/tv%2Bperu.jpg</thumbnail>
-<fanart>http://fb.bolsatrabajo.do/uploads/tvperu.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]Fox Action[/COLOR]</title>
-<sportsdevil>http://vergol.com/live1/foxaction.php</sportsdevil>
-<referer>http://www.vercanalestv.com/ver-fox-premium-action-en-vivo-gratis-por-internet-en-directo/</referer>
-<thumbnail>https://1.bp.blogspot.com/-yyToGrCknQk/WfJypDpQQnI/AAAAAAAACIU/4Dty8IWHEkIUdxgB5BZYDAapsWIvoaeAQCK4BGAYYCw/s320/foxacti.jpg</thumbnail>
-<fanart>http://i.vimeocdn.com/video/388630672_1280x720.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]TNT[/COLOR]</title>
-<sportsdevil>http://vergol.com/live1/tntlatino.php</sportsdevil>
-<referer>http://www.vercanalestv.com/tnt-en-vivo-latino-por-internet-gratis/</referer>
-<thumbnail>http://4.bp.blogspot.com/-6udFhuEJL-w/WdwBBDU1UiI/AAAAAAAABzc/KuMd-iPe2nQBQzDYHf0YRlrxpI6ZpDlLQCK4BGAYYCw/s1600/tnt.jpg</thumbnail>
-<fanart>http://pulsoslp.com.mx/wp-content/uploads/2015/03/tnt.jpg</fanart>
-</item>
-
 --------------------------------
 
 <item>
@@ -152,6 +121,13 @@ http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&r
 </item>
 
 ---------------------------------
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]El Garage TV[/COLOR]</title>
+<link>http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-1a0fSAVU9Bg/Wdut8zFt2FI/AAAAAAAABvw/_EZm_o-OwZM-T8n8zheBnOkZUCvuyB2igCK4BGAYYCw/s1600/elgaragro.jpg</thumbnail>
+<fanart>https://s5.postimg.org/4ops5gzif/ckd_Ti_NYI.jpg</fanart>
+</item>
 
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Digital TV[/COLOR]</title>
@@ -173,6 +149,54 @@ http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&r
 <thumbnail>http://1.bp.blogspot.com/-Z2JCu7rM1yc/WdfdvxJI7HI/AAAAAAAABrc/2fJdwpmOG3Q3C08jPpmBS68-61y5Ru3fACK4BGAYYCw/s1600/rcn%2Bnuestra%2Btele.jpg</thumbnail>
 <fanart>https://www.entretengo.com/wp-content/uploads/2014/03/Nuestra-Tele-Internacional.jpg</fanart>
 </item>
+
+--------------
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Canal 2 Telpin HD[/COLOR]</title> 
+<link>rtmp://201.219.100.30:1935/telpintv/ttv.stream_360p</link> 
+<thumbnail>http://3.bp.blogspot.com/-FZMSdGXGR3M/WdbXY4U7uUI/AAAAAAAABo4/g1hiuwKDHqEWZCmfnoAg1-EpSBw_Bp1qACK4BGAYYCw/s1600/telepin.jpg</thumbnail>
+<fanart>http://www.telpin.com.ar/telpin/imgs/BANNER-WEB-paute-canal-2-01.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Canal 26[/COLOR]</title>
+<link>http://live-edge01.telecentro.net.ar:1935/live/26hd-360/livestream.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-ivOg2-zfAOk/WdaNifM-XaI/AAAAAAAABkY/3lI2oa12M7sF_UfjKwTvsPtDSl545jCEwCK4BGAYYCw/s1600/canal%2B26.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Canal_26_Movil.jpg/220px-Canal_26_Movil.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]RIONEGRINA TV Rio Negro[/COLOR]</title>
+<link>http://panel.dattalive.com:1935/8204/8204/playlist.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-gfbe7RQRsWA/Wdut85_czcI/AAAAAAAABwg/nJq4e66ADZUUUgDAL2GNpA9SGJ1IrC1XgCK4BGAYYCw/s1600/hgfdsjgfsd.jpg</thumbnail>
+<fanart>https://s5.postimg.org/vf1o29lfr/28429-e09abe4b-4122-4b46-82bb-e2d52bf1f338.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Canal 4 Jujuy HD[/COLOR]</title> 
+<link>http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8</link> 
+<thumbnail>http://3.bp.blogspot.com/-bGsPTt7Ebuw/WdbKC4sLQGI/AAAAAAAABm8/ffn5y1k6x-8Fj5vNGYbSarV00c-Fm8HqwCK4BGAYYCw/s1600/canal%2B4%2Bjujuy.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/4eUZE0cXH4k/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]TV Publica[/COLOR]</title> 
+link>http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/Playlist.m3u8|User-Agent=iPhone</link> 
+link>http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/chunklist_b946000.m3u8|User-Agent=Mozilla/5.0</link>
+<link>http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/chunklist_b1596000.m3u8|User-Agent=iPhone</link>
+<thumbnail>http://3.bp.blogspot.com/-YlgzlTL9iG8/WdaNhyi7ldI/AAAAAAAABjw/QdLd_Y75dCMzEN39qlnZyM8_vgyA_UTpwCK4BGAYYCw/s1600/Tvp.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-eN392BwrLKs/WdaNgQmkrMI/AAAAAAAABjI/Qm-GpE5aV_IseCU2e5DOWmEvTkdVrL-6gCK4BGAYYCw/s1600/tv%2Bpublica.jpg</fanart>
+</item> 
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Orbe 21[/COLOR]</title> 
+<link>http://klive-a.akamaihd.net/dc-1/live/hls/p/1897151/e/1_2yqsgxqj/sd/6000/t/NuYL4ms8KUQM69Sc1u_KLg/index-s32.m3u8</link> 
+<thumbnail>http://3.bp.blogspot.com/-O6oRLJKCFxg/WeYXmZd5ydI/AAAAAAAACFY/pNlClo8Vy1MinZqDFXsd2MDVu4D_szxGwCK4BGAYYCw/s1600/orbe%2B21.jpg</thumbnail>
+<fanart>https://lh4.ggpht.com/8DGu1VY5vsAbUaQb62n_vCwD3IuaQXBXmQJDN1xwavtKDbPdUkP0RORRezxaAFX-FLY=h900</fanart>
+</item>
+
+---------------
 
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]La Tele Tuya[/COLOR]</title> 
@@ -355,12 +379,5 @@ http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&r
 <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8</link> 
 <thumbnail>http://4.bp.blogspot.com/-x7P7m01Q6CI/Wd42i7LUpnI/AAAAAAAACBk/3bCIiIC1bmM28nps6-6z265YA2VYrHynQCK4BGAYYCw/s1600/treny.jpg</thumbnail>
 <fanart>http://orbitcable.com.do/v2/wp-content/uploads/2015/09/112-Trendy-Channel.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR]NiuMedia[/COLOR]</title> 
-<link>http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8</link> 
-<thumbnail>http://2.bp.blogspot.com/-9Orn4vF_lcw/Wd42iRY0yQI/AAAAAAAACBE/SIGMLX8zzBgQciDUzTacmWF1oW1jG2WDQCK4BGAYYCw/s1600/uhdusdhsuhd.jpg</thumbnail>
-<fanart>http://niu.cl/wp-content/uploads/2017/07/og_default_fb.png</fanart>
 </item>
 
