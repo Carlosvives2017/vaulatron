@@ -29,16 +29,6 @@
 </item>
 
 <item>
-title>[COLOR blue]#  [/COLOR][COLOR]La cuatro HD[COLOR lime][/COLOR]</title>
-<title>[COLOR blue]#  [/COLOR][COLOR]Teledeportes[/COLOR]</title>
-<link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0012</link>
-<thumbnail>https://s5.postimg.org/di0r66jav/Tdp.jpg</thumbnail>
-<fanart>http://ocio.lne.es/img_contenido/noticias/2014/08/337153/teledeporte_cierra_su_emision.jpg</fanart>
-thumbnail>http://4.bp.blogspot.com/-iCyLslC8ODI/WdwqaKcdb8I/AAAAAAAAB2g/U4APug8ME4IC22xdL2bCi36zqJWT2bckwCK4BGAYYCw/s1600/canal%2B4.jpg</thumbnail>
-fanart>http://2.bp.blogspot.com/-QvLEg1hDXyQ/UJlHJfAq60I/AAAAAAAASgA/TtFfgHhsCBU/s1600/cuatro.jpg</fanart>
-</item>
-
-<item>
 title>[COLOR blue]#  [/COLOR][COLOR]Telecinco HD[COLOR lime][/COLOR]</title>
 <title>[COLOR blue]#  [/COLOR][COLOR]FDF[/COLOR]</title>
 <link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0015</link>
@@ -181,15 +171,6 @@ http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&r
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR][COLOR]TV Publica[/COLOR]</title> 
-link>http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/Playlist.m3u8|User-Agent=iPhone</link> 
-link>http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/chunklist_b946000.m3u8|User-Agent=Mozilla/5.0</link>
-<link>http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/chunklist_b1596000.m3u8|User-Agent=iPhone</link>
-<thumbnail>http://3.bp.blogspot.com/-YlgzlTL9iG8/WdaNhyi7ldI/AAAAAAAABjw/QdLd_Y75dCMzEN39qlnZyM8_vgyA_UTpwCK4BGAYYCw/s1600/Tvp.jpg</thumbnail>
-<fanart>http://2.bp.blogspot.com/-eN392BwrLKs/WdaNgQmkrMI/AAAAAAAABjI/Qm-GpE5aV_IseCU2e5DOWmEvTkdVrL-6gCK4BGAYYCw/s1600/tv%2Bpublica.jpg</fanart>
-</item> 
-
-<item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Orbe 21[/COLOR]</title> 
 <link>http://klive-a.akamaihd.net/dc-1/live/hls/p/1897151/e/1_2yqsgxqj/sd/6000/t/NuYL4ms8KUQM69Sc1u_KLg/index-s32.m3u8</link> 
 <thumbnail>http://3.bp.blogspot.com/-O6oRLJKCFxg/WeYXmZd5ydI/AAAAAAAACFY/pNlClo8Vy1MinZqDFXsd2MDVu4D_szxGwCK4BGAYYCw/s1600/orbe%2B21.jpg</thumbnail>
@@ -197,6 +178,20 @@ link>http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/chu
 </item>
 
 ---------------
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]Antena 3[/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-nyy_tjAhjtI/WdbKCu0PAmI/AAAAAAAABoc/WDoRjwvWX1cfKsiqDCOWF2LfPODuhnLVwCK4BGAYYCw/s1600/Antena%2B3.jpg</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZxVwfjXkV1oRmU07WyCTFrkUItwNwl7hMNInivfre8adE32aAJQ</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR][COLOR]24H[/COLOR]</title>
+<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-AklBZbjbGW0/Wdz4Y8BYr6I/AAAAAAAAB_g/LF3NtOX9WjkcZSlhp0rhlZYbHzxgczyrACK4BGAYYCw/s1600/24he.jpg</thumbnail>
+<fanart>http://img.rtve.es/v/3341/</fanart>
+</item>
 
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]La Tele Tuya[/COLOR]</title> 
