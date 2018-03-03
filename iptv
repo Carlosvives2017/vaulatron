@@ -980,15 +980,15 @@ item>
 ----------------------------------
 
 <item>
-<title>[COLOR blue]#  [/COLOR]m3u actualizados</title>
+<title>[COLOR blue]#  [/COLOR]IPTV f4mTester</title>
 <link>$doregex[makelist2]</link>
 <regex>
 <name>makelist2</name>
 <listrepeat><![CDATA[
-<title>[COLOR blue]#  [/COLOR]Canales Premium[COLOR blue] ~ [COLOR deepskyblue]Servidor : [/COLOR][COLOR blue] [makelist2.param1][/COLOR]</title>
+<title>[COLOR blue]#  [/COLOR][COLOR deepskyblueblue]IPTV[/COLOR][COLOR white] [makelist2.param1][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
+<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart>
  ]]></listrepeat>
 <expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
 <page>https://pastebin.com/raw/BbZSYSNd</page>
@@ -999,12 +999,12 @@ item>
 <title>[COLOR blue]#  [/COLOR][makelist.param1]</title>
 <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR blue]Elecdeka[/COLOR] [makelist.param1]</link>
 <thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
+<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart>
  ]]></listrepeat>
 <expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
 <page>[makelist2.param2]</page>
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
 <thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
+<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart>
 </item>
