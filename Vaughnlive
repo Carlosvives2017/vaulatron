@@ -7,20 +7,6 @@
  
  
 <item>
-<title>[COLOR blue]#  [/COLOR]01rustv</title>
-<link>http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_01rustv/chunklist.m3u8</link>
-<thumbnail>http://2.bp.blogspot.com/-DAEjaRGQ19w/WSBBfCT7J8I/AAAAAAAAA84/RKU1ioWxQM0lsXv0xLszubPMcEWUeenTgCK4B/s1600/Vaughn%2Blive.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/D8sZnLjUU0k/hqdefault.jpg</fanart>
-</item>
- 
-<item>
-<title>[COLOR blue]#  [/COLOR]018intertele</title>
-<link>http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_018intertele/chunklist.m3u8</link>
-<thumbnail>http://2.bp.blogspot.com/-DAEjaRGQ19w/WSBBfCT7J8I/AAAAAAAAA84/RKU1ioWxQM0lsXv0xLszubPMcEWUeenTgCK4B/s1600/Vaughn%2Blive.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/D8sZnLjUU0k/hqdefault.jpg</fanart>
-</item>
- 
-<item>
 <title>[COLOR blue]#  [/COLOR]beto_26</title>
 <link>http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_beto_26/chunklist.m3u8</link>
 <thumbnail>http://2.bp.blogspot.com/-DAEjaRGQ19w/WSBBfCT7J8I/AAAAAAAAA84/RKU1ioWxQM0lsXv0xLszubPMcEWUeenTgCK4B/s1600/Vaughn%2Blive.jpg</thumbnail>
@@ -112,6 +98,13 @@
 </item>
  
 <item>
+<title>[COLOR blue]#  [/COLOR]rustv</title>
+<link>http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_01rustv/chunklist.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-DAEjaRGQ19w/WSBBfCT7J8I/AAAAAAAAA84/RKU1ioWxQM0lsXv0xLszubPMcEWUeenTgCK4B/s1600/Vaughn%2Blive.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/D8sZnLjUU0k/hqdefault.jpg</fanart>
+</item>
+ 
+<item>
 <title>[COLOR blue]#  [/COLOR]latinokidstv</title>
 <link>http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_latinokidstv/chunklist.m3u8</link>
 <thumbnail>http://2.bp.blogspot.com/-DAEjaRGQ19w/WSBBfCT7J8I/AAAAAAAAA84/RKU1ioWxQM0lsXv0xLszubPMcEWUeenTgCK4B/s1600/Vaughn%2Blive.jpg</thumbnail>
@@ -128,13 +121,6 @@
 <item>
 <title>[COLOR blue]#  [/COLOR]lcreme_dreams</title>
 <link>http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_lcreme_dreams/chunklist.m3u8</link>
-<thumbnail>http://2.bp.blogspot.com/-DAEjaRGQ19w/WSBBfCT7J8I/AAAAAAAAA84/RKU1ioWxQM0lsXv0xLszubPMcEWUeenTgCK4B/s1600/Vaughn%2Blive.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/D8sZnLjUU0k/hqdefault.jpg</fanart>
-</item>
- 
-<item>
-<title>[COLOR blue]#  [/COLOR]latinokidstv</title>
-<link>http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_latinokidstv/chunklist.m3u8</link>
 <thumbnail>http://2.bp.blogspot.com/-DAEjaRGQ19w/WSBBfCT7J8I/AAAAAAAAA84/RKU1ioWxQM0lsXv0xLszubPMcEWUeenTgCK4B/s1600/Vaughn%2Blive.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/D8sZnLjUU0k/hqdefault.jpg</fanart>
 </item>
@@ -205,6 +191,13 @@
 <item>
 <title>[COLOR blue]#  [/COLOR]tvhdenvivo14</title>
 <link>http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_tvhdenvivo14/chunklist.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-DAEjaRGQ19w/WSBBfCT7J8I/AAAAAAAAA84/RKU1ioWxQM0lsXv0xLszubPMcEWUeenTgCK4B/s1600/Vaughn%2Blive.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/D8sZnLjUU0k/hqdefault.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR blue]#  [/COLOR]intertele</title>
+<link>http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_018intertele/chunklist.m3u8</link>
 <thumbnail>http://2.bp.blogspot.com/-DAEjaRGQ19w/WSBBfCT7J8I/AAAAAAAAA84/RKU1ioWxQM0lsXv0xLszubPMcEWUeenTgCK4B/s1600/Vaughn%2Blive.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/D8sZnLjUU0k/hqdefault.jpg</fanart>
 </item>
