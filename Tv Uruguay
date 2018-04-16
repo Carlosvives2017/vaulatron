@@ -8,6 +8,7 @@
 
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Monte Carlo TV[/COLOR]</title>
+link>plugin://plugin.video.f4mTester/?url=http://URUGUAYiptv.com:25461/live/elecdeka/demodial/4189.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=#ELECDEKA</link>
 <link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVUY0002</link>
 <thumbnail>http://3.bp.blogspot.com/-nmhH6RYEez4/WdzJUX3HNVI/AAAAAAAAB6g/Lf4ldgMUuNAmIgkxHdmx3GBnQGVYK_OigCK4BGAYYCw/s1600/canal%2B4.jpg</thumbnail>
 <fanart>http://eltelescopio.com.uy/wp-content/uploads/2016/05/Monte-Carlo-Tv-2-web.jpg</fanart>
@@ -56,8 +57,8 @@
 ------------
 
 <item>
-<title>[COLOR blue]#  [/COLOR]Canal 10  [COLOR red]SOLO PREMIUM[/COLOR]</title>
-<link>http://disfruta.club:8000/live/XXX/XXX/3435.ts</link>
+<title>[COLOR blue]#  [/COLOR]Canal 10</title>
+<link>plugin://plugin.video.f4mTester/?url=http://olha.ai/tozpgF&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=#ELECDEKA</link>
 <thumbnail>http://3.bp.blogspot.com/-q9q9EjHUo3M/WdzJURAX4bI/AAAAAAAAB5Q/_EWgQ3a1-3oPoDzkGopP-CL8kJPK1AU-gCK4BGAYYCw/s1600/canal%2B10.jpg</thumbnail>
 <fanart>http://brecha.com.uy/wp-content/uploads/2017/04/02-Canal-10-Foto-FERNANDO-PENA.jpg</fanart>
 </item>
@@ -66,7 +67,8 @@
 
 <item>
 <title>[COLOR blue]#  [/COLOR][COLOR]Teledoce[/COLOR]</title>
-<link>http://api.new.livestream.com/accounts/13567583/events/6415731/live.m3u8</link>
+<link>http://167.250.168.117:8000/play/a078</link>
+link>http://api.new.livestream.com/accounts/13567583/events/6415731/live.m3u8</link>
 <thumbnail>http://3.bp.blogspot.com/-P3nIlGjOlD0/WdzKioS-gMI/AAAAAAAAB-U/r_9al-mPdB0yLoWMLw9Anr5Vb5O95wCQwCK4BGAYYCw/s1600/tele.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/media/CIyDP9TW8AAS1TE.jpg</fanart>
 </item>
@@ -97,9 +99,24 @@ thumbnail>http://2.bp.blogspot.com/-ayA3op6xmIk/Wc5fsUAs8-I/AAAAAAAABhM/Cy147bCz
 -------------------
 
 <item>
-<title>[COLOR blue]#  [/COLOR]VTV  [COLOR red]SOLO PREMIUM[/COLOR]</title>
-<link>http://disfruta.club:8000/live/XXX/XXX/293.ts</link>
-<thumbnail>http://4.bp.blogspot.com/-Pd2Aa9BMFo0/WdzJPNDFInI/AAAAAAAAB38/zBBYiNhXfvMD-sBvqTFYn1KWgn_vDPeowCK4BGAYYCw/s1600/vtv.jpg</thumbnail>
+<title>[COLOR blue]#  [/COLOR]VTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://olha.ai/XnFpk1&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=#ELECDEKA</link>
+<thumbnail>https://s26.postimg.cc/50bq2kb2x/VTV.jpg</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQulKg0WyYEKhOnA_VDsNEUNqL2qSbNu4WXd5Nt1l6QmAnYFFhEVQ</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR]VTV  [COLOR lime]SportDevil[/COLOR]</title>
+<sportsdevil>http://telefivegb.com/canales/latinos/vtv/</sportsdevil> codec dentro
+<referer>http://telefivegb.com/tv-urugay/ver-vtv-urugay-online/</referer> arriba
+<thumbnail>https://s26.postimg.cc/50bq2kb2x/VTV.jpg</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQulKg0WyYEKhOnA_VDsNEUNqL2qSbNu4WXd5Nt1l6QmAnYFFhEVQ</fanart>
+</item>
+
+item>
+<title>[COLOR blue]#  [/COLOR]VTV +</title>
+<link>http://disfruta.club:8000/live/veoplay/veoplaypro/4824.ts</link>
+<thumbnail>https://s5.postimg.org/48bio8zxj/vtv_2_B.jpg</thumbnail>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQulKg0WyYEKhOnA_VDsNEUNqL2qSbNu4WXd5Nt1l6QmAnYFFhEVQ</fanart>
 </item>
 
